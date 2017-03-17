@@ -13,7 +13,7 @@ created: 20170301T223854:636240047349200000
 ----version----
 language: en
 version: 1
-revision: ced800c8-b69a-4010-a749-672d60e73a92
+revision: 1e95ba5b-1e19-46f9-a444-bb328b90dec2
 
 ----field----
 field: {45FE9D83-F46A-4FEA-916B-4BCC872C156B}
@@ -21,7 +21,7 @@ name: GroupTitle
 key: grouptitle
 content-length: 25
 
-Select a Checking Account
+Explore Checking Accounts
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ced800c8-b69a-4010-a749-672d60e73a92
+1e95ba5b-1e19-46f9-a444-bb328b90dec2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170301T224147Z
+20170317T235649Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
