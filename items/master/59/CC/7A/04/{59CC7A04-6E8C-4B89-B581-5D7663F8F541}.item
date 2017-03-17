@@ -13,20 +13,20 @@ created: 20170317T185332:636253736129870000
 ----version----
 language: en
 version: 1
-revision: 1bf01839-6fec-4bc6-a401-47923d90d3c9
+revision: d0e28e94-0321-4d41-ba77-13188c346409
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 2442
+content-length: 2439
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
                 #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 #mc_embed_signup form {padding: 0;}
-#mc_embed_signup h2 {margin: 0; font-size: inherit;}
+#mc_embed_signup h2 {margin: 0; font-size: 18px;}
                 /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
                    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1bf01839-6fec-4bc6-a401-47923d90d3c9
+d0e28e94-0321-4d41-ba77-13188c346409
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170317T222451Z
+20170317T222615Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
