@@ -13,15 +13,15 @@ created: 20170120T172953:636205301932070000
 ----version----
 language: en
 version: 1
-revision: a7c52dcb-a652-4c11-a8fc-cc220ff46978
+revision: ab5beecb-2352-4a1b-834b-5a5b68964ef2
 
 ----field----
 field: {72EA8682-24D2-4BEB-951C-3E2164974105}
 name: MediaSelector
 key: mediaselector
-content-length: 38
+content-length: 77
 
-{8A49CDC1-5283-4238-A38C-9FAD11739AD3}
+{8A49CDC1-5283-4238-A38C-9FAD11739AD3}|{F672FB99-C8BD-4B6B-B2F5-CB1D4CBCB2A7}
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -35,18 +35,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a7c52dcb-a652-4c11-a8fc-cc220ff46978
+ab5beecb-2352-4a1b-834b-5a5b68964ef2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170309T200551Z
+20170317T232516Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\mlangdon
