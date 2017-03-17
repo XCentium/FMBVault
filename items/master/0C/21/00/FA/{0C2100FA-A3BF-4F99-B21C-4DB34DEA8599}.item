@@ -326,7 +326,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 1bac29f1-c149-429d-8f3b-e4912f289a07
+revision: e70f2a15-e2c1-4536-8bf7-8614a07630eb
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -346,7 +346,7 @@ F&M Certificate Of Deposit
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 11691
+content-length: 10346
 
 
         <div class="row" style="margin-top: 30px;">
@@ -404,52 +404,42 @@ content-length: 11691
         <div class="row">
             <div class="col-sm-12" style="padding: 0px; margin-top: 20px;">
                 <div id="mailChimp" style="border: 3px solid rgb(21, 88, 53); border-image: none;">
-                    <!-- Begin MailChimp Signup Form -->
-                    <!--
-                        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-                        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-                           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                  <!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+                #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+#mc_embed_signup form {padding: 0;}
+#mc_embed_signup h2 {margin: 0; font-size: 18px;}
+                /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//fmb.us7.list-manage.com/subscribe/post?u=bd5bed6c81dc8cf65dc788186&amp;id=bc7ba65dad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+    <div id="mc_embed_signup_scroll">
+                
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+                <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+</label>
+                <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+                <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+                <div id="mce-responses" class="clear">
+                                <div class="response" id="mce-error-response" style="display:none"></div>
+                                <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bd5bed6c81dc8cf65dc788186_bc7ba65dad" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
 
-                    -->
-                    <div id="mc_embed_signup">
-                        <form class="validate" id="mc-embedded-subscribe-form" action="//fmb.us7.list-manage.com/subscribe/post?u=bd5bed6c81dc8cf65dc788186&amp;id=b72442f5f2" method="post">
-                            <div id="mc_embed_signup_scroll">
-                                <p class="section-heading" style="color: rgb(21, 88, 53); text-transform: uppercase; font-family: Arial; font-size: 1.5em; font-weight: bold; margin-top: 10px; margin-bottom: 0px;">CD Rates Alert</p>
-                                <p style="font-size: 16px; font-weight: bold; margin-top: 10px; margin-bottom: 20px;">When our rates change, be the first to know with our innovative rates alert emails.</p>
-                                <div class="col-sm-5">
-                                    <div class="mc-field-group">
-                                        <p>Name <span class="asterisk">*</span> </p>
-                                        <input name="FNAME" id="mce-FNAME" style="border-radius: 5px;" type="text">
-                                    </div>
-                                </div>
-                                <div class="col-sm-5">
-                                    <div class="mc-field-group">
-                                        <p>Email Address  <span class="asterisk">*</span></p>
-                                        <input name="EMAIL" class="required email" id="mce-EMAIL" style="border-radius: 5px;" type="email">
-                                    </div>
-                                </div>
-                                <div class="col-sm-2">
-                                    <div class="clear" style="margin-right: auto; margin-left: auto;">
-                                        <input name="subscribe" class="button" id="mc-embedded-subscribe" style="margin-top: 25px;" type="submit" value="Get CD Alerts">
-                                        <input name="GCLID" id="mce-GCLID" type="hidden" value="">
-                                        <input name="UTM_SOURCE" id="mce-UTM_SOURCE" type="hidden" value="">
-                                    </div>
-                                </div>
-                                <div class="col-sm-12">
-                                    <div class="indicates-required" style="float: left;"><span class="asterisk">*</span> indicates a required field.</div>
-                                </div>
-                                <div class="mc-field-group">
-                                </div>
-                                <div class="clear" id="mce-responses">
+<!--End mc_embed_signup-->
 
-
-                                </div>
-                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                                <div style="left: -5000px; position: absolute;"><input name="b_bd5bed6c81dc8cf65dc788186_b72442f5f2" type="text"></div>
-                            </div>
-                        </form>
-                    </div>
-                    <!--End mc_embed_signup-->
                 </div>
             </div>
         </div>
@@ -516,21 +506,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1bac29f1-c149-429d-8f3b-e4912f289a07
+e70f2a15-e2c1-4536-8bf7-8614a07630eb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170315T182006Z
+20170317T222858Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mliwanag
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
