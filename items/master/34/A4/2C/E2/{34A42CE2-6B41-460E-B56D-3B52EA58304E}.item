@@ -17,10 +17,17 @@ key: name
 content-length: 9
 
 CJ Walker
+----field----
+field: {12E2C64A-5F08-4948-86C8-55AE06AFEEF8}
+name: MaxValue
+key: maxvalue
+content-length: 2
+
+10
 ----version----
 language: en
 version: 1
-revision: bfd18ff1-6dc0-4cf6-9751-381a79a99465
+revision: 94605c00-1265-43cb-9c24-e307bc37e2f1
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -49,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bfd18ff1-6dc0-4cf6-9751-381a79a99465
+94605c00-1265-43cb-9c24-e307bc37e2f1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170317T214924Z
+20170317T214940Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
