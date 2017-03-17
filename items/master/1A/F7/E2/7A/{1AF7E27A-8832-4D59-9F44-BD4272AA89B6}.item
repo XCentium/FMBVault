@@ -2,9 +2,9 @@
 version: 1
 id: {1AF7E27A-8832-4D59-9F44-BD4272AA89B6}
 database: master
-path: /sitecore/content/FMBCom/Global/Media/Carousel Slides/Hero Banner/Copy of hero-Welcome 1
+path: /sitecore/content/FMBCom/Global/Media/Carousel Slides/Hero Banner/hero-Welcome-Login-Enabled
 parent: {21C509C1-292F-46E2-8237-BF6B7D81B2CF}
-name: Copy of hero-Welcome 1
+name: hero-Welcome-Login-Enabled
 master: {00000000-0000-0000-0000-000000000000}
 template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
 templatekey: Image
@@ -13,7 +13,7 @@ created: 20170314T175925:636251111653730000
 ----version----
 language: en
 version: 1
-revision: fa4518ec-6a6c-4cee-83cf-3f244ed48504
+revision: 4ae77237-03f3-4a64-996f-da1aee77d7a1
 
 ----field----
 field: {46866B57-2848-426A-8656-C965EF59EF3A}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fa4518ec-6a6c-4cee-83cf-3f244ed48504
+4ae77237-03f3-4a64-996f-da1aee77d7a1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170313T231653Z
+20170317T213624Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
