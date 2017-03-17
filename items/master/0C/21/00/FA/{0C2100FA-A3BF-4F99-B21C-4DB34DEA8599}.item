@@ -326,7 +326,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: e70f2a15-e2c1-4536-8bf7-8614a07630eb
+revision: bf5fc57d-6a0a-4a55-9445-2e302f7262da
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -346,7 +346,7 @@ F&M Certificate Of Deposit
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 10346
+content-length: 10260
 
 
         <div class="row" style="margin-top: 30px;">
@@ -408,8 +408,6 @@ content-length: 10346
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
                 #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-#mc_embed_signup form {padding: 0;}
-#mc_embed_signup h2 {margin: 0; font-size: 18px;}
                 /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
                    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -506,14 +504,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e70f2a15-e2c1-4536-8bf7-8614a07630eb
+bf5fc57d-6a0a-4a55-9445-2e302f7262da
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170317T222858Z
+20170317T223023Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
