@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82E5E42D-B707-4BC2-87BB-319497BD6C93}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:50.7864291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Screen Width",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections/Simulator Appearance/Simulator Appearance/Screen Width",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

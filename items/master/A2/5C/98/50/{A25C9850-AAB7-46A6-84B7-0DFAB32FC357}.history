@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.4339297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call to Action",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Call to Action",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

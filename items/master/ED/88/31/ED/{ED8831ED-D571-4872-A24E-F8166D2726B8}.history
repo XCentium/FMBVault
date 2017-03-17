@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED8831ED-D571-4872-A24E-F8166D2726B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:31.7965295Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business - Payroll Services",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Business - Payroll Services",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

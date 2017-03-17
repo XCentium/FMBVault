@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E270E6EF-F67D-4362-97EC-E094CB4A70E5}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.8309218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Campaigns",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

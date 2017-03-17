@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{563947D2-6FFB-475D-A43D-38B64FAFE3B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.2629297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation Zone",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Main Navigation/Navigation Zone",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

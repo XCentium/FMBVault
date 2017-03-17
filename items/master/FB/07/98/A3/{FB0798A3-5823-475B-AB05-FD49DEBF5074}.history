@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB0798A3-5823-475B-AB05-FD49DEBF5074}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.7919302Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banner Title",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Banner Title",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F859F1A6-40FA-464B-B190-2F757C0CE03F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.6179391Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/FieldOptionGroup/__Standard Values",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

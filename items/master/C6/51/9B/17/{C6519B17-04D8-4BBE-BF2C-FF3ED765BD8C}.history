@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6519B17-04D8-4BBE-BF2C-FF3ED765BD8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:07.8872173Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "YouthAccounts_Web",
+    "itemPath": "/sitecore/media library/Brochures/YouthAccounts_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

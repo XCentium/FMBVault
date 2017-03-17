@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C28F45BC-C144-492A-878B-2923A4AF457B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.8219219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ned Stromme",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Torrance/Ned Stromme",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

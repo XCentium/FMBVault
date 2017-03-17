@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58EBB4F2-F5E8-4FFE-8C20-FF6B772880B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.7029216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Some Exclusions",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Some Exclusions",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

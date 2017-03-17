@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9150C5BE-EC5B-4A23-AB76-5E8D456BC507}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:47.2499232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How do I access Mobile Banking on my mobile phones browser",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/General FAQs/How do I access Mobile Banking on my mobile phones browser",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

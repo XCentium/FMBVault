@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {7A9C974C-F6CF-4D03-939D-E53A9A8495A2}
+database: master
+path: /sitecore/content/FMBCom/Global/Disclaimers
+parent: {4B67A7F9-7246-4A59-A051-961095C2DC70}
+name: Disclaimers
+master: {00000000-0000-0000-0000-000000000000}
+template: {58896B83-B5A2-4707-8709-B60B02900848}
+templatekey: Disclaimer Folder
+created: 20170316T061120:636252414806530000
+
+----version----
+language: en
+version: 1
+revision: 2e419430-5a80-425a-9da0-9c5b2da3253b
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170201T235419Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2e419430-5a80-425a-9da0-9c5b2da3253b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170316T061120Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 13
+
+fmb\Anonymous

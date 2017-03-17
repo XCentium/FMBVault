@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FAC7CD67-4FAE-4483-87C1-60DC7ED9F3BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.3999256Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Missouri",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Missouri",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

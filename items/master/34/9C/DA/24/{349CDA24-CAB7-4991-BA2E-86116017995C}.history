@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{349CDA24-CAB7-4991-BA2E-86116017995C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:40.3059446Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule Container",
+    "itemPath": "/sitecore/templates/System/Content Testing/Behaviors/Rule Container",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

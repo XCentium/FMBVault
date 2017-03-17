@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5437BE0C-5227-4356-8CC2-29384ECF6B10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.1845248Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SignOff-Winspire",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/SignOff-Winspire",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

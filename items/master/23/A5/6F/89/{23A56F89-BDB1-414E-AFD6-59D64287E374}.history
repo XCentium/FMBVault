@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23A56F89-BDB1-414E-AFD6-59D64287E374}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.5679278Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mobile-banking-landing-page-banner",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/mobile-banking-landing-page-banner",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

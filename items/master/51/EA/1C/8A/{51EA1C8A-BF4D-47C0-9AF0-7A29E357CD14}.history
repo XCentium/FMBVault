@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51EA1C8A-BF4D-47C0-9AF0-7A29E357CD14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.0959286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To Grid",
+    "itemPath": "/sitecore/layout/Renderings/Feature/HowTo/How-To Grid",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

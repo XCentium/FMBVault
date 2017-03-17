@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9B792BB-ECA4-42C0-8575-81BDAE0FEDEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.9249223Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the banks holiday schedule for 2017",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What is the banks holiday schedule for 2017",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

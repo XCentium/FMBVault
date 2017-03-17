@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE020AD2-FB43-436C-B82B-2672B7DD5BC9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.1459293Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "The Stable Abstractions Principle",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/The Stable Abstractions Principle",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

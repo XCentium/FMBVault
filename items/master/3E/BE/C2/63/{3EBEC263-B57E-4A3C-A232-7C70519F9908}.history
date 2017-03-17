@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EBEC263-B57E-4A3C-A232-7C70519F9908}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:09.6685792Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commands",
+    "itemPath": "/sitecore/system/Tasks/Commands",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

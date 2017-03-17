@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF5B0C75-A6C4-494D-AD20-119F0E45F989}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.3625247Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CLe-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/CLe-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64653DFC-5F7E-4530-AB3E-70C8E064420C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.2679197Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CTA",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

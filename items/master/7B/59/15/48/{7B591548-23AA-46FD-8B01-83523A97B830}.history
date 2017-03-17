@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B591548-23AA-46FD-8B01-83523A97B830}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:00.1675399Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetCampaign",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/CampaignMap/Options/TargetCampaign",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

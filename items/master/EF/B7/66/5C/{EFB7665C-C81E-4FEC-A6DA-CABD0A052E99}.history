@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFB7665C-C81E-4FEC-A6DA-CABD0A052E99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.3029225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Low-Down-Payment-Dream Above Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD/Low-Down-Payment-Dream Above Form",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

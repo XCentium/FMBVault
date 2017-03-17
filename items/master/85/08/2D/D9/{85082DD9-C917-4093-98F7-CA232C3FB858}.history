@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85082DD9-C917-4093-98F7-CA232C3FB858}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.1935242Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SoundFriendlyBankingSvcLogo",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/SoundFriendlyBankingSvcLogo",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

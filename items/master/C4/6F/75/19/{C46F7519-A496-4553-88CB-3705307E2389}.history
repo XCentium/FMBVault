@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C46F7519-A496-4553-88CB-3705307E2389}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:38.6289167Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Retirement Plans",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Retirement Plans",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

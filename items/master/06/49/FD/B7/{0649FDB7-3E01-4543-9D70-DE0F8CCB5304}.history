@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0649FDB7-3E01-4543-9D70-DE0F8CCB5304}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:10.2255780Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Draft",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

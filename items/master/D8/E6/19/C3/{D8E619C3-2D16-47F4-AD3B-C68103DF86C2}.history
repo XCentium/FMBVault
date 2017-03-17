@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8E619C3-2D16-47F4-AD3B-C68103DF86C2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:58.0885382Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Width",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Image/Image/Width",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

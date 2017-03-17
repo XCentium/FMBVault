@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{955893EF-ACFC-460E-8923-53EECD036C77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.8129215Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How do I choose the best checking account for me",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How do I choose the best checking account for me",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

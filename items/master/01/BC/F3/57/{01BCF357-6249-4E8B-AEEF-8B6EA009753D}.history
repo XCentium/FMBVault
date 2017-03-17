@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01BCF357-6249-4E8B-AEEF-8B6EA009753D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.6279388Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Versioned Redirect Pattern",
+    "itemPath": "/sitecore/templates/Redirect Module/Versioned Redirect Pattern",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

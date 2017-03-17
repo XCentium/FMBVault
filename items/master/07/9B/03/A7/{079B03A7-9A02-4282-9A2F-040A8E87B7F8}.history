@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{079B03A7-9A02-4282-9A2F-040A8E87B7F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.6275242Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KDavatolhagh",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KDavatolhagh",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

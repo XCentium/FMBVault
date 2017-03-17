@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D30FCE38-212F-464C-9C8D-A3DC6B05871E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.7135798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasSuccessPage",
+    "itemPath": "/sitecore/templates/Feature/Forms/_HasSuccessPage",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

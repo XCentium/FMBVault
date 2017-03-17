@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{144B8E40-59C9-44BD-AB1A-38FBAA87DFA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.8589226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lake Forest",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

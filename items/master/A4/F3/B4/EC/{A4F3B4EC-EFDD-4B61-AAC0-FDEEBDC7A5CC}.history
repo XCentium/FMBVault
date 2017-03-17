@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4F3B4EC-EFDD-4B61-AAC0-FDEEBDC7A5CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:38.1889161Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "business-checking-accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/business-checking-accounts",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

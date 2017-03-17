@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EBC4157B-EA4F-4A23-863F-D9EB15F4E4E6}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.7209218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How to Find Nearest FM Location",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How to Find Nearest FM Location",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

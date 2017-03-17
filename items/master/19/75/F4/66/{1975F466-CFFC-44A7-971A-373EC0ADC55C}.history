@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1975F466-CFFC-44A7-971A-373EC0ADC55C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:09.5015170Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ScrollingCarousel",
+    "itemPath": "/sitecore/media library/Feature/Media/ScrollingCarousel",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5F3E7D5-C09C-4758-A3EC-47201B68E8F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.2369143Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Business Loans",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Small Business Loans",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

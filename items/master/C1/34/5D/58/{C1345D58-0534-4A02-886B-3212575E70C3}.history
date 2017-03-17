@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1345D58-0534-4A02-886B-3212575E70C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.0539217Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking - Transfers",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - Transfers",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

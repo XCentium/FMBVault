@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41A71E86-DF99-43EB-899C-37B216E8CF1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.9519164Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CompoundSavings",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/CompoundSavings",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

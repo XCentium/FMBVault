@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BDAFD38-2C3C-4033-9603-65B3DFC19E79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.3170643Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "6 What wireless carriers currently participate in FM Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/6 What wireless carriers currently participate in FM Card Alerts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{621BAD66-2A58-44E0-9A06-3C84B881953E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.9339276Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deposit Lockbox",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Banking Services/Deposit Lockbox",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

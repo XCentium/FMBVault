@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63A966A3-4D92-41F5-8AB6-77C56A3960A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.3169225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Money Market Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/Money Market Accounts",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

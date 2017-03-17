@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {D49C6D7C-8104-400B-9881-77F7A442930B}
+database: master
+path: /sitecore/content/FMBCom/Global/Modal Content/Press/SpecificArticle
+parent: {74D7EB43-A6EA-4E11-AF41-1DF61B6B5392}
+name: SpecificArticle
+master: {00000000-0000-0000-0000-000000000000}
+template: {2DC5A51B-C1C8-4AB3-8F29-CFB67AFBD2A7}
+templatekey: Modal Content
+created: 20170201T024246:636215137664470000
+
+----version----
+language: en
+version: 1
+revision: ad749730-efab-403b-a592-f1d06b58d19c
+
+----field----
+field: {FC605235-27CE-4846-923F-2D68DC591FFD}
+name: Modal Content
+key: modal content
+content-length: 55
+
+<h1>I want to specifically show this modal Content</h1>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170130T195605Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ad749730-efab-403b-a592-f1d06b58d19c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170201T024246Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9671E92A-4AD3-46DF-AFF1-1542FD3D5BD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.5049393Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Employee",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

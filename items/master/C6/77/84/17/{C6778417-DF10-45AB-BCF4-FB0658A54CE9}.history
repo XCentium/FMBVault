@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6778417-DF10-45AB-BCF4-FB0658A54CE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.0799251Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Arizona",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Arizona",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

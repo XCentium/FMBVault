@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{371FAC7D-B64B-432D-8140-819B7DD4CD0E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.2475798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To",
+    "itemPath": "/sitecore/templates/Feature/HowTo/_HasHowTo/How-To",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

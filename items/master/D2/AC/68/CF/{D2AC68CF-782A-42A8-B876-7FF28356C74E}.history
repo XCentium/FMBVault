@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2AC68CF-782A-42A8-B876-7FF28356C74E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.4519227Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Low Down Payment Dream Phone Number",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Phone Numbers/Low Down Payment Dream Phone Number",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

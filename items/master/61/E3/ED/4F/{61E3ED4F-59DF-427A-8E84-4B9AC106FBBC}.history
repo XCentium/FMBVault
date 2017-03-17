@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.8329220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Questions-Office Contact",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Office Info/Questions-Office Contact",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

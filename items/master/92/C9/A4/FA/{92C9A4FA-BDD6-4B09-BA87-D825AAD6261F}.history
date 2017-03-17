@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92C9A4FA-BDD6-4B09-BA87-D825AAD6261F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:10.8305182Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculator",
+    "itemPath": "/sitecore/media library/Feature/Tools/Calculator",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

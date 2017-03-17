@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A9DACCB-8BFC-4522-8BA6-722B6FB2BDEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:19.1095243Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LBPD Apples",
+    "itemPath": "/sitecore/media library/Images/Press Release Images/LBPD Apples",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

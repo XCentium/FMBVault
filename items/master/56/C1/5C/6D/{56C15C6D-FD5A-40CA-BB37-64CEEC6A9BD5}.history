@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56C15C6D-FD5A-40CA-BB37-64CEEC6A9BD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:13.8009395Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Archive date",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Archive date",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

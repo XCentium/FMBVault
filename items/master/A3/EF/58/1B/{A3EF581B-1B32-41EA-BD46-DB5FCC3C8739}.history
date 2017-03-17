@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3EF581B-1B32-41EA-BD46-DB5FCC3C8739}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:08.5682181Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Language",
+    "itemPath": "/sitecore/media library/Feature/Language",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

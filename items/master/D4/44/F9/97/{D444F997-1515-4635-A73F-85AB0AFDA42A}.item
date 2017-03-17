@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {D444F997-1515-4635-A73F-85AB0AFDA42A}
+database: master
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Mobile Check Deposit
+parent: {65B346B4-8D80-435A-94D8-8567676664E7}
+name: Mobile Check Deposit
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+templatekey: FAQ Group
+created: 20170217T222503:636229671033000000
+
+----version----
+language: en
+version: 1
+revision: e5c5e46f-c3d6-4b0e-8d62-5d42d291eb8d
+
+----field----
+field: {3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}
+name: Show Expanded
+key: show expanded
+content-length: 1
+
+1
+----field----
+field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
+name: Group Member
+key: group member
+content-length: 506
+
+{435D6BBD-5DBA-44AF-82F8-56DFC55503C6}|{76193E1B-FCBC-403F-AFF6-3BBA2643293E}|{B3986DCC-1C5F-4BBB-8FED-F931D7096458}|{B417A54C-C36F-42BF-8B8D-4E72654F8290}|{8DDE584C-07DF-465A-A6EA-676BB2EE5D6C}|{B16C6FA9-3A62-4E38-953D-DC6170A4EB48}|{029E5417-776D-4058-B50F-B08300E28758}|{1CA864B0-6188-476A-8D5A-4162C56DB6F1}|{E0FB3A48-AB97-4320-8EC0-5C516F453B06}|{C45C11CB-0CF2-4D1D-8210-68A8726B2FEA}|{3038F3E0-67FD-4075-B9CF-9D213BD7F2CC}|{67EBEE01-20CB-4DAA-A4BD-FB12FD798142}|{D82CDF88-8B62-4D54-9EC6-8EC24EF41D14}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T222503Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e5c5e46f-c3d6-4b0e-8d62-5d42d291eb8d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T231233Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3731116D-9468-4B89-9C95-CC6CECFF1CF4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.5889297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Identity",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Identity",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

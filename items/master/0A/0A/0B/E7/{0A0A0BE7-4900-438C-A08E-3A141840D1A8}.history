@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A0A0BE7-4900-438C-A08E-3A141840D1A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:54.5025381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "URL string",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Redirect Manager/URL string",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

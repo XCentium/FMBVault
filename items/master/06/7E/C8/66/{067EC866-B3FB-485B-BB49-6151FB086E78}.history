@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{067EC866-B3FB-485B-BB49-6151FB086E78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.9479388Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Points Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Map Points Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

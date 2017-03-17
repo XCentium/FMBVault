@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51717FF1-ED70-4900-B687-A96CF4610102}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.7889279Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To Register for One-Time PIN",
+    "itemPath": "/sitecore/content/FMBCom/Global/How-Tos/How-To Register for One-Time PIN",
+    "template": "How-To",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

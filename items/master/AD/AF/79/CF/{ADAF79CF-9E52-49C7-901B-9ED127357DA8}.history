@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADAF79CF-9E52-49C7-901B-9ED127357DA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.3469222Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How will my One Time PIN be sent to me",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time Pin - Wires/How will my One Time PIN be sent to me",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

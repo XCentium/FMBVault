@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75768A6A-CCE6-444B-921D-84C2E4297671}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.8729225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Explore Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Products/Explore Checking Accounts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

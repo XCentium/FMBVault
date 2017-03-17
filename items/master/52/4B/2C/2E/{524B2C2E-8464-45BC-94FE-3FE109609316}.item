@@ -1,0 +1,125 @@
+----item----
+version: 1
+id: {524B2C2E-8464-45BC-94FE-3FE109609316}
+database: master
+path: /sitecore/content/FMBCom/Home/Security/Protecting Your Data
+parent: {728B942D-C6C7-4321-8B22-81B71BBD336F}
+name: Protecting Your Data
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170216T010747:636228040673230000
+
+----version----
+language: en
+version: 1
+revision: 887b600c-93c6-40a9-b1cb-e0da434d4e8c
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 20
+
+Protecting Your Data
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 2590
+
+<h2>The safety and security of your finances are most important to us.</h2>
+<p>We want to keep you informed of the actions that Farmers &amp; Merchants Bank is proactively taking to monitor and protect your account after the recent store data breaches at major retailers.</p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>As A Valued Client, We Want You To Know</strong></span></p>
+<ul>
+    <li>The safety and security of your finances are most important to us, as it has been for 110 years, since F&amp;M was founded.</li>
+    <li><span style="text-decoration: underline;">You do not need to contact us</span>, unless you see a transaction that you do not recognize.</li>
+    <li>We have fraud protection software systems in place that monitor and look for unusual spending and withdrawal patterns that help us block fraudulent transactions and will contact you if we see unusual activity on your account.</li>
+    <li>All F&amp;M Bank Debit and Credit Cards have Zero Liability Protection, which means you may not be held liable for any unauthorized transaction that you report to us in a timely manner.</li>
+    <li>You will receive a new card, if we determine that it&rsquo;s necessary.</li>
+</ul>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>What Do You Need to Do?</strong></span></p>
+<ul>
+    <li>Continue using your F&amp;M Bank credit and/or debit card, as normal.</li>
+    <li>You can monitor your accounts by logging in to online banking at <a href="~/link.aspx?_id=FF63C25D10594B0DA0FB563516E771A8&amp;_z=z">fmb.com</a>. You can also monitor your checking account through your mobile app. If you see a transaction you do not recognize, contact our ATM/Debit Card Department at (562) 344-2346 for Debit card transactions or our Bankcard Services Department at (562) 344-2356 for Visa card transactions immediately.</li>
+    <li>For F&amp;M Bank Visa credit cardholders, you can enroll in our free Visa Alerts and receive notifications via text, phone or email about approaching your credit limit, online activity and irregular purchases. Enroll by logging into your F&amp;M Visa account online.</li>
+</ul>
+<p style="text-align: center;"><strong><span style="text-decoration: underline;">Have Questions?</span></strong></p>
+<p>Contact our ATM/Debit Card Department at (562) 344-2346 for Debit card transactions or our Bankcard Services Department at (562) 344-2356 for Visa card transactions, Monday - Thursday from 8:00AM to 5:00PM, Friday from 8:00AM to 6:00PM, and Saturday from 9:00AM to 12:00PM, PST.</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 20
+
+Protecting Your Data
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 47
+
+Protecting Your Data | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 88
+
+Find out about how Farmers & Merchants bank is proactively protecting your account data.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 535
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D7A3B161-D353-4ABA-A705-8F7B115F973B}" p:before="*" s:ds="{78EC2F2F-D83D-470B-ACC8-8EB008718395}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{DB1B1CC8-613F-4F9A-BD49-1508D5867936}" p:after="r[@uid='{D7A3B161-D353-4ABA-A705-8F7B115F973B}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170216T010747Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+887b600c-93c6-40a9-b1cb-e0da434d4e8c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T223830Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

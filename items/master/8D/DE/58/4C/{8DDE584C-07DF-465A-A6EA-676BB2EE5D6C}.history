@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8DDE584C-07DF-465A-A6EA-676BB2EE5D6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:47.4579839Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Are there transaction limits with Mobile Check Deposit",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Mobile Check Deposit/Are there transaction limits with Mobile Check Deposit",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

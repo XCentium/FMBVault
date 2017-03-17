@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {C7007607-756F-4E43-A612-911AA0E91A5D}
+database: master
+path: /sitecore/layout/Renderings/Feature/Accounts/login box
+parent: {81460D62-74F8-4471-9DAD-2C82D767A689}
+name: login box
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20170120T172134:636205296945700000
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 73
+
+FMB.Feature.Accounts.Controllers.AccountsController, FMB.Feature.Accounts
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 8
+
+LoginBox
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{068191C3-BD2F-4470-B5FC-C1161ECB4A9B}" />
+----version----
+language: en
+version: 1
+revision: 47938e08-3b8f-4f22-9455-4a04e97724a7
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170111T221806Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+47938e08-3b8f-4f22-9455-4a04e97724a7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170201T021610Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

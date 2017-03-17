@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B959F23A-ED27-464B-9E64-CC4DAC5535E2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.3159165Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "linkmenu",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/linkmenu",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

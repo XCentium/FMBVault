@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FF16827-B2AD-4CB9-8AAE-9F105DA1D7B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:44.2995381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fields",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

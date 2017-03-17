@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9CD3F50-7AA0-46DD-BDA9-B27B7428B29A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.5599391Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/FAQ Group Folder/__Standard Values",
+    "template": "FAQ Group Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{850A737E-C940-4726-BAE5-0B51519F1A6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:19.5065852Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_HasSubMenuSelector/Navigation",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

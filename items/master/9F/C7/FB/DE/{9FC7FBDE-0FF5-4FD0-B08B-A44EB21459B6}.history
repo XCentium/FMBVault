@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9FC7FBDE-0FF5-4FD0-B08B-A44EB21459B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.1389158Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Deposit Services",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Deposit Services",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

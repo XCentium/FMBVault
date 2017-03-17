@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B19C4F7B-37C3-4A9E-86FF-3A6398EE6F1B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.3079225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person/Search",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

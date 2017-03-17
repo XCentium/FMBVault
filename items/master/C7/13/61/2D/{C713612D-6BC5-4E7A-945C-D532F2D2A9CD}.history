@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C713612D-6BC5-4E7A-945C-D532F2D2A9CD}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.3119285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Teasers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Teasers",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

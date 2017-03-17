@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75077028-25D4-47B5-B3F0-8C65407C4DF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:31.4429372Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Analytics",
+    "itemPath": "/sitecore/templates/System/Experience Analytics",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

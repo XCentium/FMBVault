@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{218BDDA0-C2BA-4BE9-9BB9-87B8376907DB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:02.8595377Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KeyCode",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/KeyCode",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{31112A37-7AD8-44BF-BF41-C5B5C2F7FA39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.7109209Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Refinance",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/CRE Loan Purpose List/Refinance",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

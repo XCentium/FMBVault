@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {E2C54644-3BEA-421F-BA73-8C8F88D93522}
+database: master
+path: /sitecore/layout/Renderings/Feature/Tools/Notifications
+parent: {A9B11E77-B9C3-49AC-AE14-D0AA99D872B7}
+name: Notifications
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20170307T055644:636244630047800000
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 64
+
+FMB.Feature.Tools.Controllers.ToolsController, FMB.Feature.Tools
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 12
+
+Notification
+----version----
+language: en
+version: 1
+revision: ac8127d5-c9c3-4d48-ab01-91ed47ebd6ed
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170304T011521Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ac8127d5-c9c3-4d48-ab01-91ed47ebd6ed
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170304T011619Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.0475854Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Telephone",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Contact/Telephone",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

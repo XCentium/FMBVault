@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B150BF39-A1C6-4B3E-8D3B-716F1345E6AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.0519327Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Statement of Condition",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures/Statement of Condition",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

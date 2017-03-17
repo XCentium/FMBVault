@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87C7879C-281E-4C78-AAFB-AACF2C79D1D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.2435250Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "goldarrow",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/cdrates/goldarrow",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

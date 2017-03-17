@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F59097F-0FDC-4B90-B75D-22729C50D9B5}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.9549230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Value",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Visits/Engagement Value",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

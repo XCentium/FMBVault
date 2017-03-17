@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8559FAFD-5CC9-4700-80F1-901632BB0399}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.6559285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Utah",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Utah",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

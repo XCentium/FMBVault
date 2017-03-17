@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFE92100-3D7F-4816-BFAC-FF2F252EC448}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.1975242Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CW-sig",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/CW-sig",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A74EE096-F225-4568-8D81-2F71ABBC8118}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.9399161Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interests",
+    "itemPath": "/sitecore/content/FMBCom/Global/Interests",
+    "template": "Interests Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

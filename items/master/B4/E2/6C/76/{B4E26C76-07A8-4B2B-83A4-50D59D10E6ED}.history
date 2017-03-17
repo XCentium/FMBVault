@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4E26C76-07A8-4B2B-83A4-50D59D10E6ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.9855381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OH",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/OH",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

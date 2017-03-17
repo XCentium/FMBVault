@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6833B28C-A849-4AD7-BC77-1A28279D2072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:44.8675362Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/ID View",
+    "template": "View",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

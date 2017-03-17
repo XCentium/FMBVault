@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DE62D84-F074-4948-97CA-42967805DFE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.8475381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MT",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/MT",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EEE1362-9401-4B16-8B80-16DBFDD118A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.6969218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Part VI Compassion",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part VI Compassion",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

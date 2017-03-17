@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F770C25-87E2-4C93-B75D-5BE1C3EE812F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:51.0325364Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "March",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/March",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

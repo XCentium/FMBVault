@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E229AFC5-3608-4CA2-AC92-998D9CEA1CB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.7139164Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EmailFrom_Funnel",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/EmailFrom_Funnel",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

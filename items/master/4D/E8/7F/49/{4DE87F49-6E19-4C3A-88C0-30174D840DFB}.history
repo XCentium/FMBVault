@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DE87F49-6E19-4C3A-88C0-30174D840DFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.7229214Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Line of Credit",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/CRE Loan Purpose List/Line of Credit",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

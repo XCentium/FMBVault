@@ -1,0 +1,169 @@
+----item----
+version: 1
+id: {32577CBC-C946-491A-897D-72471BD305A4}
+database: master
+path: /sitecore/content/FMBCom/Home/Personal/Platinum Checking Account
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Platinum Checking Account
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170203T234409:636217622497270000
+
+----version----
+language: en
+version: 1
+revision: 0e16cab7-2461-418e-938a-de26162cd6a7
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 25
+
+Platinum Checking Account
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 2207
+
+<h2>Platinum Checking Benefits</h2>
+<div class="row">
+<div class="col-md-6">
+<ul>
+    <li>Waived Non-F&amp;M ATM Transaction Fees<sup>1</sup></li>
+    <li>Free Safe Deposit Box, any 1 box size, for 1 Year (based upon availability)<sup>5</sup></li>
+    <li>Free Online Banking</li>
+    <li>Free Checks provided by our vendor (1 box any style per calendar year)</li>
+    <li>Free Mobile Banking with Text Banking<sup>2</sup></li>
+    <li>Free Unlimited Cashier&rsquo;s Checks, Money Orders &amp; Traveler&rsquo;s Cheques</li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul>
+    <li>Interest on Checking</li>
+    <li>Additional Unlimited Platinum Checking Accounts
+    (monthly service charge waived for 1 year)<sup>5</sup></li>
+    <li>3 Free Savings Accounts for 1 year<sup>5</sup></li>
+    <li>Free Incoming Domestic Wire Transfers</li>
+    <li>Free Outgoing Domestic Wire Transfers</li>
+</ul>
+</div>
+</div>
+<h2>Additional Features</h2>
+<div class="row">
+<div class="col-md-6">
+<ul>
+    <li><a href="~/link.aspx?_id=8BAD2102924C48FB8518E2D1FC149651&amp;_z=z">Free Debit MasterCard with Chip Technology&reg;</a><sup>1</sup></li>
+    <li><a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">Free Debit Card Alerts</a><sup>2</sup></li>
+    <li>Free Online Banking</li>
+    <li>Free Bill Pay</li>
+    <li>Free Mobile Banking with Text Banking<sup>2</sup></li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul>
+    <li>Free Mobile Check Deposit<sup>2</sup></li>
+    <li>Free Direct Deposit</li>
+    <li>Free Telebanker &amp; Call Center</li>
+    <li>Free eStatements &amp; eNotices</li>
+    <li>Unlimited Check Writing</li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<h2>WAYS TO WAIVE MONTHLY SERVICE CHARGE PER STATEMENT CYCLE</h2>
+<ul>
+    <li>$25 maintenance fee or maintain $15,000 minimum<br>
+    daily balance, or $50,000 average daily balance, or <br>
+    $100,000 combined checking and/or savings<sup>4</sup> average <br>
+    daily balance.</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h2>MINIMUM OPENING BALANCE</h2>
+<ul>
+    <li>&nbsp;$100</li>
+</ul>
+</div>
+</div>
+<a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 25
+
+Platinum Checking Account
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 55
+
+Platinum Checking Account from Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 150
+
+Find out more about the Platinum Checking Account Option from F&amp;M Bank. You will find a large array of additional banking benefits and privileges.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2207
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{415E0B15-6500-4272-87AE-B052479BBAAF}" p:before="*" s:ds="{FDDF068D-AA6A-40A0-B87D-1925B437C5D3}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{E4039D7E-C06D-45CE-978D-CBE07950A5DE}" p:after="r[@uid='{415E0B15-6500-4272-87AE-B052479BBAAF}']" s:ds="{75768A6A-CCE6-444B-921D-84C2E4297671}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{D607DE54-B584-457D-B731-1AE5C0ACFA10}" p:after="r[@uid='{E4039D7E-C06D-45CE-978D-CBE07950A5DE}']" s:ds="{550706A9-8AAD-4D3F-A04C-DE225B08D3FD}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{036E619F-FFE2-4B58-B78E-06584E51B00C}" p:after="r[@uid='{D607DE54-B584-457D-B731-1AE5C0ACFA10}']" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{CEBDB04F-B0E7-41E4-894D-D4AEEF34F99A}" p:after="r[@uid='{036E619F-FFE2-4B58-B78E-06584E51B00C}']" s:ds="{60015EE7-CF5D-4CD7-89EB-6BDDF4B738C9}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_644c9e25-8fdb-46f3-85f9-ed30d38ff571" /><r uid="{44CD7159-6433-4F54-AD60-137EDE05A78C}" p:after="r[@uid='{CEBDB04F-B0E7-41E4-894D-D4AEEF34F99A}']" s:ds="{04783823-6F41-4D9B-9B0E-0F4067F69773}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_644c9e25-8fdb-46f3-85f9-ed30d38ff571" /><r uid="{644C9E25-8FDB-46F3-85F9-ED30D38FF571}" p:after="r[@uid='{44CD7159-6433-4F54-AD60-137EDE05A78C}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{6A859B92-9026-49EE-A56D-EE3F9DCB26EB}" p:after="r[@uid='{644C9E25-8FDB-46F3-85F9-ED30D38FF571}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{54539B29-43D1-4900-BD1B-B5F675AF155A}" p:after="r[@uid='{24F2F429-44E1-4CBA-BA41-D0C2A8D05E4B}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170203T234409Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0e16cab7-2461-418e-938a-de26162cd6a7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T222756Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

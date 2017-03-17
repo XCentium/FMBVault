@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B34A4F2B-47CD-4BA6-B1B1-BB62F4090FFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.4589299Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "col-narrow-3",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-narrow-3",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

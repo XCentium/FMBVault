@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09112A5D-E490-4F6F-9454-65EA7F0F5A38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.8979211Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Office",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Main Office",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

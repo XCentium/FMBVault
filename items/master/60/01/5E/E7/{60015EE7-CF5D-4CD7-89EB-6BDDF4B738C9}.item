@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {60015EE7-CF5D-4CD7-89EB-6BDDF4B738C9}
+database: master
+path: /sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Checking-Some-Account-Features
+parent: {6E2AEAD8-CBC5-45F5-9D4B-6BBAC520E8E6}
+name: Checking-Some-Account-Features
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170208T215218:636221875380530000
+
+----version----
+language: en
+version: 1
+revision: e4fe2eef-d7aa-4e1b-a9cb-bc15730a6d58
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 545
+
+<p><strong>Some account features and benefits may be subject to separate application, agreement, and/or approval. Terms and Conditions may apply. Account features and benefits are subject to change with or without notice. For account details and deposit interest rates, please visit fmb.com/rates, ask our office staff, or refer to the account agreement and disclosures provided at time of opening. Please refer to Services and Fees on <a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">fmb.com/fees</a> for additional details.</strong></p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170208T215218Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e4fe2eef-d7aa-4e1b-a9cb-bc15730a6d58
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170228T174734Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

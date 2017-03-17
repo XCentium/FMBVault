@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3047F172-B1A9-41FD-9305-BCE79C163BCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.9349206Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Loans-Approval",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Loans-Approval",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

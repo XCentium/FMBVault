@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EAB9279C-40F8-4AAB-903C-4972C7C0AEBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:31.5965317Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "302 Moved Temporarily",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Response Status Codes/302 Moved Temporarily",
+    "template": "Response Status Code",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

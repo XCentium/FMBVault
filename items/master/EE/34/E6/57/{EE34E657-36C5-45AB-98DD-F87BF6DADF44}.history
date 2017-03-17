@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE34E657-36C5-45AB-98DD-F87BF6DADF44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.5679296Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rossmoor",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Rossmoor",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

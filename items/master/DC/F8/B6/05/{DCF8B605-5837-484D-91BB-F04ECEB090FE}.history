@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCF8B605-5837-484D-91BB-F04ECEB090FE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.9819284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Helix",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Helix",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

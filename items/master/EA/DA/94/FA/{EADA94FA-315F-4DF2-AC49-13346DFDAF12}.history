@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EADA94FA-315F-4DF2-AC49-13346DFDAF12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.8519294Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Aside Left",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Article Aside Left",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

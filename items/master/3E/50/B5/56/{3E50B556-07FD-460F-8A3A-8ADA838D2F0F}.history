@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E50B556-07FD-460F-8A3A-8ADA838D2F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.0645247Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SThomas-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/SThomas-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

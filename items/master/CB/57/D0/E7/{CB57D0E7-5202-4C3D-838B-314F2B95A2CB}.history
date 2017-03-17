@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB57D0E7-5202-4C3D-838B-314F2B95A2CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:07.3805788Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Xhtml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Xhtml",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

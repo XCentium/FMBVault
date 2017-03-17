@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {ED0307B4-9060-46C8-818E-A73F888EA2B7}
+database: master
+path: /sitecore/content/FMBCom/Home/Testimonials/USS Iowa
+parent: {45855921-560F-4496-A3E8-F71B52754C04}
+name: USS Iowa
+master: {00000000-0000-0000-0000-000000000000}
+template: {597A8CFE-9160-44CB-9851-FB717ECFEC1D}
+templatekey: Testimonial
+created: 20170302T073746:636240370665670000
+
+----version----
+language: en
+version: 1
+revision: a4ed5d6a-6b11-481c-b6ca-ebc2f34a440e
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 18
+
+Client Testimonial
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 8
+
+USS Iowa
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 31
+
+USS Iowa Testimonial | F&M Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 163
+
+Find out more about the Pacific Battleship Center, home of the Battleship Iowa and how they wanted a banking partner that understood their historical significance.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1131
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{96E1F5D1-7A0A-4F7A-89A7-130852D93914}" p:before="*" s:ds="" s:id="{BDBA0721-B141-4618-8A81-80FE9B58AC15}" s:par="UseStaticPlaceholderNames&amp;Testimonials={81898363-0606-474B-9FE8-1F89023184BB}|{7DDF4C39-3BCF-495E-BB5A-202A0F5C344B}" s:ph="/layoutZone/section/col-narrow-1" /><r uid="{8C253F40-CED4-4D1D-ACA8-9965CE9D28D4}" p:after="r[@uid='{96E1F5D1-7A0A-4F7A-89A7-130852D93914}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{29B779FA-E22A-4C25-BF99-C522F2465BC0}"><p:d /></r><r uid="{24F2F429-44E1-4CBA-BA41-D0C2A8D05E4B}"><p:d /></r><r uid="{6D32BA36-5548-46D4-81BC-CE166A05CC62}" s:ds="{E17A9124-FF3C-4A4C-8C7F-BB13AE388FF2}" s:par="" /><r uid="{C274AAA2-DA9E-43B1-BE22-840854C67296}" s:ds="{1FDC1AD8-3063-45E1-902E-327E74E42C56}" /><r uid="{8DDA8136-CCD9-4589-9E19-27E3CEE7ED08}" p:after="r[@uid='{C274AAA2-DA9E-43B1-BE22-840854C67296}']" s:ds="{D1AC6B4F-ED8F-40F3-9BD3-5D1162A3B9AD}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section/col-huge" /></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170302T065940Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a4ed5d6a-6b11-481c-b6ca-ebc2f34a440e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T203936Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

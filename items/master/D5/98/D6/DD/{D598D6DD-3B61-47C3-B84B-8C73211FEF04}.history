@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D598D6DD-3B61-47C3-B84B-8C73211FEF04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.3685832Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Parallax",
+    "itemPath": "/sitecore/templates/Feature/Media/ParametersTemplates/ParametersTemplate_SectionBackground/Background/Parallax",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

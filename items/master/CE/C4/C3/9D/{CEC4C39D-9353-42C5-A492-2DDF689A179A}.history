@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CEC4C39D-9353-42C5-A492-2DDF689A179A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.3229289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Foundation",
+    "itemPath": "/sitecore/layout/Renderings/Foundation",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

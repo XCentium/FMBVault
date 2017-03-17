@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{689381D0-3ED7-4B77-A0C2-6CB23926CA55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.2825251Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BBielicki-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/BBielicki-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

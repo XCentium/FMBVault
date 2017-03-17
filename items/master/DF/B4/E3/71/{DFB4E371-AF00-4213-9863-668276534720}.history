@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DFB4E371-AF00-4213-9863-668276534720}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.6389160Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phone Numbers",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Phone Numbers",
+    "template": "Configuration Setting Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

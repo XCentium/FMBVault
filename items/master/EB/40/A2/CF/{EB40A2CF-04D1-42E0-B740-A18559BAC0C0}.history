@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB40A2CF-04D1-42E0-B740-A18559BAC0C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:01.5169294Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sharing",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing",
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

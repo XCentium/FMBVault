@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7140245-614B-4F9A-9B10-1CB8DF4FB5CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.4799381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Register Page/__Standard Values",
+    "template": "Register Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

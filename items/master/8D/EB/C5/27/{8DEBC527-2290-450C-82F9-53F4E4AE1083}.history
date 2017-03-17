@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8DEBC527-2290-450C-82F9-53F4E4AE1083}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.6819212Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text Commands",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Mobile Banking/Text Commands",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

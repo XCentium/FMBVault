@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{389E6AE3-14AF-4ED1-A0FA-C3A4CC5CAE65}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.1739295Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TitleSummaryTeaser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/TitleSummaryTeaser",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4738312C-22B8-4E77-9B9C-86BCDCEE6635}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:25.6088851Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ParametersTemplate_QueryableDatasourceRendering",
+    "itemPath": "/sitecore/templates/Foundation/SitecoreExtensions/ParametersTemplate_QueryableDatasourceRendering",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

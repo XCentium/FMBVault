@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B487F1D1-8FE4-4311-B283-FE9C61ED8666}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.4679283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credits and Loans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

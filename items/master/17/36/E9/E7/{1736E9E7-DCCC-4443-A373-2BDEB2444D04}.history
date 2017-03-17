@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1736E9E7-DCCC-4443-A373-2BDEB2444D04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:22.2255255Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD - Protecting Home Ownership",
+    "itemPath": "/sitecore/system/Aliases/RLD - Protecting Home Ownership",
+    "template": "Alias",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

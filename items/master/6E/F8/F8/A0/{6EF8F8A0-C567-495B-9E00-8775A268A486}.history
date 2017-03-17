@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EF8F8A0-C567-495B-9E00-8775A268A486}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.1419392Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register Page",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Register Page",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

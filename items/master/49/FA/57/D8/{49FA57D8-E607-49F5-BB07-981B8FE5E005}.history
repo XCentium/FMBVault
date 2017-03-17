@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49FA57D8-E607-49F5-BB07-981B8FE5E005}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:34.4399366Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report Name",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Data/Report Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

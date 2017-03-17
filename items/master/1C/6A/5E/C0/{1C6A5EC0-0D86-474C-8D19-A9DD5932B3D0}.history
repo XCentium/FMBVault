@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C6A5EC0-0D86-474C-8D19-A9DD5932B3D0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.0949213Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Media/Carousel",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

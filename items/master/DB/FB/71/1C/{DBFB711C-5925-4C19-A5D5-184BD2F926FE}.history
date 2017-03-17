@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DBFB711C-5925-4C19-A5D5-184BD2F926FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.4255380Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CA",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/CA",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

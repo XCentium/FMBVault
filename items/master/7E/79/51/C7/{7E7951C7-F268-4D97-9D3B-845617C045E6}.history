@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E7951C7-F268-4D97-9D3B-845617C045E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.4179190Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ratings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Ratings",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

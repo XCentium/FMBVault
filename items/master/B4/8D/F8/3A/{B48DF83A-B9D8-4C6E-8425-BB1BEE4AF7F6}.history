@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.8549279Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brochures",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

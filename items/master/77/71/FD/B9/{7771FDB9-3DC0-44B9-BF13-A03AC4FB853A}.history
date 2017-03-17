@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7771FDB9-3DC0-44B9-BF13-A03AC4FB853A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:02.6949341Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM 693_Business Application",
+    "itemPath": "/sitecore/media library/Applications/FM 693_Business Application",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

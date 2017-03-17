@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6B080BA-A2C0-4E98-9D45-EB0E33F568C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.5429286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Corona del Mar",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Corona del Mar",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

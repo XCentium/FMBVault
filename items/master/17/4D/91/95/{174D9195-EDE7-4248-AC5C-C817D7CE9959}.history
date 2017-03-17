@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{174D9195-EDE7-4248-AC5C-C817D7CE9959}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:47.9539225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "1 What is One-Time PIN",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time PIN - OLB/1 What is One-Time PIN",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

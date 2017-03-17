@@ -1,0 +1,199 @@
+----item----
+version: 1
+id: {5CF16B69-CD87-434F-81CF-61AA6C8BD29C}
+database: master
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/10/Long Beach 2016 Californias Strongest People You Can Bank On
+parent: {170D2502-9844-4379-8523-5BA914C91454}
+name: Long Beach 2016 Californias Strongest People You Can Bank On
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170217T181904:636229523445770000
+
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20161028T150000Z
+----version----
+language: en
+version: 1
+revision: f2185000-0f7f-4bed-af5f-896447ae2c8e
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 144
+
+Farmers & Merchants Bank Honors Ten Special Members of the Community at the 2016 “California’s Strongest People You Can Bank On” Awards Ceremony
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 140
+
+Awards Given Based Upon Achievements that Demonstrate Values and Strength of Character that Help Make Southern California Communities Strong
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 4244
+
+<p>Farmers &amp; Merchants Bank (F&amp;M) honored 10 members of the Southern California community at its sixth annual &ldquo;California&rsquo;s Strongest People You Can Bank On&rdquo; awards. The awards presented yesterday were given to people that demonstrated the same values and strength of character as F&amp;M&rsquo;s Declaration of Beliefs: Honesty, Faith, Loyalty, Integrity, Dedication, Gratitude, Humility, Dependability, Compassion, and Service above Self. Winners, all members of the communities F&amp;M serves, were nominated by Bank employees and represent many communities throughout Southern California including Long Beach, Fullerton, San Clemente and Downey.</p>
+<p>The 2016 &ldquo;California&rsquo;s Strongest People You Can Bank On&rdquo; Award Honorees are:</p>
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: left;"><strong>Award</strong></td>
+            <td style="text-align: left;"><strong>Recipient</strong></td>
+            <td style="text-align: left;"><strong>Organization/Affiliation</strong></td>
+            <td style="text-align: left;"><strong>Community</strong></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Honesty Award</td>
+            <td style="text-align: left;">Bill Nelson</td>
+            <td style="text-align: left;">Fresh Beginnings Ministries</td>
+            <td style="text-align: left;">Newport Beach</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Faith Award</td>
+            <td style="text-align: left;">Ken Korver</td>
+            <td style="text-align: left;">Emmanuel Reformed Church/The Compton Initiative</td>
+            <td style="text-align: left;">Downey<br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Loyalty Award</td>
+            <td style="text-align: left;">Angeles Ceballos</td>
+            <td style="text-align: left;">CREER Comunidad y Familia<br>
+            </td>
+            <td style="text-align: left;">San Juan Capistrano</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Integrity Award</td>
+            <td style="text-align: left;">Reggie Berry</td>
+            <td style="text-align: left;">Goals For Life Foundation<br>
+            </td>
+            <td style="text-align: left;">Lakewood<br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Dedication Award</td>
+            <td style="text-align: left;">Dr. Miriam Mackovic-Basic</td>
+            <td style="text-align: left;">Complete Women Care Inc.<br>
+            </td>
+            <td style="text-align: left;">Bixby Knolls</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Gratitude Award</td>
+            <td style="text-align: left;">Patti Widdicombe</td>
+            <td style="text-align: left;">McDonald's</td>
+            <td style="text-align: left;">Garden Grove</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Humility Award</td>
+            <td style="text-align: left;">Mike Sheldrake</td>
+            <td style="text-align: left;">Polly's Gourmet Coffee</td>
+            <td style="text-align: left;">Belmont Shore</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Dependability Award<br>
+            </td>
+            <td style="text-align: left;">Joe Lins</td>
+            <td style="text-align: left;">Century 21 Discovery</td>
+            <td style="text-align: left;">Fullerton</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Compassion Award</td>
+            <td style="text-align: left;">Dr. Patricia Drown</td>
+            <td style="text-align: left;">San Clemente Domestic Violence Task Force<br>
+            </td>
+            <td style="text-align: left;">San Clemente<br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Service Above Self Award</td>
+            <td style="text-align: left;">Kathy Tillotson</td>
+            <td style="text-align: left;">Build Futures</td>
+            <td style="text-align: left;">Downey</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 60
+
+Long Beach 2016 Californias Strongest People You Can Bank On
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 61
+
+Long Beach 2016 California's Strongest People You Can Bank On
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T181904Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f2185000-0f7f-4bed-af5f-896447ae2c8e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170310T220414Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

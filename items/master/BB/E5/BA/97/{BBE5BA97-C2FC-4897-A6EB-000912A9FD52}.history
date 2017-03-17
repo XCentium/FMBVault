@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBE5BA97-C2FC-4897-A6EB-000912A9FD52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.3475798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Body",
+    "itemPath": "/sitecore/templates/Feature/HowTo/_HasHowTo/How-To/Body",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

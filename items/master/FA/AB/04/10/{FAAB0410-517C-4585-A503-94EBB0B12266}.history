@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FAAB0410-517C-4585-A503-94EBB0B12266}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.8019230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fullerton",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Fullerton",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

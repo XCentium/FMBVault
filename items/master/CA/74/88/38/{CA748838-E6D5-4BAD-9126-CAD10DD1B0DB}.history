@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.1219290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Information",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Identity/Contact Information",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

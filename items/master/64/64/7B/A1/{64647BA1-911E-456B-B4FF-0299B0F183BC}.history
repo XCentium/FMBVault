@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64647BA1-911E-456B-B4FF-0299B0F183BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.1499221Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "15 What do I need to do if my mobile number changes",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/15 What do I need to do if my mobile number changes",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

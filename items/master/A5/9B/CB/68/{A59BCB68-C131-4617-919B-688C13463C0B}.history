@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A59BCB68-C131-4617-919B-688C13463C0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.7665798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot Password Page",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_ExternalAccountsSettings/External Accounts/Forgot Password Page",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

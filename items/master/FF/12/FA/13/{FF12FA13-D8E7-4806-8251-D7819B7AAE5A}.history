@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF12FA13-D8E7-4806-8251-D7819B7AAE5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.3655858Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Feature/Teasers/_TeaserContent/__Standard Values",
+    "template": "_TeaserContent",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

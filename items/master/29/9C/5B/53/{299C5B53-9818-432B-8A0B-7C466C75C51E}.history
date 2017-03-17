@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{299C5B53-9818-432B-8A0B-7C466C75C51E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.0815380Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SD",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/SD",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

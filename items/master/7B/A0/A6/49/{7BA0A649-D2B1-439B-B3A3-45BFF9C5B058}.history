@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BA0A649-D2B1-439B-B3A3-45BFF9C5B058}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.6569214Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other - Not Sure",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BusinessBankingProducts/Other - Not Sure",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

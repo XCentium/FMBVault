@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D53C146E-CD56-4243-81D7-5E6522DB74B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.1769291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Branch Info",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Locations/Branch Info",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

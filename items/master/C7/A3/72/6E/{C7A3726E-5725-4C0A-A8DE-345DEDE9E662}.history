@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7A3726E-5725-4C0A-A8DE-345DEDE9E662}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.7029161Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CCRecipients_RLD",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/CCRecipients_RLD",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

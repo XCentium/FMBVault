@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{831876B6-F9F1-463E-9DD5-7F93F1640590}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:01.1059282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inner 2 Column 4-8",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Article Columns/Inner 2 Column 4-8",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E008332-524B-4F37-B0E8-8C0FD9AC70B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:59.4515374Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Version Removed",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Version Removed",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFA6AD59-AE21-4524-90F8-A92440B869AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.9025382Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Primary Color",
+    "itemPath": "/sitecore/system/Settings/Foundation/Theming/Background Types/Primary Color",
+    "template": "Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

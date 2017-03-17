@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA41A583-AC53-4417-9FA9-FDFE32263385}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.3039195Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forms",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Forms",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

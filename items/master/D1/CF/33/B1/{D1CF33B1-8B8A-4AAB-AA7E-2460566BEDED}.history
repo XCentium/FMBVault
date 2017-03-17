@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1CF33B1-8B8A-4AAB-AA7E-2460566BEDED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.8685856Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WidgetId",
+    "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeed/Twitter Account/WidgetId",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

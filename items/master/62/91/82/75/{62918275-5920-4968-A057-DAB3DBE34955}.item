@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {62918275-5920-4968-A057-DAB3DBE34955}
+database: master
+path: /sitecore/content/FMBCom/Home/How To/How-To Register for One-Time PIN
+parent: {7CDD1DA9-70D3-4E37-B445-1996943AA31A}
+name: How-To Register for One-Time PIN
+master: {00000000-0000-0000-0000-000000000000}
+template: {308E99E4-396D-4E60-9C14-E6EB320CD0F5}
+templatekey: How To
+created: 20170308T225736:636246106566330000
+
+----version----
+language: en
+version: 1
+revision: 83382fc2-1e73-4374-807d-e6978c761224
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 32
+
+How-To Register for One-Time PIN
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 32
+
+How-To Register for One-Time PIN
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 41
+
+One-Time PIN, Protect Against Fraud | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 142
+
+Enroll for One-Time PIN to help protect against fraud. One-time PIN is another level of authentication in addition to your login and password.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1191
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{DD4EF21F-F99B-4401-8F12-EC7B432AF43D}" p:before="*" s:ds="" s:id="{B688FB89-0289-445A-B1A3-94CE9297702A}" s:par="UseStaticPlaceholderNames&amp;HowTos=%7BCE2FAD1C-BB7B-402E-981C-84630B941532%7D%7C%7BD1882861-836B-444A-B07A-1385D06E46C7%7D&amp;Testimonials=%257BCE2FAD1C-BB7B-402E-981C-84630B941532%257D%257C%257BD1882861-836B-444A-B07A-1385D06E46C7%257D" s:ph="/layoutZone/section/col-narrow-1" /><r uid="{0A6113AD-DDB8-4B0D-A166-B5320A0CE925}" p:after="r[@uid='{DD4EF21F-F99B-4401-8F12-EC7B432AF43D}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{29B779FA-E22A-4C25-BF99-C522F2465BC0}"><p:d /></r><r uid="{6D32BA36-5548-46D4-81BC-CE166A05CC62}" s:ds="{E25ABEE3-4EA3-40AD-A0F6-D12BDD33F80F}" s:par="" /><r uid="{C274AAA2-DA9E-43B1-BE22-840854C67296}" s:ds="{51717FF1-ED70-4900-B687-A96CF4610102}" /><r uid="{2C1B88C9-CD2B-4B13-ABFF-B98BE046E043}" p:after="r[@uid='{C274AAA2-DA9E-43B1-BE22-840854C67296}']" s:ds="{667E2787-4DC3-45D9-AC7A-0E03E68B0051}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section/col-huge" /></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170308T225736Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+83382fc2-1e73-4374-807d-e6978c761224
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170310T201250Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

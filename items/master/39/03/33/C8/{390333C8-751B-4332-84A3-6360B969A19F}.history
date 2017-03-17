@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{390333C8-751B-4332-84A3-6360B969A19F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.8969393Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Menu Item",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Link Menu Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

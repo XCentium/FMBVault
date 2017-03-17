@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB3676DE-9E55-4C70-AF6A-AC10C269E24D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.2539226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "signoff",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/signoff",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

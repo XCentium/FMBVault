@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A46962B0-1B3F-4206-8360-61C314FEACB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:05.1355428Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Cards",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Profile Cards",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

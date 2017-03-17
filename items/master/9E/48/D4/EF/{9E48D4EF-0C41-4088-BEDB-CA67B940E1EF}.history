@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9E48D4EF-0C41-4088-BEDB-CA67B940E1EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:18.5855253Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Aside Both",
+    "itemPath": "/sitecore/media library/Project/Common/Images/Layouts/Article Aside Both",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

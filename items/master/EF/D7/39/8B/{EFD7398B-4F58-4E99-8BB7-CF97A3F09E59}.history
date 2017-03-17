@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFD7398B-4F58-4E99-8BB7-CF97A3F09E59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.6479231Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Part II Dedication",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part II Dedication",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

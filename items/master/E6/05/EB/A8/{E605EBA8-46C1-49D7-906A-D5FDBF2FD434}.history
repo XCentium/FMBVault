@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E605EBA8-46C1-49D7-906A-D5FDBF2FD434}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.8225791Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register Outcome",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_ExternalAccountsSettings/External Accounts/Register Outcome",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

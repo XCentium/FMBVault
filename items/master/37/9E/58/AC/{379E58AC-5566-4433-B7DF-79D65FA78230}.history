@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{379E58AC-5566-4433-B7DF-79D65FA78230}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.5429297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "home-scrolling-default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/home-scrolling-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

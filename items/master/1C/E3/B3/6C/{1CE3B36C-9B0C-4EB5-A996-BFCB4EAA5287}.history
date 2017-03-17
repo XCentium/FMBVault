@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CE3B36C-9B0C-4EB5-A996-BFCB4EAA5287}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.5739283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Placeholder Settings",
+    "itemPath": "/sitecore/layout/Placeholder Settings",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

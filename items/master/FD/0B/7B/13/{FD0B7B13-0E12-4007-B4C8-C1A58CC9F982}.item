@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {FD0B7B13-0E12-4007-B4C8-C1A58CC9F982}
+database: master
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Personal Checking Accounts/Can balances from a business account count for the combined balance requirement
+parent: {1B6802A0-B5E4-485B-B783-940FFAEDFB55}
+name: Can balances from a business account count for the combined balance requirement
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170221T194453:636233030934900000
+
+----version----
+language: en
+version: 1
+revision: 51bb216c-7e7d-4850-aa5e-0e838a4dda32
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 163
+
+Can balances from a business account count for the combined balance requirement for waiving the Maintenance Fee on a Classic, Gold, and Platinum Checking account? 
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 873
+
+It depends. Only the Classic, Gold, and Platinum Checking account&rsquo;s primary accountholder&rsquo;s other primary and joint relationships are considered. For example: Jane and Joe have a joint Gold Checking account where Jane is the primary accountholder. Jane also has another account (primary or joint). The balance in the other account will be taken into consideration for waiving the service charge on the Gold Checking. Typically, business entities are primary and have a separate account ownership, except in the case of a Sole Proprietor. If the account that Jane holds is a Sole Proprietor account that she is related to as either the primary or joint accountholder, the balance in that Sole Proprietor account would be taken into consideration for waiving the service charge on the Gold Checking. For most other business accounts, the balances would not count.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 163
+
+Can balances from a business account count for the combined balance requirement for waiving the Maintenance Fee on a Classic, Gold, and Platinum Checking account? 
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170221T194453Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+51bb216c-7e7d-4850-aa5e-0e838a4dda32
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T172945Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

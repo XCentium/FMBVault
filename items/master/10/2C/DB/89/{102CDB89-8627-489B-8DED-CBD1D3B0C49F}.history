@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{102CDB89-8627-489B-8DED-CBD1D3B0C49F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:47.0189232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Features for Business Clients",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Mobile Features for Business Clients",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

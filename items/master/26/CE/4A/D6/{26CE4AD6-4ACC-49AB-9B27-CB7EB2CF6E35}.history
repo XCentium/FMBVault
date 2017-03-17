@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26CE4AD6-4ACC-49AB-9B27-CB7EB2CF6E35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:24.0985253Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other SMS",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/SMS campaigns/Other SMS",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

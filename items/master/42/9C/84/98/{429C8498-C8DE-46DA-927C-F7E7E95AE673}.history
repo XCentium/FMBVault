@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{429C8498-C8DE-46DA-927C-F7E7E95AE673}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.0969227Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Person",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

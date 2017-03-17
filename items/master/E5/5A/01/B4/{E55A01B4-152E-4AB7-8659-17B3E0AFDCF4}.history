@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E55A01B4-152E-4AB7-8659-17B3E0AFDCF4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.1849219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Will my Login ID and or password change",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time PIN - OLB/Will my Login ID and or password change",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18308606-F75C-4D36-85B9-4B720F911507}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.9639228Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "May 21 - Garden Grove",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/May 21 - Garden Grove",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

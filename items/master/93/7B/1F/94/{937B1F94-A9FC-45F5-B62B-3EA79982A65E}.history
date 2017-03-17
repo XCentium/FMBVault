@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{937B1F94-A9FC-45F5-B62B-3EA79982A65E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.5269151Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "pageteaser",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/pageteaser",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

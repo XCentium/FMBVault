@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2833213-CB77-431A-9108-55E62E4E47FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:12.7965788Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "List Manager",
+    "itemPath": "/sitecore/templates/List Manager",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

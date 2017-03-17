@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0134CFB3-DDA2-49AB-86A7-BBAEBDB1DC30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.3555798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multisite",
+    "itemPath": "/sitecore/templates/Feature/Multisite",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

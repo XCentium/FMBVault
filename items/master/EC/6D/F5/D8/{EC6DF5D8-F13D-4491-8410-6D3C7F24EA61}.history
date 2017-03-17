@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC6DF5D8-F13D-4491-8410-6D3C7F24EA61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:47.1769207Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How much does Mobile Banking cost",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/General FAQs/How much does Mobile Banking cost",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

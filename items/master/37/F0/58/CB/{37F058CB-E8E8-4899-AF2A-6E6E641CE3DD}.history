@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37F058CB-E8E8-4899-AF2A-6E6E641CE3DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.0079180Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modal Content",
+    "itemPath": "/sitecore/content/FMBCom/Global/Modal Content",
+    "template": "Modal Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

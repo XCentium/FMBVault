@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.8189283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Module",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Content Module",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

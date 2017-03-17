@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FC9F63C2-CD4D-45B2-9EBB-FCC90D997B4E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.6805246Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KirkVanAtta-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KirkVanAtta-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

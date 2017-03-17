@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74889B26-061C-4D6A-8CDB-422665FC34EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:19.6005867Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_NewsFolder",
+    "itemPath": "/sitecore/templates/Feature/News/_NewsFolder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

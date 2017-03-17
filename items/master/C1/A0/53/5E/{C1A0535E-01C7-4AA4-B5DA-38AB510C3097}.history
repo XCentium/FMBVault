@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1A0535E-01C7-4AA4-B5DA-38AB510C3097}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.1069284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ATM",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/ATM",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

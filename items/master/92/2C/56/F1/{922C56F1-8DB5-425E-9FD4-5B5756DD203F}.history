@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{922C56F1-8DB5-425E-9FD4-5B5756DD203F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.6985249Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KMiddleton",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KMiddleton",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

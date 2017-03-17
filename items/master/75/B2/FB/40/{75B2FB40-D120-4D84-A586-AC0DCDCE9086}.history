@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75B2FB40-D120-4D84-A586-AC0DCDCE9086}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.0449167Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Offices",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices",
+    "template": "Office Branch Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

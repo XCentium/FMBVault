@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88D93398-47CB-428C-8664-53D506EF6A44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.7999298Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "test2",
+    "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons/test2",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

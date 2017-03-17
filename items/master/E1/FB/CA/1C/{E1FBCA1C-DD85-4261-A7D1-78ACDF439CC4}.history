@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1FBCA1C-DD85-4261-A7D1-78ACDF439CC4}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.2289212Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logout",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Accounts Menu/Logout",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

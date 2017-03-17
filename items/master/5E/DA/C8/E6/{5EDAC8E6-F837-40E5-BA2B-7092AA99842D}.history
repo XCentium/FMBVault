@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5EDAC8E6-F837-40E5-BA2B-7092AA99842D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.6189225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Juan Arreola",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Juan Arreola",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

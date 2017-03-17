@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF0A7C6A-117E-4E30-9A3B-2ADCD23C7E1F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.4659232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Open Visit Details Panel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar/Open Visit Details Panel",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

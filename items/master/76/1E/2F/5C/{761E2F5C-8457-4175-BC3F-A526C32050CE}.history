@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{761E2F5C-8457-4175-BC3F-A526C32050CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:52.9085364Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Longitude",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Longitude",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

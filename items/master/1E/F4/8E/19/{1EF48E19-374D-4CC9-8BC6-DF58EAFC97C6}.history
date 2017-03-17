@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EF48E19-374D-4CC9-8BC6-DF58EAFC97C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.9039239Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gold Checking Debit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Products/Gold Checking Debit Card",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

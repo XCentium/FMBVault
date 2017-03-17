@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F9649CA-0E78-47EE-B432-9CE6C1D39FCD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.8489216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sonia Yenche",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Tustin/Sonia Yenche",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

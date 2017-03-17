@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE7C0E8A-37F1-41D7-A1DC-9990A97B93CE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.9129291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Download",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F366176E-2C2B-4AF2-B356-BCF8BD657C58}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.6779294Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News Article",
+    "itemPath": "/sitecore/layout/Renderings/Feature/News/News Article",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

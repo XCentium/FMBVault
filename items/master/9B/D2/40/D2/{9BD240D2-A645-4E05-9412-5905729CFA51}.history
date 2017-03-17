@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9BD240D2-A645-4E05-9412-5905729CFA51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.7735803Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Point",
+    "itemPath": "/sitecore/templates/Feature/Maps/_MapPoint/Map Point",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

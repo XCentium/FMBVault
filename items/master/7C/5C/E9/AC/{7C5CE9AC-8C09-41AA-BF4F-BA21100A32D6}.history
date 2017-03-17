@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C5CE9AC-8C09-41AA-BF4F-BA21100A32D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.3579224Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compare-Money-Market-Account Right Header",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Online Account/Compare-Money-Market-Account Right Header",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

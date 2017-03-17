@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51755668-2A84-4625-9817-F4FF938CC527}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.6765771Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasFormFields",
+    "itemPath": "/sitecore/templates/Feature/Forms/_HasFormFields",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

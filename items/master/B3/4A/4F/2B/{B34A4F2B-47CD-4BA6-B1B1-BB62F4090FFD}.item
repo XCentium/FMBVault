@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {B34A4F2B-47CD-4BA6-B1B1-BB62F4090FFD}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Columns/col-narrow-3
+parent: {D046E7A5-9EE2-4CBA-8484-C601561F66D9}
+name: col-narrow-3
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20170120T172929:636205301698630000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 12
+
+col-narrow-3
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 272
+
+{F6A129D3-512C-4F38-9BDD-A356F43DC1A1}|{E0A7702E-2256-4D22-A0EA-B4079CAAB774}|{2909C67B-7034-4E4B-843F-1EF123354888}|{97448B3C-0542-4ECF-AA72-0A739306CFEF}|{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}|{709513D0-52B1-4FA1-AB10-439F4258E273}|{DA7435B8-F124-4422-A44C-24E4D4F52393}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----version----
+language: en
+version: 1
+revision: b9dab43f-e80c-4632-9695-14640392d527
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150921T020150Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b9dab43f-e80c-4632-9695-14640392d527
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T185610Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

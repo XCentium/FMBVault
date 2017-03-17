@@ -1,0 +1,119 @@
+----item----
+version: 1
+id: {9B3B85E0-44F4-4B8B-9A7B-7355AB495547}
+database: master
+path: /sitecore/content/FMBCom/Home/Business/Payroll Services
+parent: {B0BE8AE0-7814-4443-88D0-DBD64C12A185}
+name: Payroll Services
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170210T213626:636223593863270000
+
+----version----
+language: en
+version: 1
+revision: de58ebec-e253-4db8-92bc-e6d21293868c
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 16
+
+Payroll Services
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1591
+
+<p>Pay employees with ease. Save time and money by allowing Telepayroll, Inc. to handle your payroll services and tax payment processing needs &ndash; from direct deposit, to time clock interfaces, to HR solutions. Whether you have one employee or thousands, Telepayroll&reg; will work with you to find the best solution for your company. A family owned and operated employee payroll business since 1963, Telepayroll is dedicated to delivering superior customer service and value-added products, so that you have the time to focus on growing your business.</p>
+<p><strong>Employee Payroll Services include:</strong></p>
+<ul>
+    <li>Online access to payroll processing 24/7</li>
+    <li>Employee self-service access to Form W-2, paycheck stubs, vacation balances</li>
+    <li>Hundreds of reports available at no charge</li>
+    <li>General Ledger tracking and reporting</li>
+    <li>Local decision makers and service personnel</li>
+    <li>Workers&rsquo; Compensation Insurance and other business services available</li>
+</ul>
+<p><strong>Contact your <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">local branch</a> for a personal referral or <a href="http://www.telepayroll.com/" target="_blank">visit Telepayroll and get started processing today</a>.</strong></p>
+<p><strong><a href="~/link.aspx?_id=AB4BAC5A4010405DAAB556FF12D6CE95&amp;_z=z"><img height="90" alt="Business Calculators" width="400" src="-/media/07C82FB67432451EBC6FD4CBF7D95413.ashx?h=90&amp;w=400&amp;hash=F96F8CAADAD2D23E4B05985AD04973772CA52DC3" style="height: 90px; width: 400px;"></a></strong></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 16
+
+Payroll Services
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 53
+
+Payroll Services Designed to Help Your Business | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 124
+
+Discover how payroll services can help save you time with direct deposit, online access to payroll processing and much more.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 797
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{9352A114-BE3E-4AB9-8D01-FED17DAFBD16}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{5C56F6D4-C4CC-4022-ADBA-CA6BFD6F94D7}" p:after="r[@uid='{9352A114-BE3E-4AB9-8D01-FED17DAFBD16}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{2D1CF011-0517-4901-B202-8A587292DC5E}" p:after="r[@uid='{5C56F6D4-C4CC-4022-ADBA-CA6BFD6F94D7}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170210T213626Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+de58ebec-e253-4db8-92bc-e6d21293868c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170220T175157Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

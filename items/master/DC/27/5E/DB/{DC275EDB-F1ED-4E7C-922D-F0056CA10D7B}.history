@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC275EDB-F1ED-4E7C-922D-F0056CA10D7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.5129224Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Charles Garcia",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Newport Beach/Charles Garcia",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

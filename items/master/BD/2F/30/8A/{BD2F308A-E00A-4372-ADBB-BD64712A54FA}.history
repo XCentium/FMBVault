@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD2F308A-E00A-4372-ADBB-BD64712A54FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.9525371Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dark",
+    "itemPath": "/sitecore/system/Settings/Foundation/Theming/Background Types/Dark",
+    "template": "Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

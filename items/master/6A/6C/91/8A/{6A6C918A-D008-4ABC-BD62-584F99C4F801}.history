@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A6C918A-D008-4ABC-BD62-584F99C4F801}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.7899218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "East Long Beach",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/East Long Beach",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

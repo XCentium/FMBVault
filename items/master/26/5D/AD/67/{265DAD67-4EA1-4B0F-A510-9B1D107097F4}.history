@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{265DAD67-4EA1-4B0F-A510-9B1D107097F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.2809223Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/Savings Accounts",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A92C04FE-9158-47C5-BCA2-14FCA32FF772}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.8369283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Habitat Getting Started Video",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Habitat/Habitat Getting Started Video",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

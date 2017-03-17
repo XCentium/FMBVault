@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3FDDA0EA-96EF-4533-B658-E071A2A8E052}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.9635807Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnableMapTypeControl",
+    "itemPath": "/sitecore/templates/Feature/Maps/_MapRenderingParameters/Map Rendering Parameters/EnableMapTypeControl",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

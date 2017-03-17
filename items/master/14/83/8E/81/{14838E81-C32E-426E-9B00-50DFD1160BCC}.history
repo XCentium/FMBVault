@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14838E81-C32E-426E-9B00-50DFD1160BCC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.6389282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tustin",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Tustin",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

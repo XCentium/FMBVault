@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78DA4C26-A0F4-4B11-817D-134A0662D60D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.9299213Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chip Card Technology",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

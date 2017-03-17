@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E45EC7B0-94DD-405C-876A-96E0844FE1FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:19.1715263Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/media library/Images/Social/Connector",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

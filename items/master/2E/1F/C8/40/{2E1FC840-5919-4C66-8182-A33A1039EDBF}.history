@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E1FC840-5919-4C66-8182-A33A1039EDBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:01.8015423Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is less than or equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than or equal to",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

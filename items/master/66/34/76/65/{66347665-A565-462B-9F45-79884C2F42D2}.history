@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66347665-A565-462B-9F45-79884C2F42D2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.5459229Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Invalid data source template",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Alerts/Friendly/Invalid data source template",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,88 @@
+----item----
+version: 1
+id: {C02A8EFD-1C00-4E5E-9AA6-422DC8D522B7}
+database: master
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part III Service Above Self
+parent: {F0708F4F-F014-4075-8365-0B9584A13CA5}
+name: Part III Service Above Self
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170309T011331:636246188110570000
+
+----version----
+language: en
+version: 1
+revision: ac2ade95-d4ba-4005-908c-8459f64cf71c
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 29
+
+Part III: Service Above Self.
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 2333
+
+<p>Friends,
+</p>
+<p>
+<img height="340" alt="Henry Walker" width="240" src="-/media/8F2D74DCF1E54FACBA595EB927478C3F.ashx" style="float: right;">As President and fourth generation leader of Farmers &amp; Merchants Bank, I&rsquo;ve grown up under the leadership and mentoring of my father, my grandfather and, of course, the legacy of my great grandfather, F&amp;M founder C.J. Walker and his wife Carrie. They taught us to do what is best for others. When I think about Service Above Self, I am reminded of a story about C.J.; every day he would walk from 4th and Cedar to his office in Downtown Long Beach, where he would pass the same grocery store. Once a week he would hand the owner money and say &ldquo;This is for someone that cannot afford a meal.&rdquo; C.J. truly thought and acted in the best interest of others, and it is C.J. that we try to emulate even today here at F&amp;M.
+</p>
+<p>
+At Farmers &amp; Merchants Bank, Service Above Self means putting our clients&rsquo; and communities&rsquo; needs ahead of our own. Most banks don&rsquo;t embrace this philosophy, but we do. Our goal is to build relationships through which our clients benefit long-term, and therefore we benefit by their continued success and trust in us. It&rsquo;s a true relationship, a two-way street.
+</p>
+<p>Today it is our responsibility to carry on this type of caring, Service Above Self attitude, and something that we take ownership in doing, to preserve and pass on to the future generations of the bank. Every year F&amp;M donates back to hundreds of local non-profits and religious organizations. These organizations put others before themselves, and are a part of the fabric of our communities that we serve, and we believe in them and their missions.
+</p>
+<p>
+Service Above Self is deeply rooted in our heritage, tradition, and F&amp;M&rsquo;s mission. It&rsquo;s something we&rsquo;ll continue to genuinely provide to our clients, communities, shareholders, and employees, because it is just as important to us now as it was in 1907, when C.J. would visit the same grocery store every week, and hand the owner money so that someone less fortunate could eat.</p>
+<p>Sincerely,</p>
+<p><img height="63" alt="Henry Walker Signature" width="300" src="-/media/1B3D5A125E294CA7A58CF5F50D0F23B1.ashx"></p>
+<p>W. Henry Walker<br>
+President</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T011331Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ac2ade95-d4ba-4005-908c-8459f64cf71c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T011531Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

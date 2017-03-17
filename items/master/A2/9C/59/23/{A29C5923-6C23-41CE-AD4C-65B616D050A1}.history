@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A29C5923-6C23-41CE-AD4C-65B616D050A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:34.2289385Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost per Day",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Day",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

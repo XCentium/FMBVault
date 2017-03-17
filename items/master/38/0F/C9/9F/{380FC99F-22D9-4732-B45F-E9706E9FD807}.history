@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{380FC99F-22D9-4732-B45F-E9706E9FD807}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.3629297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banner Zone",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Banner/Banner Zone",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

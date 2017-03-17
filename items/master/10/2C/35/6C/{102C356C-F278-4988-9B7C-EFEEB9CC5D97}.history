@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{102C356C-F278-4988-9B7C-EFEEB9CC5D97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.2225839Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OfficeHours",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/OfficeHours",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

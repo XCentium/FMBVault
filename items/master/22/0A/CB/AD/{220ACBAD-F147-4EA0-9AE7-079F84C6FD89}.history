@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{220ACBAD-F147-4EA0-9AE7-079F84C6FD89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.3295384Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "satellite",
+    "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types/satellite",
+    "template": "Map Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

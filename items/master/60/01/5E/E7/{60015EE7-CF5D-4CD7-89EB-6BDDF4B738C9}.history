@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60015EE7-CF5D-4CD7-89EB-6BDDF4B738C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.6269219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking-Some-Account-Features",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Checking-Some-Account-Features",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

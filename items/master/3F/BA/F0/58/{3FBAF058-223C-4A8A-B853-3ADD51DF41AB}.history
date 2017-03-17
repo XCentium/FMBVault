@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3FBAF058-223C-4A8A-B853-3ADD51DF41AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:30.7645301Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Louisiana",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Louisiana",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

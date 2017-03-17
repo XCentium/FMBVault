@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2299A134-B64F-4A34-83EA-54B3E4B3A6F0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.9269282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Examples",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Examples",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{636CFCDF-6BE6-41DF-A2D9-528ACECDB2D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.0115856Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Social",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

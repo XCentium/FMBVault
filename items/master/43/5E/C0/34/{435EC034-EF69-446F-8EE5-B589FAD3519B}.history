@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{435EC034-EF69-446F-8EE5-B589FAD3519B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.8789292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Architecture Introduction",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Architecture Introduction",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

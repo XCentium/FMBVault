@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F15AF1C2-AFBC-4B7D-B968-0A66FCB390D5}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.3549216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Password",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Password",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

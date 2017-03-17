@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1AC6B4F-ED8F-40F3-9BD3-5D1162A3B9AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.4939206Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Account",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Online Account",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

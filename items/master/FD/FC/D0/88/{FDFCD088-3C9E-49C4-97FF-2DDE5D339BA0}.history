@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.4849300Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Teaser with Image and Summary",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Content Teaser with Image and Summary",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

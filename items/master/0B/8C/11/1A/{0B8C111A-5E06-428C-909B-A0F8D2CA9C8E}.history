@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B8C111A-5E06-428C-909B-A0F8D2CA9C8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.6819282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "About",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/About",
+    "template": "Media Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

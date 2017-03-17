@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{744A8D1F-EE4D-41ED-ABED-08DBF34E755F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.8575381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Th",
+    "itemPath": "/sitecore/system/Settings/Feature/Teasers/Icons/Th",
+    "template": "Icon",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

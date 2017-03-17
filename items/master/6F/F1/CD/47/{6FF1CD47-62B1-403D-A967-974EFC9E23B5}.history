@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FF1CD47-62B1-403D-A967-974EFC9E23B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.5299285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "home-hero-multiple",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/home-hero-multiple",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

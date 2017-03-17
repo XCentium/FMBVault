@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{793676A4-99D4-495D-AAD3-9A187C48FC80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.6499287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SocialMenu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/SocialMenu",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

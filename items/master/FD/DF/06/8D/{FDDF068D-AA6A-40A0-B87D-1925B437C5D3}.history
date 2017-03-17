@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDDF068D-AA6A-40A0-B87D-1925B437C5D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.9209228Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Platinum Checking Debit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Products/Platinum Checking Debit Card",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E47D28E7-14FE-474B-9F80-1D90039DDEF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:02.1639307Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brochures",
+    "itemPath": "/sitecore/media library/Brochures",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

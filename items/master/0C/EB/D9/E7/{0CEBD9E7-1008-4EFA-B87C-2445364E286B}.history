@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CEBD9E7-1008-4EFA-B87C-2445364E286B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:03.1695381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KeyCode",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Button/Data/KeyCode",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

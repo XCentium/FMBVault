@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D12F4206-FA74-4A97-BE9E-E1B527B5FE4D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.9989229Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Alerts",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

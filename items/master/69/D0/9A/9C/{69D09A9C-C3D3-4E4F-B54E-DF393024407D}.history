@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69D09A9C-C3D3-4E4F-B54E-DF393024407D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.5559204Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business-Checking-Non-Analyzed",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Business-Checking-Non-Analyzed",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

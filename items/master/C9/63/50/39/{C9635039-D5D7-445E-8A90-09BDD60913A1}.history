@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9635039-D5D7-445E-8A90-09BDD60913A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.2889390Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Types",
+    "itemPath": "/sitecore/templates/Project/Common/Page Types",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB01F9FC-C187-46B3-AB0B-97A8468D8303}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:15.8489413Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Workflow/Command",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

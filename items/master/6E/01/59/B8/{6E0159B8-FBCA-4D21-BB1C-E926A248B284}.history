@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E0159B8-FBCA-4D21-BB1C-E926A248B284}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.2129290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Locations Brochures/Personal Banking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

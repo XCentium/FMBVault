@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF1E34B0-27E7-4861-BECD-C0BC58295F77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.7910211Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Class",
+    "itemPath": "/sitecore/templates/Foundation/Theming/Style/CSS/Class",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

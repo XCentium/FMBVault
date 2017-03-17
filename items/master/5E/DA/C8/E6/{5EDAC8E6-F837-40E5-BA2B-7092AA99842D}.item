@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {5EDAC8E6-F837-40E5-BA2B-7092AA99842D}
+database: master
+path: /sitecore/content/FMBCom/Global/Employees/Regional Managers/Juan Arreola
+parent: {0FA8F6BE-C6AE-41B0-9DCB-1C5858D5D4AA}
+name: Juan Arreola
+master: {00000000-0000-0000-0000-000000000000}
+template: {9671E92A-4AD3-46DF-AFF1-1542FD3D5BD9}
+templatekey: Employee
+created: 20170223T200026:636234768265630000
+
+----version----
+language: en
+version: 1
+revision: 6d1ea12f-124a-4396-8133-c62f14448452
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 12
+
+Juan Arreola
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 16
+
+Regional Manager
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{CD91E6E8-53A7-4911-99AD-63ECB3BA7958}" ></image>
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 14
+
+(562) 602-8378
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 20
+
+juan.arreola@fmb.com
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Juan Arreola
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170223T200026Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6d1ea12f-124a-4396-8133-c62f14448452
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T172807Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9007C7C3-5379-4FA5-A8EC-A17FED631AA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:12.0725184Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBLANDING-Main-1920x600",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/FMBLANDING-Main-1920x600",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{005ED83C-2D2F-4D07-A7A9-EB64D873DE46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.5455796Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OrganisationPhone",
+    "itemPath": "/sitecore/templates/Feature/Identity/_Identity/Organisation/OrganisationPhone",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

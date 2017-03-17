@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F22FCA8-ABAF-4E27-ABB2-4986BC657755}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.6945254Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-ArchitectureBG",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-ArchitectureBG",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

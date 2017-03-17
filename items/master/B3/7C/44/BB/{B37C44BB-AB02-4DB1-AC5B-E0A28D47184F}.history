@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B37C44BB-AB02-4DB1-AC5B-E0A28D47184F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:31.1569386Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ribbon",
+    "itemPath": "/sitecore/templates/System/Ribbon",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD762E2F-71F8-44AC-AE55-22CDB29CDBA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.0125807Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnableRotateControl",
+    "itemPath": "/sitecore/templates/Feature/Maps/_MapRenderingParameters/Map Rendering Parameters/EnableRotateControl",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

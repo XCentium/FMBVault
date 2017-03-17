@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7E19D66-2DE4-4124-BC64-D52C69AA98FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:38.5219176Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How Trusteer Works",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/How Trusteer Works",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

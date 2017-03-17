@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42668083-8373-45D4-951A-1486FB6F3134}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.0689159Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Discovery Cube",
+    "itemPath": "/sitecore/content/FMBCom/Home/Testimonials/Discovery Cube",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

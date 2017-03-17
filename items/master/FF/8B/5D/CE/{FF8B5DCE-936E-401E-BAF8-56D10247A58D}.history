@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF8B5DCE-936E-401E-BAF8-56D10247A58D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:16.5649418Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/__Standard Values",
+    "template": "Standard Comment Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{907018D8-CC53-4D34-AD67-3FDF0A25832A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.1899282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Details",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Details",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

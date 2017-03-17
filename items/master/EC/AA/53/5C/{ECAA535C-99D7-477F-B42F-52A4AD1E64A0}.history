@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECAA535C-99D7-477F-B42F-52A4AD1E64A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.6909215Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remote Deposit Capture",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Remote Deposit Capture",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

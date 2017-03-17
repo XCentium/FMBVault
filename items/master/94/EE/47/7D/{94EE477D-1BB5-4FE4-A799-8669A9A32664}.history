@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94EE477D-1BB5-4FE4-A799-8669A9A32664}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.2199291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Main Navigation/Default/Personal",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

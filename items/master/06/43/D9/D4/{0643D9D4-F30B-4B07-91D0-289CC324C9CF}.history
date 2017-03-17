@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0643D9D4-F30B-4B07-91D0-289CC324C9CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:28.7879386Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Root",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Content Types/Site Root",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

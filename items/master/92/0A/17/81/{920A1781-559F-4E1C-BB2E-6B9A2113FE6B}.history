@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{920A1781-559F-4E1C-BB2E-6B9A2113FE6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.9789389Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Media/Media Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

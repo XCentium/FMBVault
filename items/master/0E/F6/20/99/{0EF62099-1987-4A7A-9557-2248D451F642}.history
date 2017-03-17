@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0EF62099-1987-4A7A-9557-2248D451F642}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.2839287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CaliforniaClosets",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Images/CaliforniaClosets",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

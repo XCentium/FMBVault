@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DC75F55-D18A-401A-AB5C-28F361E01BE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.6405795Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_FormFieldOptionGroup",
+    "itemPath": "/sitecore/templates/Feature/Forms/_FormFieldOptionGroup",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67918816-9524-4666-87B3-C07AFF9CEBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:16.1259417Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Role Name",
+    "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Role Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

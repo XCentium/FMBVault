@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2FA7BEA-2953-4785-AE6E-DD82390781C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.2479158Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Awards and Recognition",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Awards and Recognition",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

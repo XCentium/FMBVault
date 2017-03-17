@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDC6F993-6689-432E-90C7-B2865947DFD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.4149297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Accordion",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Accordion",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

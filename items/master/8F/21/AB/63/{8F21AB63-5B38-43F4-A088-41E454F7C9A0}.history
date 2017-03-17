@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F21AB63-5B38-43F4-A088-41E454F7C9A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:12.6645233Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "girl-flag",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/girl-flag",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

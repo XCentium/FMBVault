@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2D70A72-2997-4952-88F7-66FD5A58F5D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.8529236Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bill Pay",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/PersonalBankingProducts/Bill Pay",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

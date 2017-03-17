@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{728B942D-C6C7-4321-8B22-81B71BBD336F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.7389159Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/content/FMBCom/Home/Security",
+    "template": "Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

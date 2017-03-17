@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1E8E6B51-E5BA-4D7A-B8A1-38ADEE35E492}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.5059297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Locations",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations",
+    "template": "Map Points Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

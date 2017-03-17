@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A9F7BDC-7ED9-4A05-A322-5EF7848799C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:36.9005305Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mozambique",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mozambique",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

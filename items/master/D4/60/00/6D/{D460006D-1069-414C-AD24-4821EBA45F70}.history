@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D460006D-1069-414C-AD24-4821EBA45F70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.3589294Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Results",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Search/Search Results",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

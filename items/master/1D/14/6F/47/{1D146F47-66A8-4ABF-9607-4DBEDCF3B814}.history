@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D146F47-66A8-4ABF-9607-4DBEDCF3B814}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.0629296Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/Login",
+    "template": "Modal Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

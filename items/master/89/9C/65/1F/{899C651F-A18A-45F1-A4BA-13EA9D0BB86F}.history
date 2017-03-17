@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{899C651F-A18A-45F1-A4BA-13EA9D0BB86F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.4825246Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auctioncomweb",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/Auctioncomweb",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

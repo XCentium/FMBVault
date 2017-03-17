@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFAB401B-8D7C-4172-A82A-AE32B7D2C6C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.0385787Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Summary",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_LoginTeaser/Content/Summary",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

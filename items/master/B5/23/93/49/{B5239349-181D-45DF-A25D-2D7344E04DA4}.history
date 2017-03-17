@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5239349-181D-45DF-A25D-2D7344E04DA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.9399241Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "April 16 - Los Altos",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/April 16 - Los Altos",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

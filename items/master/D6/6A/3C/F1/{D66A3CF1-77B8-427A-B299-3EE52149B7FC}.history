@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D66A3CF1-77B8-427A-B299-3EE52149B7FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.3339182Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Landing Pages",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

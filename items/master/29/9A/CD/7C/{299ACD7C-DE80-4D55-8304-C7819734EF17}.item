@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {299ACD7C-DE80-4D55-8304-C7819734EF17}
+database: master
+path: /sitecore/content/FMBCom/Global/Forms/Form Recipients/default
+parent: {1B836BA6-4778-45A9-B701-57F009EC0A9D}
+name: default
+master: {00000000-0000-0000-0000-000000000000}
+template: {31042B89-7029-4812-9570-B67742E644B2}
+templatekey: Form Recipients
+created: 20170214T040851:636226421311100000
+
+----version----
+language: en
+version: 1
+revision: 962cd7b0-8470-4202-bc74-e7731235c6ae
+
+----field----
+field: {FBEF8988-3BC8-409E-A0A2-D63EBE412A6D}
+name: Recipients
+key: recipients
+content-length: 91
+
+james.bridges@fmb.com;merilee.langdon@fmb.com;haroun.ahmady@fmb.com;michael.liwanag@fmb.com
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170209T204820Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+962cd7b0-8470-4202-bc74-e7731235c6ae
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170214T040851Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

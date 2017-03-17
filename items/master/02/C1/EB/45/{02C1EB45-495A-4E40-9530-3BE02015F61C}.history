@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02C1EB45-495A-4E40-9530-3BE02015F61C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.6710204Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Foundation/Theming/ParametersTemplate_HasBackground/__Standard Values",
+    "template": "ParametersTemplate_HasBackground",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

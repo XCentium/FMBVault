@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38D38E3B-0A34-4F16-A91F-967F8519E14A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:31.5495295Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Response Status Codes",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Response Status Codes",
+    "template": "Response Status Code Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

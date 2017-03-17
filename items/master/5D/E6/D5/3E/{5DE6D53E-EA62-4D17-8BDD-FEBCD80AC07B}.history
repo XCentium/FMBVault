@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:53.7195371Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Template",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Information/Item Template",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

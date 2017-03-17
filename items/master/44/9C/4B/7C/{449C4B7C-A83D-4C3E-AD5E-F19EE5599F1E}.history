@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{449C4B7C-A83D-4C3E-AD5E-F19EE5599F1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.6179206Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Coverage",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Credit-Cards-Coverage",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

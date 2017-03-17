@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6164CA83-200A-4B7B-8160-F3CB4D24DD23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.6699220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Strength Security",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Mobile Banking/Strength Security",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

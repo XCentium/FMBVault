@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5366769C-A8BA-44FC-9AA5-86388F654FBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:06.6412179Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OnlineSolutions_Web",
+    "itemPath": "/sitecore/media library/Brochures/OnlineSolutions_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

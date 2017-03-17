@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76C38283-9143-4F17-9B7D-AA53E01C5A95}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.9829211Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages This Visit",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Visits/Pages This Visit",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,83 @@
+----item----
+version: 1
+id: {7BBF2CEB-4C2D-427F-8767-BD115B298658}
+database: master
+path: /sitecore/content/FMBCom/Home/signoff
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: signoff
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170222T235228:636234043488370000
+
+----version----
+language: en
+version: 1
+revision: 82bf73e0-177c-4b2e-9e9b-3087ddceae37
+
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 338
+
+<p><span class="fa-3x" style="color: #128040;">&nbsp;</span></p>
+<p><span class="fa-3x" style="color: #128040;">Signed Off</span></p>
+<p><strong><span style="font-family: tahoma;">Thank you for choosing Farmers &amp; Merchants Bank. We look forward to serving you again soon.</span></strong></p>
+<span style="font-family: tahoma;"></span>
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 4383
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{992589BA-D5C1-455F-BCB5-529DC1E5362C}" p:before="*" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_31616dc8-ee85-4201-96c8-8207c63e061f/col-huge_f48f928b-4cad-4466-8e2a-272f9da8185b" /><r uid="{F48F928B-4CAD-4466-8E2A-272F9DA8185B}" p:after="r[@uid='{992589BA-D5C1-455F-BCB5-529DC1E5362C}']" s:ds="{706D0F92-32BB-434A-8CB6-DE56A07480B5}" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_31616dc8-ee85-4201-96c8-8207c63e061f" /><r uid="{8EBEDBB6-E825-4A58-89B8-A1DC9BBE9205}" p:after="r[@uid='{F48F928B-4CAD-4466-8E2A-272F9DA8185B}']" s:ds="{D84C8C5C-3EC1-440A-BAC9-9F8FC5A316A2}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_ec39208f-3311-4115-a684-e55937b0e839/col-narrow-3_88c17f98-f4c3-419b-a7d1-a4f08fc09636" /><r uid="{F369B0F2-BA0F-4629-AE06-C3859E933D70}" p:after="r[@uid='{8EBEDBB6-E825-4A58-89B8-A1DC9BBE9205}']" s:ds="{A5D78F70-FF48-4268-8F97-98C6EEADAA71}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_ec39208f-3311-4115-a684-e55937b0e839/col-narrow-2_88c17f98-f4c3-419b-a7d1-a4f08fc09636" /><r uid="{6B77F197-FBC0-4FEB-8C60-2D05A75475DA}" p:after="r[@uid='{F369B0F2-BA0F-4629-AE06-C3859E933D70}']" s:ds="{5CB4B570-ABAA-4CC2-96D6-C64E38786E23}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_ec39208f-3311-4115-a684-e55937b0e839/col-narrow-1_88c17f98-f4c3-419b-a7d1-a4f08fc09636" /><r uid="{88C17F98-F4C3-419B-A7D1-A4F08FC09636}" p:after="r[@uid='{6B77F197-FBC0-4FEB-8C60-2D05A75475DA}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/layoutZone/section_ec39208f-3311-4115-a684-e55937b0e839" /><r uid="{2F9D72B3-3225-41DD-9116-39706D0057EF}" p:after="r[@uid='{88C17F98-F4C3-419B-A7D1-A4F08FC09636}']" s:ds="{C97E0D4F-1790-449D-BC26-E724FFF3AAD8}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_d6488aee-eb82-4910-9710-bbe1d24db3f6/col-wide-2_db464d43-1fe5-480e-b339-f343eb7b7109" /><r uid="{977F45EF-B42B-4DF7-83D8-5BCD8B69118B}" p:after="r[@uid='{2F9D72B3-3225-41DD-9116-39706D0057EF}']" s:ds="{87DE29D9-617E-4D37-9EB4-D71FCA509B31}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_d6488aee-eb82-4910-9710-bbe1d24db3f6/col-wide-1_db464d43-1fe5-480e-b339-f343eb7b7109" /><r uid="{0F0A877A-EE11-420E-A698-AE3D051214C7}" p:after="r[@uid='{977F45EF-B42B-4DF7-83D8-5BCD8B69118B}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section_4ae51084-4d3d-4bb3-b330-ee306adab0bf/col-huge_08a6c382-733e-4c62-bfac-f1560c733179" /><r uid="{08A6C382-733E-4C62-BFAC-F1560C733179}" p:after="r[@uid='{0F0A877A-EE11-420E-A698-AE3D051214C7}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_4ae51084-4d3d-4bb3-b330-ee306adab0bf" /><r uid="{6478F458-F7FC-4411-B689-4F07AC93236A}" p:after="r[@uid='{08A6C382-733E-4C62-BFAC-F1560C733179}']" s:ds="{66567573-8F71-4D6E-AD4A-36D904B693E9}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section/col-huge_5b4fc83a-98cb-43c7-9cd4-1c76973135fe" /><r uid="{4AE51084-4D3D-4BB3-B330-EE306ADAB0BF}" p:after="r[@uid='{6478F458-F7FC-4411-B689-4F07AC93236A}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{A9F64933-1269-4B05-8868-EC52213E01E1}" p:after="r[@uid='{4AE51084-4D3D-4BB3-B330-EE306ADAB0BF}']" /><r uid="{D6488AEE-EB82-4910-9710-BBE1D24DB3F6}" p:after="r[@uid='{A9F64933-1269-4B05-8868-EC52213E01E1}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{31616DC8-EE85-4201-96C8-8207C63E061F}" p:after="r[@uid='{D6488AEE-EB82-4910-9710-BBE1D24DB3F6}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{5B4FC83A-98CB-43C7-9CD4-1C76973135FE}" p:after="r[@uid='{31616DC8-EE85-4201-96C8-8207C63E061F}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section" /><r uid="{EC39208F-3311-4115-A684-E55937B0E839}" p:after="r[@uid='{5B4FC83A-98CB-43C7-9CD4-1C76973135FE}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{DB464D43-1FE5-480E-B339-F343EB7B7109}" p:after="r[@uid='{EC39208F-3311-4115-A684-E55937B0E839}']" s:id="{1B92270B-EC01-4939-B579-0ADFEB758A95}" s:ph="/layoutZone/section_d6488aee-eb82-4910-9710-bbe1d24db3f6" /><r uid="{9D7A1F75-73CB-49A0-9C6B-24442980DF0C}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170222T235228Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+82bf73e0-177c-4b2e-9e9b-3087ddceae37
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170223T062348Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D021632-5542-41DE-8689-1574C0E9FC39}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.3999219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title With Results",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header/Title With Results",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

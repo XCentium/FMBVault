@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27BE440A-4803-4FD4-A0CC-F6DA87C4DCA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:34.5285298Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Benin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Benin",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

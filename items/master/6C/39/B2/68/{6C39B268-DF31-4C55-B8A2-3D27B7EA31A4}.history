@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6C39B268-DF31-4C55-B8A2-3D27B7EA31A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:12.7535230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "banner_LittleFlagGirl",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/banner_LittleFlagGirl",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

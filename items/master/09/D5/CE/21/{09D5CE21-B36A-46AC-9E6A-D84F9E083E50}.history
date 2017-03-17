@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09D5CE21-B36A-46AC-9E6A-D84F9E083E50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.0279281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RealEstateSeminarForm",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Forms/RealEstateSeminarForm",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{167ABA77-5172-42AF-9F9E-00299113839E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.9945857Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CustomMetaData",
+    "itemPath": "/sitecore/templates/Feature/Metadata/_PageMetadata/Metadata/CustomMetaData",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

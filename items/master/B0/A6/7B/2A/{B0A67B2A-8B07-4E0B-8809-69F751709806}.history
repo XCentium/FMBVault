@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0A67B2A-8B07-4E0B-8809-69F751709806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:12.0759412Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Tracking",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Tracking",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

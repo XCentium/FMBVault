@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16375037-AB39-4A7D-AF13-46873B541CF1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.0689216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Maps/Map",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D31F8746-4A70-467E-BA60-092A5A51EB0D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.9659290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "teaser-placeholder-1",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Teaser Placeholders/teaser-placeholder-1",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

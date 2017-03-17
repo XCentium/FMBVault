@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28BD7068-7FF6-4CE6-98E6-85CFE9967E14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.9109286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Menu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Login Menu",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

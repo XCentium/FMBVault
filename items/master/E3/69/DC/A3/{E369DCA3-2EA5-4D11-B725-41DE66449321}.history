@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E369DCA3-2EA5-4D11-B725-41DE66449321}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.1389220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Landing Page Footer - Black",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Footer - Black",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

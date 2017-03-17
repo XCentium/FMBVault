@@ -1,0 +1,128 @@
+----item----
+version: 1
+id: {9C83A991-1423-4B70-97B4-067D361AC10E}
+database: master
+path: /sitecore/content/FMBCom/Home/Personal/Credit and Debt Management
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Credit and Debt Management
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170204T000210:636217633301030000
+
+----version----
+language: en
+version: 1
+revision: d8e75dee-e8f2-40ac-852f-805159dde798
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 26
+
+Credit and Debt Management
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 996
+
+<ul>
+    <li>Accelerated Debt Payoff</li>
+    <p>Consolidating your debt is only half the battle. You still need a plan to get your debt paid in full. This calculator can show you how to accelerate your debt payoff.
+    </p>
+    <li>Cost-of-Debt Calculator</li>
+    <p>Use this calculator to see just how expensive paying interest on your debt can be.
+    </p>
+    <li>Credit Card Optimizer</li>
+    <p>The Credit Card Optimizer helps you determine the best distribution of your credit card debt.
+    </p>
+    <li>Credit Card Pay Off</li>
+    <p>Use this calculator to see what it will take to pay off your credit card balance, and what you can change to meet your repayment goals.
+    </p>
+    <li>How much do you owe?</li>
+    <p>Use this calculator as a starting point for your debt management plan.
+    </p>
+    <li>Roll-Down Your Credit Card Debt</li>
+    <p>The Credit Card Roll-Down Calculator applies two simple principles to paying off your credit card debt.
+    </p>
+</ul>
+<p>&nbsp;</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 26
+
+Credit and Debt Management
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 26
+
+Credit and Debt Management
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 99
+
+Learn how to pay off debt and much more with Credit  and Debt Management Calculators from F&M Bank.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 293
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{3AB6E161-E11A-48BE-BC12-8A74638FDB13}" p:before="*" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170204T000210Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d8e75dee-e8f2-40ac-852f-805159dde798
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170204T012528Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

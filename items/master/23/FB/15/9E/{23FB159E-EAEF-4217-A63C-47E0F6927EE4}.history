@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23FB159E-EAEF-4217-A63C-47E0F6927EE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:12.1605199Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GreenBkgrd_PMS_Match_Small",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/GreenBkgrd_PMS_Match_Small",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

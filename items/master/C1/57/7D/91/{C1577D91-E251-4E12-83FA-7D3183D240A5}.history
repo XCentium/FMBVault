@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1577D91-E251-4E12-83FA-7D3183D240A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.1589297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Congressional Cup",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Congressional Cup",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

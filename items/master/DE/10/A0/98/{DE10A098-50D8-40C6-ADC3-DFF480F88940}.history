@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE10A098-50D8-40C6-ADC3-DFF480F88940}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:09.5905172Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Video With Lightbox",
+    "itemPath": "/sitecore/media library/Feature/Media/Video With Lightbox",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A0805AD-6142-4F95-9856-0EBFE572EFF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.3729254Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How long does it take to receive a One Time PIN",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time Pin - Wires/How long does it take to receive a One Time PIN",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

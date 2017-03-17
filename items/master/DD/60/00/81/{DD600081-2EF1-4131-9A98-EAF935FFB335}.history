@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD600081-2EF1-4131-9A98-EAF935FFB335}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.7879292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM 100 Anniversary",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/About/FM 100 Anniversary",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

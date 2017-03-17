@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {D82CDF88-8B62-4D54-9EC6-8EC24EF41D14}
+database: master
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Mobile Check Deposit/Who can I contact if I have questions
+parent: {0C036E33-D1D6-44BF-BE36-41650C80FC27}
+name: Who can I contact if I have questions
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170217T222404:636229670440300000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1300
+----version----
+language: en
+version: 1
+revision: ea9064ac-a83d-4e55-a350-62f8f78c26b1
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 42
+
+13. Who can I contact if I have questions?
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 273
+
+If you need help setting up F&amp;M Mobile Check Deposit or have questions about how to use it, please call us toll-free at (866) 437-0011. Our Call Center Specialists are available 6 days a week Monday - Friday from 7:00 am-9:00 p.m. and Saturday from 8:00 am-5:00 pm PST.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 41
+
+13. Who can I contact if I have questions
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T222404Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ea9064ac-a83d-4e55-a350-62f8f78c26b1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T222434Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{710260E9-783F-4D24-B240-14BD7B3CAD79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.5919204Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking-Classic-Personal",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Checking-Classic-Personal",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73DF0E8D-17FC-4715-B2EB-FA60349C4FDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:02.7145431Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redirect Manager",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Redirect Manager",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

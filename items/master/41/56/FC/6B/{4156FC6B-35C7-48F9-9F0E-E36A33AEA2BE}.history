@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4156FC6B-35C7-48F9-9F0E-E36A33AEA2BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.3459291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Box",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Search/Search Box",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

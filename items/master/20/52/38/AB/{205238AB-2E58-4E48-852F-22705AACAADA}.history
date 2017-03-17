@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{205238AB-2E58-4E48-852F-22705AACAADA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.3289229Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login E-mail Placeholder",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Login E-mail Placeholder",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

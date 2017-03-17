@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61E9ED8D-94FE-4F2E-92E8-422DAE411E5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:05.1535442Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profiles",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Profiles",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

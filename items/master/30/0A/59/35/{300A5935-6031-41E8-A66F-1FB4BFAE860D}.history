@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{300A5935-6031-41E8-A66F-1FB4BFAE860D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.9295858Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeedRenderingProperties/__Standard Values",
+    "template": "_TwitterFeedRenderingProperties",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

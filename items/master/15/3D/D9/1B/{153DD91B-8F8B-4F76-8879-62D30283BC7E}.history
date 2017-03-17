@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{153DD91B-8F8B-4F76-8879-62D30283BC7E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.9979286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dependencies",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Dependencies",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

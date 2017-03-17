@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57D59F00-28DD-44DB-ACE5-B81B5CA11412}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:36.7345305Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mexico",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mexico",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

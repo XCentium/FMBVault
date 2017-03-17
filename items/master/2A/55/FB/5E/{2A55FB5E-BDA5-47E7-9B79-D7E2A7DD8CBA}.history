@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2A55FB5E-BDA5-47E7-9B79-D7E2A7DD8CBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.1319226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "John Russell",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Corona Del Mar/John Russell",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

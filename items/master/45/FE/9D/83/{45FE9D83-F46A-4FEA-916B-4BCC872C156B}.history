@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45FE9D83-F46A-4FEA-916B-4BCC872C156B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:19.4185860Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GroupTitle",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_HasRootTitle/Navigation/GroupTitle",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

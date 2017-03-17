@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC22E33B-99F6-4503-AF52-9A657FFD0EC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:00.5205386Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/GoalMap/__Standard Values",
+    "template": "GoalMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A03AFDBD-DD4D-4634-858B-B78C2756EE49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.4719229Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How do I reset my Security Image",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - General/How do I reset my Security Image",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

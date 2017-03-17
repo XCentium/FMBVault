@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8349A072-E388-48A9-A885-08A1D181F3DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:49.0775354Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fields",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

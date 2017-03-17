@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0A64732-3D95-4645-89B9-CD8FAD29B452}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.7999146Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "test",
+    "itemPath": "/sitecore/content/FMBCom/Home/Locations/test",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

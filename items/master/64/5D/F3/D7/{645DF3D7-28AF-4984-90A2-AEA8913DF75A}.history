@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{645DF3D7-28AF-4984-90A2-AEA8913DF75A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:30.4649368Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Analytics",
+    "itemPath": "/sitecore/templates/System/Analytics",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59B495B2-3901-4DD6-857D-25BD87F7DCE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.2059191Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Debt Consolidation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Debt Consolidation",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2F572CD-B60D-4D44-BB9C-07FBB68DE621}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.6509232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Primary Consent to share Checking Info",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Personal Checking Accounts/Primary Consent to share Checking Info",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

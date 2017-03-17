@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6F44D7C-95FB-4007-A261-EE4E6BAFE80F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:07.4132176Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TrusteerDetailedInstructionsPC",
+    "itemPath": "/sitecore/media library/Brochures/TrusteerDetailedInstructionsPC",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

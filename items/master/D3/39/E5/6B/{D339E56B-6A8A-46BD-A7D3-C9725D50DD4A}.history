@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D339E56B-6A8A-46BD-A7D3-C9725D50DD4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.1975811Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_MediaSiteExtension",
+    "itemPath": "/sitecore/templates/Feature/Media/_MediaSiteExtension",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8756E429-2D6A-45CC-A118-078F7B0352D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.5979281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Banking Services/Checking Accounts",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

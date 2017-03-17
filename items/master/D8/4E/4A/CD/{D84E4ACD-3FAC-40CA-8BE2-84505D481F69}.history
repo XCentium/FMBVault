@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D84E4ACD-3FAC-40CA-8BE2-84505D481F69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.8249288Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Money Market Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Banking Services/Money Market Accounts",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

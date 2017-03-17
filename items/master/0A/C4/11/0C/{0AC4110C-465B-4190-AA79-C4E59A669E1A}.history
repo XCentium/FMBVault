@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0AC4110C-465B-4190-AA79-C4E59A669E1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.3685241Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KTiber",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/KTiber",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

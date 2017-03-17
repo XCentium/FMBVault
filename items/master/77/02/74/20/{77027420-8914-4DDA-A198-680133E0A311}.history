@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77027420-8914-4DDA-A198-680133E0A311}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.6469288Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rossmoor",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Rossmoor",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

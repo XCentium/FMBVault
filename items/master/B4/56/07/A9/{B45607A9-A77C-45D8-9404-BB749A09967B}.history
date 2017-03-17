@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B45607A9-A77C-45D8-9404-BB749A09967B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.1249212Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What happens if I enter the One-Time PIN incorrectly",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time PIN - OLB/What happens if I enter the One-Time PIN incorrectly",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

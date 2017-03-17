@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8C9222D-4F78-4D88-AE14-02CD9B2B3C02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.8605799Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/templates/Feature/Forms/_EmailRecipients/Email",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8965F9D-DDB4-4B8F-BF40-AFCF3C9AE09F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.6340186Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fixed height",
+    "itemPath": "/sitecore/templates/Foundation/Theming/ParametersTemplate_FixedHeight/Page Layout/Fixed height",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

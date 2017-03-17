@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93265539-4152-4789-A780-C95DBA16F75A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:38.4315339Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ukraine",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ukraine",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

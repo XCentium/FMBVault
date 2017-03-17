@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C0E24B4-E786-40B7-A9C6-58C7745B244E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.4135250Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "kwalker-sig",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/kwalker-sig",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

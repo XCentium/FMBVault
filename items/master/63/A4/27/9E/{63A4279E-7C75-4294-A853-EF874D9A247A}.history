@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63A4279E-7C75-4294-A853-EF874D9A247A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.4369281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Huntington Beach",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Huntington Beach",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

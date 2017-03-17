@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CEAFACE6-67FA-4436-A229-95C5426E0E6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:30.1569389Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Requested Expression",
+    "itemPath": "/sitecore/templates/Redirect Module/Versioned Redirect Pattern/Information/Requested Expression",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

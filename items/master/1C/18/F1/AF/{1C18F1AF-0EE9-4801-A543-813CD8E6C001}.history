@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C18F1AF-0EE9-4801-A543-813CD8E6C001}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:16.6935242Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomePorch",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/HomePorch",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

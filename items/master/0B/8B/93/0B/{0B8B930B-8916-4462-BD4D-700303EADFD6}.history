@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B8B930B-8916-4462-BD4D-700303EADFD6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:05.2835378Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Code",
+    "itemPath": "/sitecore/templates/System/Rules/Action/Script/Code",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

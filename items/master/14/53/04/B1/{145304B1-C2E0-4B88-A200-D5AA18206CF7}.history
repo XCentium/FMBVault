@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{145304B1-C2E0-4B88-A200-D5AA18206CF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:23.9175250Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn ads",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Paid search/LinkedIn ads",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

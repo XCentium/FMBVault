@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69A846D9-4C7F-435C-A8DC-87E2D7359CFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.1605856Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BlogLink",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Social/BlogLink",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C87F89D-A068-440F-A07A-FC8CAEFC98C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.4045238Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winspire_JeffCova-web",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/Winspire_JeffCova-web",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

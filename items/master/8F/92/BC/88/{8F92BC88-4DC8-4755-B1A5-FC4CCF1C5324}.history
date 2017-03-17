@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F92BC88-4DC8-4755-B1A5-FC4CCF1C5324}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.1285244Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "favicon",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/favicon",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87050349-196C-405F-971F-2FD2DE20FCF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.4559286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Credits and Loans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Credits and Loans",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

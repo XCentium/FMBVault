@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE0BE8BC-260F-4521-B2CD-8DF89DF39ABD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.7349231Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/PersonalBankingProducts/Checking",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

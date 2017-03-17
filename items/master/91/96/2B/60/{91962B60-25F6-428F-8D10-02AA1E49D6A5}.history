@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91962B60-25F6-428F-8D10-02AA1E49D6A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:23.5785866Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_PageAssets",
+    "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

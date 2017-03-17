@@ -1,0 +1,119 @@
+----item----
+version: 1
+id: {7886808A-38DC-4505-8763-122C783956EB}
+database: master
+path: /sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish/Publish/Notify Author
+parent: {9002059B-3DF7-4D20-AB13-11AB4F311581}
+name: Notify Author
+master: {00000000-0000-0000-0000-000000000000}
+template: {E45642AD-3BB2-448D-9959-F81A9AB6D23C}
+templatekey: Workflow Email
+created: 20170313T222820:636250409008930000
+
+----field----
+field: {2D26671D-7D16-4142-B0CC-2E440AC5B1E2}
+name: From
+key: from
+content-length: 20
+
+noreply@xcentium.net
+----field----
+field: {E2332DF1-4596-4179-9EF6-0BBC40FCFEBC}
+name: Subject
+key: subject
+content-length: 54
+
+Published: Content is approved and has been published.
+----field----
+field: {0614FB6D-7B90-496E-B4A7-F79F71114D74}
+name: Message
+key: message
+content-length: 219
+
+<p>
+There is an item that has been published:
+<br>
+Item: $itemName$<br>
+Path: $itemPath$<br>
+Version: $itemVersion$<br>
+<a href="$publishedItemUrl$">Click here to view item</a>
+</p>
+<p>
+Comments:<br>
+$itemComments$
+</p>
+----field----
+field: {3A8C415A-9082-4CC3-8CB9-75CAE3AF4628}
+name: Type
+key: type
+content-length: 86
+
+FMB.Foundation.Utilities.Workflows.Actions.SendWorkflowEmail, FMB.Foundation.Utilities
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----version----
+language: en
+version: 1
+revision: 4c0e7438-4270-4f74-99e3-87d3941031f1
+
+----field----
+field: {D89D77CB-A980-46BF-B16C-F1F3D1C4EE2C}
+name: CC
+key: cc
+content-length: 0
+
+
+----field----
+field: {AF0E1C25-6D4D-4840-B9C9-32B214FE1730}
+name: Rules
+key: rules
+content-length: 38
+
+{534B6E19-5FB5-488D-ABAA-C310D173B20C}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170308T234044Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4c0e7438-4270-4f74-99e3-87d3941031f1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T234807Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

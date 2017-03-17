@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC5C2E0C-355B-45FD-9112-34D3CBE7B038}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.5909289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Footer",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

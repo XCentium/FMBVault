@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {E1A98D32-F527-41EE-8C35-A5FD7605B955}
+database: master
+path: /sitecore/content/FMBCom/Home/Customer Service/Frequently Asked Questions
+parent: {F349213F-5583-4578-BB65-5C6DF63C7136}
+name: Frequently Asked Questions
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170222T190437:636233870774730000
+
+----version----
+language: en
+version: 1
+revision: e279f0d6-ed96-4403-8aa8-d0beb7624258
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 26
+
+frequently asked questions
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 31
+
+Frequently Asked Questions FAQs
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 47
+
+Tools & Support FAQs | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 75
+
+Frequently Asked Questions about Farmers & Merchants Bank and our services.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 26
+
+Frequently Asked Questions
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2699
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{61853483-717B-4477-A6DF-2C2CA86E5AB6}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{671A2199-A25F-4DE3-81F0-0293ED3D3D6B}" p:after="r[@uid='{61853483-717B-4477-A6DF-2C2CA86E5AB6}']" s:ds="{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/col-narrow-1" /><r uid="{26FB2975-A27F-4515-BB7E-5576605353F3}" p:after="r[@uid='{671A2199-A25F-4DE3-81F0-0293ED3D3D6B}']" s:ds="{E8A88D11-0354-4FB3-BFE6-FBD63DEFAD92}" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_1be3f2e4-9838-45a1-94b8-aa8325f9d6f1" /><r uid="{02B5FBF6-EAC5-47BA-8735-70562123E1BC}" p:after="r[@uid='{26FB2975-A27F-4515-BB7E-5576605353F3}']" s:ds="{C9A73D4B-A0BD-4C3A-9EF0-E8CC8EA8BE79}" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:ph="/layoutZone/section-narrow/col-wide-1_821e7fe7-6464-4cfb-a98b-6a737be65ac2" /><r uid="{249DEF67-8DE8-4A51-B1E9-B641DB225309}" p:after="r[@uid='{02B5FBF6-EAC5-47BA-8735-70562123E1BC}']" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:ph="/layoutZone/section-narrow/col-wide-1_ee2648b1-8380-4eb7-a39e-23ab0298038a" /><r uid="{0B642E53-7094-4EC2-B68A-940CB1321265}" p:after="r[@uid='{249DEF67-8DE8-4A51-B1E9-B641DB225309}']" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:ph="/layoutZone/section-narrow/col-wide-1_563d0167-6020-4b7d-aea6-9eed86825b5b" /><r uid="{563D0167-6020-4B7D-AEA6-9EED86825B5B}" p:after="r[@uid='{0B642E53-7094-4EC2-B68A-940CB1321265}']" s:ds="{D9E2F479-4C92-4154-9190-565CED5E1921}" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:par="UseStaticPlaceholderNames" s:ph="/layoutZone/section-narrow" /><r uid="{EE2648B1-8380-4EB7-A39E-23AB0298038A}" p:after="r[@uid='{563D0167-6020-4B7D-AEA6-9EED86825B5B}']" s:ds="{48F90556-B9DD-43BC-A6E9-F5F196C009C3}" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{821E7FE7-6464-4CFB-A98B-6A737BE65AC2}" p:after="r[@uid='{EE2648B1-8380-4EB7-A39E-23AB0298038A}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{1BE3F2E4-9838-45A1-94B8-AA8325F9D6F1}" p:after="r[@uid='{821E7FE7-6464-4CFB-A98B-6A737BE65AC2}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{27F87409-83BA-45CB-8446-802CC73A7C9C}" p:after="r[@uid='{1BE3F2E4-9838-45A1-94B8-AA8325F9D6F1}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170222T190437Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e279f0d6-ed96-4403-8aa8-d0beb7624258
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170227T215609Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

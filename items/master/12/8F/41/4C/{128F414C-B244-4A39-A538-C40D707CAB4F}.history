@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{128F414C-B244-4A39-A538-C40D707CAB4F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.6569230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goals Triggered",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Onsite Behavior/Goals Triggered",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

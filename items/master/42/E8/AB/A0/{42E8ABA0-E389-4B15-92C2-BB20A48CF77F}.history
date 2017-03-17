@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42E8ABA0-E389-4B15-92C2-BB20A48CF77F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.6739166Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Beach Salute to Americas Strongest",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/07/Long Beach Salute to Americas Strongest",
+    "template": "News Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.4009392Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Module",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Content Module",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{960424D1-0544-492C-ADD1-DAD6EAB60E21}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.4889165Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "newsarticle",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/newsarticle",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

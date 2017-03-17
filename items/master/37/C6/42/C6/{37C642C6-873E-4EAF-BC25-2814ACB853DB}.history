@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37C642C6-873E-4EAF-BC25-2814ACB853DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.3975245Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DonWilliams-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/DonWilliams-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

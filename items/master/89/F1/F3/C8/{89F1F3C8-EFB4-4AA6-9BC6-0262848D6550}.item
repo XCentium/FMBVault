@@ -1,0 +1,166 @@
+----item----
+version: 1
+id: {89F1F3C8-EFB4-4AA6-9BC6-0262848D6550}
+database: master
+path: /sitecore/content/FMBCom/Home/Personal/Online Banking
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Online Banking
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170206T173955:636219995953230000
+
+----version----
+language: en
+version: 1
+revision: f0f887b1-bf13-441b-ae0c-0efc1046c548
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 14
+
+Online Banking
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 4005
+
+<p>Online Banking can make your account management so much easier! Secure access to manage your accounts, transfer funds, and check balances electronically from wherever you are 24/7. At F&amp;M, we believe in both tradition and technology. Sign up for online banking and bill pay or online cash management today and put the power of one of the strongest banks in California to work for you. <sup>[14]</sup></p>
+<table border="0" cellpadding="5" width="425" height="86">
+    <tbody>
+        <tr>
+            <td valign="top" style="text-align: left;">
+            <p><img height="38" alt="Online Banking Login" width="185" src="-/media/44487021920048EB9CA8CEA4B355308B.ashx"><br>
+            <a href="https://pib.secure-banking.com/60143002/PassmarkSignIn.faces" target="_blank">Click here for Online Banking</a>.</p>
+            <br>
+            </td>
+            <td valign="top" style="text-align: left;"><strong><br>
+            Take a test drive.</strong>
+            <ul>
+                <li><a href="https://pib.secure-banking.com/60143002/PassmarkSignIn.faces" target="_blank">Personal Banking Demo</a></li>
+                <li><a href="https://pib.secure-banking.com/60143002/PassmarkSignIn.faces" target="_blank">Business Banking Demo</a></li>
+                <li><a class="jumpWindow" href="https://pib.secure-banking.com/static/cf411/checkfree.htm" target="_blank" title="Bill Pay Tour">Bill Pay Tour</a></li>
+                <li><a href="~/link.aspx?_id=F8F81D55AA3643C89D075A153E235444&amp;_z=z">Enrollment for Online Services</a></li>
+            </ul>
+            <br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Basic Online Banking (Individual or Business)</strong></p>
+<ul>
+    <li>Review account history</li>
+    <li>Manage multiple accounts</li>
+    <li>Check account balances</li>
+    <li>View paid checks (front &amp; back)</li>
+    <li>Transfer funds between accounts</li>
+    <li>Place stop payments</li>
+    <li>24/7 access</li>
+    <li>Single Log-in ID</li>
+    <li>Local service and technical support</li>
+</ul>
+<p><strong>Online Cash Management Service (Business Only)</strong></p>
+<ul>
+    <li>Reconcile your account</li>
+    <li>Manage multiple business accounts (based on ownership)</li>
+    <li>Automatically deposit payroll to employee accounts</li>
+    <li>Provide or restrict employee access (your option)</li>
+    <li>Originate electronic bank transactions</li>
+    <li>Place stop payments</li>
+    <li>Direct internet access (no additional software is needed)</li>
+    <li>Multiple Log-in IDs</li>
+    <li>Online wire access</li>
+</ul>
+<p><strong>Attention ACH Customers: Stay up-to-date and compliant with the rules governing the ACH network by reviewing the National Automated Clearing House Association&rsquo;s (NACHA) Operating Rules &amp; Guidelines.<br>
+<br>
+<a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">See All Services and Fees</a></strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong></strong></p>
+<hr>
+<strong>
+</strong>
+<p><strong>&nbsp;<img alt="Trusteer an IBM Company" src="-/media/EC270CDED19941639750CF76C02E75CE.ashx?h=106&amp;w=360&amp;hash=F9404C719597D383362D634475F474912E0477DC&amp;hash=F9404C719597D383362D634475F474912E0477DC" style="height: 106px; width: 360px;"></strong></p>
+<p><strong>F&amp;M Bank provides Trusteer Rapport&trade; Security Software to our Online Banking clients to safeguard them from financial malware. As of September 15, 2014, Trusteer has a new End-User License Agreement (EULA). To continue using the software, please accept the terms of the EULA. It can be viewed at <a href="http://www.trusteer.com/support/end-user-license-agreement" target="_blank">http://www.trusteer.com/support/end-user-license-agreement</a>. Should you choose to not accept the new EULA, you may no longer use this security software and can simply uninstall the program.</strong></p>
+<strong>
+<br>
+<a href="~/link.aspx?_id=5B5D4FDFD8DD4723AC8C3F940CF771B8&amp;_z=z">Click here to learn more</a>.</strong><br>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 14
+
+Online Banking
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 32
+
+Secure Online Banking | F&M Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 91
+
+Find out how Online Banking from F&M Bank can make managing your money easy. Sign up today!
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 535
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{2FCB2111-B815-4FFD-BB2C-CAD039641154}" p:before="*" s:ds="{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{04FF9E06-E05A-4D68-AEAC-64044B71EB2C}" p:after="r[@uid='{2FCB2111-B815-4FFD-BB2C-CAD039641154}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170206T173955Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f0f887b1-bf13-441b-ae0c-0efc1046c548
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170315T190640Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

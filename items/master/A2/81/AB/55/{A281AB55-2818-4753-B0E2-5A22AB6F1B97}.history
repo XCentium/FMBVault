@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A281AB55-2818-4753-B0E2-5A22AB6F1B97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:31.7085305Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business - Deposit Services",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Business - Deposit Services",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

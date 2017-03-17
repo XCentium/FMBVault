@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F7E7E3A-4E8E-4639-B079-FC5AEFF172F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.4415833Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teaser Label",
+    "itemPath": "/sitecore/templates/Feature/Teasers/_TeaserContent/Content/Teaser Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

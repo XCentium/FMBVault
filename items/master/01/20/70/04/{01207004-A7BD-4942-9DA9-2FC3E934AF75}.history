@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01207004-A7BD-4942-9DA9-2FC3E934AF75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.2089228Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Helen Eligio",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Fullerton/Helen Eligio",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

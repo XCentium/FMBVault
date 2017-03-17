@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDF953E7-0E75-44E2-81DF-D95F4CEA6190}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:12.1865199Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LittleGirlPiggyBank",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/LittleGirlPiggyBank",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

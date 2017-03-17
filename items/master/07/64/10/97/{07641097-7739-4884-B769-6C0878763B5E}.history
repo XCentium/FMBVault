@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07641097-7739-4884-B769-6C0878763B5E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.4949225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register Password Placeholder",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Register/Register Password Placeholder",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

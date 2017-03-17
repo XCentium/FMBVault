@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9BFE9A38-4A05-4BB6-8468-FDF4A293FA52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:21.5815233Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StatementOfCondition_Web",
+    "itemPath": "/sitecore/media library/Terms and Conditions/StatementOfCondition_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

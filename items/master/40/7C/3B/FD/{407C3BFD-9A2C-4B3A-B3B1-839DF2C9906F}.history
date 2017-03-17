@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{407C3BFD-9A2C-4B3A-B3B1-839DF2C9906F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:18.2285247Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "1 Column",
+    "itemPath": "/sitecore/media library/Project/Common/Images/Layouts/1 Column",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,146 @@
+----item----
+version: 1
+id: {42E8ABA0-E389-4B15-92C2-BB20A48CF77F}
+database: master
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/07/Long Beach Salute to Americas Strongest
+parent: {6E07AB99-A68D-4A11-A5F6-F6BD7294921D}
+name: Long Beach Salute to Americas Strongest
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170216T194155:636228709155870000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 1
+
+1
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20160707T184100Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 44f37fb1-a0a5-4781-8a9b-e010d2d1be60
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 79
+
+Farmers & Merchants Bank Salutes Service Men and Women as “America’s Strongest”
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 79
+
+Leading Bank Honors U.S. Troops With Donations to Homefront America, Inc.&nbsp;
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 3494
+
+<p>As part of its continued effort to support the troops and their families, Farmers &amp; Merchants Bank (F&amp;M Bank) is marking the launch of its first &ldquo;America&rsquo;s Strongest&rdquo; campaign by collecting over 800 lbs worth of needed supplies for Homefront America, Inc. for the men and women of the armed forces.</p>
+<p>The non-profit organization will use generous donations from F&amp;M's clients and employees to create iCare Deployment Kits. Each kit contains a variety of travelsized personal hygiene and snack items for deploying and returning servicemembers, as well as wounded warriors at military hospitals. &ldquo;When a Soldier, Airmen, Marine, Sailor, or Coastie receives an iCare Kit, they are thankful and excited. But, more importantly, they are deeply appreciative that someone cares&rdquo; stated, Mamie Yong Maywhort, Founder of Homefront America, Inc.</p>
+<p>The in-branch collections for donations ran in conjunction with F&amp;M's first-ever &ldquo;America&rsquo;s Strongest" campaign, which began on Memorial Day and will continue through Veterans Day 2016. All twenty-four F&amp;M branches in Los Angeles and Orange Counties are honoring the troops with in-branch patriotic signage, radio, social media and outdoor billboard advertisements and promotions that will encourage the community to honor the troops. Clients who stop by the branch during the week prior to the holidays, will also receive a complimentary hand-held American flag.</p>
+<p>"At F&amp;M, we believe that a strong community is the foundation for success," said Daniel Walker, CEO and Chairman of the Board at F&amp;M. &ldquo;By creating strong communities through sponsorships and the America&rsquo;s Strongest campaign, we are reminded of all the sacrifices our troops have made in strengthening the nation as a whole. The men and women that serve this country risk everything to protect our values and our way of life. It is our duty to honor them and to encourage our community to do the same.&rdquo;</p>
+<p>F&amp;M has a long history of military service since opening its doors in 1907. C.J. Walker, the bank&rsquo;s founder, served in the Home Guard during the Great War, while his son&rsquo;s, Charles and Gus, stepped forward to serve abroad. F&amp;M continued to embody the practice of patriotism over profit as it led an unrelenting effort to sell war bonds during the 1940&rsquo;s.</p>
+<p>&ldquo;F&amp;M&rsquo;s 2016 America&rsquo;s Strongest effort not only validates our commitment to the values that make America great, but it also calls upon the community to join us in honoring the men and women that protect those values,&rdquo; continued Walker.</p>
+<p>F&amp;M's Vice President and Relationship Manager, Dee White, will present the donations to Homefront America, Inc. and local Veterans on Thursday, July 7th at 2:00pm inside their San Juan Capistrano branch.</p>
+<p><strong><br>
+About Farmers &amp; Merchants Bank</strong><br>
+Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has 24 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products, including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender. </p>
+<p>###</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 42
+
+Long Beach F&M Salutes America's Strongest
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 40
+
+Long Beach Salute to America's Strongest
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160707T184100Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+44f37fb1-a0a5-4781-8a9b-e010d2d1be60
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T181258Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B4C7560-6143-4CF4-BB18-3E67D23CD226}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.0129216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Demo",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

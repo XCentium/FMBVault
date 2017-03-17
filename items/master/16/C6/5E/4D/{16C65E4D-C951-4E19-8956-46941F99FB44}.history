@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16C65E4D-C951-4E19-8956-46941F99FB44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.1289284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer Navigation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Footer Navigation",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

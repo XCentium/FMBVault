@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C15E635-6742-4745-A4EC-0B8ABAF782B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.0979291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Escrow Services",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans/Escrow Services",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

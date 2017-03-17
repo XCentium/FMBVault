@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98D1970C-E669-448F-9E2A-DE9087A46F58}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.8199292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Habitat/Experience",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

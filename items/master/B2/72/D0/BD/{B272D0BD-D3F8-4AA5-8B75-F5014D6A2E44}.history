@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B272D0BD-D3F8-4AA5-8B75-F5014D6A2E44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.0599278Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apple Pay",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans/Apple Pay",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

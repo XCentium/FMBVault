@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC545DC1-F12B-4B22-8FEB-7F0A4211C0E8}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.0339285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extensibility",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Extensibility",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

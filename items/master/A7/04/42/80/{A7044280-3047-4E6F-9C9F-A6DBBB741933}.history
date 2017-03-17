@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7044280-3047-4E6F-9C9F-A6DBBB741933}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.8529289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Habitat Layers Video",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Habitat/Habitat Layers Video",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

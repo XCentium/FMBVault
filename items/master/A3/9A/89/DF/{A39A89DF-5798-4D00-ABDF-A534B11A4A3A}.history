@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A39A89DF-5798-4D00-ABDF-A534B11A4A3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.2905240Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomePorch-Lowdown",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-MainBGImage/HomePorch-Lowdown",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B462BF38-CBF6-42BB-A822-BB7F29C8AF26}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.9689306Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Employee Teasers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Headline Employee Teasers",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

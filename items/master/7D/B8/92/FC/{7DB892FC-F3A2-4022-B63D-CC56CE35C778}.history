@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DB892FC-F3A2-4022-B63D-CC56CE35C778}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.9885203Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "strengthsecurity",
+    "itemPath": "/sitecore/media library/FMBCom/Images/associations/strengthsecurity",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

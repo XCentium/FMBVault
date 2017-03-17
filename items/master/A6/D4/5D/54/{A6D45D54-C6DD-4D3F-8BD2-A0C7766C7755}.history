@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6D45D54-C6DD-4D3F-8BD2-A0C7766C7755}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.3649224Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Escrow Services",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/Escrow Services",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{910A4988-C6AE-4C99-A9CA-8BCEC2B5C3F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.5805802Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_ExternalAccountsSettings",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_ExternalAccountsSettings",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

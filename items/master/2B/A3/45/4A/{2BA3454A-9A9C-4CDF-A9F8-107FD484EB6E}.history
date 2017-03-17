@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:42.8609451Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phrase",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary entry/Data/Phrase",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

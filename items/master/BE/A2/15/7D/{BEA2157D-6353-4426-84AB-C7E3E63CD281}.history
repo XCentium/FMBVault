@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BEA2157D-6353-4426-84AB-C7E3E63CD281}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.6679875Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_Default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/_Default",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

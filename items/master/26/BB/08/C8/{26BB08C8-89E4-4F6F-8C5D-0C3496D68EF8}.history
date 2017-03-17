@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26BB08C8-89E4-4F6F-8C5D-0C3496D68EF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.2439292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OfficeSearch",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Maps/OfficeSearch",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

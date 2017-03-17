@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F56B55A-2CBE-4576-8974-0323CDD6BB18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.7519155Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SmtpServer",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/SmtpServer",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

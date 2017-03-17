@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB6DC6E0-770A-469F-A68C-C40035600B9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.1099294Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Deposits",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Mobile Banking Features/Mobile Deposits",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

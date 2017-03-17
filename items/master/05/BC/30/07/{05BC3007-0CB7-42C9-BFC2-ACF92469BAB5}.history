@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05BC3007-0CB7-42C9-BFC2-ACF92469BAB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.2185231Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AChokshi",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/AChokshi",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

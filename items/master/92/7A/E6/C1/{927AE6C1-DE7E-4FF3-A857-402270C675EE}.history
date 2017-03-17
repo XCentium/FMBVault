@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{927AE6C1-DE7E-4FF3-A857-402270C675EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.3389226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Equity Line of Credit",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/Home Equity Line of Credit",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C77E5DC-810C-4695-AF0D-5CDFDE05BEC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.3549279Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bixby Knolls",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Bixby Knolls",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

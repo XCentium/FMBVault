@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8682E92E-538B-4FC4-BA30-94C6A5615C19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.8349292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "jumbotron-placeholder-4",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Teaser Placeholders/jumbotron-placeholder-4",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

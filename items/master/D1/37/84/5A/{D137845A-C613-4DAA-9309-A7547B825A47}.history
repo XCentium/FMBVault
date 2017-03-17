@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D137845A-C613-4DAA-9309-A7547B825A47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:47.9747752Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Type",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

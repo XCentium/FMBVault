@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA4ACFB4-A94D-4C5A-9134-3DC472B93EF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.1219393Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office Branch",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Office Branch",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

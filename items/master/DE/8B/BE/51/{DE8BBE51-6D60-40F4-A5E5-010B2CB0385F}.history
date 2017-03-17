@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE8BBE51-6D60-40F4-A5E5-010B2CB0385F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.2899262Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Louisiana",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Louisiana",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

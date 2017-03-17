@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81898363-0606-474B-9FE8-1F89023184BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.4819284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winspire",
+    "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/Winspire",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

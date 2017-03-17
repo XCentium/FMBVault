@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC5686A0-D879-4A74-A897-6D109679C7CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.3085857Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Foundation/Multisite/Datasource Settings Folder/__Standard Values",
+    "template": "Datasource Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

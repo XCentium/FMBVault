@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{212C58BA-2CEE-4B5C-B987-38C49C78E72F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:02.3529319Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notices",
+    "itemPath": "/sitecore/media library/Notices",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

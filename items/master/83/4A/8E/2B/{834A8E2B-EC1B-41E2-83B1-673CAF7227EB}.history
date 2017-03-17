@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{834A8E2B-EC1B-41E2-83B1-673CAF7227EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.9859297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commercial Real Estate - Q1",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Commercial Real Estate - Q1",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

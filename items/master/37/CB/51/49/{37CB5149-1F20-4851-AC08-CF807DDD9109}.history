@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37CB5149-1F20-4851-AC08-CF807DDD9109}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.1755246Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HowToUseItIcons_3",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/HowToUseItIcons_3",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

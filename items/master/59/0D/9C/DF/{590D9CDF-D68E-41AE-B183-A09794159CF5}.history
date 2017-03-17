@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{590D9CDF-D68E-41AE-B183-A09794159CF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.0605251Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HowToVideos_LandingPage_Thumbnails-OTP-ExternalTransfers",
+    "itemPath": "/sitecore/media library/FMBCom/Images/How-To/Thumbnails/HowToVideos_LandingPage_Thumbnails-OTP-ExternalTransfers",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

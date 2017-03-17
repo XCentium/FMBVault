@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6A129D3-512C-4F38-9BDD-A356F43DC1A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.2569298Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hero Carousel",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Media/Hero Carousel",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

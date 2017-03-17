@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{934317A0-C32D-4CC6-8786-64E7436F4861}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:10.4215164Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Header",
+    "itemPath": "/sitecore/media library/Feature/Person/Employee Header",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A419FA1-0424-4854-BCFB-B6174FB7E7BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.4029225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the penalty for early withdrawal",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/CD Rates/What is the penalty for early withdrawal",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

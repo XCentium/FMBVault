@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E9861DC2-3AD4-4141-B1D1-A9B8B972629F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.3539224Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "9 What if I dont recognize the transactions in the Card Alert text or email notification",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/9 What if I dont recognize the transactions in the Card Alert text or email notification",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

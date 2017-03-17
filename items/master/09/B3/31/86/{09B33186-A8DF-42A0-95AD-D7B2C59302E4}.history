@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09B33186-A8DF-42A0-95AD-D7B2C59302E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.5549285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mobile-banking-download-banner",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/mobile-banking-download-banner",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

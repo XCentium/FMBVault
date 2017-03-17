@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBC1D003-86E5-4B21-BEBC-AA4C12087053}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.1339290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Mobile Banking Features/Security",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

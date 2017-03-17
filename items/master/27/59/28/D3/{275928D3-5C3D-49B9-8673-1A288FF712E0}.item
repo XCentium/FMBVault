@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {275928D3-5C3D-49B9-8673-1A288FF712E0}
+database: master
+path: /sitecore/content/FMBCom/Home/Calc/Commercial Loan
+parent: {AB4BAC5A-4010-405D-AAB5-56FF12D6CE95}
+name: Commercial Loan
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170206T211909:636220127491870000
+
+----version----
+language: en
+version: 1
+revision: bc2f80ac-da37-4cbd-b427-d3398feaf6b5
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 26
+
+Commercial Loan Calculator
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 15
+
+Commercial Loan
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 53
+
+Commercial Loan Calculator | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 203
+
+Use our commercial loan calculator to help you determine if you may qualify for a new commercial loan.  If you have questions regarding the commercial loan process contact Farmers & Merchants Bank today.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1278
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{C55CC4C7-677A-4C70-B584-9B0E4F55B0AF}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{B082D7C5-2C63-47A6-8F8A-E8AF6A84658A}" p:after="r[@uid='{C55CC4C7-677A-4C70-B584-9B0E4F55B0AF}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{7547C7CD-4E01-44DE-BD13-69195C40A818}" p:after="r[@uid='{B082D7C5-2C63-47A6-8F8A-E8AF6A84658A}']" s:ds="{ACDB8EDE-82C6-4E40-9DB4-A13B6E05A1E1}" s:id="{709513D0-52B1-4FA1-AB10-439F4258E273}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_d653895c-4cb4-461a-98b7-a33a97b7e556" /><r uid="{D653895C-4CB4-461A-98B7-A33A97B7E556}" p:after="r[@uid='{7547C7CD-4E01-44DE-BD13-69195C40A818}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{172A6C6D-D03D-43E0-BF5B-1BE03F352630}" p:after="r[@uid='{D653895C-4CB4-461A-98B7-A33A97B7E556}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170206T211909Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bc2f80ac-da37-4cbd-b427-d3398feaf6b5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T214252Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

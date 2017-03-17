@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF38D9E6-313C-491C-8648-79436D10091C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.6325799Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_LoginTeaser",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_LoginTeaser",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

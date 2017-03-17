@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DAE9F23-890F-4E06-99A7-CCEDB74D3D8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.1359275Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Identity/Copyright",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

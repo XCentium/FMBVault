@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E2AEAD8-CBC5-45F5-9D4B-6BBAC520E8E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.2919196Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disclaimers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50561B7A-E44E-47CB-88AA-40325921BE07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.3889222Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Loans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/Business Loans",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

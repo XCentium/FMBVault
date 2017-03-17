@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A75F12D-4371-4471-B2E3-28617C7D7D6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.5769229Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BusinessBankingProducts/Mobile Banking",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

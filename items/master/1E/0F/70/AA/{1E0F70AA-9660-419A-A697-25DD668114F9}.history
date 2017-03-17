@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1E0F70AA-9660-419A-A697-25DD668114F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:37.2325300Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Palau",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Palau",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

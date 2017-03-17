@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5418D382-1C16-4D59-ADEE-DFA8E5EC7E40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.0179249Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Real Estate Seminars Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Configurations/Real Estate Seminars Form",
+    "template": "Form Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

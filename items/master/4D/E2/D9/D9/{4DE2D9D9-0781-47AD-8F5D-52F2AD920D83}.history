@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DE2D9D9-0781-47AD-8F5D-52F2AD920D83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:28.3389386Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Feeds Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Social/Social Feeds Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

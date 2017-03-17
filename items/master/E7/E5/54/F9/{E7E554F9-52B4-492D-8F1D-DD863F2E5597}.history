@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7E554F9-52B4-492D-8F1D-DD863F2E5597}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:12.5535781Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approved",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Approved",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

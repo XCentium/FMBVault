@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99BACFFF-6499-4DA7-B603-4479966EACD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.2755862Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VCard",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Contact Info/VCard",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

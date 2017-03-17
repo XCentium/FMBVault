@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A11EE66-A1D4-457F-9D76-4694C0E60B2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.5539283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Narrow Section",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Layout/Narrow Section",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

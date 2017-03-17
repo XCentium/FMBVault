@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41115DD0-34C2-4860-A440-E34A44C0802F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.9005853Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasCalculator",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasCalculator",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

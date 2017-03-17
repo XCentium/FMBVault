@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB14B596-67DD-4C93-BE7C-2BDBADEB64C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:42.7675373Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tab Options",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

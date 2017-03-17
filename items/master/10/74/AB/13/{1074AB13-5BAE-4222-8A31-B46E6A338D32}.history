@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1074AB13-5BAE-4222-8A31-B46E6A338D32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:58.8955354Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Profile",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

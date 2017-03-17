@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81B23074-63AF-4A28-9B45-AB27B3B2F619}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:02.8065397Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tooltip",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/Tooltip",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00D7261B-FFB4-4377-B917-373FADCA3295}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:37.4655311Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reunion",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Reunion",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

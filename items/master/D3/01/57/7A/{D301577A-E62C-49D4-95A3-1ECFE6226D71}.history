@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D301577A-E62C-49D4-95A3-1ECFE6226D71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.8519277Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Savings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Banking Services/Business Savings",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

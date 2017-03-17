@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1AE15C5D-EA1C-4655-936E-1532686F473C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.2929219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "4 How do I register for FM Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/4 How do I register for FM Card Alerts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

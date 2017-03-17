@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2A318490-5DF3-4ED5-AE00-7BCCB9E9E3ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:09.9609353Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Data/Campaign",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

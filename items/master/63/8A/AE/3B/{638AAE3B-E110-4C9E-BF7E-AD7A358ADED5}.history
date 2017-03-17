@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{638AAE3B-E110-4C9E-BF7E-AD7A358ADED5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.0189247Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Purchase",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RLD Loan Purpose List/Purchase",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0708F4F-F014-4075-8365-0B9584A13CA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.9539218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Founding-Values",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

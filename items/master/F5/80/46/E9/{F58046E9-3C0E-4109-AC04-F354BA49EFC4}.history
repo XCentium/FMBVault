@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F58046E9-3C0E-4109-AC04-F354BA49EFC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.6079293Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Services Menu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Other Services Menu",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

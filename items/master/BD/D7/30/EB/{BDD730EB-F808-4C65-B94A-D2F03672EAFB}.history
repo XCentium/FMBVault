@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDD730EB-F808-4C65-B94A-D2F03672EAFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.6649284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest News",
+    "itemPath": "/sitecore/layout/Renderings/Feature/News/Latest News",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

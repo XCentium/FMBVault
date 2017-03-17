@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAA538A3-9DE8-4D89-B2EA-7F30B7D6410D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.8149281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Groundbreaking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Quotes/Groundbreaking",
+    "template": "Quote",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

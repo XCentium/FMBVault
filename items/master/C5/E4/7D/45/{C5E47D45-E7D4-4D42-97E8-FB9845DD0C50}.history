@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5E47D45-E7D4-4D42-97E8-FB9845DD0C50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.7649230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marcos Reyes",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Juan Capistrano/Marcos Reyes",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

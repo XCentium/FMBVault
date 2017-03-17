@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DD19833-DCD2-487B-97EF-2A765DC6BECE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.8925372Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NE",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/NE",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

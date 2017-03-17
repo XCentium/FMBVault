@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {B9E057F4-6555-4774-9BAD-80FEC6964AB3}
+database: master
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/NonProfit Dir to Business
+parent: {46CE2092-FF8D-454E-B826-A2ADDB7E0BA3}
+name: NonProfit Dir to Business
+master: {00000000-0000-0000-0000-000000000000}
+template: {94AC4F3A-E888-4557-9504-4AD2560ACC12}
+templatekey: Redirect Pattern
+created: 20170316T232107:636253032671930000
+
+----field----
+field: {C7A2362D-35F5-4735-9366-59838AA20E2F}
+name: Requested Expression
+key: requested expression
+content-length: 43
+
+^(.*)\/home\/non-profit-banking\/(.*).html$
+----field----
+field: {B0AA4048-823B-4466-83C5-6B920B3CFC36}
+name: Response Status Code
+key: response status code
+content-length: 38
+
+{3184B308-C050-4A16-9F82-D77190A28F0F}
+----field----
+field: {FB68F214-543C-48FB-856E-B96C4C8796C8}
+name: Source Item
+key: source item
+content-length: 38
+
+/sitecore/content/FMBCom/Home/Business
+----version----
+language: en
+version: 1
+revision: 01738022-e66d-497f-86f6-ee98d01a36f2
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170313T193504Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+01738022-e66d-497f-86f6-ee98d01a36f2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170317T155859Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A02A6DB5-1DA0-4977-94E4-A443EBE0DFB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:31.8115315Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Home",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Business Home",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

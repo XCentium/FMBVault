@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{609B87C9-7A6A-4E3F-B431-8B00212CB359}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.4029285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Us",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page/Contact Us",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

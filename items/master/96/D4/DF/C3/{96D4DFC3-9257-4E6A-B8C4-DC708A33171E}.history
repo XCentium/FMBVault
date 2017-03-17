@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96D4DFC3-9257-4E6A-B8C4-DC708A33171E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:37.1465312Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Northern Mariana Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Northern Mariana Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

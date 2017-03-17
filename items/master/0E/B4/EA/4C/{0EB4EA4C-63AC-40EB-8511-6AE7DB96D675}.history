@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0EB4EA4C-63AC-40EB-8511-6AE7DB96D675}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.1099213Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "12 If I am traveling outside of the US can I receive Text Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/12 If I am traveling outside of the US can I receive Text Alerts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

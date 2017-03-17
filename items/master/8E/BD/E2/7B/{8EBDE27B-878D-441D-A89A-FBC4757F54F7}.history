@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EBDE27B-878D-441D-A89A-FBC4757F54F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:18.8615255Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Header",
+    "itemPath": "/sitecore/media library/Project/Common/Images/Layouts/Page Header",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

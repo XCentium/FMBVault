@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F60CB404-21EB-4A23-83D3-83AD90ECA1AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.7189301Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking Accounts - Classic Gold Platinum",
+    "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons/Checking Accounts - Classic Gold Platinum",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4D9916E-7348-4D2B-901C-C26BF1AD5885}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.0475361Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RI",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/RI",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

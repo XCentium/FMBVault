@@ -1,0 +1,224 @@
+----item----
+version: 1
+id: {1C25875E-F488-4B73-8120-169382450F8E}
+database: master
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/10/Long Beach 2015 Californias Strongest People You Can Bank On
+parent: {7B26276C-D1C1-457C-88E1-C92062665A73}
+name: Long Beach 2015 Californias Strongest People You Can Bank On
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170216T221946:636228803869070000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 1
+
+1
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20151028T150000Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: ecfe27d8-38d9-4c62-baec-c56e4400f9d8
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 147
+
+Farmers & Merchants Bank Honors Eleven Special Members of the Community at the 2015 “California’s Strongest People You Can Bank On” Awards Ceremony
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 127
+
+<p>Awards Given Based Upon Achievements that Demonstrate Values and Strength of Character that Help Make Communities Strong</p>
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 5532
+
+<p> Farmers &amp; Merchants Bank (F&amp;M) honored 11 members of the Southern California community at its annual &ldquo;California&rsquo;s Strongest People You Can Bank On&rdquo; awards. The awards presented yesterday were given to people that demonstrated the same values and strength of character as F&amp;M, such as Charity and Service Above Self, among others.</p>
+<p>Winners, all members of the communities F&amp;M serves, were nominated by Bank employees and represent many communities throughout Southern California including Long Beach, Newport Beach, San Clemente and Laguna Hills.</p>
+<p>The 2015 California&rsquo;s Strongest People You Can Bank On Award Winners are:</p>
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: left;"><strong>Award</strong></td>
+            <td style="text-align: left;"><strong>Recipient</strong></td>
+            <td style="text-align: left;"><strong>Organization/Affiliation</strong></td>
+            <td style="text-align: left;"><strong>Community</strong></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Charity Award</td>
+            <td style="text-align: left;">Dr. John L. Blake</td>
+            <td style="text-align: left;">Children&rsquo;s Dental Health Clinic and Living Hope Clinical Foundation</td>
+            <td style="text-align: left;">Long Beach</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Compassion Award</td>
+            <td style="text-align: left;">Katherine Holman</td>
+            <td style="text-align: left;">Otra Mas</td>
+            <td style="text-align: left;">San Juan Capistrano<br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Dedication Award</td>
+            <td style="text-align: left;">Dr. Kenneth B. Deck</td>
+            <td style="text-align: left;">Laguna Beach Community Clinic<br>
+            </td>
+            <td style="text-align: left;">Laguna Hills</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Duty Award</td>
+            <td style="text-align: left;">Terry Geiling </td>
+            <td style="text-align: left;">American Gold Star Manor and The Jonas Project<br>
+            </td>
+            <td style="text-align: left;">Long Beach<br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Goodness Award</td>
+            <td style="text-align: left;">Annette Kashiwabara</td>
+            <td style="text-align: left;">Assistance League of Long Beach<br>
+            </td>
+            <td style="text-align: left;">Lakewood</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Gratitude Award</td>
+            <td style="text-align: left;">Yetta Kane</td>
+            <td style="text-align: left;">HOW TO SURVIVE ANYTHING &ndash; The life story of David and Yetta Kane</td>
+            <td style="text-align: left;">Long Beach</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Helpfulness Award</td>
+            <td style="text-align: left;">Carol Wait </td>
+            <td style="text-align: left;">Artesia Senior Center, Ramona Senior Center and Bellflower Senior Center</td>
+            <td style="text-align: left;">Long Beach</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Kindness Award<br>
+            </td>
+            <td style="text-align: left;">Coronada King Haywood</td>
+            <td style="text-align: left;">Women in Action Reaching Out</td>
+            <td style="text-align: left;">Long Beach</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Selflessness Award</td>
+            <td style="text-align: left;">Debora Wondercheck</td>
+            <td style="text-align: left;">Arts &amp; Learning Conservatory<br>
+            </td>
+            <td style="text-align: left;">Newport Beach<br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">The Service Above Self Award<br>
+            </td>
+            <td style="text-align: left;">James and Carla Hogan </td>
+            <td style="text-align: left;">San Clemente Marine Corps Support Group</td>
+            <td style="text-align: left;">San Clemente</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p>&ldquo;It is humbling to be among so many wonderful members of our community who work every day to stand strong on their values,&rdquo; said F&amp;M Bank President W. Henry Walker.</p>
+<p>&ldquo;California&rsquo;s Strongest meansdoing the right thing and exhibiting dedication to helping others. These winners embody those values that make our communities so special, and we are honored to have them in our F&amp;M family and to award them for their strength.&rdquo;</p>
+<p>F&amp;M presented the awards to all eleven winners at a luncheon at Parkers&rsquo; Lighthouse in Long Beach.</p>
+<p><strong>About Farmers &amp; Merchants Bank</strong><br>
+Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has over $5B in assets and 24 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender. </p>
+<p>###</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 55
+
+Long Beach Californias Strongest People You Can Bank On
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 61
+
+Long Beach 2015 California's Strongest People You Can Bank On
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161028T211900Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ecfe27d8-38d9-4c62-baec-c56e4400f9d8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T180954Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

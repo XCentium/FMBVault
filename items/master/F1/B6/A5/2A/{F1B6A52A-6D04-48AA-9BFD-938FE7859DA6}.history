@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F1B6A52A-6D04-48AA-9BFD-938FE7859DA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:35.7059439Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Actions/Click Action/__Standard Values",
+    "template": "Click Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

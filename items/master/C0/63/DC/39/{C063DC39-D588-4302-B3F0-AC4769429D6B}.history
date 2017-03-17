@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C063DC39-D588-4302-B3F0-AC4769429D6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.7379296Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Banking Services/Online Banking",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

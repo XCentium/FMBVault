@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45744E23-A486-4BCA-B333-E7B24B210CC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.4225798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageContent",
+    "itemPath": "/sitecore/templates/Feature/PageContent",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,136 @@
+----item----
+version: 1
+id: {73C8EF7B-7C00-4B9F-A9BB-BF717465891F}
+database: master
+path: /sitecore/templates/Project/FMBCom/Page Types/Map Page/__Standard Values
+parent: {EE9E5BDB-7D71-48F7-B461-42BF9C2052EC}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {EE9E5BDB-7D71-48F7-B461-42BF9C2052EC}
+templatekey: Map Page
+created: 20170120T173001:636205302012430000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 0
+
+
+----field----
+field: {5585A30D-B115-4753-93CE-422C3455DEB2}
+name: ShowInNavigation
+key: showinnavigation
+content-length: 0
+
+
+----field----
+field: {68016087-AA00-45D6-922A-678475C50D4A}
+name: ShowChildren
+key: showchildren
+content-length: 0
+
+
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 77
+
+{94A8C8E9-690B-4E65-98E7-F95800222767}|{8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 2972
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{EC613BB5-ADAE-43CD-A62C-73830559BC81}"><r ds="" id="{E7AE3F87-CF66-40F2-A9F5-33ECF08BC777}" par="" ph="headtagsZone" uid="{E6CA18D8-321D-4105-9C38-0622E94BE400}" /><r ds="" id="{3389CAFC-000C-41E5-921C-92821B3DB7B5}" par="" ph="headtagsZone" uid="{EF51B238-7CE2-4E39-AB87-D05424735160}" /><r id="{0506B12F-554E-42D1-8366-7B371805A569}" ph="headerZone" uid="{8691D974-B735-4F68-842E-62B2645EE61D}" /><r id="{30A65FD6-FD97-422F-B903-83C356AC69E1}" ph="navZone" uid="{B6857CFD-D009-44D8-BA1B-C39BF6178597}" /><r id="{4B912A12-E167-4B3D-A8CC-0A969FFF6120}" ph="bannerZone" uid="{6218944D-046E-453D-8FBD-3DE8A39AF566}" /><r id="{70536028-62AE-4B29-A16E-14069C0597A0}" ph="layoutZone" uid="{24F2F429-44E1-4CBA-BA41-D0C2A8D05E4B}" /><r id="{E08B0497-60DE-404B-990C-532F3ADAE735}" ph="footerZone" uid="{B09294BC-4B61-41FF-8D6E-685A22411B89}" /><r ds="{E5F3781F-48C8-4939-B1D2-22AAF030A39C}" id="{6D95E1CA-93F5-406A-B5B3-0232D8794E6A}" par="" ph="navbar-menu" uid="{38924406-78E7-447B-A23A-852F4BF88082}" /><r ds="{CCC05BD3-284D-480E-934E-66F5B134D25E}" id="{A7567B2B-AD1B-401D-8FD5-31A558697AD3}" par="" ph="footer-nav-menu" uid="{8A154618-B66A-4084-949A-8FFC069AA5B9}" /><r ds="{589B334B-641D-44DD-B54F-016CD33CE639}" id="{CC039C4F-3A9D-46DD-8857-D8A5CED22F14}" par="" ph="footer-legal-menu" uid="{4C11E7CB-1FDA-40AA-A014-620F2247051C}" /><r ds="{CBD4F54B-8AC7-4D7A-89CC-9F42ECE6CEA0}" id="{793676A4-99D4-495D-AAD3-9A187C48FC80}" par="" ph="footer-social-menu" uid="{36B7F9EE-A6D5-4406-9632-71F832387ADC}" /><r ds="{97C9E933-0B0A-44A0-9540-B505FE0A760C}" id="{18A76D7B-6329-4A7E-8168-BF8CD26F1713}" par="" ph="header-top-menu" uid="{4392B1B7-0969-424C-8E90-16EF43F83F6E}" /><r id="{7DAE9F23-890F-4E06-99A7-CCEDB74D3D8E}" ph="footer-copyright" uid="{9E80980B-BC42-491E-8D12-FA393C3C2B7B}" /><r ds="{E1CB8D62-9A64-448E-A366-A13F1C68C1C3}" id="{A47C8288-7D4C-45FF-B75F-4AEDBF58A02D}" par="" ph="header-logo" uid="{8CC38B6A-579D-443A-9A4D-39A0AA544BC9}" /><r ds="{D8D4B00E-2DAC-4346-ADB9-3EA5A55804CF}" id="{44374F32-63AD-4615-B765-290F370F5290}" par="" ph="footer-mobileapp-menu" uid="{EF781DB2-2F8F-4BA6-9674-158D45966319}" /><r ds="" id="{CF750731-1275-4CC7-A9E6-809515CB4DD1}" par="Background&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames=1" ph="layoutZone" uid="{B8E3B083-B9EE-4542-8ECF-F17149F6958F}" /><r ds="" id="{695CEE74-D8F4-481D-B813-237050809290}" par="" ph="/layoutZone/col-wide-1" uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}" /><r ds="" id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" par="" ph="/layoutZone/col-wide-1" uid="{C274AAA2-DA9E-43B1-BE22-840854C67296}" /><r ds="" id="{096C0509-13D9-411C-93AF-57D572A53B29}" par="" ph="header-login" uid="{78D1F977-6794-46E4-81DD-BDAAEC73055F}" /><r ds="{7B2D2840-0012-44D1-94ED-3CD02ACE0E1B}" id="{8503EA38-BC61-42B8-8891-A5C92D6FCD69}" par="" ph="LoginBox-Options" uid="{7979E57D-69EA-48CB-8461-B87575479271}" /></d></r>
+----version----
+language: en
+version: 1
+revision: 79601cad-c307-474d-8640-c75b6f088555
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 5
+
+$name
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{88032F9C-B464-44CB-B76D-513D60B9C127}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 5
+
+$name
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 5
+
+$name
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150824T175451Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+79601cad-c307-474d-8640-c75b6f088555
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170218T002345Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

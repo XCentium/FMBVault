@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62C10B56-8F99-487B-9843-0949265A58A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.2135798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ",
+    "itemPath": "/sitecore/templates/Feature/FAQ",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

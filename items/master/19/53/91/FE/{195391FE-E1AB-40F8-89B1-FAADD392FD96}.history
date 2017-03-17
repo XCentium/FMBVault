@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{195391FE-E1AB-40F8-89B1-FAADD392FD96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.3869257Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mississippi",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Mississippi",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

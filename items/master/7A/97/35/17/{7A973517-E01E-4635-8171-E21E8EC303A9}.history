@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A973517-E01E-4635-8171-E21E8EC303A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.4939283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Community-banner-default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/Community-banner-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

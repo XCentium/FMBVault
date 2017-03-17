@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28BFD762-2EF6-4961-B626-71756A14EE16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:31.1225310Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New York",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/New York",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

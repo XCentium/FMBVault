@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAA6DCBF-A55F-452F-8740-CD4B1313CB31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:54.1515374Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Has Registered Outcome During Any Interaction",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Outcomes/Contact Has Registered Outcome During Any Interaction",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

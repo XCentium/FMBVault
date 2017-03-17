@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8201A6CB-CFD2-4340-BD71-0E1FEA2ED217}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.1469174Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Debt Consolidation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Business Debt Consolidation",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

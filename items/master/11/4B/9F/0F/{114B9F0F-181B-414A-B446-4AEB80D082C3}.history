@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{114B9F0F-181B-414A-B446-4AEB80D082C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.2855383Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Circle",
+    "itemPath": "/sitecore/system/Settings/Feature/Tools/Icon Types/Circle",
+    "template": "_IconType",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6538D8D0-4438-4EFA-A32F-4C15D393A6C0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.3029166Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "lightboxvideo",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/lightboxvideo",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

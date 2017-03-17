@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFC5AA94-6663-4AF3-9693-62669C76A3D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:39.5029453Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Behaviors",
+    "itemPath": "/sitecore/templates/System/Content Testing/Behaviors",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

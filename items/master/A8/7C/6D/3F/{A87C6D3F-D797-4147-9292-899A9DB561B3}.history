@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A87C6D3F-D797-4147-9292-899A9DB561B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:45.3737734Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Font",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Font",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

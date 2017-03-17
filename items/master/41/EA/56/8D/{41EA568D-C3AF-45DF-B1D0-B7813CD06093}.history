@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41EA568D-C3AF-45DF-B1D0-B7813CD06093}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.8429292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot Password",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Forgot Password",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

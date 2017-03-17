@@ -1,0 +1,142 @@
+----item----
+version: 1
+id: {81898363-0606-474B-9FE8-1F89023184BB}
+database: master
+path: /sitecore/content/FMBCom/Global/Testimonials/Winspire
+parent: {85684875-D289-49CB-8AC0-31FCE2E86DA7}
+name: Winspire
+master: {00000000-0000-0000-0000-000000000000}
+template: {43C3FF93-3124-47AF-8574-4D2289837BD5}
+templatekey: Testimonial
+created: 20170302T203024:636240834246170000
+
+----version----
+language: en
+version: 1
+revision: ceae3b30-48a8-4b03-93f9-903f1aa896ca
+
+----field----
+field: {0658E55D-0E17-418A-A9D2-0ED0D2A16B24}
+name: Client Name
+key: client name
+content-length: 14
+
+Winspire, Inc.
+----field----
+field: {E4D64661-6588-4246-8D79-FA315BB58671}
+name: Location
+key: location
+content-length: 16
+
+Laguna Hills, CA
+----field----
+field: {6E328113-044E-457B-A44D-BC9729B36F54}
+name: Client Since
+key: client since
+content-length: 4
+
+2008
+----field----
+field: {05F09E34-083E-43D8-B73D-4A5B88E3A7CA}
+name: PageUrl
+key: pageurl
+content-length: 123
+
+<link text="" linktype="internal" class="" title="" target="" querystring="" id="{0FEDE6E8-774A-417E-9A22-E14F2B90B207}" />
+----field----
+field: {972E097D-D060-4BDA-B2A3-4D4C685E14D3}
+name: Preview Image
+key: preview image
+content-length: 65
+
+<image mediaid="{ED791F15-D4C5-45D8-9EC2-0644CF5F6F17}" ></image>
+----field----
+field: {E456124C-04E3-4D0D-AEFB-5314E679E026}
+name: Teaser Quote
+key: teaser quote
+content-length: 66
+
+F&M was ‘all in’ as a partner back then, and they still are today.
+----field----
+field: {D526316A-200F-42DC-BAD1-EE326DAB7327}
+name: Summary
+key: summary
+content-length: 178
+
+<p>Winspire was founded in 2008 to help non-profits maximize their event fundraising revenue but as a struggling start-up at the time the company was in need of its own help.</p>
+----field----
+field: {F76BE998-40B6-4F25-8761-7FEDB300359A}
+name: Body
+key: body
+content-length: 1295
+
+<p>Winspire was founded in 2008 to help non-profits maximize their event fundraising revenue but as a struggling start-up at the time the company was in need of its own help.
+</p>
+<p>“We were a podunk company with no revenue, and F&amp;M was willing to set up a merchant accounting system for us. Not only that, F&amp;M would volunteer and help us behind the scenes at our fundraising events,” said Jeff Cova, founder, president and CEO of Winspire. “F&amp;M was ‘all in’ as a partner back then, and they still are today.”
+</p>
+<p>Since Winspire’s inception in 2008, they have helped non-profits generate almost $50 million, and last year alone they assisted non-profits raise nearly $7 million. Whether supplying tickets to some of the hottest awards shows, a vacation to an exotic destination or a baseball experience at Wrigley Field, Winspire’s forte is identifying items and experiences that resonate with audiences at fundraising events. That requires Cova to have an instinct for what incentivizes people to connect with a particular charity. Such an instinct also translates in the business world by aligning with like-minded partners.
+</p>
+<p>“We live and serve the philanthropic community, and F&amp;M is supporting causes that align with what we are trying to achieve,” Cova said.</p>
+----field----
+field: {07E3D093-2225-4628-91B8-BBC7FB827365}
+name: Body Image
+key: body image
+content-length: 64
+
+<image mediaid="{4C87F89D-A068-440F-A07A-FC8CAEFC98C9}"></image>
+----field----
+field: {E354CCFD-EC76-4815-913B-CD9D08CCDD83}
+name: Body Image Caption
+key: body image caption
+content-length: 33
+
+Jeffrey Cova, Founder & President
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170301T214447Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ceae3b30-48a8-4b03-93f9-903f1aa896ca
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T181819Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

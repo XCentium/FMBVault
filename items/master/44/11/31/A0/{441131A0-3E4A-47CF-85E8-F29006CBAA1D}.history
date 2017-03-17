@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{441131A0-3E4A-47CF-85E8-F29006CBAA1D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.2029212Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Accounts Menu/Email",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

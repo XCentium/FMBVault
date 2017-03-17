@@ -1,0 +1,143 @@
+----item----
+version: 1
+id: {63A4279E-7C75-4294-A853-EF874D9A247A}
+database: master
+path: /sitecore/content/FMBCom/Global/Offices/Huntington Beach
+parent: {75B2FB40-D120-4D84-A586-AC0DCDCE9086}
+name: Huntington Beach
+master: {00000000-0000-0000-0000-000000000000}
+template: {CA4ACFB4-A94D-4C5A-9134-3DC472B93EF8}
+templatekey: Office Branch
+created: 20170220T165932:636232067721200000
+
+----version----
+language: en
+version: 1
+revision: e098a4de-06c2-468a-9409-9ab902acb749
+
+----field----
+field: {ADD78CEB-46A1-48DB-9ED2-8E2F89F293CC}
+name: Branch Name
+key: branch name
+content-length: 16
+
+Huntington Beach
+----field----
+field: {EB7A144A-4422-46C9-8254-0BF076919C20}
+name: Street Address
+key: street address
+content-length: 18
+
+7125 Yorktown Ave.
+----field----
+field: {2218D0C9-218B-491A-8B1D-5DC4E0A8ED8F}
+name: City
+key: city
+content-length: 16
+
+Huntington Beach
+----field----
+field: {021237BE-376B-43AB-8F65-D998CBC7BF31}
+name: State
+key: state
+content-length: 2
+
+CA
+----field----
+field: {5F605D52-44EF-4D1A-9497-F4D81C5975E7}
+name: Zip
+key: zip
+content-length: 5
+
+92648
+----field----
+field: {DDAECDBE-4ECB-4141-BE14-D33E5315B6A9}
+name: County
+key: county
+content-length: 6
+
+Orange
+----field----
+field: {D3EC2229-CB60-47C9-88DE-F72C0638A9A2}
+name: Phone
+key: phone
+content-length: 14
+
+(714) 465-3131
+----field----
+field: {2FBC10EB-62E7-4136-BB00-63B0A4B87153}
+name: Fax
+key: fax
+content-length: 19
+
+Fax: (714) 465-3132
+----field----
+field: {102C356C-F278-4988-9B7C-EFEEB9CC5D97}
+name: OfficeHours
+key: officehours
+content-length: 35
+
+Mon-Thurs: 9-5, Fri: 9-6, Sat: 9-12
+----field----
+field: {53624450-3709-4CDF-BE6F-8F10AE6EC6F8}
+name: Employees
+key: employees
+content-length: 58
+
+/sitecore/content/FMBCom/Global/Employees/Huntington Beach
+----field----
+field: {866A05AF-05A0-4541-A424-BF8CF5B733AD}
+name: MapPoint
+key: mappoint
+content-length: 86
+
+/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Huntington Beach
+----field----
+field: {3E674392-27AF-45BD-AC94-8798D33A9AEB}
+name: Url
+key: url
+content-length: 185
+
+<link id="{39D32133-0451-407C-90A2-E4253D9140EB}" querystring="" text="" title="Huntington Beach" class="" linktype="internal" url="/FMBCom/Home/Locations/Huntington Beach" target="" />
+----field----
+field: {99BACFFF-6499-4DA7-B603-4479966EACD4}
+name: VCard
+key: vcard
+content-length: 59
+
+/sitecore/media library/FMBCom/Files/VCards/HuntingtonBeach
+----field----
+field: {CB204B99-3738-475E-951A-0DD2DA04CABF}
+name: Branch Manager
+key: branch manager
+content-length: 72
+
+/sitecore/content/FMBCom/Global/Employees/Huntington Beach/Liliana Dongo
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170221T004218Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e098a4de-06c2-468a-9409-9ab902acb749
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170301T234332Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D34B2A20-6650-42D9-AA38-2F0972B4F9A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.8269162Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Modules",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

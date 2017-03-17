@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3845724A-276A-4238-A342-A74FAD056989}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.4259286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "California Closets of Orange County",
+    "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/California Closets of Orange County",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

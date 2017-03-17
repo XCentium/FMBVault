@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D5B2638-6807-4F44-A921-E4CD0304271F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.2249248Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Do I still have to send an email to follow up on my Wire Transfers",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time Pin - Wires/Do I still have to send an email to follow up on my Wire Transfers",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

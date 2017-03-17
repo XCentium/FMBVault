@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0B4FD9F-3AEE-4AD7-BBC4-F37F0A1A3309}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.2499274Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employees Carousel",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employees Carousel",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

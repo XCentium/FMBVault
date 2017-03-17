@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6603542E-5DE4-446E-9361-FE842F1DC695}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.1759216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Register",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

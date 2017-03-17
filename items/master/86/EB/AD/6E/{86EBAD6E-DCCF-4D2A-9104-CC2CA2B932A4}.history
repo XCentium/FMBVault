@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86EBAD6E-DCCF-4D2A-9104-CC2CA2B932A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:04.2759339Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CreditAsAnAssetFlyer",
+    "itemPath": "/sitecore/media library/Brochures/CreditAsAnAssetFlyer",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

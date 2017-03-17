@@ -1,0 +1,135 @@
+----item----
+version: 1
+id: {3FF9641A-B709-434F-AB9F-0E98858D8F75}
+database: master
+path: /sitecore/media library/FMBCom/Images/LandingPages/FMB-CSS1907Divider
+parent: {3FAD10AB-C814-43A6-AD35-C47AA2E84A94}
+name: FMB-CSS1907Divider
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20170308T001636:636245289960330000
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1576
+
+iVBORw0KGgoAAAANSUhEUgAAArwAAAAPCAYAAAAGexyxAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1
+OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo5ZWNlYTg3OC1hODdjLTRhMTctYWYwYy0xODc3
+ZDY4NWM5ODkiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MENDMDVGN0VERkZFMTFFNjk0MjFB
+MEVEOTVBRkU4NDQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MENDMDVGN0RERkZFMTFFNjk0
+MjFBMEVEOTVBRkU4NDQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcg
+KE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlp
+ZDo5ZWNlYTg3OC1hODdjLTRhMTctYWYwYy0xODc3ZDY4NWM5ODkiIHN0UmVmOmRvY3VtZW50SUQ9
+InhtcC5kaWQ6OWVjZWE4NzgtYTg3Yy00YTE3LWFmMGMtMTg3N2Q2ODVjOTg5Ii8+IDwvcmRmOkRl
+c2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+4+7z
+sAAAAJ1JREFUeNrs3bENgCAQQFHPuJSDWLubtYM4FadxAbVRJO81NFRUPxcCkZkdAAC0qncEAAAI
+XgAA+KnhyeZtmcqxhGMDAOBjOc5rf+d6rgkvAAD/q908h7Dlzl7BCwBA0wQvAACCFwAABC8AAAhe
+AAB4Vzz5aS3ifJHM02QAANTgSNm8HOCGr4UBAGiZKw0AAAheAAAQvAAAUKFdgAEA0yEZEjM0zlwA
+AAAASUVORK5CYII=
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 3
+
+700
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+15
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+1151
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 8
+
+700 x 15
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/3FF9641AB709434FAB9F0E98858D8F75.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 6d3b6947-66fb-4c46-8397-bb365d2d5e7f
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170308T001636Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6d3b6947-66fb-4c46-8397-bb365d2d5e7f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T001636Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

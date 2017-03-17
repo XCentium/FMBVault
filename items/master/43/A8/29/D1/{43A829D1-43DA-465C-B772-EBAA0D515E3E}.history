@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43A829D1-43DA-465C-B772-EBAA0D515E3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:15.5679413Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Data/Type",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {FBFB06DB-7702-40DF-A265-4C1E84699420}
+database: master
+path: /sitecore/media library/FMBCom/Files/Brochures
+parent: {AEA50B22-9FB8-4428-A494-E50AB8493688}
+name: Brochures
+master: {00000000-0000-0000-0000-000000000000}
+template: {FE5DD826-48C6-436D-B87A-7C4210C7413B}
+templatekey: Media folder
+created: 20170214T040913:636226421532800000
+
+----version----
+language: en
+version: 1
+revision: aff85748-0b30-4f3d-97e3-39df76d2a939
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170205T171154Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aff85748-0b30-4f3d-97e3-39df76d2a939
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170205T171154Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

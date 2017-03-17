@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DED79EDB-678A-44FB-BEB7-32A5CB169C95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:04.4515429Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Matching/Tags/Default",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {CF1E8D00-37B2-401F-A1EC-214209D00A4D}
+database: master
+path: /sitecore/content/FMBCom/Global/Links/Footer Menus/Legal Menu/Security
+parent: {589B334B-641D-44DD-B54F-016CD33CE639}
+name: Security
+master: {00000000-0000-0000-0000-000000000000}
+template: {390333C8-751B-4332-84A3-6360B969A19F}
+templatekey: Link Menu Item
+created: 20170120T172957:636205301978870000
+
+----version----
+language: en
+version: 1
+revision: 01978883-85b9-4938-a1a4-08ee77464624
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 131
+
+<link text="" linktype="internal" class="" title="Security" target="" querystring="" id="{728B942D-C6C7-4321-8B22-81B71BBD336F}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 8
+
+Security
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161227T063117Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+01978883-85b9-4938-a1a4-08ee77464624
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170215T233206Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

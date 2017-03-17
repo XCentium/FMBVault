@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7FC505E-3CE5-4810-A88E-75B700FC1452}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.5845825Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description Layout",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMediaLayoutStyles/Media Layout Options/Description Layout",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72296CFA-6354-47AD-901A-17F1651E9505}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:39.6369440Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Variable",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Variable",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

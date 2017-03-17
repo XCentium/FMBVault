@@ -1,0 +1,147 @@
+----item----
+version: 1
+id: {F6E20E7D-439A-4C8D-AAC8-A6BD6B525335}
+database: master
+path: /sitecore/media library/FMBCom/Images/associations/ehl
+parent: {E814A376-33D5-48A4-8F9D-3C4F23C95638}
+name: ehl
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20170120T172959:636205301999200000
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 3046
+
+iVBORw0KGgoAAAANSUhEUgAAACoAAAAoCAYAAAH/DFjGAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1
+OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoV2luZG93cykiIHhtcE1NOklu
+c3RhbmNlSUQ9InhtcC5paWQ6ODFBMzJGMzhDRDdCMTFFNjlBMjJCRUVCMTA5QUUwMTgiIHhtcE1N
+OkRvY3VtZW50SUQ9InhtcC5kaWQ6ODFBMzJGMzlDRDdCMTFFNjlBMjJCRUVCMTA5QUUwMTgiPiA8
+eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4MUEzMkYzNkNEN0Ix
+MUU2OUEyMkJFRUIxMDlBRTAxOCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4MUEzMkYzN0NE
+N0IxMUU2OUEyMkJFRUIxMDlBRTAxOCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8
+L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PnfwUB4AAAUgSURBVHjaYmDAB/4DATqbBcqf
+BOQ3ghiMQICsYyK6KYxQiSggJQbE9kDMBNTkDxBAyLqeI3M4YJb9hwAjEGMhVKAR7hqYILITQc47
+D6QTgLQIEBsDsS5AAKF7qg5q7lsoPRtdwXyoxEQofyMMI1sFtg7oj0QgzYSk3w9bUIJCCVlRHnLY
+IpsI48MU74eGryAQ/4Gy66FyjkD8DMQACCBsMccFCkiscYEtejFiEqrgM9RZVkhiSshuZYExQLqh
+wYRiInJQMSJZeQFXMKG47T8awJYUsTseCbDg8jE6gAW6NhAfAuIdUFN3QCMAlJo2IQePApKb+oH4
+MhCbAbEAEPuAxAECiCAAKjyJ5sezDKQCoCYTNEO+g5IAUn76iCafgsugg2gK24l0QBAWBwjAJH8D
+8XrkTIUtbtHjGYu6vUC8mAUa36zoBQAUXCIl6IDmOGMkJiygn4ESAHLpfwoBAy0BI5JL7YCUEBCD
+wuUmEJ8DYh4g9gaGVT5QHiSnA1UeDMSHoWFuAxVTB6orR/d+Aii3YKlUCoD4MZR9EYj9gNgJKVc5
+gHISTA0IAAQQseHdDMRlVAkboEEWWOLDgVzDQNnxK56I/gvEEqQYeBTNgEYkuRI0uefQShKnYRVo
+Gk7jUbsaTe1edAV6aAp+AjEPkb66jaa3E5xOcVVaQGFQmmzFYV4+UNkDWG2OVknvgrUJutGzGjT9
+4QIGSOo2wtoS8NoJaGMTLBLQXANySRMOl77AInYV5kt8pRSoig7AUcTV4wtrfIaCGmx65KRzfIbu
+AuJEqhoK9OI1IHWNKoZSo7BlYhgqALnknwykQIl6ORB/g5buc4FhuwGp7VsKxKAG8wcgvgHEGtBG
+KIheDlQ7C91QUH1/FYjfAbE5EB+EhrkQkiNATfStQPwDaullID4CxKAaQwBo6CqsEYRUPfBBs18A
+tKkDyo5CUDFQFSMHbRH/h7L3EoqoL0BbP0HZsUjJ7B2Smk9A/jco+w80SMAAIEB11g7SQBBEk2Ah
+IhYSRSLExggRC0tTCIKCqIWNhYVEsLASIaWkFishKTSglcZgI4iFQUEkWPgBERFMoYIKBsVCLdRS
+nCfvYDnvLr9LogOPu5vs7s1O9nbezNoVdoKCjG7TuReMVXTFiAEeQSJP/rItaC+HcaOgCxaGZNjG
+BU/So2bywdBQa4dhTUpqaSbrWKBZxsHCjpJVm8mlYDAf48Dfby0GfCSJcxXhgC4DsqKX+C8HiCJG
+WmQmJxq7LMFyQoY7JXi1eD8qCdPah2HF7aIGL+gpMCHoNDF4K1s/VF+wZTcIfKQWq38gFIVoy4Cg
+RW7PtUwPm+xNHhldSl/qKEngdDp3igr3DE1lTQT/DS9xFfiXRJwFSDGGVuXQZsTsa7VROuww1ENU
+VIwMTaCuW2G7Urmu0WZSY0zEJ9gQoBR7SjyAO7LEmOaajcj9l2CN1yuBn+Og7xL1nxwzyWdgj9c7
+9qnPxaOgYteCQxaU4wKULIdI1TG5EIntvKCOiZuDlaEzXvuZE8yySoTJdvPfglF9bOeg4V62WxCM
+C/azefSCRlWLlwKCReYGL9QjWhyIHkXbYUY17K0TZPFoe8SJzNGDCdEjoKwwJ/FyImgX5rOD7+g1
+qv4ZGeplXaFG0bmp+0lkBM/KIUEbzz389DwkgLY8HIkJQBeR1Leyj5vjPClju4lJo13Aah9dJllQ
+Z/fOPKZR0aWZoQV1/VH93pXrJtdjUvntjVALWWGZGM4sjgUzemO+AQVKQICzUwwVAAAAAElFTkSu
+QmCC
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+42
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+40
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+2226
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+42 x 40
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/F6E20E7D439A4C8DAAC8A6BD6B525335.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 397ea66c-6869-401a-87c6-370fdef5fefe
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 20
+
+Equal Housing Lender
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161229T040543Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+397ea66c-6869-401a-87c6-370fdef5fefe
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172959Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{887D3D5A-45A9-449B-AF6A-1AA15FD6C77A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:16.0595253Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-CREHeader2",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-CREHeader2",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

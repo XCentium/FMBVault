@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6DE98EF7-1209-40A3-A63E-16DBEF015211}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.1375865Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TwitterLink",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Social/TwitterLink",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

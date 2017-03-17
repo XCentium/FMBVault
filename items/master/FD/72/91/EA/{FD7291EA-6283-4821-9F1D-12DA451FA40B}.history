@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD7291EA-6283-4821-9F1D-12DA451FA40B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.7509291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Columns",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Article Columns",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

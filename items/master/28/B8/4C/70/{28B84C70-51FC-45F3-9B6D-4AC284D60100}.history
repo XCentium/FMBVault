@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28B84C70-51FC-45F3-9B6D-4AC284D60100}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:05.2365426Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Tags/Default",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

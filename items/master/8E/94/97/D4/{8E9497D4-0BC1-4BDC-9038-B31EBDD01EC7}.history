@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E9497D4-0BC1-4BDC-9038-B31EBDD01EC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:07.3239355Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Portrait",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Portrait",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

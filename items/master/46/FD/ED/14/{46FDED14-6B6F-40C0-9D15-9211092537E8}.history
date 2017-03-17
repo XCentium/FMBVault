@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46FDED14-6B6F-40C0-9D15-9211092537E8}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.2959227Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Teaser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person/Employee Teaser",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

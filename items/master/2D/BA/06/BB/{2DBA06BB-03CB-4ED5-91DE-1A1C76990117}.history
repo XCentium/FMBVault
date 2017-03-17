@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DBA06BB-03CB-4ED5-91DE-1A1C76990117}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.6069216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Do CDs and IRAs qualify for the combined balance waiver",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Personal Checking Accounts/Do CDs and IRAs qualify for the combined balance waiver",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

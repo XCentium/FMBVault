@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B314C21E-FC21-42B0-8352-FDC374E53682}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.2859221Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is there a limit to the number of Wire Transfers I can submit through Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time Pin - Wires/Is there a limit to the number of Wire Transfers I can submit through Online Banking",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

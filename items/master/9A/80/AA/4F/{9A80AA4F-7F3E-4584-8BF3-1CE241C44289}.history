@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A80AA4F-7F3E-4584-8BF3-1CE241C44289}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:37.6559447Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Psychographics",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Psychographics",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

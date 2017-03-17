@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53E88CAA-3A48-431A-BCFA-63CFABF99484}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.2169219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Account",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Online Account",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

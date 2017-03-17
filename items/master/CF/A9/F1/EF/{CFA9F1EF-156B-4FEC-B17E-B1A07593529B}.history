@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFA9F1EF-156B-4FEC-B17E-B1A07593529B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.5815367Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GA",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/GA",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

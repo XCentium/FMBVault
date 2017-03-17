@@ -1,0 +1,88 @@
+----item----
+version: 1
+id: {EE11BD3E-A87E-402D-8F2F-1F0D3E4FCEFC}
+database: master
+path: /sitecore/templates/Project/Common/Content Types/Comparison Matrix/__Standard Values
+parent: {DE51EDED-71E2-4AFA-8771-4CD6759A6FCE}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {DE51EDED-71E2-4AFA-8771-4CD6759A6FCE}
+templatekey: Comparison Matrix
+created: 20170201T024226:636215137465570000
+
+----version----
+language: en
+version: 1
+revision: a1a879fc-aa23-4120-983a-adc9cf0bac5e
+
+----field----
+field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
+name: Body
+key: body
+content-length: 846
+
+<table id="comparison-table" class="tablesaw" data-tablesaw-mode="swipe">
+    <thead>
+        <tr>
+            <th data-tablesaw-priority="persist">&nbsp;</th>
+            <th>Comp Item 1</th>
+            <th>Comp Item 2</th>
+            <th>Comp Item 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Comp Field 1</td>
+            <td>enter content</td>
+            <td>enter content</td>
+            <td>enter content</td>
+        </tr>
+        <tr>
+            <td>Comp Field 2</td>
+            <td>enter content</td>
+            <td>enter content</td>
+            <td>enter content</td>
+        </tr>
+        <tr>
+            <td>Comp Field 3</td>
+            <td>enter content</td>
+            <td>enter content</td>
+            <td>enter content</td>
+        </tr>
+    </tbody>
+</table>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170201T002617Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a1a879fc-aa23-4120-983a-adc9cf0bac5e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170201T024226Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

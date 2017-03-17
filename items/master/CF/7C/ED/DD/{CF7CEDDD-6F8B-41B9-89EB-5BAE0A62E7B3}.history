@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF7CEDDD-6F8B-41B9-89EB-5BAE0A62E7B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.2179192Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mortgage Loan",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Mortgage Loan",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

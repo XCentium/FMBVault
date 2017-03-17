@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99F3844E-9023-44A5-A737-EBD4283E2455}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.6160211Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Foundation/Theming/ParametersTemplate_FixedHeight/__Standard Values",
+    "template": "ParametersTemplate_FixedHeight",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

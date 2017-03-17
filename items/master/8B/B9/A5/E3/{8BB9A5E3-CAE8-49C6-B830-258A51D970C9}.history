@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BB9A5E3-CAE8-49C6-B830-258A51D970C9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:02.1425396Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/ID",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

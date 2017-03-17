@@ -1,0 +1,129 @@
+----item----
+version: 1
+id: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+database: master
+path: /sitecore/content/FMBCom/Home
+parent: {725A45E3-E307-4B95-B363-2782B059DF06}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {4A8822CC-B418-4452-AB0F-8BB6DF2F2114}
+templatekey: Home
+created: 20170120T172946:636205301868730000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: dedf97b2-2a3f-4306-a726-ebe7e40d73c6
+
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 4
+
+Home
+----field----
+field: {0EE2F208-1FEE-42FC-8051-6696D49A92BF}
+name: OpenGraphTitle
+key: opengraphtitle
+content-length: 96
+
+Personal & Business Banking Services from Farmers & Merchants Bank | Serving Southern California
+----field----
+field: {A12D5346-87EE-484D-83C5-F1E8E1B99666}
+name: OpenGraphDescription
+key: opengraphdescription
+content-length: 156
+
+F&M Bank is a local Southern California community bank with more than 100 years of serving our customers. We offer business and individual banking services.
+----field----
+field: {11F41661-E5FE-44E7-B8DA-7CFF2D39B4B2}
+name: OpenGraphImage
+key: opengraphimage
+content-length: 58
+
+<image mediaid="{E1CB8D62-9A64-448E-A366-A13F1C68C1C3}" />
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 96
+
+Personal & Business Banking Services from Farmers & Merchants Bank | Serving Southern California
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 156
+
+F&M Bank is a local Southern California community bank with more than 100 years of serving our customers. We offer business and individual banking services.
+----field----
+field: {4B16F930-73C9-4643-BB1B-00F06E60A073}
+name: MetaKeywords
+key: metakeywords
+content-length: 0
+
+
+----field----
+field: {167ABA77-5172-42AF-9F9E-00299113839E}
+name: CustomMetaData
+key: custommetadata
+content-length: 94
+
+<meta name="google-site-verification" content="NJcfKq2DCBmXPp-WwwHC1wSnvqxVi4Yq7LfHBpJegfI" />
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1560
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{5112B39C-3017-4E53-B727-78305B5703F0}" p:before="*" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Horizontal" s:ph="/layoutZone/section_082cc5cb-f81e-4c2e-8440-da40d512e5e5/col-huge_b7bd5a46-dce2-4136-ae32-c682b59af41c" /><r uid="{B7BD5A46-DCE2-4136-AE32-C682B59AF41C}" p:after="r[@uid='{5112B39C-3017-4E53-B727-78305B5703F0}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_082cc5cb-f81e-4c2e-8440-da40d512e5e5" /><r uid="{B280161D-12E3-499A-96BE-90B7F667B619}" p:after="r[@uid='{F8838443-6467-479D-A8B8-F67D76E2BE42}']" s:ds="{379E58AC-5566-4433-B7DF-79D65FA78230}" s:id="{2909C67B-7034-4E4B-843F-1EF123354888}" s:par="" s:ph="layoutZone" /><r uid="{082CC5CB-F81E-4C2E-8440-DA40D512E5E5}" p:after="r[@uid='{B280161D-12E3-499A-96BE-90B7F667B619}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-media&amp;Media={AF197083-60AD-4AAD-BBAE-137F92FE8CAA}&amp;Parallax" s:ph="layoutZone" /><r uid="{AEDF8F83-99EC-45F5-B66D-710538B0043B}" p:after="*[1=2]" s:ds="{4A5672C0-42F3-4F4E-892D-FDD347D0D167}" s:id="{F6A129D3-512C-4F38-9BDD-A356F43DC1A1}" s:par="" s:ph="bannerZone-hero"><rls><ruleset><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="AC49D1C2D89F4BC1BD864DD82FCB1D7F" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161220T014114Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dedf97b2-2a3f-4306-a726-ebe7e40d73c6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170316T214855Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 10
+
+fmb\jchung
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

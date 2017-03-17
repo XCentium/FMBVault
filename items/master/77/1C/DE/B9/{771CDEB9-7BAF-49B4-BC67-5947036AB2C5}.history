@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{771CDEB9-7BAF-49B4-BC67-5947036AB2C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:05.6595438Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Page Events/Rules",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

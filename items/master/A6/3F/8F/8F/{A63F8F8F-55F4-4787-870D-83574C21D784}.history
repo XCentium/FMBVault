@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A63F8F8F-55F4-4787-870D-83574C21D784}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:11.4905781Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Publish",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Approved/Auto Publish",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

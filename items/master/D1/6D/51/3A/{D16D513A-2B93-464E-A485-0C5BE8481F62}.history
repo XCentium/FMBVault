@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D16D513A-2B93-464E-A485-0C5BE8481F62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.1709255Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Florida",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Florida",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65BE1933-491F-42C6-A8B8-DEF7844FE7B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:45.8017741Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Allowed tags",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Allowed tags",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BE6AA8C-0AF4-4785-99ED-1F724FE41F70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:17.0769404Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BaseSegment",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/BaseSegment",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

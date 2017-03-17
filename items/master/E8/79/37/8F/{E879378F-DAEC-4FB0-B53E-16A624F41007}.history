@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E879378F-DAEC-4FB0-B53E-16A624F41007}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:40.7405507Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Interactions",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Interactions",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

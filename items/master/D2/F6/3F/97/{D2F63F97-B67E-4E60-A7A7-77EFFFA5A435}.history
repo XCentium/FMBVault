@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2F63F97-B67E-4E60-A7A7-77EFFFA5A435}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.4695376Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AR",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/AR",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

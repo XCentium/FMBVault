@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12C460A7-C9F1-47D2-AB4F-503CCBC578C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.1369288Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banner",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Banner",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{745E23A6-6E52-4C09-8564-B255B930ED7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.2439235Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/AccountType/Business",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

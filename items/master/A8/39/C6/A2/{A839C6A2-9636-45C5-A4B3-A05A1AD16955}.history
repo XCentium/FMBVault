@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A839C6A2-9636-45C5-A4B3-A05A1AD16955}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.1629157Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Configuration",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration",
+    "template": "Configuration Setting Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

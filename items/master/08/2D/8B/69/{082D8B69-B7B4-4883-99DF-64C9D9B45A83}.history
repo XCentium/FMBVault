@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{082D8B69-B7B4-4883-99DF-64C9D9B45A83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.1405178Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BelmontShore",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/BelmontShore",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

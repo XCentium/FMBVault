@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{712A94CF-88A2-41BE-9CBB-93E7491DF005}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:08.7292189Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/media library/Feature/Social",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

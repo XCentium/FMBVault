@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE6D975B-865D-4E68-903E-33F2A01F0006}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.3635379Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bg-primary",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-primary",
+    "template": "Background Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

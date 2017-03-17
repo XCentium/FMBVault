@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{387625FE-2C90-4C7E-8BB9-3578EFB20795}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.0309214Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Juan Capistrano",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Juan Capistrano",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

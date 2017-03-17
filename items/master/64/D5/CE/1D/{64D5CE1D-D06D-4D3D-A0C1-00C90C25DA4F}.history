@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64D5CE1D-D06D-4D3D-A0C1-00C90C25DA4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.5719283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Press Room",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/About FM/Press Room",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

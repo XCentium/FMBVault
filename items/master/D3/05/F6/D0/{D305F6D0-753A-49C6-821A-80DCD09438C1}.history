@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D305F6D0-753A-49C6-821A-80DCD09438C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:25.7239367Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Foundation/SitecoreExtensions/ParametersTemplate_QueryableDatasourceRendering/__Standard Values",
+    "template": "ParametersTemplate_QueryableDatasourceRendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

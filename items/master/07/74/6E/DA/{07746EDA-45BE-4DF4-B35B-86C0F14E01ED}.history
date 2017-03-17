@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07746EDA-45BE-4DF4-B35B-86C0F14E01ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:08.7862193Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tools",
+    "itemPath": "/sitecore/media library/Feature/Tools",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

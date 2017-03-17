@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33711187-712E-48C1-B083-9433AF19B129}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:53.4225365Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Protected",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Protected",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

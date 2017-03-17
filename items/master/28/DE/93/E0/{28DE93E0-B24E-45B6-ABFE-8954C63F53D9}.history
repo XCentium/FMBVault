@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28DE93E0-B24E-45B6-ABFE-8954C63F53D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.7325860Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasource Folders",
+    "itemPath": "/sitecore/templates/Feature/Media/_MediaSiteExtension/Datasource Folders",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

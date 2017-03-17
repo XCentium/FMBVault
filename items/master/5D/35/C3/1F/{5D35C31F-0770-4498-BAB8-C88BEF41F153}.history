@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D35C31F-0770-4498-BAB8-C88BEF41F153}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.5529281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teaser Carousel",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Teaser Carousel",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

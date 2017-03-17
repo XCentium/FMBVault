@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69B9C355-004B-4268-BB1E-2F725B8752B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.5809276Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu with links",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Menu with links",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

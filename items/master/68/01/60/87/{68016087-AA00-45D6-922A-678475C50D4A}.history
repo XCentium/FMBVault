@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{68016087-AA00-45D6-922A-678475C50D4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:19.4885852Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ShowChildren",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_Navigable/Navigation/ShowChildren",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

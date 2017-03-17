@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5899FE6B-2AD7-4243-B1F9-3BC664CF0A7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.8589298Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Login",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

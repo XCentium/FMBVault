@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4884D828-1E18-4E78-A53F-EEBA5DDF5D98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.3479215Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Liliana Dongo",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Huntington Beach/Liliana Dongo",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6ABF40AE-3CDC-4DE1-8510-86A5B0728749}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.5619286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Torrance",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Torrance",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

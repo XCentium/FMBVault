@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A15B8E07-8B5D-44C7-A0F5-CFD909F50DDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:06.9412178Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PersonalBrochureforWeb",
+    "itemPath": "/sitecore/media library/Brochures/PersonalBrochureforWeb",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

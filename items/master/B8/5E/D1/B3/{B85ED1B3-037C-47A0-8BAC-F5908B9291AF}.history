@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B85ED1B3-037C-47A0-8BAC-F5908B9291AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:44.1589451Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/__Standard Values",
+    "template": "Preset Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

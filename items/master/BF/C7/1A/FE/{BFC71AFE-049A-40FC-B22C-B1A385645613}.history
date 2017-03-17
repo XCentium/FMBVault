@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFC71AFE-049A-40FC-B22C-B1A385645613}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.4435862Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Body",
+    "itemPath": "/sitecore/templates/Feature/Products/_HasTableContent/Content/Body",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

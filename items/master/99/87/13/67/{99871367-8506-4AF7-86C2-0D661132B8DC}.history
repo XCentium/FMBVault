@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99871367-8506-4AF7-86C2-0D661132B8DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.2259289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header Top Menu",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Header/Header Top Menu",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

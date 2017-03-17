@@ -1,0 +1,134 @@
+----item----
+version: 1
+id: {5B5D4FDF-D8DD-4723-AC8C-3F940CF771B8}
+database: master
+path: /sitecore/content/FMBCom/Home/Personal/Trusteer Rapport Security Software
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Trusteer Rapport Security Software
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170206T170452:636219974925230000
+
+----version----
+language: en
+version: 1
+revision: d96a89da-59f2-4f19-9fd9-e51cb1498e3b
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 34
+
+Trusteer Rapport Security Software
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 4189
+
+<p><img height="106" alt="Trusteer an IBM Company" width="360" src="-/media/EC270CDED19941639750CF76C02E75CE.ashx?h=106&amp;w=360&amp;hash=F9404C719597D383362D634475F474912E0477DC" style="height: 106px; width: 360px;">&nbsp;</p>
+<p>F&amp;M Bank provides Trusteer Rapport&trade; Security Software to our Online Banking clients to safeguard them from financial malware. As of September 15, 2014, Trusteer has a new End-User License Agreement (EULA). To continue using the software, please accept the terms of the EULA. It can be <a href="http://www.trusteer.com/support/end-user-license-agreement" target="_blank">viewed at www.trusteer.com/support/end-user-license-agreement</a>. Should you choose to not accept the new EULA, you may no longer use this security software and can simply uninstall the program.<br>
+<br>
+<strong><a href="http://download.trusteer.com/Jekth7Xjr/RapportSetup.exe?x-src=websitewin">Click here</a>&nbsp;to download Trusteer Rapport for PC.</strong><br>
+<br>
+<strong><a href="http://download.trusteer.com/Jekth7Xjr/leopard/Rapport.dmg?x-src=websitemac">Click here</a> to download Trusteer Rapport for Mac. </strong><br>
+<br>
+<strong>For a more detailed Trusteer Rapport installation illustration for Microsoft Windows based computers <a href="-/media/A6F44D7C95FB4007A261EE4E6BAFE80F.ashx">Click Here</a>. </strong><br>
+<br>
+<strong>For a more detailed Trusteer Rapport installation illustration for Mac based computers <a href="-/media/727236509C2A41AB9C373A0A7D7B66FE.ashx">Click Here</a>. </strong><br>
+<br>
+<strong>If you have questions or need assistance with Trusteer Rapport Security Software, <a href="http://www.trusteer.com/support/report-problem">contact Trusteer Support</a>.</strong></p>
+<p>Rapport secures browser communication from keyboard to website. It detects and prevents Man-in-the-Browser, Man-in-the-middle, phishing, and other attacks launched directly against the user.<br>
+<br>
+The Rapport service includes a lightweight browser security plug-in, as well as cloud-based analysis and reporting services. The browser plug-in works with all major browsers, including Internet Explorer, Firefox, Safari, and Chrome, both on Windows and Mac.<br>
+<br>
+When users browse to sensitive websites such as online banking, Webmail, or payment pages, the Rapport plug-in immediately locks down the browser, and prevents any unauthorized access to web pages and sensitive information that flow through the browser.</p>
+<p>&nbsp;<img height="142" alt="Browser Lockdown" width="444" src="-/media/6B74CDED8D554DC18B826B25907F5275.ashx"></p>
+This browser lockdown is achieved through a combination of access control, encryption, and verification technologies that take place in the background, completely transparent to the user.<br>
+<br>
+The purpose of the browser lockdown is to prevent malware known as Man-in-the-Browser from accessing the browser itself, as well as keystrokes typed into the browser, and communication that enters and leaves the browser. While the browser is locked down, malware cannot read the content of web pages, or information entered into these websites. Malware cannot tamper with web pages or web communication.<br>
+<br>
+In addition to locking down the browser, Rapport also locks down communication with the website. It authenticates the website, and forces end-to-end secure communication with the website. This communication lockdown prevents both Man-in-the-middle and phishing attacks, and prevents criminals from accessing sensitive web communication.<br>
+<br>
+Unauthorized attempts to access the browser or its communication are automatically reported to the Trusteer cloud-based fraud analysis service. The Trusteer team of fraud analysts works 24x7 analyzing this information from customers all over the world, in order to identify new attack patterns. Institutions registered for the Trusteer service receive immediate reports and actionable alerts of new attacks, and can learn of attacks as they happen, instead of days, weeks, and sometimes months later.<br>
+<br>
+<strong>To Learn How Trusteer Rapport Technology Keeps You Safe <a href="https://www.fmb.com/personal/how-trusteer-works">Click Here</a>.</strong><br>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 34
+
+Trusteer Rapport Security Software
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 59
+
+Trusteer Rapport Security Software for Online Banking | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 104
+
+Learn how Farmers & Merchants Bank can help you protect your personal information with Trusteer Rapport.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 535
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{4378DA6F-95C4-496F-B078-054C3DC9D4A6}" p:before="*" s:ds="{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{E3E32A1A-3B0B-4238-BD6A-99C5DF03571A}" p:after="r[@uid='{4378DA6F-95C4-496F-B078-054C3DC9D4A6}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170206T170452Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d96a89da-59f2-4f19-9fd9-e51cb1498e3b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170301T190720Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

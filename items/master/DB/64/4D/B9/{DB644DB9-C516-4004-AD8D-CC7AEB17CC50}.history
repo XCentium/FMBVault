@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB644DB9-C516-4004-AD8D-CC7AEB17CC50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.2779221Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE Above Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/CRE/CRE Above Form",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

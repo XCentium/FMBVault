@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14F1DEDA-F61C-464E-9B60-B318D3BCB317}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.5805170Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tustin",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Tustin",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

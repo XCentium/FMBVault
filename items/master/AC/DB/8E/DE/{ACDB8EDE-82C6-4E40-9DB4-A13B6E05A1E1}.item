@@ -1,0 +1,105 @@
+----item----
+version: 1
+id: {ACDB8EDE-82C6-4E40-9DB4-A13B6E05A1E1}
+database: master
+path: /sitecore/content/FMBCom/Global/Calculators/Commercial Loan
+parent: {F73994C0-E8FA-47A2-A2B2-44E82828EF92}
+name: Commercial Loan
+master: {00000000-0000-0000-0000-000000000000}
+template: {A74F49C2-5F0C-4752-A4FC-5E0FACE02F8B}
+templatekey: Calculator
+created: 20170201T024244:636215137647230000
+
+----field----
+field: {E514A1EB-DDBA-44F7-8528-82CA2280F778}
+name: JavaScript assets
+key: javascript assets
+content-length: 148
+
+/scripts/calculators/KJE.js
+/scripts/calculators/KJESiteSpecific.js
+/scripts/calculators/DebtService.js
+/scripts/calculators/DebtServiceParams.js
+----field----
+field: {11421560-0BCB-403A-B099-8595C34341FD}
+name: JavaScript inline
+key: javascript inline
+content-length: 0
+
+
+----field----
+field: {4867D192-326A-4AA4-81EF-EA430E224AFF}
+name: Css assets
+key: css assets
+content-length: 68
+
+/styles/calculators/KJE.css
+/styles/calculators/KJESiteSpecific.css
+----version----
+language: en
+version: 1
+revision: 2c49985e-7553-48cc-8082-5bcebb1782bd
+
+----field----
+field: {774115EA-0D55-4C89-807E-E9C2FCD8A898}
+name: CalculatorTitle
+key: calculatortitle
+content-length: 26
+
+Commercial Loan Calculator
+----field----
+field: {C2D290A9-7C5C-44DF-9045-B491B3D43CB2}
+name: CalculatorBody
+key: calculatorbody
+content-length: 502
+
+<noscript>
+<div align="center">
+<div align="center" id="KJENoJavaScript" class="KJENoJavaScript">Javascript is required for this calculator.  If you are using Internet Explorer, you may need to select to 'Allow Blocked Content' to view this calculator.
+<p><strong>For more information about these these financial calculators please visit: <a href="http://www.dinkytown.net">Financial Calculators</a> from KJE Computer Solutions, LLC</strong></p>
+</div>
+</div>
+</noscript>
+<div id="KJEAllContent"></div>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170126T194253Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2c49985e-7553-48cc-8082-5bcebb1782bd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T214252Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

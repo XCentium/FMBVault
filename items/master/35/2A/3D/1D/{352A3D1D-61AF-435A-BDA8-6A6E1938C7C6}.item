@@ -1,0 +1,74 @@
+----item----
+version: 1
+id: {352A3D1D-61AF-435A-BDA8-6A6E1938C7C6}
+database: master
+path: /sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Garden Grove
+parent: {82A13318-1CA7-4167-A143-254C4E274CF6}
+name: Garden Grove
+master: {00000000-0000-0000-0000-000000000000}
+template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
+templatekey: Map Point
+created: 20170222T041153:636233335133070000
+
+----version----
+language: en
+version: 1
+revision: ce079f05-9052-4327-afa2-244d88d2bbb5
+
+----field----
+field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
+name: MapPointName
+key: mappointname
+content-length: 12
+
+Garden Grove
+----field----
+field: {0295C01D-214C-4C23-AFC2-3F0B4E88B643}
+name: MapPointAddress
+key: mappointaddress
+content-length: 48
+
+10422 Garden Grove Blvd.
+Garden Grove, CA 92843
+----field----
+field: {F686AC8E-1D33-45DB-8E1A-1B40CD491E7A}
+name: MapPointLocation
+key: mappointlocation
+content-length: 22
+
+33.773547, -117.950131
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170218T010656Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ce079f05-9052-4327-afa2-244d88d2bbb5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170218T011332Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

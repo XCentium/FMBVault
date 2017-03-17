@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3147A46-EA2D-411D-87E7-D4F60664345A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:16.3835247Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-RLD3CallNowGreen",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-RLD3CallNowGreen",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

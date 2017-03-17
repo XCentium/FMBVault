@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8B11E9D-03F5-4BA6-AFA7-7AB3BDD047CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:47.9909225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Do I have to enroll in One-Time PIN",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time PIN - OLB/Do I have to enroll in One-Time PIN",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

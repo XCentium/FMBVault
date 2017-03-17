@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B1AF956B-E1E8-4E6A-88F0-B263E472EDA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.7069293Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Navigation Activity",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Main Navigation Activity",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

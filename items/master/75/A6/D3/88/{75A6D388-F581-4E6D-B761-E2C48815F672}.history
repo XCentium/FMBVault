@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75A6D388-F581-4E6D-B761-E2C48815F672}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.5519168Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "quote",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/quote",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

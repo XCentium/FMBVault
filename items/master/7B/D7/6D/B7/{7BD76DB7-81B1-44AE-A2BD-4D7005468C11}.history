@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BD76DB7-81B1-44AE-A2BD-4D7005468C11}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.3439294Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extensibility",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Dynamic Teaser Content/Extensibility",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

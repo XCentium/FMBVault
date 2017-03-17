@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75827361-CE80-4019-B96F-DD5D1CF83F9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.5139288Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "col-wide-1",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-wide-1",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32305E32-D6F1-4177-9F16-7C13EAF94233}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.5789300Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout Zone",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Layout/Layout Zone",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8832BA30-99C3-4D20-9B1C-237D910A153F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.7249271Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Navigation Activity",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Main Navigation Activity",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

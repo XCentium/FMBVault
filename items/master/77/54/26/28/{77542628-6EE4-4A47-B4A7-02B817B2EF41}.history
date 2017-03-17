@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77542628-6EE4-4A47-B4A7-02B817B2EF41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.3455251Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ratings-Bauer",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Ratings Logos/Ratings-Bauer",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

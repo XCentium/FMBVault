@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0BEB52E-D283-41FE-A0AF-898E84E95E72}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:19.0645253Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Press Release Images",
+    "itemPath": "/sitecore/media library/Images/Press Release Images",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

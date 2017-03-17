@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1ACE1D95-D802-4085-9621-ACD0108C5B03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:21.0935232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Windows Phone",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

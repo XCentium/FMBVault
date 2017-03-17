@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{689E2994-4656-4C58-9112-7826CB46EE69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:10.0725782Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Analytics Workflow",
+    "itemPath": "/sitecore/system/Workflows/Analytics Workflow",
+    "template": "Workflow",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

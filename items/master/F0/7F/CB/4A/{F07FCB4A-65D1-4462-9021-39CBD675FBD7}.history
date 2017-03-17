@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F07FCB4A-65D1-4462-9021-39CBD675FBD7}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.5609224Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Details",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Contact Details",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

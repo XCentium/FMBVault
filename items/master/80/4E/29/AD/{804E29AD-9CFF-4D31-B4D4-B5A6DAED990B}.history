@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:43.1559448Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tab Name",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Control/Control/Tab Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

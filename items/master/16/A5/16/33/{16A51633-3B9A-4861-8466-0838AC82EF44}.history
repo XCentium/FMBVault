@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16A51633-3B9A-4861-8466-0838AC82EF44}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.3709300Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flexibility",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Dynamic Teaser Content/Flexibility",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

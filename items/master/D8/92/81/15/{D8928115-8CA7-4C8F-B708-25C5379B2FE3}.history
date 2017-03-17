@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8928115-8CA7-4C8F-B708-25C5379B2FE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.6379390Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FieldOption",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/FieldOption",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

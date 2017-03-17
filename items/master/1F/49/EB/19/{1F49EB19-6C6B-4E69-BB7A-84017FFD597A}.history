@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F49EB19-6C6B-4E69-BB7A-84017FFD597A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.8090210Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configuration Setting Folder",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Configuration Setting Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

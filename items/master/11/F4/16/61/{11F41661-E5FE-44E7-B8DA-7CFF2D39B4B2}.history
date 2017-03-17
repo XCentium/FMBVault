@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{11F41661-E5FE-44E7-B8DA-7CFF2D39B4B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.0335856Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OpenGraphImage",
+    "itemPath": "/sitecore/templates/Feature/Social/_OpenGraph/Facebook Open Graph/OpenGraphImage",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

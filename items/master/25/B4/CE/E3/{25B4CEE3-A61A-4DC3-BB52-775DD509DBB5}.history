@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25B4CEE3-A61A-4DC3-BB52-775DD509DBB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.0665852Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Contact/Mobile",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9BEB14BA-8028-4CAE-A76C-2A465975E12C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.1399296Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CD Rates Header Menu",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/CD Rates Header Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

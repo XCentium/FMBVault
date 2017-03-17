@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C7A7F02-19E8-4CAC-9CFD-157D5AD4EF3C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:38.0299162Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Working Capital",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/Working Capital",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

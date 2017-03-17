@@ -1,0 +1,67 @@
+----item----
+version: 1
+id: {1EF48E19-374D-4CC9-8BC6-DF58EAFC97C6}
+database: master
+path: /sitecore/content/FMBCom/Global/Content Modules/Products/Gold Checking Debit Card
+parent: {747AF7C7-E896-44B5-BF74-875D143396C7}
+name: Gold Checking Debit Card
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170208T234111:636221940717670000
+
+----version----
+language: en
+version: 1
+revision: b6adaf0d-585f-49a0-9662-795578feca9e
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 237
+
+<img height="168" alt="Gold Checking Debit Card" width="258" src="-/media/642FE227B6E64CDBBCD259987EFC88E2.ashx">
+<a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170208T234111Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b6adaf0d-585f-49a0-9662-795578feca9e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T235500Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

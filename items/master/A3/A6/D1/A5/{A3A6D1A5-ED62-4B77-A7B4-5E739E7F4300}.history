@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3A6D1A5-ED62-4B77-A7B4-5E739E7F4300}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.9179213Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CD Rates",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/CD Rates",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

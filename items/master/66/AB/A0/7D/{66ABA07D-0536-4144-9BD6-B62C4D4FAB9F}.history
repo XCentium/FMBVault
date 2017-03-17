@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66ABA07D-0536-4144-9BD6-B62C4D4FAB9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.0559164Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Products",
+    "itemPath": "/sitecore/content/FMBCom/Global/Products",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

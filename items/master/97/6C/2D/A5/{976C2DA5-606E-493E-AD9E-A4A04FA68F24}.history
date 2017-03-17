@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{976C2DA5-606E-493E-AD9E-A4A04FA68F24}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.5159220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Checking - Gold Comparison",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Phone Numbers/Personal Checking - Gold Comparison",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

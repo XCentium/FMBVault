@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{366317A4-50D1-4FA6-80A4-BB15B89C0981}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.1009215Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is the log in process going to change to access Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time PIN - OLB/Is the log in process going to change to access Online Banking",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

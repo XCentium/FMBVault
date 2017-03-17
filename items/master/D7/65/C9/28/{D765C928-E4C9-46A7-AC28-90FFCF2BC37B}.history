@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D765C928-E4C9-46A7-AC28-90FFCF2BC37B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.9339233Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Orange",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

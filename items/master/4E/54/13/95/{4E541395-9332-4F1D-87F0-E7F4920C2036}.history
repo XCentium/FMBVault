@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E541395-9332-4F1D-87F0-E7F4920C2036}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.3119292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Gallery",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Media/Media Gallery",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F966AA1-B42D-40F5-BB74-EED9DCCB1AC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:09.2172173Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logo",
+    "itemPath": "/sitecore/media library/Feature/Identity/Logo",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

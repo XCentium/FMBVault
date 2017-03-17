@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3A77047-FA1A-4A3E-8F7C-AB6BB34372D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:38.2019157Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cass-1907",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/cass-1907",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{848A4777-F623-41E0-96AF-84C01D200F5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.9649225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Please Review Definitions - Savings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Please Review Definitions - Savings",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2218D0C9-218B-491A-8B1D-5DC4E0A8ED8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.1095856Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "City",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/City",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

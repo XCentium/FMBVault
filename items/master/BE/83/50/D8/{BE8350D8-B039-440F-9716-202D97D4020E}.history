@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE8350D8-B039-440F-9716-202D97D4020E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.9209298Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Images",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Images",
+    "template": "Media Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2367A733-12A2-433D-B0A1-7EA2D4E8B586}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:29.9795311Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Classification",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Business Classification",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38D8C240-5A4E-4BE8-9C6E-8804CD595B2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.5379266Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Oklahoma",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Oklahoma",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

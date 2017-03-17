@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4AF9B20A-4485-4BAE-8C52-A273397684E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.5909222Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Devices",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Mobile Banking/Mobile Devices",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

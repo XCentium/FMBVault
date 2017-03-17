@@ -1,0 +1,100 @@
+----item----
+version: 1
+id: {CA33547F-CEDA-4C89-B95A-21B46E80D2A5}
+database: master
+path: /sitecore/content/FMBCom/Global/Media/Banners/King Arthur
+parent: {9856A806-5AD4-4CE0-8FE3-2B949C28D0C5}
+name: King Arthur
+master: {00000000-0000-0000-0000-000000000000}
+template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
+templatekey: Image
+created: 20170313T230217:636250429379930000
+
+----version----
+language: en
+version: 1
+revision: 1747c21a-95d8-4285-9586-e22d723ccec9
+
+----field----
+field: {C67F6C4D-1E70-4558-A49E-7436AB4AB10C}
+name: Font Foreground
+key: font foreground
+content-length: 0
+
+
+----field----
+field: {F7FC505E-3CE5-4810-A88E-75B700FC1452}
+name: Description Layout
+key: description layout
+content-length: 0
+
+
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 380
+
+<p>F&amp;M Bank is proud to present:</p>
+<p>Pacific Symphony Family Musical Mornings performance:</p>
+<h1>King Arthur and the<br>
+Legend of the Dragon's Lair</h1>
+<h2>March 25th, 2017 10:00 am &amp; 11:30 am</h2>
+<p>Renee and Henry Segerstrom Concert Hall</p>
+<a href="https://www.pacificsymphony.org/tickets/concert/King_Arthur" class="btn btn-gold">Click here to buy tickets</a>
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 58
+
+<image mediaid="{ECCD9182-E915-413D-941F-7E13A2FAFD1F}" />
+----field----
+field: {55A0106E-0592-4CB9-989E-648DEA273A4B}
+name: Call To Action Button Text
+key: call to action button text
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170313T230218Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1747c21a-95d8-4285-9586-e22d723ccec9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170314T023717Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

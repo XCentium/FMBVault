@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {47B2205F-78B3-4750-9BCE-8201851CC189}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Banner/Banner Zone - Thin
+parent: {12C460A7-C9F1-47D2-AB4F-503CCBC578C6}
+name: Banner Zone - Thin
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20170125T211236:636209755563670000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 15
+
+bannerZone-thin
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 116
+
+{FB0798A3-5823-475B-AB05-FD49DEBF5074}|{88667343-C95C-48AC-8E1F-5C4BF7F84DA7}|{A0AE3949-E0D2-443E-941D-D6B4E6032A98}
+----version----
+language: en
+version: 1
+revision: f1d86bc1-8989-4f73-9c37-0b35af44b042
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170125T052014Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f1d86bc1-8989-4f73-9c37-0b35af44b042
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170302T062348Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

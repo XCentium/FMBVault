@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABCB6064-2121-4A38-986C-4A21323226AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.7039287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News Content Header Title",
+    "itemPath": "/sitecore/layout/Renderings/Feature/News/News Content Header Title",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

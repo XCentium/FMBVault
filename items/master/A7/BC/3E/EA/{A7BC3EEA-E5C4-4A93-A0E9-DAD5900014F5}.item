@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {A7BC3EEA-E5C4-4A93-A0E9-DAD5900014F5}
+database: master
+path: /sitecore/content/FMBCom/Global/Links/Modal Whitelist/Mobile Login
+parent: {1CAA0B0F-09D6-4698-AC39-E719669B7D35}
+name: Mobile Login
+master: {00000000-0000-0000-0000-000000000000}
+template: {390333C8-751B-4332-84A3-6360B969A19F}
+templatekey: Link Menu Item
+created: 20170315T191638:636252021986170000
+
+----field----
+field: {5585A30D-B115-4753-93CE-422C3455DEB2}
+name: ShowInNavigation
+key: showinnavigation
+content-length: 0
+
+
+----field----
+field: {68016087-AA00-45D6-922A-678475C50D4A}
+name: ShowChildren
+key: showchildren
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 31420a12-b41e-4763-8e31-13b5c90f656f
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 60
+
+<link linktype="external" url="https://4myact.mobi/60143" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 12
+
+Mobile Login
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170315T191638Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+31420a12-b41e-4763-8e31-13b5c90f656f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170315T194450Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

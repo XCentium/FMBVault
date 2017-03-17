@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8F42732-9CB8-478D-AE95-07E25345FB0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:13.3289422Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Hide version",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime/Lifetime/__Hide version",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

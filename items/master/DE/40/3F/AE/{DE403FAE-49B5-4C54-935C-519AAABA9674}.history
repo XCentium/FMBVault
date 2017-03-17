@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE403FAE-49B5-4C54-935C-519AAABA9674}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:16.2995249Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-GoldCheckingHeader",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-GoldCheckingHeader",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

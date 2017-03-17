@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07674169-6ECB-4534-9D90-F2BB2FEB2BFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.2815362Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Types",
+    "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

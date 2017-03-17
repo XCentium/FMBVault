@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82A6F39C-53E1-4ECA-8C27-69937CFF3B47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.9609388Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Background Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Media/Media Background Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3992C35-A1B7-4B00-885D-7A3A778BB4C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:21.2945235Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Debit_Card_Fraud_Alerts_Terms",
+    "itemPath": "/sitecore/media library/Terms and Conditions/Debit_Card_Fraud_Alerts_Terms",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

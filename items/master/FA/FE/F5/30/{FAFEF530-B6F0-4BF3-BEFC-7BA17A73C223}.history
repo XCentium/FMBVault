@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FAFEF530-B6F0-4BF3-BEFC-7BA17A73C223}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.9509210Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redondo Beach",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Redondo Beach",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

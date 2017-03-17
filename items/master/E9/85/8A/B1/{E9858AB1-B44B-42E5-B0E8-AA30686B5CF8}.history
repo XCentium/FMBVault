@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E9858AB1-B44B-42E5-B0E8-AA30686B5CF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.0965245Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HowToVideos_LandingPage_Thumbnails-OTP-Registration",
+    "itemPath": "/sitecore/media library/FMBCom/Images/How-To/Thumbnails/HowToVideos_LandingPage_Thumbnails-OTP-Registration",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

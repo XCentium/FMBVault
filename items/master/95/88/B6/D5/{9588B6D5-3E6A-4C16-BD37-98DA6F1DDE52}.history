@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.4585794Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Question",
+    "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ/FAQ/Question",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

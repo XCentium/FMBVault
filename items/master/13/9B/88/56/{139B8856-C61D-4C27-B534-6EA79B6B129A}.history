@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{139B8856-C61D-4C27-B534-6EA79B6B129A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.3279281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Social Menu/Facebook",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

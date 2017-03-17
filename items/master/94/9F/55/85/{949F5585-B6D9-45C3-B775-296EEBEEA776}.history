@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{949F5585-B6D9-45C3-B775-296EEBEEA776}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.6309286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Texas",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Texas",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

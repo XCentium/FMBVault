@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26FBD752-C751-4C8E-A433-E5EFEF5C9E75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.6069289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Santa Ana",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Santa Ana",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,159 @@
+----item----
+version: 1
+id: {2D835E38-D55A-484E-A4F7-FDC2828F7A6B}
+database: master
+path: /sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/FM Credit Card
+parent: {7B2D2840-0012-44D1-94ED-3CD02ACE0E1B}
+name: FM Credit Card
+master: {00000000-0000-0000-0000-000000000000}
+template: {C1A4D654-5624-415E-BFF9-5639D543B0D0}
+templatekey: Modal Link Item
+created: 20170214T040907:636226421472270000
+
+----field----
+field: {5585A30D-B115-4753-93CE-422C3455DEB2}
+name: ShowInNavigation
+key: showinnavigation
+content-length: 1
+
+1
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+250
+----version----
+language: en
+version: 1
+revision: b1a1cbf9-146c-4036-9ba7-95f999c5dc61
+
+----field----
+field: {64FB8DE1-AA35-4CEE-AD22-6E4A8812E5B3}
+name: Modal Content
+key: modal content
+content-length: 187
+
+<img alt="F&amp;M Credit Card" width="600" src="-/media/9C718224FEF64C0DA9ECF972427795B1.ashx">
+<br>
+<a class="btn btn-lg btn-green" href="/credit-card-rewards-2016.html">Learn More</a>
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 77
+
+<link linktype="external" url="https://fmerchants.fdecs.com/eCustService/" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 15
+
+F&M Credit Card
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+F&M Credit Card
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170112T190202Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b1a1cbf9-146c-4036-9ba7-95f999c5dc61
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170214T040907Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 527df255-232c-4c27-9905-6fcbbd9c6706
+
+----field----
+field: {64FB8DE1-AA35-4CEE-AD22-6E4A8812E5B3}
+name: Modal Content
+key: modal content
+content-length: 185
+
+<img alt="F&amp;M Credit Card" width="600" src="-/media/9C718224FEF64C0DA9ECF972427795B1.ashx">
+<br>
+<a class="btn btn-lg btn-green" href="/credit-card-rewards-2016.html">Learn More</a>
+----field----
+field: {DF06A0D7-5C1A-423A-86C8-10F4FF20AB5C}
+name: Show Modal
+key: show modal
+content-length: 0
+
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 77
+
+<link linktype="external" url="https://fmerchants.fdecs.com/eCustService/" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 15
+
+F&M Credit Card
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+F&M Credit Card
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170112T190202Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+527df255-232c-4c27-9905-6fcbbd9c6706
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170315T193857Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

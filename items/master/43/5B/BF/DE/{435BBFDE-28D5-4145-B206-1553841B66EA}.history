@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{435BBFDE-28D5-4145-B206-1553841B66EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:02.2659313Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE-Q1",
+    "itemPath": "/sitecore/media library/CRE-Q1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

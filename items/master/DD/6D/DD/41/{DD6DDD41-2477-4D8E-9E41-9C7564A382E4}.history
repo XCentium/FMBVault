@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD6DDD41-2477-4D8E-9E41-9C7564A382E4}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.3949280Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Helix",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Topbar Menu/Helix",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

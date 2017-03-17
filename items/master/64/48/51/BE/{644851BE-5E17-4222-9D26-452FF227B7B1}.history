@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{644851BE-5E17-4222-9D26-452FF227B7B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.5505246Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "checkmark",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/checkmark",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

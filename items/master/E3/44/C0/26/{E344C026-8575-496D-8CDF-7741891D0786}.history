@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E344C026-8575-496D-8CDF-7741891D0786}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:42.9505368Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Size",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/File Size",
+    "template": "Facet",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

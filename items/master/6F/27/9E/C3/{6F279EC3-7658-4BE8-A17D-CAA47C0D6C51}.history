@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F279EC3-7658-4BE8-A17D-CAA47C0D6C51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.5809291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Clemente",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/San Clemente",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

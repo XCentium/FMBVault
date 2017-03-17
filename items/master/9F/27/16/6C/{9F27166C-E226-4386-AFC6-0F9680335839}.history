@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F27166C-E226-4386-AFC6-0F9680335839}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.6235386Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IA",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/IA",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

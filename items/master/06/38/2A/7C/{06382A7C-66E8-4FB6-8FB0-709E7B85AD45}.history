@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{06382A7C-66E8-4FB6-8FB0-709E7B85AD45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.4369255Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nevada",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Nevada",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

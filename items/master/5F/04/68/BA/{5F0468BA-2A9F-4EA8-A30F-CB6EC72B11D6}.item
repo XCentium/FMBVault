@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {5F0468BA-2A9F-4EA8-A30F-CB6EC72B11D6}
+database: master
+path: /sitecore/content/FMBCom/Home/Locations/Garden Grove
+parent: {1D40C7B1-5DE7-419B-A033-78BF56D8312E}
+name: Garden Grove
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170224T011035:636234954352400000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+450
+----version----
+language: en
+version: 1
+revision: 3cdbd5e4-5346-4959-bbb1-5872c5724863
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 12
+
+Garden Grove
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 0
+
+
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 12
+
+Garden Grove
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 69
+
+Community Bank in Garden Grove, California | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 85
+
+Our Garden Grove Farmers & Merchants Bank branch is one of 24 in Southern California.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2904
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{670672F3-069C-4EDB-A4BA-9AC616BF8177}" p:before="*" s:ds="{CF2E5E68-343C-4F3D-AAD9-0AEC1A72D707}" s:id="{5CC844A6-8C83-4650-863F-D21191906479}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-2_881bb28d-7e53-4283-8f93-c652579e51b0" /><r uid="{A891AA0B-B5E4-4335-826D-C6D1FE082D90}" p:after="r[@uid='{670672F3-069C-4EDB-A4BA-9AC616BF8177}']" s:ds="{6FB84715-4D43-4883-B6D8-A2CB6435BB07}" s:id="{5CC844A6-8C83-4650-863F-D21191906479}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-2_881bb28d-7e53-4283-8f93-c652579e51b0" /><r uid="{515716F4-CE01-40A8-9E69-DC269A4483F7}" p:after="r[@uid='{A891AA0B-B5E4-4335-826D-C6D1FE082D90}']" s:ds="{AE3C2DBD-77DC-4C55-9907-695BB21D2A09}" s:id="{5CC844A6-8C83-4650-863F-D21191906479}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_881bb28d-7e53-4283-8f93-c652579e51b0" /><r uid="{881BB28D-7E53-4283-8F93-C652579E51B0}" p:after="r[@uid='{515716F4-CE01-40A8-9E69-DC269A4483F7}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/layoutZone/section-narrow" /><r uid="{C6DB1037-15B0-41BF-93BC-C6BC9D220396}" p:after="r[@uid='{881BB28D-7E53-4283-8F93-C652579E51B0}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{D243B1DB-FE8F-4293-A396-6628F79E3DF9}" p:after="r[@uid='{C6DB1037-15B0-41BF-93BC-C6BC9D220396}']" s:ds="{FF99A7EF-942E-4A23-A6C3-AED8489C5605}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{709BB039-D5F9-427D-A7A9-2709328C9BDB}" p:after="r[@uid='{D243B1DB-FE8F-4293-A396-6628F79E3DF9}']" s:ds="{2CEF34AE-7DA8-4069-8B5B-2468325E9F0B}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/bannerZone/bannerZone-thin/OfficeBannerCTA" /><r uid="{7429806C-72E1-44FB-83D0-88D306D9C25B}" p:after="r[@uid='{709BB039-D5F9-427D-A7A9-2709328C9BDB}']" s:ds="{352A3D1D-61AF-435A-BDA8-6A6E1938C7C6}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=roadmap&amp;CenterLocation=-5.055576,3.803790&amp;ZoomLevel=15&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl=1&amp;EnableRotateControl" s:ph="/bannerZone/bannerZone-thin/OfficeBannerMap" /><r uid="{BA10C405-4BB9-430C-9E3B-770E035C6B2A}" p:after="r[@uid='{7429806C-72E1-44FB-83D0-88D306D9C25B}']" s:ds="{22135B60-8954-45BB-A23B-78EBB158A0EC}" s:id="{88667343-C95C-48AC-8E1F-5C4BF7F84DA7}" s:par="" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r><r uid="{554F3A7F-6C30-430F-B75D-39E7AC6331CF}" p:after="r[@uid='{C274AAA2-DA9E-43B1-BE22-840854C67296}']" s:ds="{7FE7EC75-F9F5-45E2-8946-1E4E94DAE76B}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-wide-1" /></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170221T195017Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3cdbd5e4-5346-4959-bbb1-5872c5724863
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T223940Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

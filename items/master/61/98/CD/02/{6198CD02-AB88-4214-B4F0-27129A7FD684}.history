@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6198CD02-AB88-4214-B4F0-27129A7FD684}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.9339216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Configurations",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Configurations",
+    "template": "Form Configuration Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

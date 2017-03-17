@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D2AF393-6B1F-41D2-A6A7-B9A80F777151}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:06.4352197Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-to-Enroll",
+    "itemPath": "/sitecore/media library/Brochures/How-to-Enroll",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{250DF5BD-2840-4087-B8E8-F1D347CF59D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.9089218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Memorial Hospital",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Memorial Hospital",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

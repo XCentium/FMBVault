@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {719F7364-BD37-4851-9551-E402CB3EDB20}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Banner/Banner Zone - Hero
+parent: {12C460A7-C9F1-47D2-AB4F-503CCBC578C6}
+name: Banner Zone - Hero
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20170125T211236:636209755563200000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 15
+
+bannerZone-hero
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 38
+
+{F6A129D3-512C-4F38-9BDD-A356F43DC1A1}
+----version----
+language: en
+version: 1
+revision: 68f9a44c-241c-4656-86c7-a6f903d28c1b
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170116T072950Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+68f9a44c-241c-4656-86c7-a6f903d28c1b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170125T211236Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

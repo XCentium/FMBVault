@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{444AC978-D75F-429F-9C03-3573974D1FF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.1749295Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TEMP",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

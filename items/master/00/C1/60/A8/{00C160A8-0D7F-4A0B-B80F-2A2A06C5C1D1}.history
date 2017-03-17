@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00C160A8-0D7F-4A0B-B80F-2A2A06C5C1D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.2015248Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EMV-Chip_OLB-ExitAd",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/EMV-Chip_OLB-ExitAd",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

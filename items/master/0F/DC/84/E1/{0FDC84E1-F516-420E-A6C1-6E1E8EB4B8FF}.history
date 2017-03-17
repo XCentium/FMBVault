@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FDC84E1-F516-420E-A6C1-6E1E8EB4B8FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.3869219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blaine J Nelson",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest/Blaine J Nelson",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

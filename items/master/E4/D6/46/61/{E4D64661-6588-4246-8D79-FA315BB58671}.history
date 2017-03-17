@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4D64661-6588-4246-8D79-FA315BB58671}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.6885845Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Location",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/_HasClient/Client Information/Location",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

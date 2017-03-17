@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F424943D-BA8D-4DC9-9713-03D989527AC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.6849217Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Part V Faith",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part V Faith",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

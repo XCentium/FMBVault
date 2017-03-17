@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{534B6E19-5FB5-488D-ABAA-C310D173B20C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:10.0325789Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Standard Rules",
+    "itemPath": "/sitecore/system/Workflow Rules/Standard Rules",
+    "template": "Workflow Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49905CE3-91E3-4DD3-B039-DD4823F6CDC5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.7579219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How can I apply for a job with FM",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How can I apply for a job with FM",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

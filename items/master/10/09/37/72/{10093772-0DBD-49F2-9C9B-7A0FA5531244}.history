@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10093772-0DBD-49F2-9C9B-7A0FA5531244}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.2769290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer Copyright",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Footer/Footer Copyright",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

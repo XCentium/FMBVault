@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0E7DE36-A0D8-45C0-9479-2AE22E352D5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.1959218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modesta Haro-Mendez",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/East Long Beach/Modesta Haro-Mendez",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

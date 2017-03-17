@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FF2671D-1C23-4E6B-8219-08AAC3355618}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.6799159Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OnlineAccount",
+    "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

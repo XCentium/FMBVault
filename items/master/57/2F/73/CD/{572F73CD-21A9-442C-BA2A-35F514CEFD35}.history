@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{572F73CD-21A9-442C-BA2A-35F514CEFD35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.8735370Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Theming",
+    "itemPath": "/sitecore/system/Settings/Foundation/Theming",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

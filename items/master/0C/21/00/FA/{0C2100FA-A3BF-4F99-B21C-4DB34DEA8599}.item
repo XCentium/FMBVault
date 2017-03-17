@@ -1,0 +1,540 @@
+----item----
+version: 1
+id: {0C2100FA-A3BF-4F99-B21C-4DB34DEA8599}
+database: master
+path: /sitecore/content/FMBCom/Home/CD Rates
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: CD Rates
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170224T181215:636235567359870000
+
+----field----
+field: {B3BA9EA9-D0A1-49DF-9F4B-28FA5D353DC8}
+name: JavascriptCodeBottom
+key: javascriptcodebottom
+content-length: 1258
+
+    <script type="text/javascript">
+
+jQuery(function () {
+            jQuery("#thedropdown").change(function () {
+
+                var text = jQuery("#thedropdown").val();
+
+                jQuery("#bigtext").html(text);
+            });
+        });
+
+        //Get current url
+        var currentURL = window.location.href;
+        var GCLID = "gclid", UTM_SOURCE = "utm_source";
+        var gclidVal = "", utm_sourceVal = "";
+
+        //parse url parameters
+        var urlSplit = currentURL.split('&');
+        for (var urlArrayIndex = 0; urlArrayIndex < urlSplit.length; urlArrayIndex++) {
+            //if parameter is GCLID set hidden value for GCLID
+            if (urlSplit[urlArrayIndex].indexOf(GCLID) >= 0) {
+                var gclidArrayVal = urlSplit[urlArrayIndex].split('=');
+                if (gclidArrayVal.length > 1) {
+                    gclidVal = gclidArrayVal[1];
+                }
+            }
+
+            if (urlSplit[urlArrayIndex].indexOf(UTM_SOURCE) >= 0) {
+                var utmsourceArrayVal = urlSplit[urlArrayIndex].split('=');
+                if (utmsourceArrayVal.length > 1) {
+                    utm_sourceVal = utmsourceArrayVal[1];
+                }
+            }
+        }
+</script>
+----field----
+field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
+name: CssCode
+key: csscode
+content-length: 5636
+
+<style>
+footer {
+margin-top:0 !important;
+}
+
+.header-logo .hidden-xs.col-xs-6 {
+text-align:right;
+}
+#gotoMenu {
+margin-right: 15px;
+padding:8px 12px;
+}
+
+.wisdomListText {
+font-size: 24px;
+color: #006237;
+}
+
+.faq-wrapper {
+margin: 0 0 35px;
+}
+
+.faq-wrapper .faq-cat .cat-title, a.toggler span.plus {
+display:none; }
+
+.faq-wrapper .faq-cat .article li {
+display:list-item!important;
+}
+
+.col-md-12 .m-b-2 {
+margin-bottom: 0 !Important; }
+
+ #mc_embed_signup form {
+        display: block;
+        position: relative;
+        text-align: left;
+        padding: 10px 0 10px 3%;
+    }
+
+    #mc_embed_signup h2 {
+        font-weight: bold;
+        padding: 0;
+        margin: 15px 0;
+        font-size: 1.4em;
+    }
+
+    #mc_embed_signup input {
+        border: 1px solid #999;
+        -webkit-appearance: none;
+    }
+
+    #mc_embed_signup input[type=checkbox] {
+        -webkit-appearance: checkbox;
+    }
+
+    #mc_embed_signup input[type=radio] {
+        -webkit-appearance: radio;
+    }
+
+    #mc_embed_signup input:focus {
+        border-color: #333;
+    }
+
+    #mc_embed_signup .button {
+        clear: both;
+        background-color: rgb(21, 88, 53);
+        border: 0 none;
+        border-radius: 4px;
+        color: #FFFFFF;
+        cursor: pointer;
+        display: inline-block;
+        font-size: 15px;
+        font-weight: bold;
+        height: 32px;
+        line-height: 32px;
+        margin: 0 5px 10px 0;
+        padding: 0 22px;
+        text-align: center;
+        text-decoration: none;
+        vertical-align: top;
+        white-space: nowrap;
+        width: auto;
+    }
+
+    #mc_embed_signup .button:hover {
+        background-color: #777;
+    }
+
+    #mc_embed_signup .small-meta {
+        font-size: 11px;
+    }
+
+    #mc_embed_signup .nowrap {
+        white-space: nowrap;
+    }
+
+    #mc_embed_signup .mc-field-group {
+        clear: left;
+        position: relative;
+        width: 96%;
+        padding-bottom: 3%;
+        min-height: 50px;
+    }
+
+    #mc_embed_signup .size1of2 {
+        clear: none;
+        float: left;
+        display: inline-block;
+        width: 46%;
+        margin-right: 4%;
+    }
+
+    * html #mc_embed_signup .size1of2 {
+        margin-right: 2%; /* Fix for IE6 double margins. */
+    }
+
+    #mc_embed_signup .mc-field-group label {
+        display: block;
+        margin-bottom: 3px;
+    }
+
+    #mc_embed_signup .mc-field-group input {
+        display: block;
+        width: 100%;
+        padding: 8px 0;
+        text-indent: 2%;
+    }
+
+    #mc_embed_signup .mc-field-group select {
+        display: inline-block;
+        width: 99%;
+        padding: 5px 0;
+        margin-bottom: 2px;
+    }
+
+    #mc_embed_signup .datefield, #mc_embed_signup .phonefield-us {
+        padding: 5px 0;
+    }
+
+    #mc_embed_signup .datefield input, #mc_embed_signup .phonefield-us input {
+        display: inline;
+        width: 60px;
+        margin: 0 2px;
+        letter-spacing: 1px;
+        text-align: center;
+        padding: 5px 0 2px 0;
+    }
+
+    #mc_embed_signup .phonefield-us .phonearea input, #mc_embed_signup .phonefield-us .phonedetail1 input {
+        width: 40px;
+    }
+
+    #mc_embed_signup .datefield .monthfield input, #mc_embed_signup .datefield .dayfield input {
+        width: 30px;
+    }
+
+    #mc_embed_signup .datefield label, #mc_embed_signup .phonefield-us label {
+        display: none;
+    }
+
+    #mc_embed_signup .indicates-required {
+        text-align: right;
+        font-size: 11px;
+        margin-right: 4%;
+    }
+
+    #mc_embed_signup .asterisk {
+        color: #c60;
+        font-size: 200%;
+    }
+
+    #mc_embed_signup .mc-field-group .asterisk {
+        position: absolute;
+        top: 25px;
+        right: 10px;
+    }
+
+    #mc_embed_signup .clear {
+        clear: both;
+    }
+
+    #mc_embed_signup .mc-field-group.input-group ul {
+        margin: 0;
+        padding: 5px 0;
+        list-style: none;
+    }
+
+    #mc_embed_signup .mc-field-group.input-group ul li {
+        display: block;
+        padding: 3px 0;
+        margin: 0;
+    }
+
+    #mc_embed_signup .mc-field-group.input-group label {
+        display: inline;
+    }
+
+    #mc_embed_signup .mc-field-group.input-group input {
+        display: inline;
+        width: auto;
+        border: none;
+    }
+
+    #mc_embed_signup div#mce-responses {
+        float: left;
+        top: -1.4em;
+        padding: 0em .5em 0em .5em;
+        overflow: hidden;
+        width: 90%;
+        margin: 0 5%;
+        clear: both;
+    }
+
+    #mc_embed_signup div.response {
+        margin: 1em 0;
+        padding: 1em .5em .5em 0;
+        font-weight: bold;
+        float: left;
+        top: -1.5em;
+        z-index: 1;
+        width: 80%;
+    }
+
+    #mc_embed_signup #mce-error-response {
+        display: none;
+    }
+
+    #mc_embed_signup #mce-success-response {
+        color: #529214;
+        display: none;
+    }
+
+    #mc_embed_signup label.error {
+        display: block;
+        float: none;
+        width: auto;
+        margin-left: 1.05em;
+        text-align: left;
+        padding: .5em 0;
+    }
+
+    #mc-embedded-subscribe {
+        clear: both;
+        width: auto;
+        display: block;
+        margin: 1em 0 1em 5%;
+    }
+
+    #mc_embed_signup #num-subscribers {
+        font-size: 1.1em;
+    }
+
+    #mc_embed_signup #num-subscribers span {
+        padding: .5em;
+        border: 1px solid #ccc;
+        margin-right: .5em;
+        font-weight: bold;
+    }
+</style>
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: 1bac29f1-c149-429d-8f3b-e4912f289a07
+
+----field----
+field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
+name: ParallaxBackgroundImage
+key: parallaxbackgroundimage
+content-length: 0
+
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 26
+
+F&M Certificate Of Deposit
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 11691
+
+
+        <div class="row" style="margin-top: 30px;">
+            <div class="col-md-12" style="padding-top: 0px; padding-bottom: 5px; padding-left: 15px; background-color: rgb(21, 88, 53);">
+                <div class="col-md-8">
+                    <p style="color: rgb(255, 255, 255); line-height: 1.2; padding-top: 50px; padding-right: 40px; font-family: tahoma; font-size: 2.3em; font-weight: 900;">Great CD Rates from<br> California's Strongest,<br> since 1907.</p>
+                    <p style="color: rgb(255, 255, 255); line-height: 40px; padding-right: 40px; font-family: tahoma; font-size: 2.3em; font-weight: 900;"> Call us today at <span style="color: rgb(255, 255, 255); text-decoration: underline; white-space: nowrap;">(888) 549-6766</span></p>
+                </div>
+                <div class="col-md-3" style="border: 5px solid rgb(255, 255, 255); border-image: none; margin-top: 30px; margin-right: 30px; margin-bottom: 30px; max-width: 400px;">
+                    <div class="row">
+                        <div id="bigtext" style="color: rgb(255, 255, 255); padding-left: 30px; font-family: Impact, Charcoal, sans-serif; font-size: 6.5em; font-weight: 800; float: left;">&nbsp;1.21</div>
+                        <div class="col-md-3">
+                            <img style="width: 55px; padding-top: 30px;" alt="%" src="-/media/B9CA255BA12F4F97A05C18B48FD7A255.ashx?w=55&amp;hash=D86823B6BCE3E0706B23E191E1ED27A736E57348">
+                        </div>
+                    </div>
+                    <p style="text-align:center; color: #fff;">$1,000 Minimum Deposit</p>
+                    <p style="color: #fff; font-size: 10px; margin-bottom: 5px;">Select your CD rate term:</p>
+                    <select id="thedropdown" style="border: 2px solid rgb(255, 255, 255); border-image: none; width: 100%; color: rgb(255, 255, 255); margin-bottom: 10px; background-color: rgb(21, 88, 53);">
+                        <option value="&nbsp;1.21">60 months
+                        <option value="0.90">48 months
+                        <option value="0.40">36-47 months
+                        <option value="0.30">24-35 months
+                        <option value="0.20">12-23 months
+                        <option value="0.10">182 days
+                        <option value="0.05">91 days
+                        <option value="0.05">7 to 31 days
+
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12" style="padding: 20px 20px 20px 35px; color: rgb(255, 255, 255); font-family: tahoma; margin-top: 20px; background-color: rgb(21, 88, 53);">
+                <p style="font-family: tahoma; font-size: 20px; font-weight: 600;">GET STARTED AND OPEN AN F&amp;M CD TODAY:</p>
+                <div class="col-sm-4" style="margin: 20px; padding: 15px; border-radius: 5px; border: 2px solid rgb(255, 255, 255); border-image: none; width: 29%; min-width: 300px; height: 180px;">
+                    <strong>STEP 1</strong><img style="margin-left: 10px;" alt="" src="-/media/87C7879C281E4C78AAFBAACF2C79D1D0.ashx">
+                    <p style="margin-top:10px"><strong>Enter your info</strong></p>
+                    <p style="font-size: smaller;">We need your address, phone and email.</p>
+                    <br>
+                    <a class="btn btn-block" style="width: 140px; color: rgb(21, 88, 53); font-size: 20px; font-weight: bold; background-color: white;" href="https://connect.fmb.com/OnlineAccount/welcome.aspx" target="_blank">Get Started</a>
+                </div>
+                <div class="col-sm-4" style="margin: 20px; padding: 15px; border-radius: 5px; border: 2px solid rgb(255, 255, 255); border-image: none; width: 29%; min-width: 300px; height: 180px;">
+                    <strong>STEP 2</strong><img style="margin-left: 10px;" alt="" src="-/media/87C7879C281E4C78AAFBAACF2C79D1D0.ashx">
+                    <p style="margin-top:10px"><strong>Visit one of our Convenient<br>Branch Locations</strong></p>
+                    <p style="font-size: smaller;">We schedule a time that works for you and meet with you 1 on 1 to make the process easy.<br>Simply bring in a form of identification, and you can fund your account with as little as $1,000.</p>
+                </div>
+                <div class="col-sm-4" style="margin: 20px; padding: 15px; border-radius: 5px; border: 2px solid rgb(255, 255, 255); border-image: none; width: 29%;  min-width: 300px; height: 180px;">
+                    <strong>STEP 3</strong>
+                    <p style="margin-top:10px"><strong>Done!</strong></p>
+                    <p style="font-size: smaller;">Like we have done for over 107 years, we shake your hand and look forward to a great banking relationship with you</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12" style="padding: 0px; margin-top: 20px;">
+                <div id="mailChimp" style="border: 3px solid rgb(21, 88, 53); border-image: none;">
+                    <!-- Begin MailChimp Signup Form -->
+                    <!--
+                        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+                        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+                    -->
+                    <div id="mc_embed_signup">
+                        <form class="validate" id="mc-embedded-subscribe-form" action="//fmb.us7.list-manage.com/subscribe/post?u=bd5bed6c81dc8cf65dc788186&amp;id=b72442f5f2" method="post">
+                            <div id="mc_embed_signup_scroll">
+                                <p class="section-heading" style="color: rgb(21, 88, 53); text-transform: uppercase; font-family: Arial; font-size: 1.5em; font-weight: bold; margin-top: 10px; margin-bottom: 0px;">CD Rates Alert</p>
+                                <p style="font-size: 16px; font-weight: bold; margin-top: 10px; margin-bottom: 20px;">When our rates change, be the first to know with our innovative rates alert emails.</p>
+                                <div class="col-sm-5">
+                                    <div class="mc-field-group">
+                                        <p>Name <span class="asterisk">*</span> </p>
+                                        <input name="FNAME" id="mce-FNAME" style="border-radius: 5px;" type="text">
+                                    </div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="mc-field-group">
+                                        <p>Email Address  <span class="asterisk">*</span></p>
+                                        <input name="EMAIL" class="required email" id="mce-EMAIL" style="border-radius: 5px;" type="email">
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="clear" style="margin-right: auto; margin-left: auto;">
+                                        <input name="subscribe" class="button" id="mc-embedded-subscribe" style="margin-top: 25px;" type="submit" value="Get CD Alerts">
+                                        <input name="GCLID" id="mce-GCLID" type="hidden" value="">
+                                        <input name="UTM_SOURCE" id="mce-UTM_SOURCE" type="hidden" value="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-12">
+                                    <div class="indicates-required" style="float: left;"><span class="asterisk">*</span> indicates a required field.</div>
+                                </div>
+                                <div class="mc-field-group">
+                                </div>
+                                <div class="clear" id="mce-responses">
+
+
+                                </div>
+                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                <div style="left: -5000px; position: absolute;"><input name="b_bd5bed6c81dc8cf65dc788186_b72442f5f2" type="text"></div>
+                            </div>
+                        </form>
+                    </div>
+                    <!--End mc_embed_signup-->
+                </div>
+            </div>
+        </div>
+
+        <div class="row" style="margin-top: 20px; margin-bottom: 20px; border-top-color: rgb(21, 88, 53); border-bottom-color: rgb(21, 88, 53); border-top-width: 3px; border-bottom-width: 3px; border-top-style: solid; border-bottom-style: solid;">
+            <div class="col-sm-10" style="width: 50%; padding-left: 0px; margin-right: 37px; min-width: 350px;">
+                <p class="section-heading" style="color: rgb(51, 51, 51); padding-top: 20px; font-family: tahoma; font-size: 1.8em;"><strong>F&amp;M: A Century of Wisdom</strong></p>
+                <p style="font-weight: bold;">With 110 years of experience, F&amp;M was founded on the values of honesty, integrity, the home, faith and service above self.</p>
+                <img style="padding-top: 10px; padding-right: 10px; float: left;" alt="checkmark" src="-/media/CB03EB50F54D4B63A21690CD0A0CAD9C.ashx">
+                <h3 class="wisdomListText">Strong, Conservative Values</h3>
+                <img style="padding-top: 10px; padding-right: 10px; float: left;" alt="checkmark" src="-/media/CB03EB50F54D4B63A21690CD0A0CAD9C.ashx">
+                 <h3 class="wisdomListText">Online Access 24/7</h3>
+                <img style="padding-top: 10px; padding-right: 10px; float: left;" alt="checkmark" src="-/media/CB03EB50F54D4B63A21690CD0A0CAD9C.ashx">
+                <h3 class="wisdomListText">Local Offices across Southern California</h3>
+                <img style="padding-top: 10px; padding-right: 10px; float: left;" alt="checkmark" src="-/media/CB03EB50F54D4B63A21690CD0A0CAD9C.ashx" "="">
+                 <h3 class="wisdomListText">Over $6 billion in assets</h3>
+            </div>
+            <div class="col-sm-2" style="padding: 0px; width: 43%;">
+                <img style="margin-top: 20px; float: right;" alt="mainoffice" src="-/media/B9DD92213B0B4F1DB804383D8D700598.ashx">
+                <p style="text-align: center; float: right;">F&amp;M Main Office Circa, 1932</p>
+            </div>
+        </div>
+
+    <p class="section-heading" style="color: rgb(51, 51, 51); padding-top: 15px; font-family: tahoma; font-size: 1.8em;"><strong>FAQs: We're Here to Help</strong></p>
+
+        <!--<div class="row" style="margin-top: 20px; border-top-color: rgb(21, 88, 53); border-top-width: 3px; border-top-style: solid;">
+            <div class="col-sm-8" id="disclosures" style="padding-top: 20px; font-size: x-small; font-weight: bold; float: left;">
+                <p>1. Farmers &amp; Merchants Bank annual percentage yield (APY) is accurate as of 7/13/2016. Terms and the APY may change at any time without prior notice. Fees could reduce earnings on the account. The APY assumes that interest remains on deposit until maturity. A withdrawal of interest will reduce earnings. An Early Withdrawal Penalty will be imposed for withdrawals before maturity. Please contact your local F&amp;M office for more details and review your Truth-in-Savings disclosure for additional terms and conditions that may apply.test</p>
+
+            </div>
+        </div>-->
+
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 46
+
+High Yield CD Rates | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 115
+
+Find out more about the high yield CD rates offered by Farmers & Merchants bank, California's strongest since 1907.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1269
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D32C049F-35C5-46A4-A0EE-58810EFB93D5}" p:before="*" s:ds="{A6102784-F10F-4B8D-A47A-2DAEC44E80E0}" s:id="{8503EA38-BC61-42B8-8891-A5C92D6FCD69}" s:ph="/headerZone/header-login" /><r uid="{8F664301-86B0-49AE-87A5-F2DD2728FD33}" p:after="r[@uid='{D32C049F-35C5-46A4-A0EE-58810EFB93D5}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{F013A76E-C40C-4ED0-8B7C-AE304218E924}" p:after="r[@uid='{8F664301-86B0-49AE-87A5-F2DD2728FD33}']" s:id="{4B912A12-E167-4B3D-A8CC-0A969FFF6120}" s:ph="bannerZone" /><r uid="{0746DC4B-E935-44D4-BF0B-87BC6853AA6E}" p:after="r[@uid='{C8F02082-3A13-4313-811B-C61A0CA5A98A}']" s:ds="{B9113730-264D-42BA-83B8-89A0DBD052D1}" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:ph="/layoutZone/section/col-huge" /><r uid="{235DFFE8-232B-446A-9522-72BD3DB27770}" p:after="r[@uid='{0746DC4B-E935-44D4-BF0B-87BC6853AA6E}']" s:ds="{1FF16865-7189-4336-A505-4A8F3818AE99}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section/col-huge" /><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r><r uid="{91B388C4-4BD1-482B-A2E1-7D89B83CFEA4}" s:ds="{9BEB14BA-8028-4CAE-A76C-2A465975E12C}" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170130T234031Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1bac29f1-c149-429d-8f3b-e4912f289a07
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170315T182006Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9E1902DD-39B9-4072-8AFC-313896784037}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.3775243Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ratings-Verisign",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Ratings Logos/Ratings-Verisign",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74A18762-3EC3-4BB4-9A47-D9BE8CA83046}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.4979390Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redirect Base",
+    "itemPath": "/sitecore/templates/Redirect Module/Redirect Base",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {D04EC933-DB20-4ED9-8706-6E22C509B020}
+database: master
+path: /sitecore/content/FMBCom/Global/Media/Videos/Banners/Long Beach Symphony - March 11th 2017
+parent: {1DCC0F18-634D-4970-99C0-EDD04B35EBF5}
+name: Long Beach Symphony - March 11th 2017
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1C095E2-B3E0-46D0-B838-02A9E8B880D9}
+templatekey: Video
+created: 20170316T211728:636252958481330000
+
+----version----
+language: en
+version: 1
+revision: a3687377-32e8-404e-8c86-e514fb4ab9fd
+
+----field----
+field: {2628705D-9434-4448-978C-C3BF166FA1EB}
+name: MediaVideoLink
+key: mediavideolink
+content-length: 142
+
+<link text="" linktype="internal" class="" title="Long Beach Symphony" target="" querystring="" id="{26011D2D-3320-4880-B56C-7326E229BBEC}" />
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 19
+
+Long Beach Symphony
+----field----
+field: {4C346442-E859-4EFD-89B2-44AEDF467D21}
+name: __Valid to
+key: __valid to
+content-length: 16
+
+20170312T090000Z
+----field----
+field: {B8F42732-9CB8-478D-AE95-07E25345FB0F}
+name: __Hide version
+key: __hide version
+content-length: 1
+
+1
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170316T211728Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a3687377-32e8-404e-8c86-e514fb4ab9fd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170316T221849Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F920FEE5-D8AE-468B-BA1D-B0922FC6A1D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.2535383Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icon Types",
+    "itemPath": "/sitecore/system/Settings/Feature/Tools/Icon Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

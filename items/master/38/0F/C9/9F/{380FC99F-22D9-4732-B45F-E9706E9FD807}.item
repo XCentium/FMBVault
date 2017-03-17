@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {380FC99F-22D9-4732-B45F-E9706E9FD807}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Banner/Banner Zone
+parent: {12C460A7-C9F1-47D2-AB4F-503CCBC578C6}
+name: Banner Zone
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20170125T211236:636209755564600000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 10
+
+bannerZone
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 38
+
+{4B912A12-E167-4B3D-A8CC-0A969FFF6120}
+----version----
+language: en
+version: 1
+revision: 258b43cf-a749-4b3f-8bcf-8a80a6822d05
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170116T072905Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+258b43cf-a749-4b3f-8bcf-8a80a6822d05
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170125T211236Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

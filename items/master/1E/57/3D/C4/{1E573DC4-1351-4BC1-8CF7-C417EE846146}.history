@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1E573DC4-1351-4BC1-8CF7-C417EE846146}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.3929218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gold Checking Right Header",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Online Account/Gold Checking Right Header",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

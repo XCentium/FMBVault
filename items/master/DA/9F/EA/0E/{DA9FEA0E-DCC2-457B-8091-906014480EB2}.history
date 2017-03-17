@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA9FEA0E-DCC2-457B-8091-906014480EB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.1219290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Mobile Banking Features/Text Banking",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

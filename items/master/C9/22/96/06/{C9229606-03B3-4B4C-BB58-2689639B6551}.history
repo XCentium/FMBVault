@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9229606-03B3-4B4C-BB58-2689639B6551}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.7055361Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KY",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/KY",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65CEF392-DCC4-432F-8A85-F25E7207E024}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:30.3945296Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UK",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/UK",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

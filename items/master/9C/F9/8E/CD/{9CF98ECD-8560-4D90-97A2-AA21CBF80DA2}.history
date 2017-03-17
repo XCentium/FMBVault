@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CF98ECD-8560-4D90-97A2-AA21CBF80DA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.2539297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nat King Cole - Q1",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Nat King Cole - Q1",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

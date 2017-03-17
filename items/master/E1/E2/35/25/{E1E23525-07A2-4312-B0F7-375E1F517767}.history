@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1E23525-07A2-4312-B0F7-375E1F517767}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.8039219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phone",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Personal Info/Phone",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

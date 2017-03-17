@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07F0710D-ABD8-4C95-BE27-AEF71733AE05}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.6839295Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/Online Banking",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B67A7F9-7246-4A59-A051-961095C2DC70}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.4849165Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global",
+    "itemPath": "/sitecore/content/FMBCom/Global",
+    "template": "Global Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

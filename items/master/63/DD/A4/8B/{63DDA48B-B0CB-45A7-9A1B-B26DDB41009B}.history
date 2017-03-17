@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.4525838Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MediaTitle",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMedia/Media/MediaTitle",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

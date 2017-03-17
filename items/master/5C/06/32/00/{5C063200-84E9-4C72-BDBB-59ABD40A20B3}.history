@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C063200-84E9-4C72-BDBB-59ABD40A20B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.5945245Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JSpinelli-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/JSpinelli-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

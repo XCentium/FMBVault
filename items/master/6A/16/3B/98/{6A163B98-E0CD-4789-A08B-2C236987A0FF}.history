@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A163B98-E0CD-4789-A08B-2C236987A0FF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.7339236Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Onsite Behavior/Title",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

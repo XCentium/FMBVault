@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6907B6C-AC66-44EE-8326-FEE3EF42B6ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:57.8345402Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flash",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

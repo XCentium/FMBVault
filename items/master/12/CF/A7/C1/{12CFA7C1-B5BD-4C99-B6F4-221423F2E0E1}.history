@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12CFA7C1-B5BD-4C99-B6F4-221423F2E0E1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.0819286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simplicity",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Simplicity",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

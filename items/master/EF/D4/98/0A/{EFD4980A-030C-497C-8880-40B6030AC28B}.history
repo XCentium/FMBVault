@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFD4980A-030C-497C-8880-40B6030AC28B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.5125791Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OrganisationName",
+    "itemPath": "/sitecore/templates/Feature/Identity/_Identity/Organisation/OrganisationName",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

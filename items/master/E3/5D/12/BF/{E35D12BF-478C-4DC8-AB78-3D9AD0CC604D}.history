@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E35D12BF-478C-4DC8-AB78-3D9AD0CC604D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.8289232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/PersonalBankingProducts/FM Credit Card",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

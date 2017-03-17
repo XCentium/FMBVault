@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {E0A64732-3D95-4645-89B9-CD8FAD29B452}
+database: master
+path: /sitecore/content/FMBCom/Home/Locations/test
+parent: {1D40C7B1-5DE7-419B-A033-78BF56D8312E}
+name: test
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170228T165621:636238977818000000
+
+----version----
+language: en
+version: 1
+revision: ab7feccd-c815-406f-bb33-7a2b711ac878
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 4
+
+test
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 4
+
+test
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 4
+
+test
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1567
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{6F03778B-C8DD-4423-BF4B-6A06359061E5}" p:before="*" s:ds="{6347467C-FAD8-4AC6-8ABA-248F585D43EC}" s:id="{5CC844A6-8C83-4650-863F-D21191906479}" s:ph="/layoutZone/section-narrow/col-wide-1_b95ea239-7d92-4e6f-a09a-40a1ebe06dd4" /><r uid="{B95EA239-7D92-4E6F-A09A-40A1EBE06DD4}" p:after="r[@uid='{6F03778B-C8DD-4423-BF4B-6A06359061E5}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/layoutZone/section-narrow" /><r uid="{D4666EC7-4DDA-4B83-A4FB-C0120949143C}" p:after="r[@uid='{B95EA239-7D92-4E6F-A09A-40A1EBE06DD4}']" s:ds="{2CEF34AE-7DA8-4069-8B5B-2468325E9F0B}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/bannerZone/bannerZone-thin/OfficeBannerCTA" /><r uid="{D6BD84D7-6FE9-40C3-9CCD-95847E42113E}" p:after="r[@uid='{D4666EC7-4DDA-4B83-A4FB-C0120949143C}']" s:ds="{13BB0DF2-3B7C-4D99-958D-78ED44129473}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=roadmap&amp;CenterLocation=-5.055576,3.803790&amp;ZoomLevel=15&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl=1&amp;EnableRotateControl" s:ph="/bannerZone/bannerZone-thin/OfficeBannerMap" /><r uid="{409AF533-12EE-4520-8A5B-075AC7DBE06F}" p:after="r[@uid='{D6BD84D7-6FE9-40C3-9CCD-95847E42113E}']" s:ds="{14838E81-C32E-426E-9B00-50DFD1160BCC}" s:id="{88667343-C95C-48AC-8E1F-5C4BF7F84DA7}" s:par="" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170228T165621Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ab7feccd-c815-406f-bb33-7a2b711ac878
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170228T170431Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

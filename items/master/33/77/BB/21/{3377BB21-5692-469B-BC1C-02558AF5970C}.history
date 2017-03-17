@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3377BB21-5692-469B-BC1C-02558AF5970C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.4289289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main - Long Beach",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Main - Long Beach",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

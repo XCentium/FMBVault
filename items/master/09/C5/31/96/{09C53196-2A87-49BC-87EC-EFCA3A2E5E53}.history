@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09C53196-2A87-49BC-87EC-EFCA3A2E5E53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.6139290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Locations",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Locations",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

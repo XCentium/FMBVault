@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A8E09BE2-C8EB-4B43-AE0E-3888A0252FE5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.2495355Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Horizontal",
+    "itemPath": "/sitecore/system/Settings/Feature/Forms/Orientation Types/Horizontal",
+    "template": "Form Orientation Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

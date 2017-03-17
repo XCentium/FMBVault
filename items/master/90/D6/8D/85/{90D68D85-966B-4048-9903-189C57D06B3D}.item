@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {90D68D85-966B-4048-9903-189C57D06B3D}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Layout
+parent: {6CA1A082-5054-4AA0-88DA-39489A7D1CCE}
+name: Layout
+master: {00000000-0000-0000-0000-000000000000}
+template: {C3B037A0-46E5-4B67-AC7A-A144B962A56F}
+templatekey: Placeholder Settings Folder
+created: 20170125T211235:636209755557030000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----version----
+language: en
+version: 1
+revision: 328e6a50-26b6-4dfd-8baa-ff7025963a90
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170125T064547Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+328e6a50-26b6-4dfd-8baa-ff7025963a90
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170125T211235Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

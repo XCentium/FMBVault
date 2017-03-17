@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60AFE5BB-D84F-4212-8E91-58FDBB6DC21A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.2635250Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PhoneIcon",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/PhoneIcon",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {4C5EAF59-53BE-4331-B05B-5A6E9D3E7973}
+database: master
+path: /sitecore/content/FMBCom/Home/Personal/TestFunnel
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: TestFunnel
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170201T024245:636215137657070000
+
+----version----
+language: en
+version: 1
+revision: a77ba126-b82f-48b4-ab9f-35c1b349679f
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 8
+
+TestPage
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 4
+
+test
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 8
+
+TestPage
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 8
+
+TestPage
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 484
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{03EA7F86-1B57-4039-8F93-6F4D96C64AEA}" p:before="*" s:ds="{99F63D40-9272-4F92-8A28-0B9AAFF37941}" s:id="{709513D0-52B1-4FA1-AB10-439F4258E273}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{C7AAB4DC-B749-4A9F-8E54-F8F6036F0BA4}" p:after="*[1=2]" s:ds="{9349ABA8-3594-4C31-9AB0-D2F12DFD8D39}" s:id="{DDD4525B-C674-4C1C-94A5-26AE61364BD3}" s:par="" s:ph="/layoutZone/col-wide-1" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170131T195702Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a77ba126-b82f-48b4-ab9f-35c1b349679f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170214T040850Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

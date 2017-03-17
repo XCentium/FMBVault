@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70C64CFC-8226-40FF-9097-D65BCDE99880}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.6159286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tennessee",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Tennessee",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

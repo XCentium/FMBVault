@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E4BDD9E-F7A0-4BB6-8A4F-8A8C1A52E512}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.4169278Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "col-huge",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-huge",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

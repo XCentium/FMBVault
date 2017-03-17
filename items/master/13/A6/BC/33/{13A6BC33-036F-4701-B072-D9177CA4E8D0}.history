@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{13A6BC33-036F-4701-B072-D9177CA4E8D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.8775195Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ratings Logos",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Ratings Logos",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

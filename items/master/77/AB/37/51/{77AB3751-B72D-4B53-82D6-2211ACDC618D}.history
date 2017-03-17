@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77AB3751-B72D-4B53-82D6-2211ACDC618D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.6289282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Sidebar",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Page Sidebar",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

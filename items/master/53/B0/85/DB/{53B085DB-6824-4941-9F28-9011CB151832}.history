@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53B085DB-6824-4941-9F28-9011CB151832}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.6209280Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Primary Menu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Primary Menu",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

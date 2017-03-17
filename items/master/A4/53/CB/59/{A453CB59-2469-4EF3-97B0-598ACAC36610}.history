@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A453CB59-2469-4EF3-97B0-598ACAC36610}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.6829245Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Outcomes",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Onsite Behavior/No Outcomes",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

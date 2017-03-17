@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39EAF748-83BC-43BD-A839-877D2F85D095}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.3599232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

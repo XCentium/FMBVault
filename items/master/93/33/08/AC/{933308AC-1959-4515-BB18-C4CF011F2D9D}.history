@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{933308AC-1959-4515-BB18-C4CF011F2D9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.1495379Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Maps",
+    "itemPath": "/sitecore/system/Settings/Feature/Maps",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

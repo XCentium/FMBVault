@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6BD7927-A5F1-40A6-806A-81EC543EF2E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.3465383Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "terrain",
+    "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types/terrain",
+    "template": "Map Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

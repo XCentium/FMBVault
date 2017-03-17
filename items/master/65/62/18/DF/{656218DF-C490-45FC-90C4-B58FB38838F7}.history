@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{656218DF-C490-45FC-90C4-B58FB38838F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:43.0179452Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

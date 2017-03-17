@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B4631E5-CAED-4313-BF9D-5E55F13A45C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.3269222Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mortgage-Rates-FMB Above Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD/Mortgage-Rates-FMB Above Form",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

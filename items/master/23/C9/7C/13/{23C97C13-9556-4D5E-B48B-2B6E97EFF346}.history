@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23C97C13-9556-4D5E-B48B-2B6E97EFF346}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.5075249Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ChipInstructions-Step2",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/ChipInstructions-Step2",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

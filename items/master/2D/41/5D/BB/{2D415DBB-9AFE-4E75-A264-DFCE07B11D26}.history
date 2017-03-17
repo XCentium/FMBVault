@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D415DBB-9AFE-4E75-A264-DFCE07B11D26}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.0789290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Example Divider",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/Example Divider",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

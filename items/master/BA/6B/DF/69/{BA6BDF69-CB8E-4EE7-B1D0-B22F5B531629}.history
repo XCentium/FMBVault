@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA6BDF69-CB8E-4EE7-B1D0-B22F5B531629}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.2549195Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Working Capital Needs",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Working Capital Needs",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

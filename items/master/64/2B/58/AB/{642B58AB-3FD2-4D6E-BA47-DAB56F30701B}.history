@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{642B58AB-3FD2-4D6E-BA47-DAB56F30701B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.4479163Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "loginteaser",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/loginteaser",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36704624-88DF-474E-A032-EBA488FDBD75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.9109278Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How to Register your Computer for One-Time Pin",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/How To/How to Register your Computer for One-Time Pin",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

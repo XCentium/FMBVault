@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D9A6D2F-BF7E-4C54-9E9F-846A71E8FA29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.4335380Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Font Types",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Font Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

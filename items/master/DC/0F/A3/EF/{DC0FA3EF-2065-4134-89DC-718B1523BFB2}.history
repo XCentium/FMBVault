@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC0FA3EF-2065-4134-89DC-718B1523BFB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.2259156Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Real Estate Construction Loans",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Real Estate Construction Loans",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

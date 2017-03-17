@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CB9ABEF-CC34-4702-973C-19C4BB50836A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:08.8082193Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HeaderLoginBox",
+    "itemPath": "/sitecore/media library/Feature/Accounts/HeaderLoginBox",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

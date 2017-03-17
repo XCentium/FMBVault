@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39EC79A1-C181-4E82-BF75-C357207CD45E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.0845228Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SymphonicSpectacular",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/SymphonicSpectacular",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

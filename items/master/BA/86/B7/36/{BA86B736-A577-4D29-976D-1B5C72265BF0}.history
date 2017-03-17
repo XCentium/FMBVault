@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA86B736-A577-4D29-976D-1B5C72265BF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.7949289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Services",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Banking Services/Other Services",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

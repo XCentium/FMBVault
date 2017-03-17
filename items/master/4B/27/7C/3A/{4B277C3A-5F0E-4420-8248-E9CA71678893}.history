@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B277C3A-5F0E-4420-8248-E9CA71678893}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:41.1045377Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Direct",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Direct",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

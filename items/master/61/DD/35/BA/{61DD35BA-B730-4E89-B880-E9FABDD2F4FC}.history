@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61DD35BA-B730-4E89-B880-E9FABDD2F4FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.6299293Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Orange",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

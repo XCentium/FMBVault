@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DD97F4E-0F53-4DC0-A1D3-75C820FBB983}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:38.6409163Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Savings Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

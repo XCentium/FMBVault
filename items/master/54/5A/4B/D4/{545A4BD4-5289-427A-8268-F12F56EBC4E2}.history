@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{545A4BD4-5289-427A-8268-F12F56EBC4E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:08.6332173Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/media library/Feature/Navigation",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

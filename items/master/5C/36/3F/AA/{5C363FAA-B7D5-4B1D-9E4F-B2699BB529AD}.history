@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C363FAA-B7D5-4B1D-9E4F-B2699BB529AD}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.1189291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "The Common Reuse Principle",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/The Common Reuse Principle",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

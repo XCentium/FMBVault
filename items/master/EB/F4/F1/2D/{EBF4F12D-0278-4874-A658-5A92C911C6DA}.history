@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EBF4F12D-0278-4874-A658-5A92C911C6DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:02.7229335Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM_299_OLB_AccessAgreementEnrollment",
+    "itemPath": "/sitecore/media library/Applications/FM_299_OLB_AccessAgreementEnrollment",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

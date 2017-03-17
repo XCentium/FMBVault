@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A22CF55-0859-45B0-8A40-45ED4E72B048}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.6225191Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banners",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

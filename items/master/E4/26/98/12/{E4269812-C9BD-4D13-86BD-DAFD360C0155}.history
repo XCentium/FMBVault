@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4269812-C9BD-4D13-86BD-DAFD360C0155}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.3609386Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comparison Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Comparison Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

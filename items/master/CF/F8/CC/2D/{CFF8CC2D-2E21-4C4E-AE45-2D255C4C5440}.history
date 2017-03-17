@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFF8CC2D-2E21-4C4E-AE45-2D255C4C5440}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.4619165Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mappoints",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/mappoints",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

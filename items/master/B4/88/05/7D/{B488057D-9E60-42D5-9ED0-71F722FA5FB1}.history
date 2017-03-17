@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B488057D-9E60-42D5-9ED0-71F722FA5FB1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.0669279Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lightbox Image Documentation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Lightbox Image Documentation",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

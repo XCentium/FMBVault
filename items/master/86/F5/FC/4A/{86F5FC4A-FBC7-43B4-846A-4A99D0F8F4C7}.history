@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86F5FC4A-FBC7-43B4-846A-4A99D0F8F4C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.6719223Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phone",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/ContactMethod/Phone",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D94E155-262B-4253-A788-53655003AB0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:02.6359355Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit_Report_Dispute_Submission_Requirements",
+    "itemPath": "/sitecore/media library/Applications/Credit_Report_Dispute_Submission_Requirements",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

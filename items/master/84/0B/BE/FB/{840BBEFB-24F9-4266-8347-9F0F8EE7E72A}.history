@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{840BBEFB-24F9-4266-8347-9F0F8EE7E72A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.0115234Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SGaray",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/SGaray",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

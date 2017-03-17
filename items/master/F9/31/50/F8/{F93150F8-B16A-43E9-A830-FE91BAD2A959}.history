@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F93150F8-B16A-43E9-A830-FE91BAD2A959}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.5015864Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paging",
+    "itemPath": "/sitecore/templates/Feature/Search/_PagedSearchResultsParameters/Paging",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

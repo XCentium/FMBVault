@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{451C448D-41DF-401C-B321-F554934F6306}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:45.4975380Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reach By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Reach By Test Id",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

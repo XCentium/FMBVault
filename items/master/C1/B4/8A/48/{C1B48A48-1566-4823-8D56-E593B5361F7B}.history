@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1B48A48-1566-4823-8D56-E593B5361F7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.7989286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lakewood",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County/Lakewood",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

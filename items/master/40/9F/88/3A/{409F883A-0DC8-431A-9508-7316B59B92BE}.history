@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{409F883A-0DC8-431A-9508-7316B59B92BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.7755853Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_Keyword",
+    "itemPath": "/sitecore/templates/Feature/Metadata/_Keyword",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

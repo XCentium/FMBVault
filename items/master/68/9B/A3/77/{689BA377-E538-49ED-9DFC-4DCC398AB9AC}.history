@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{689BA377-E538-49ED-9DFC-4DCC398AB9AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.2359374Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Registration Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Registration Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

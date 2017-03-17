@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DC88115-C6F6-432D-8F4C-65784EC61FB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.1655380Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office",
+    "itemPath": "/sitecore/system/Settings/Feature/Office",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

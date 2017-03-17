@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2105D4F-29B0-49CF-841C-7D6B2B25D88D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.2665378Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vertical",
+    "itemPath": "/sitecore/system/Settings/Feature/Forms/Orientation Types/Vertical",
+    "template": "Form Orientation Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

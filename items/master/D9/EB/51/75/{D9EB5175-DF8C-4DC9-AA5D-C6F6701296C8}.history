@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9EB5175-DF8C-4DC9-AA5D-C6F6701296C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.6535245Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FDR-Chip-Banner",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FDR-Chip-Banner",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

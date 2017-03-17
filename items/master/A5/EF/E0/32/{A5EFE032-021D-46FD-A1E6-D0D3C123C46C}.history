@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5EFE032-021D-46FD-A1E6-D0D3C123C46C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.9715792Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interest",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_Interest/Interest",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D32A62C1-4039-4274-A626-ABA5905355B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:11.1755775Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approve with Test",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Compliance Approval/Approve with Test",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

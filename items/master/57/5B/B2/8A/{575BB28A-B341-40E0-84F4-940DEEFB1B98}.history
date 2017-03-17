@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{575BB28A-B341-40E0-84F4-940DEEFB1B98}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.9499287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Topbar Menu",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Topbar Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

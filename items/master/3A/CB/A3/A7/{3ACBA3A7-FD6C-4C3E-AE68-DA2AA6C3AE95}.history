@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3ACBA3A7-FD6C-4C3E-AE68-DA2AA6C3AE95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:28.7149393Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/Common/Parameters/ParametersTemplate_HasContainerWithDynamicPlaceholder/__Standard Values",
+    "template": "ParametersTemplate_HasContainerWithDynamicPlaceholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

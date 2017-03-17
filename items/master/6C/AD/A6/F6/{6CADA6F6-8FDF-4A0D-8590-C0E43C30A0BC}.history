@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6CADA6F6-8FDF-4A0D-8590-C0E43C30A0BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.2249284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Switching Made Easy",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Tools and Support/Switching Made Easy",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

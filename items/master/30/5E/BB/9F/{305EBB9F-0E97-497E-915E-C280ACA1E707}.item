@@ -1,0 +1,131 @@
+----item----
+version: 1
+id: {305EBB9F-0E97-497E-915E-C280ACA1E707}
+database: master
+path: /sitecore/content/FMBCom/Home/CJWalker
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: CJWalker
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170201T024244:636215137643900000
+
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 3b689f10-a465-4832-a8a0-9e785e55c288
+
+----field----
+field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
+name: ParallaxBackgroundImage
+key: parallaxbackgroundimage
+content-length: 58
+
+<image mediaid="{F3AAA816-C02E-4677-BCF6-2946F441B24E}" />
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 56
+
+C.J. Walker, Founder of Farmers & Merchants Bank in 1907
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 3946
+
+<div class="row" style="border-bottom: 5px solid #ffffff;">
+<div class="col-md-9">
+<p class="cjquote"><em><br>
+<br>
+<span style="font-size: 60px; line-height: 75px;">
+"<span style="font-family: 'times new roman';">Safeguarding our clients' money is a sacred trust.</span>"</span></em></p>
+<img alt="" src="-/media/7CCD14C317A947B4BEC851519502CB0A.ashx?w=440&amp;h=151" style="width: 440px; float: left; height: 151px;">
+</div>
+<div class="col-md-3">
+<img alt="" src="-/media/14EFDD13C412453AB097A53ED61F3CA4.ashx?w=400" style="width: 400px; float: right;">
+</div>
+</div>
+<div class="row" style="border-bottom: 4px dotted #ffffff; padding-bottom: 25px;">
+<div class="col-md-12" style="text-align: left;">
+<h1 style="color: #ffffff; line-height: 1.5;">AT FARMERS &amp; MERCHANTS BANK, WHAT WAS TRUE 108 YEARS AGO <br>
+IS STILL TRUE TODAY.</h1>
+<p><span style="line-height: 24px; font-size: 18px;">On the morning of October 12th, 1907, Farmers &amp; Merchants Bank founder, Charles J. Walker, stood at the Southern Pacific train depot
+with the local police chief waiting to load $500,000 in gold bullion and coins into the bed of a horse drawn wagon. Earlier that month,
+the New York stock market had grown unstable creating unease in bank depositors. A crowd of anxious clients awaited the opening of
+First National Bank where C.J. Walker was a Director at the time.</span><img alt="" src="-/media/3E836BEB4DA24098B33B6C2014C1B215.ashx?h=474&amp;w=405" class="newsarticles" style="width: 405px; height: 474px; float: right;"></p>
+<p><span style="line-height: 24px; font-size: 18px;">Once C.J. returned to the bank with the wagon of gold bullion, he asked bank personnel to stack the gold bars in the windows.
+Soon after, he opened the doors to allow the crowd inside. Standing atop the teller line, C.J. waited for the lobby to be filled before
+introducing himself as the bank&rsquo;s new president. He assured the clients that not only was their money safe but, if they chose, the bank
+would fully refund their deposits in gold, and would stay open until every depositor was satisfied.</span></p>
+<p><span style="line-height: 24px; font-size: 18px;">An elderly woman in the crowd listened to C.J.&rsquo;s words and waited. Finally, her turn came, and she stepped
+to the window where C.J. himself offered to serve her. Frightened and nervous, she asked to withdraw her entire
+savings and, with trembling hands, began to write a check for that purpose. Noting her difficulty, C.J. offered to
+write the check for her and, stepping to a nearby desk, asked how much he should write it for. &ldquo;Eight hundred
+dollars,&rdquo; she answered. &ldquo;It&rsquo;s all the money I had in the world.&rdquo; Walker looked at the woman and smiled. &ldquo;No,&rdquo; he
+quietly corrected, &ldquo;it&rsquo;s all the money you <em>have</em>, for your money is still here.&rdquo; This is the day that defined how F&amp;M
+Bank would forevermore treat clients differently - with professional courage and human kindness.</span></p>
+<p style="width: 60%;"><span style="line-height: 24px; font-size: 18px;">On November 23, 1907 C.J. Walker founded Farmers &amp; Merchants Bank in Downtown Long Beach on the values
+of Honesty, Integrity, Faith, the Family and Service Above Self. What was true 108 years ago is still true today.</span></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<img alt="" src="-/media/85082DD9C917409398F7CA232C3FB858.ashx?w=200" style="width: 200px; float: left; margin-top: 20px;">
+</div>
+<div class="col-md-8">
+<h1 style="text-align: right; color: #ffffff;">CALIFORNIA'S STRONGEST, SINCE 1907. JOIN US.</h1>
+<p style="float: right;"><a class="btn btn-block" style="width: 400px; font-size: 20px; font-weight: bold; background-color: #daaf4f; color: #ffffff;" href="https://connect.fmb.com/OnlineAccount/welcome.aspx" target="_blank">Get Started with an Account Today</a>
+</p>
+</div>
+</div>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 56
+
+C.J. Walker, Founder of Farmers & Merchants Bank in 1907
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170130T234031Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3b689f10-a465-4832-a8a0-9e785e55c288
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170213T225958Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

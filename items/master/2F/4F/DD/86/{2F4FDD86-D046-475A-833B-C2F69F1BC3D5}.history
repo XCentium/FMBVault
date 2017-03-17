@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F4FDD86-D046-475A-833B-C2F69F1BC3D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.3989227Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Peter Meyers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest/Peter Meyers",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

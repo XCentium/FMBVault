@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4D79957-2FA4-4AE7-B252-E8827268CC9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:25.5328844Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Languages",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rule/Rule/Languages",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

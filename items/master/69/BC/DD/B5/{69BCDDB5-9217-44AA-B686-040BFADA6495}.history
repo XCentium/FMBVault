@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69BCDDB5-9217-44AA-B686-040BFADA6495}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.0975229Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TGonzalez",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/TGonzalez",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

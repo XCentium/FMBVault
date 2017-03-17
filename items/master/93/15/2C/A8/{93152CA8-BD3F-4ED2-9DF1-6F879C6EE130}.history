@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93152CA8-BD3F-4ED2-9DF1-6F879C6EE130}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.7505776Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot ID Page",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_ExternalAccountsSettings/External Accounts/Forgot ID Page",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

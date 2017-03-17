@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E72DDE83-BACB-4CAE-8D2D-B83358478535}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.6829299Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Header Primary",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Site Header Primary",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

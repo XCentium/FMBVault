@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FCC774E-F2F9-451F-BDA1-738EED58DA12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.4569188Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ - Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/FAQ - Card Alerts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

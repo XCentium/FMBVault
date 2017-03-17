@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1ED65111-AE67-44E1-882D-E036FF13EB21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.1939285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Footer Navigation/Default/Home",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

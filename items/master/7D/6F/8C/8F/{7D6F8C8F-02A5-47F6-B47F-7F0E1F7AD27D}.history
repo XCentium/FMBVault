@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D6F8C8F-02A5-47F6-B47F-7F0E1F7AD27D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.4289220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close Visit Details Panel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar/Close Visit Details Panel",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

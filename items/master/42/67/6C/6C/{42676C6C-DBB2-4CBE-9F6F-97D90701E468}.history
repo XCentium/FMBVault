@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42676C6C-DBB2-4CBE-9F6F-97D90701E468}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:08.5052187Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Accounts",
+    "itemPath": "/sitecore/media library/Feature/Accounts",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

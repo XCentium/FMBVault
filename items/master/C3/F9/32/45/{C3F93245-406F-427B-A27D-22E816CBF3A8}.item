@@ -1,0 +1,137 @@
+----item----
+version: 1
+id: {C3F93245-406F-427B-A27D-22E816CBF3A8}
+database: master
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/03/Long Beach Kirk Van Atta Appointment
+parent: {8C57D169-7C1A-4F93-8DF1-0517B5342E80}
+name: Long Beach Kirk Van Atta Appointment
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170216T200820:636228725002470000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 1
+
+1
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20160310T160000Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: f367994f-d3e1-4180-b026-ceed4d6cc1c2
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 81
+
+Farmers & Merchants Bank Announces Kirk Van Atta as Corona Del Mar Branch Manager
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 2253
+
+<p>Farmers &amp; Merchants Bank (F&amp;M) has named Kirk Van Atta the new Corona del Mar (CDM) Branch Manager, where he will oversee all daily operations at the CDM Branch. This will include the management of all functions, banking activity and services provided through this location.</p>
+<p>"I have worked with Kirk for close to 10 years in many different positions," said Brian Skelton, Senior Vice President, Regional Manager. "He is one of the most knowledgeable and sincere people I have had the pleasure of knowing and working with."</p>
+<p>Van Atta brings more than 30 years of bank managerial experience. He previously served as the Private Banking Manager with Union Bank, where he was responsible for developing comprehensive and customized financial solutions for individuals, business and business owners. Van Atta holds a bachelor's degree and MBA from Miami University and is a Certified Wealth Strategist from Cannon Financial Institute.</p>
+<p>&ldquo;Joining the F&amp;M team is the start of an exciting new chapter in my banking career,&rdquo; said Van Atta.</p>
+<p>&ldquo;Service Above Self is a key F&amp;M value that is perfectly in line with the reason I got into the banking business in the first place; to make a difference in the lives of others. I am thrilled to be working for an organization that allows me, on a daily basis, to turn the values of Integrity, Service, Humility, Faith and Compassion into action on behalf of our clients.&rdquo;</p>
+<p>Van Atta currently resides in Lake Forest with his wife of 32 years. Together, they have 2 successful daughters working in banking and PR. Van Atta has been a member of Saddleback Church for over 20 years and is excited to become more involved in the Newport-Irvine community.</p>
+<p><strong>About Farmers &amp; Merchants Bank</strong><br>
+Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has 23 branches in Los Angeles and Orange Counties. The Bank specializes in commercial and small business banking along with business loan programs. Farmers &amp; Merchants Bank of Long Beach is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender.&nbsp;</p>
+<p>###</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 41
+
+Long Beach F and M Appoints Kirk Van Atta
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 36
+
+Long Beach Kirk Van Atta Appointment
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160310T200800Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f367994f-d3e1-4180-b026-ceed4d6cc1c2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T181358Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38580CDA-7AAF-45E3-93A1-3999E6AFD6B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.8529285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rolling Hills Estates",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County/Rolling Hills Estates",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

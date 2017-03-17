@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{723A3376-AE2E-42FA-BC07-B6DAD105991E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.6605251Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-BizDebit",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/FMB-BizDebit",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

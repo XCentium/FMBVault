@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FAEBA51-5CC9-4987-8147-3FA7648D8610}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.8945248Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NStromme-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/NStromme-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

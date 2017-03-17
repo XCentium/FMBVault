@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54DCAFC0-C423-4241-B795-128AB844D782}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:55.4235364Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Value Points",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Engagement Value Points",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

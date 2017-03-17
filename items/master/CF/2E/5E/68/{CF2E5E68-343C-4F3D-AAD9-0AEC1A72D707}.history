@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF2E5E68-343C-4F3D-AAD9-0AEC1A72D707}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.3219219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sandy Thomas",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Garden Grove/Sandy Thomas",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

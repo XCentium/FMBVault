@@ -1,0 +1,148 @@
+----item----
+version: 1
+id: {E79F9AA0-9698-45D3-BA4D-431B5941DC0C}
+database: master
+path: /sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/Remit One
+parent: {7B2D2840-0012-44D1-94ED-3CD02ACE0E1B}
+name: Remit One
+master: {00000000-0000-0000-0000-000000000000}
+template: {C1A4D654-5624-415E-BFF9-5639D543B0D0}
+templatekey: Modal Link Item
+created: 20170214T040907:636226421478830000
+
+----field----
+field: {5585A30D-B115-4753-93CE-422C3455DEB2}
+name: ShowInNavigation
+key: showinnavigation
+content-length: 1
+
+1
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----version----
+language: en
+version: 1
+revision: 40010713-2ed7-44df-b7f5-47d09231a0fd
+
+----field----
+field: {64FB8DE1-AA35-4CEE-AD22-6E4A8812E5B3}
+name: Modal Content
+key: modal content
+content-length: 343
+
+<p>By clicking the button below, you are navigating to a third party website not maintained by F&amp;M Bank. The third party is solely responsible for the content of its website including its privacy policy and the products and service it offers. If you do not wish to proceed, you can close this box to return to the F&amp;M Bank website.</p>
+----field----
+field: {DF06A0D7-5C1A-423A-86C8-10F4FF20AB5C}
+name: Show Modal
+key: show modal
+content-length: 1
+
+1
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 130
+
+<link linktype="external" url="https://www.payments-govonesolutions.com/fmb/welcome.asp?ws=EE1B7F43EEC84227915839225FC233A2005" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 9
+
+Remit One
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170112T190211Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+40010713-2ed7-44df-b7f5-47d09231a0fd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170214T040908Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 7f5f249b-5541-42d6-8ea6-720260c915ec
+
+----field----
+field: {64FB8DE1-AA35-4CEE-AD22-6E4A8812E5B3}
+name: Modal Content
+key: modal content
+content-length: 343
+
+<p>By clicking the button below, you are navigating to a third party website not maintained by F&amp;M Bank. The third party is solely responsible for the content of its website including its privacy policy and the products and service it offers. If you do not wish to proceed, you can close this box to return to the F&amp;M Bank website.</p>
+----field----
+field: {DF06A0D7-5C1A-423A-86C8-10F4FF20AB5C}
+name: Show Modal
+key: show modal
+content-length: 1
+
+1
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 130
+
+<link linktype="external" url="https://www.payments-govonesolutions.com/fmb/welcome.asp?ws=EE1B7F43EEC84227915839225FC233A2005" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 9
+
+Remit One
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170112T190211Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7f5f249b-5541-42d6-8ea6-720260c915ec
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172952Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

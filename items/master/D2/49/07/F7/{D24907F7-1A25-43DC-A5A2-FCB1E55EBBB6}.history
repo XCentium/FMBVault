@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D24907F7-1A25-43DC-A5A2-FCB1E55EBBB6}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.8839273Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "About Habitat",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/About Habitat",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

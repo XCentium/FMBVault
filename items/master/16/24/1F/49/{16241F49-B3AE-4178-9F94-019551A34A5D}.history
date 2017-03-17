@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16241F49-B3AE-4178-9F94-019551A34A5D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.6359277Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dependencies 4",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/DependenciesFolder/Dependencies 4",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

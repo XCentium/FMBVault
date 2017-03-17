@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B6F8720-3A93-4DA1-92A0-C3E85E01219A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:23.5425862Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasTheme",
+    "itemPath": "/sitecore/templates/Foundation/Assets/_HasTheme",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF99A7EF-942E-4A23-A6C3-AED8489C5605}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.8939282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Locations Brochures",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Locations Brochures",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

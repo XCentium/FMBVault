@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{197E0176-FB2C-4F78-ACB9-664660564F6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:25.6719383Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UseStaticPlaceholderNames",
+    "itemPath": "/sitecore/templates/Foundation/SitecoreExtensions/ParametersTemplate_HasDynamicPlaceholder/Page Layout/UseStaticPlaceholderNames",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

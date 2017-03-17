@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65EEEB2A-7F7F-47F7-A321-FF1AE54A0D7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:10.9935788Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Submit Action",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Draft/__OnSave/Auto Submit Action",
+    "template": "Auto Submit Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

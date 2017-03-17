@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63F0C6E2-BBE1-4C7C-B71B-D711B9B172AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.9259162Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Certificate of Deposit",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/Certificate of Deposit",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

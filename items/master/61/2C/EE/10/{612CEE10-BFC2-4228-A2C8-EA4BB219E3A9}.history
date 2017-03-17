@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{612CEE10-BFC2-4228-A2C8-EA4BB219E3A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:11.1575797Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notify Author",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Reject/Notify Author",
+    "template": "Workflow Email",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

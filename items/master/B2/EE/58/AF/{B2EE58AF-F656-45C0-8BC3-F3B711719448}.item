@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {B2EE58AF-F656-45C0-8BC3-F3B711719448}
+database: master
+path: /sitecore/content/FMBCom/Global/Media/Videos/Testimonials/Winspire
+parent: {BE3F5BE3-B512-40B9-9F66-0B8CDC02B331}
+name: Winspire
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1C095E2-B3E0-46D0-B838-02A9E8B880D9}
+templatekey: Video
+created: 20170302T002131:636240108917000000
+
+----version----
+language: en
+version: 1
+revision: 98fd424c-63d1-41fe-a5a3-36e519a84de5
+
+----field----
+field: {2628705D-9434-4448-978C-C3BF166FA1EB}
+name: MediaVideoLink
+key: mediavideolink
+content-length: 76
+
+<link linktype="external" url="https://www.youtube.com/embed/KpV6POyb8nU" />
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 8
+
+Winspire
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170302T002131Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+98fd424c-63d1-41fe-a5a3-36e519a84de5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170302T002153Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

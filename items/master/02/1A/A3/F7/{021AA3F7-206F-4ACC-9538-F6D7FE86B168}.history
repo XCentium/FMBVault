@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{021AA3F7-206F-4ACC-9538-F6D7FE86B168}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.3935799Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interests Folder",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_ProfileSettings/Profile/Interests Folder",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

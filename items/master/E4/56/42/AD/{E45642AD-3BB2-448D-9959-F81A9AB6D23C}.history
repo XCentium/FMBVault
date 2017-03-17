@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E45642AD-3BB2-448D-9959-F81A9AB6D23C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.8540208Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow Email",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Email",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2796B0D-958D-446F-9C20-49A42C036714}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.3660238Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Getting Started",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page/Getting Started",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

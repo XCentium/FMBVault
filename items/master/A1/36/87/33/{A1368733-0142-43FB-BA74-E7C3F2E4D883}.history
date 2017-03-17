@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1368733-0142-43FB-BA74-E7C3F2E4D883}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:07.8605774Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image Has Alt Text",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Has Alt Text",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

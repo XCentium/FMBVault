@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE9C59A1-25CC-48B3-A281-A723182531B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.6979220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Al Stone",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rossmoor/Al Stone",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

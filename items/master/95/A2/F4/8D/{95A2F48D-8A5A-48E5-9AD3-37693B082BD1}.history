@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95A2F48D-8A5A-48E5-9AD3-37693B082BD1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.6719220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jason Anderson",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rolling Hills Estates/Jason Anderson",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

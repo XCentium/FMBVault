@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92C7D712-4C37-45B4-B90E-F05F5CBA919C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.9279180Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-Tos",
+    "itemPath": "/sitecore/content/FMBCom/Global/How-Tos",
+    "template": "How-To Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

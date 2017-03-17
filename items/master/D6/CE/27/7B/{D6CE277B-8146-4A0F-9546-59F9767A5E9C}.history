@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6CE277B-8146-4A0F-9546-59F9767A5E9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.9279228Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "March 19 - Bixby Knolls",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/March 19 - Bixby Knolls",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {7CDD1DA9-70D3-4E37-B445-1996943AA31A}
+database: master
+path: /sitecore/content/FMBCom/Home/How To
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: How To
+master: {00000000-0000-0000-0000-000000000000}
+template: {8EE208F9-A6A6-41E2-88A0-C188737A178C}
+templatekey: Section
+created: 20170308T192338:636245978189400000
+
+----version----
+language: en
+version: 1
+revision: eded6e5f-5268-4854-9b67-2c3073c66eff
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 13
+
+How To Videos
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 6
+
+How To
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 6
+
+How To
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1918
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{80F53DA5-D376-48F4-8FF2-F0A8A87C177F}" p:before="*" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{BB56A568-03ED-4E76-A909-4C40B3E01730}" p:after="r[@uid='{80F53DA5-D376-48F4-8FF2-F0A8A87C177F}']" s:ds="" s:id="{51EA1C8A-BF4D-47C0-9AF0-7A29E357CD14}" s:par="UseStaticPlaceholderNames&amp;HowTos={D1882861-836B-444A-B07A-1385D06E46C7}|{CE2FAD1C-BB7B-402E-981C-84630B941532}|{77A51E23-5A53-46B7-9E53-17EE75C8F05B}&amp;Testimonials=%7BD1882861-836B-444A-B07A-1385D06E46C7%7D%7C%7BCE2FAD1C-BB7B-402E-981C-84630B941532%7D%7C%7B77A51E23-5A53-46B7-9E53-17EE75C8F05B%7D" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9/col-huge_2649e0e4-f55a-49e0-8702-601488875076" /><r uid="{62101F9B-86A7-41E9-8C9A-183B38C503E8}" p:after="r[@uid='{BB56A568-03ED-4E76-A909-4C40B3E01730}']" s:ds="{D1AC6B4F-ED8F-40F3-9BD3-5D1162A3B9AD}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9/col-huge_2649e0e4-f55a-49e0-8702-601488875076" /><r uid="{5C1B3417-AD06-4D8D-A5D8-451FD4F754BA}" p:after="r[@uid='{62101F9B-86A7-41E9-8C9A-183B38C503E8}']" s:ds="" s:id="{51EA1C8A-BF4D-47C0-9AF0-7A29E357CD14}" s:par="UseStaticPlaceholderNames&amp;HowTos={51717FF1-ED70-4900-B687-A96CF4610102}|{D88E0651-2C1B-4D22-9903-CCF7E3B28B81}&amp;Testimonials=%7B51717FF1-ED70-4900-B687-A96CF4610102%7D%7C%7BD88E0651-2C1B-4D22-9903-CCF7E3B28B81%7D" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9/col-huge_2649e0e4-f55a-49e0-8702-601488875076" /><r uid="{2649E0E4-F55A-49E0-8702-601488875076}" p:after="r[@uid='{5C1B3417-AD06-4D8D-A5D8-451FD4F754BA}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9" /><r uid="{62587891-3114-49E9-9590-293A7135E7CE}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170308T192338Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eded6e5f-5268-4854-9b67-2c3073c66eff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170310T233400Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

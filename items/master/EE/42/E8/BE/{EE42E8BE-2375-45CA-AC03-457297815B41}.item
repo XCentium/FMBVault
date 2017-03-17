@@ -1,0 +1,150 @@
+----item----
+version: 1
+id: {EE42E8BE-2375-45CA-AC03-457297815B41}
+database: master
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/09/Long Beach Friends of Pathways 19th Annual Fundraiser
+parent: {36276A6F-C56B-4D2D-A3F1-6CBFFA256041}
+name: Long Beach Friends of Pathways 19th Annual Fundraiser
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170216T224620:636228819804130000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 1
+
+1
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20150918T150000Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 0
+
+
+----field----
+field: {86FE4F77-4D9A-4EC3-9ED9-263D03BD1965}
+name: __Publish
+key: __publish
+content-length: 16
+
+20150918T070000Z
+----version----
+language: en
+version: 1
+revision: 2f98e101-3269-4b37-b60c-7583719b8907
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 75
+
+Farmers & Merchants Bank Supports Non-Profit Benefiting Young Women in Need
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 64
+
+F&amp;M Bank Presents Friends of Pathways 19th Annual Fundraiser
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 2340
+
+<p>Farmers &amp; Merchants Bank (F&amp;M Bank) has announced its continued support for Pathways to Independence as Presenting Sponsor at their upcoming 19th Annual Fundraiser. Hosted by &ldquo;Friends of Pathways&rdquo;, the October 3rd event will take you back to old Havana for an evening of delectable food, Cuba Libres, wine, beer and salsa dancing.</p>
+<p>Pathways to Independence is a nonprofit organization dedicated to providing education, healthcare, therapy and mentoring for young women victimized by abuse and neglect. They provide tools and resources to young women who have been abused and neglected by their families and society, providing a network of volunteers who support them while they work, attend college and learn to be self-reliant.</p>
+<p>Providing assistance to women has long been a priority for F&amp;M Bank dating back multiple generations, when in 1902 Carrie Z. Walker, wife of F&amp;M founder and president C.J. Walker, started a support group in Long Beach to assist abandoned women after a young woman was found destitute and crying on the steps of the city auditorium.</p>
+<p>&ldquo;F&amp;M Bank proud to support an organization that makes such a positive impact in the lives of at-risk young women in the communities we serve&ldquo;, said F&amp;M Bank President W. Henry Walker.</p>
+<p>The 21-and-over &ldquo;Hot Havana Nights in the Park&rdquo; event will take place on Saturday, October 3rd beginning at 5:30pm at 1445 La Perla Avenue in Long Beach, CA. For more information regarding sponsorship, auction item donation or to purchase tickets call (562) 884-3629 or <a href="http://www.visit pathwaystoindependence.org" target="_blank">visit pathwaystoindependence.org</a>.</p>
+<p><strong>About Farmers &amp; Merchants Bank</strong></p>
+<p>Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has over $5B in assets and 24 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender.</p>
+<p>###</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 53
+
+Long Beach Friends of Pathways 19th Annual Fundraiser
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20150918T070000Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150918T214600Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2f98e101-3269-4b37-b60c-7583719b8907
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T082246Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

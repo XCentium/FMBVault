@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84924ABF-F983-4AF5-9002-EA0237A53DA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.8049271Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Child Page List",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Child Page List",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

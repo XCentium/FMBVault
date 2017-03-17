@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C5BD83F-1875-422F-A05B-82A85450661C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.7079281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Habitat",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Habitat",
+    "template": "Media Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

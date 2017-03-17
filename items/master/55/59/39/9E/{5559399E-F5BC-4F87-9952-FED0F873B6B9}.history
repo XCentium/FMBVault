@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5559399E-F5BC-4F87-9952-FED0F873B6B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:43.7935364Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Archive",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Archive",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3FEC1C24-99CE-41FD-ADEE-89433160BE15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:38.3239152Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "low-down-payment",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/low-down-payment",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

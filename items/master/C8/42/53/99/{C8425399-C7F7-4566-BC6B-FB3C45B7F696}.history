@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8425399-C7F7-4566-BC6B-FB3C45B7F696}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.4599288Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Newport Beach",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Newport Beach",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

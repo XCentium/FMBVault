@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BB7D9DC-2551-4768-B9C0-EC4F36AEEF81}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.0199319Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures/Business Banking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

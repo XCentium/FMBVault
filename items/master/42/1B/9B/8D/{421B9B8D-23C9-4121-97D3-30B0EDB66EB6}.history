@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{421B9B8D-23C9-4121-97D3-30B0EDB66EB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.3249284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Banking Landing Page",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

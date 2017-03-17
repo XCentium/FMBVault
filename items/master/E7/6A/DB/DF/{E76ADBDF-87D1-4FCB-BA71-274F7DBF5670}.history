@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E76ADBDF-87D1-4FCB-BA71-274F7DBF5670}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:55.2434347Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Movie",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Movie",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

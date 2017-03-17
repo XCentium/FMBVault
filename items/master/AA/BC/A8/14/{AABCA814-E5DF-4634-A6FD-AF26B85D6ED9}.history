@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AABCA814-E5DF-4634-A6FD-AF26B85D6ED9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.1369230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "14 Can I add multiple phone mobile numbers and multiple email addresses to receive FM Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/14 Can I add multiple phone mobile numbers and multiple email addresses to receive FM Card Alerts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

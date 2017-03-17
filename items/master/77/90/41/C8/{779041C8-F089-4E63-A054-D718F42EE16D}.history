@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{779041C8-F089-4E63-A054-D718F42EE16D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.8349291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jane Douane",
+    "itemPath": "/sitecore/content/FMBCom/Global/Quotes/Jane Douane",
+    "template": "Quote",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22EFB258-62F5-4B49-9D7E-DE07F70C9F37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.9195376Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secondary Color",
+    "itemPath": "/sitecore/system/Settings/Foundation/Theming/Background Types/Secondary Color",
+    "template": "Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F6E51E8-696A-45D5-BAFE-A2D6F2F98CAC}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.0689174Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quotes",
+    "itemPath": "/sitecore/content/FMBCom/Global/Quotes",
+    "template": "Quote Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

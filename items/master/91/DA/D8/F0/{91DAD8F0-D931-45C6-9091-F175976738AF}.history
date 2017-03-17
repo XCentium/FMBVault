@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91DAD8F0-D931-45C6-9091-F175976738AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:38.4519150Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Classic Checking Account",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Classic Checking Account",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

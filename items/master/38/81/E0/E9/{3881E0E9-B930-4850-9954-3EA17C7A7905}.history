@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3881E0E9-B930-4850-9954-3EA17C7A7905}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:23.4725252Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email automation",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Automation programs/Email automation",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

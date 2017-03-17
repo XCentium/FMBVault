@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {32305E32-D6F1-4177-9F16-7C13EAF94233}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Layout/Layout Zone
+parent: {90D68D85-966B-4048-9903-189C57D06B3D}
+name: Layout Zone
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20170125T211236:636209755568600000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 10
+
+layoutZone
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 389
+
+{70536028-62AE-4B29-A16E-14069C0597A0}|{359A65BB-0A2C-44E5-8C34-DF3ACDBB42A7}|{26B33DEB-F1DB-4338-B043-AAF2F90E04A3}|{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}|{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}|{CF750731-1275-4CC7-A9E6-809515CB4DD1}|{A85A0B65-D3B7-48B8-B362-F17AA3CA7DF1}|{EADA94FA-315F-4DF2-AC49-13346DFDAF12}|{2909C67B-7034-4E4B-843F-1EF123354888}|{4B912A12-E167-4B3D-A8CC-0A969FFF6120}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1400
+----version----
+language: en
+version: 1
+revision: 4e5307a9-7259-4180-b954-869370f1f6e8
+
+----field----
+field: {87871FF5-1965-46D6-884F-01D6A0B9C4C1}
+name: Description
+key: description
+content-length: 49
+
+This area contains the overall layout of the page
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150921T014718Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4e5307a9-7259-4180-b954-869370f1f6e8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T003730Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

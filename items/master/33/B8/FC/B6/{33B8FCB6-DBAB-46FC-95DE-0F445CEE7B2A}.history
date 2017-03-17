@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33B8FCB6-DBAB-46FC-95DE-0F445CEE7B2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.9899241Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "June 18 - Downey",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/June 18 - Downey",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

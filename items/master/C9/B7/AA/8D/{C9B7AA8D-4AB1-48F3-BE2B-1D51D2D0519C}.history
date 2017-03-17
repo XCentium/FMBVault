@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9B7AA8D-4AB1-48F3-BE2B-1D51D2D0519C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.2309187Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Retirement Planner",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Retirement Planner",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

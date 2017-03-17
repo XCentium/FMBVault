@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDA566EF-DCCD-4134-8FA2-1C640C957E84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.8645195Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modals",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Modals",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

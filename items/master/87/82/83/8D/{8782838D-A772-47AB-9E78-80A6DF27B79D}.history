@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8782838D-A772-47AB-9E78-80A6DF27B79D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:09.7785174Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MainNavigationMenu",
+    "itemPath": "/sitecore/media library/Feature/Navigation/MainNavigationMenu",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

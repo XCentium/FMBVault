@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B785B976-3320-4368-B869-139C851A37A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.2225382Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WV",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/WV",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

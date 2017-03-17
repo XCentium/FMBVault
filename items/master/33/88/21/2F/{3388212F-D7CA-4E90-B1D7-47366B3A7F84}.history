@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3388212F-D7CA-4E90-B1D7-47366B3A7F84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:11.1215798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notify Approvers",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Approve/Notify Approvers",
+    "template": "Workflow Email",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

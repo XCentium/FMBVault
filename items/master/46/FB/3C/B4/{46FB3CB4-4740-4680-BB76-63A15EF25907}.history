@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46FB3CB4-4740-4680-BB76-63A15EF25907}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:34.4619384Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SqlServer",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Queries/SqlServer",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

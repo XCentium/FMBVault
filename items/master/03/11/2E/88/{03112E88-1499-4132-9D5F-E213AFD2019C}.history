@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03112E88-1499-4132-9D5F-E213AFD2019C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:01.0909284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inner 1 Column",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Article Columns/Inner 1 Column",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20021D17-2169-437D-89F4-510D47020F0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.4359226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Raymond Cervantez",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Los Altos/Raymond Cervantez",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

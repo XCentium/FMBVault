@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCCC3354-4B09-4781-86EB-3A9570BA8AE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:12.3985794Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Awaiting Post Review/Edit",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C297EF2B-3CA7-4F18-A9CD-D9FA11EECF4A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.3049227Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot Your Password",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Forgot Your Password",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

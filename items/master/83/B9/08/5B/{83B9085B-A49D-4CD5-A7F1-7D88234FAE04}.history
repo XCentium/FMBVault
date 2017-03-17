@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83B9085B-A49D-4CD5-A7F1-7D88234FAE04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.8409237Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/PersonalBankingProducts/Online Banking",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

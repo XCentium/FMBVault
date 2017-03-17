@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D723272E-2441-43AF-BFC1-7D1C4FBEF373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.9235843Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasNotification",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasNotification",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

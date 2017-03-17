@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE770F66-9E81-4270-BD15-2DEB3D37E906}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.2505233Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AStone-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/AStone-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

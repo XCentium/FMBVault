@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B17746D1-6E6D-4E49-B779-A94DA662D32C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.1679289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sub Navigation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

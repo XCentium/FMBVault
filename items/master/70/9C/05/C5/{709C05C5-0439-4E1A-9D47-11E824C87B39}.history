@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{709C05C5-0439-4E1A-9D47-11E824C87B39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.8759286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feature",
+    "itemPath": "/sitecore/layout/Models/Feature",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

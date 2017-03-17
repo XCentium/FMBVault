@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2AC5C42-A05C-4F51-854E-730C9BCA06D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.5830212Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Style",
+    "itemPath": "/sitecore/templates/Foundation/Theming/Style",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

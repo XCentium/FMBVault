@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45814A6A-69B2-48BD-9B14-8853BD13319A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.0719227Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/News",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

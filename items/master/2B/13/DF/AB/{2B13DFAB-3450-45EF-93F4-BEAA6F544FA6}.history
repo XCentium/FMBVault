@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B13DFAB-3450-45EF-93F4-BEAA6F544FA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.1205852Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedInLink",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Social/LinkedInLink",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

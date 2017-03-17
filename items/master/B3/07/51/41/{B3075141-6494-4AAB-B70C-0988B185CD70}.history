@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3075141-6494-4AAB-B70C-0988B185CD70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:47.6849233Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "I am a Business User and I dont see Mobile Banking under Other Services",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Mobile Features for Business Clients/I am a Business User and I dont see Mobile Banking under Other Services",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

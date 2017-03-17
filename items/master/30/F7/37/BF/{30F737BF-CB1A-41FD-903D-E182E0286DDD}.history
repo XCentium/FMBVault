@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30F737BF-CB1A-41FD-903D-E182E0286DDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.2129291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header Logo",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Header/Header Logo",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

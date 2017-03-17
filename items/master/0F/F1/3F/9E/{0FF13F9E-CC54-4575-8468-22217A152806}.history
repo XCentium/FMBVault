@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FF13F9E-CC54-4575-8468-22217A152806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.4529232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anand Chokshi",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Main Office/Anand Chokshi",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

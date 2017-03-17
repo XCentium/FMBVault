@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD8813E7-0644-47F4-8CC4-6C23B7FAFCEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.2049218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

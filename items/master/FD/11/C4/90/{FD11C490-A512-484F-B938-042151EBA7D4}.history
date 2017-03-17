@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD11C490-A512-484F-B938-042151EBA7D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.7319213Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belmont Shore",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Belmont Shore",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

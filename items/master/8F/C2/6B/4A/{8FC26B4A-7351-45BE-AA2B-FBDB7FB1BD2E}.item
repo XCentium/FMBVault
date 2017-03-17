@@ -1,0 +1,92 @@
+----item----
+version: 1
+id: {8FC26B4A-7351-45BE-AA2B-FBDB7FB1BD2E}
+database: master
+path: /sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish/Reject/Notify Author
+parent: {9FF5067F-AE58-4D69-A6D3-0F0E47BD5C2C}
+name: Notify Author
+master: {00000000-0000-0000-0000-000000000000}
+template: {E45642AD-3BB2-448D-9959-F81A9AB6D23C}
+templatekey: Workflow Email
+created: 20170313T222820:636250409009130000
+
+----field----
+field: {2D26671D-7D16-4142-B0CC-2E440AC5B1E2}
+name: From
+key: from
+content-length: 20
+
+noreply@xcentium.net
+----field----
+field: {E2332DF1-4596-4179-9EF6-0BBC40FCFEBC}
+name: Subject
+key: subject
+content-length: 68
+
+Rejected: Your changes for an item have been rejected by compliance.
+----field----
+field: {0614FB6D-7B90-496E-B4A7-F79F71114D74}
+name: Message
+key: message
+content-length: 173
+
+<p>Your changes for an item have been rejected by compliance</p>
+<p>Item: $itemName$<br>
+Path: $itemPath$<br>
+Version: $itemVersion$</p>
+<p>Reason:</p>
+<p>$itemComments$</p>
+----field----
+field: {3A8C415A-9082-4CC3-8CB9-75CAE3AF4628}
+name: Type
+key: type
+content-length: 86
+
+FMB.Foundation.Utilities.Workflows.Actions.SendWorkflowEmail, FMB.Foundation.Utilities
+----version----
+language: en
+version: 1
+revision: ebc5f384-59a3-4db0-bb0a-8831ef7319c3
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170308T064204Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ebc5f384-59a3-4db0-bb0a-8831ef7319c3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170311T023515Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

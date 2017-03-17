@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9438C75E-929A-4BC5-A29B-EFCA06DE10BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:23.1485844Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CalculatorThumbnail",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasCalculator/Calculator/CalculatorThumbnail",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

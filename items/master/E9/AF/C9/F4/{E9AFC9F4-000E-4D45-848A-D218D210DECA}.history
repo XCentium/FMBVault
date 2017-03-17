@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E9AFC9F4-000E-4D45-848A-D218D210DECA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.9759287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aquarium of the Pacific",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Testimonials/Aquarium of the Pacific",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

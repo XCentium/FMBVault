@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95104B87-0EC0-4FEC-8F0C-FF89B9E7198B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.5319200Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Terms and Conditions",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Terms and Conditions",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

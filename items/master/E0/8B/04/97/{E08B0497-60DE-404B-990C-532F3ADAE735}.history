@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E08B0497-60DE-404B-990C-532F3ADAE735}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.8659293Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Footer",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

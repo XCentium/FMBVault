@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22135B60-8954-45BB-A23B-78EBB158A0EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.4239290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Garden Grove",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Garden Grove",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

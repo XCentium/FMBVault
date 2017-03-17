@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02ECCE80-45DB-40EE-84EF-C11A2A57C5C4}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.2789214Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reset Password Info",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Forgot Password/Reset Password Info",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

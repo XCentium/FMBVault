@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4433E6E-4890-49ED-BBB1-8D88A974EB5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.9159226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "March 19 - San Clemente",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/March 19 - San Clemente",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E5C18C2-EED2-4E28-B950-A95BA11E5FEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:18.2005251Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Files",
+    "itemPath": "/sitecore/media library/Project/Common/Files",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

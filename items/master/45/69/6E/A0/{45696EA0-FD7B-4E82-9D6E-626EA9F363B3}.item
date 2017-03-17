@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {45696EA0-FD7B-4E82-9D6E-626EA9F363B3}
+database: master
+path: /sitecore/content/FMBCom/Home/OnlineAccount/Welcome
+parent: {5FF2671D-1C23-4E6B-8219-08AAC3355618}
+name: Welcome
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170303T002528:636240975281530000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: ee2f85a4-530c-4afc-b26e-5e0561c4ca25
+
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 55
+
+Start the Process of Opening a Bank Account Online| F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 219
+
+You can start the process of opening an bank account online. Please enter your contact information to start the account sign up process. You may also call Farmers & Merchants direct at (866) 437-0111 with any questions.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2564
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{C2B75925-7211-4FE3-9F65-A557641567A9}" p:before="*" s:ds="{878B77CC-8392-4DA9-B86B-CC31CF06B5FD}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/footerZone/section_e2d7c5f7-0967-4d5b-9a62-c6923a403435/col-huge_4be6d836-0678-4a42-8673-c2d7d259bb9b" /><r uid="{4BE6D836-0678-4A42-8673-C2D7D259BB9B}" p:after="r[@uid='{C2B75925-7211-4FE3-9F65-A557641567A9}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/footerZone/section_e2d7c5f7-0967-4d5b-9a62-c6923a403435" /><r uid="{E2D7C5F7-0967-4D5B-9A62-C6923A403435}" p:after="r[@uid='{4BE6D836-0678-4A42-8673-C2D7D259BB9B}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="footerZone" /><r uid="{6EF1E9F2-3B5E-43FF-9A11-72A2561EB6E4}" p:after="r[@uid='{E2D7C5F7-0967-4D5B-9A62-C6923A403435}']" s:ds="{547152CD-C224-4830-AB49-472D6C68C8CF}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/headerZone/header-login/section_d6778bf9-2055-458a-96fa-7a5994d6d700/col-huge_0bebfb9b-7bed-4631-be35-5c9eaf482385" /><r uid="{0BEBFB9B-7BED-4631-BE35-5C9EAF482385}" p:after="r[@uid='{6EF1E9F2-3B5E-43FF-9A11-72A2561EB6E4}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/headerZone/header-login/section_d6778bf9-2055-458a-96fa-7a5994d6d700" /><r uid="{D6778BF9-2055-458A-96FA-7A5994D6D700}" p:after="r[@uid='{0BEBFB9B-7BED-4631-BE35-5C9EAF482385}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="/headerZone/header-login" /><r uid="{922A0336-ABFA-4C34-9325-189A56CAAAB1}" p:after="r[@uid='{D6778BF9-2055-458A-96FA-7A5994D6D700}']" s:ds="{9349ABA8-3594-4C31-9AB0-D2F12DFD8D39}" s:id="{DDD4525B-C674-4C1C-94A5-26AE61364BD3}" s:ph="/layoutZone/section_55594049-5b88-41f7-86c3-b9b23a5950c7/col-huge_5909855a-e020-437f-89af-cd3a8721b3d7" /><r uid="{5909855A-E020-437F-89AF-CD3A8721B3D7}" p:after="r[@uid='{922A0336-ABFA-4C34-9325-189A56CAAAB1}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_55594049-5b88-41f7-86c3-b9b23a5950c7" /><r uid="{55594049-5B88-41F7-86C3-B9B23A5950C7}" p:after="r[@uid='{5909855A-E020-437F-89AF-CD3A8721B3D7}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{A9F64933-1269-4B05-8868-EC52213E01E1}"><p:d /></r><r uid="{2176CAB4-0700-4A6D-B8BF-3F2BE6884462}"><p:d /></r><r uid="{C8F02082-3A13-4313-811B-C61A0CA5A98A}"><p:d /></r><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r><r uid="{91B388C4-4BD1-482B-A2E1-7D89B83CFEA4}"><p:d /></r><r uid="{B5228527-66A7-4AFD-8CDD-0A319B57C7A8}" p:after="*[1=2]" /></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170303T002528Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ee2f85a4-530c-4afc-b26e-5e0561c4ca25
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T234742Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

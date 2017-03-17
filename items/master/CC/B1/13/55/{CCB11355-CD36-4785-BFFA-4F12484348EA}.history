@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCB11355-CD36-4785-BFFA-4F12484348EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:06.8255394Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Roles",
+    "itemPath": "/sitecore/templates/System/Security/Role/Data/Roles",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

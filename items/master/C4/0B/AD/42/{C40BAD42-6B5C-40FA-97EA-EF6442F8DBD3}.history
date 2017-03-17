@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C40BAD42-6B5C-40FA-97EA-EF6442F8DBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:08.7042193Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Products",
+    "itemPath": "/sitecore/media library/Feature/Products",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

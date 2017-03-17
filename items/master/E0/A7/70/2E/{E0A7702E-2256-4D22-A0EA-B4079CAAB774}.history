@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0A7702E-2256-4D22-A0EA-B4079CAAB774}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.3829281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Video",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Media/Video",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B59149D-7ED3-4D58-86A9-32EDED8C0368}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.9569298Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feature",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Feature",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

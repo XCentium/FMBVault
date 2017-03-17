@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04CF3834-7FF4-4C7D-936A-3CE80DFF9C00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.4119231Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Checking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Phone Numbers/Business Checking",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

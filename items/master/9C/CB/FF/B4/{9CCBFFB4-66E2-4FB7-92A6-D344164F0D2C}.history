@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CCBFFB4-66E2-4FB7-92A6-D344164F0D2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:19.6705845Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExitModal",
+    "itemPath": "/sitecore/templates/Feature/News/_ExternalNewsArticle/External News/ExitModal",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

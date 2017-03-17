@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{406796F9-54DB-4152-B831-272774F34272}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:57.7145367Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset was downloaded",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Asset was downloaded",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

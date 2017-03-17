@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EBFFEC6B-71F8-47C9-BC96-95D57994FDF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:57.8765365Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referrer",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Referrer",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

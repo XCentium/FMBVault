@@ -1,0 +1,164 @@
+----item----
+version: 1
+id: {9FC7FBDE-0FF5-4FD0-B08B-A44EB21459B6}
+database: master
+path: /sitecore/content/FMBCom/Home/Business/Business Deposit Services
+parent: {B0BE8AE0-7814-4443-88D0-DBD64C12A185}
+name: Business Deposit Services
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170210T215537:636223605377900000
+
+----version----
+language: en
+version: 1
+revision: f1874d3c-7b17-44ff-b1c6-2ad9051fb45a
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 25
+
+Business Deposit Services
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 4768
+
+<h2>ELECTRONIC LOCKBOX</h2>
+<br>
+Do you receive 60 or more paper checks from your clients per month?<br>
+<br>
+Similar to F&amp;M Bank&rsquo;s Lockbox Service, Electronic Lockbox is a payment processing service that allows you to review your daily deposits, view check images and create related downloads and reports online. No more waiting for your paper deposit summary. Perfect for property management, medical and professional offices.<br>
+<strong><br>
+Get started today: Contact our Electronic Lockbox Services at (888) 717-2768 or email us at <a href="mailto:LockboxServices@fmb.com?subject=Electronic Lockbox">LockboxServices@fmb.com</a>.<sup>2</sup></strong>
+<h2><strong>MED eSOLUTIONS</strong>&nbsp;</h2>
+<div class="row">
+<div class="col-md-8">
+<strong>Are you in need of a HIPAA-compliant medical billing solution?</strong>
+<br>
+Med eSolutions is F&amp;M Bank&rsquo;s HIPAA-compliant medical billing solution, and is offered to physicians using F&amp;M Bank&rsquo;s Electronic Lockbox services. Med eSolutions is an inclusive service for the processing of Explanation-of-Benefits (EOBs), Electronic Remittance Advice (ERA), Self-Payment; Re-Association, Data Transmission, Digital Archive, Secondary Processing, and Denial Management.
+<p>&nbsp;</p>
+<strong>Get Med eSolutions today: Contact our Physician Banking Suite Team at (888) 472-0336 or email us at&nbsp;<a href="mailto:LockboxServices@fmb.com?subject=Med eSolutions">LockboxServices@fmb.com</a></strong>.<strong><sup>2</sup></strong>
+</div>
+<div class="col-md-4"><a href="-/media/74230BA4CAB54F15967BF1FC958FEF9F.ashx"><img height="306" alt="Med eSolutions Fee Sheet" width="144" src="-/media/7190BA19C4D2410C90ED232AE549B7E3.ashx"></a>
+</div>
+</div>
+<p><strong>&nbsp;</strong></p>
+<h2><strong>PAYMENT PROCESSING VIA LOCKBOX</strong>&nbsp;</h2>
+<div class="row">
+<div class="col-md-8">
+<strong>Need more time? We're here to help.</strong> With deposit services like F&amp;M&rsquo;s lockbox payment processing, we collect payments from your personal P.O. Box, provide courier service, and make daily deposits to allow you more time to focus on your business. This is the ultimate, full-service solution for property management, medical, and professional offices receiving large numbers of check or credit card payment receivables.
+<p>&nbsp;</p>
+<ul>
+    <li>Same day credit</li>
+    <li>No float time</li>
+    <li>Image scanning</li>
+    <li>Custom reports</li>
+</ul>
+<strong>Contact our Deposit Services Specialists to sign up for Lockbox payment processing today at (888) 717-2768.</strong>
+</div>
+<div class="col-md-4">&nbsp;<a href="-/media/AA2347A9E7D243269B1235C1CCB52055.ashx"><img height="306" alt="Lockbox Fee Sheet" width="144" src="-/media/E8AC6258FE504447AF2EA15720A2AF38.ashx"></a>
+</div>
+</div>
+<h2>REMOTE DEPOSIT CAPTURE</h2>
+Does your business deposit more than 50 checks per day? Are you challenged with daily trips to the bank? Deposit services like F&amp;M&rsquo;s remote deposit capture product can help! Scan and deposit checks right from the comfort of your office. Convenience, security, and same day deposit credit<sup>1</sup> make this product a wonderful solution for your business. The best part of all? Remote deposit capture fees are offset by your analyzed checking account.<br>
+<br>
+<strong>Note: </strong>For our existing Remote Deposit Capture clients, you will be required to upgrade from the Direct Merchant Software version 12.0 to 15.0 before October 21, 2015. Please see our <a href="-/media/70DC3324F8AF4E038F76EA3DF999F5AE.ashx">how to guide </a>to see the simple three step process.<br>
+<strong><br>
+Contact our Electronic Banking specialists today to find out if remote deposit capture is right for your business. Call (866) 437-0011 or e-mail <a href="mailto:internet.support@fmb.com?subject=Remote Deposit Capture">internet.support@fmb.com</a> .&nbsp;<strong><sup>2</sup></strong></strong>
+<p><strong>&nbsp;</strong></p>
+<h2>CHECK IMAGE DEPOSIT</h2>
+Streamline your high volume deposit preparation with our alternative check processing service. It allows you to send us check images captured by systems you already have in place.<strong><br>
+</strong>
+<ul>
+    <li>Reduce check processing time and costs</li>
+    <li>Reduce risk and trips to the bank</li>
+    <li>Expedite availability of funds</li>
+    <li>Streamline deposit preparation</li>
+    <li>Get started now with more efficient check processing&mdash;and improve cash flow.</li>
+</ul>
+<strong>
+</strong>
+<p><strong>To learn more about electronic check processing, contact our Electronic Banking specialists today. Call (866) 437-0011 or e-mail <a href="mailto:internet.support@fmb.com?subject=Check Image Deposit">internet.support@fmb.com</a>.&nbsp;<strong><sup>2</sup></strong><br>
+</strong></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 25
+
+Business Deposit Services
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 52
+
+Business Deposit Services | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 105
+
+Let Farmers & Merchants Bank assist you with depositing check payments so you can focus on your business.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2024
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{3064AE3C-27A8-4CAC-B846-3031024B9D18}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{21DC0846-D2D5-4289-86F6-E14E8364BDAA}" p:after="r[@uid='{3064AE3C-27A8-4CAC-B846-3031024B9D18}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{654872F4-C9FE-4B06-94EC-FD5ACFD1CB58}" p:after="r[@uid='{21DC0846-D2D5-4289-86F6-E14E8364BDAA}']" s:ds="{F406CEA5-510E-4AB0-A45A-81CBAEEF3997}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section-narrow/col-wide-1_840971dd-d4b9-4ae6-89c2-a8684493f22f" /><r uid="{23559898-EB42-4A84-B08A-0DCCF16CE456}" p:after="r[@uid='{654872F4-C9FE-4B06-94EC-FD5ACFD1CB58}']" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section-narrow/col-wide-1_dfc11e74-3509-4df1-adef-cf1c17b21f9f" /><r uid="{DFC11E74-3509-4DF1-ADEF-CF1C17B21F9F}" p:after="r[@uid='{23559898-EB42-4A84-B08A-0DCCF16CE456}']" s:ds="{740F51EE-BA21-4EB8-BD39-A17E870A1FDB}" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{840971DD-D4B9-4AE6-89C2-A8684493F22F}" p:after="r[@uid='{DFC11E74-3509-4DF1-ADEF-CF1C17B21F9F}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{432BD6A8-820A-4EA0-AD48-52B9FFDA19EA}" p:after="r[@uid='{840971DD-D4B9-4AE6-89C2-A8684493F22F}']" s:ds="{740F51EE-BA21-4EB8-BD39-A17E870A1FDB}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section-narrow/col-wide-1_6b6818cf-97d6-4c5b-abc2-5cb469f55742" /><r uid="{D5529AC4-00F7-4F9B-BD9A-E96A2DDE6594}" p:after="r[@uid='{432BD6A8-820A-4EA0-AD48-52B9FFDA19EA}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170210T215537Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f1874d3c-7b17-44ff-b1c6-2ad9051fb45a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T203947Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{810C53CE-3B7B-4ADB-BAA5-D88DD14104AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.5229289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Clemente",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/San Clemente",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

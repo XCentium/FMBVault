@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52A898D9-6D20-43FD-9798-1578B14A117C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.9739292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ Accordion",
+    "itemPath": "/sitecore/layout/Renderings/Feature/FAQ/FAQ Accordion",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

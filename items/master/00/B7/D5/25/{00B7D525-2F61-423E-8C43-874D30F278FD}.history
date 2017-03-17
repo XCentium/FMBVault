@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00B7D525-2F61-423E-8C43-874D30F278FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.8529159Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Our Clients",
+    "itemPath": "/sitecore/content/FMBCom/Home/Our Clients",
+    "template": "Navigation Link",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

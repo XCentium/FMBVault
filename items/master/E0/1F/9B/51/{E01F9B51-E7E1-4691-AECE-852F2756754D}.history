@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E01F9B51-E7E1-4691-AECE-852F2756754D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:43.4639450Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Onsite Behaviour",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Onsite Behaviour",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

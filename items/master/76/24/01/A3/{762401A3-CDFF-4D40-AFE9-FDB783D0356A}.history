@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{762401A3-CDFF-4D40-AFE9-FDB783D0356A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.2989286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Patricks Day",
+    "itemPath": "/sitecore/content/FMBCom/Global/Notifications/Saint Patricks Day",
+    "template": "Notification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

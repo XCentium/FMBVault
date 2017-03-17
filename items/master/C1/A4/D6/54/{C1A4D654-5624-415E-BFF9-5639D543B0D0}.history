@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1A4D654-5624-415E-BFF9-5639D543B0D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.0549390Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modal Link Item",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Modal Link Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

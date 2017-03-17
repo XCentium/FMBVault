@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94583F18-EF19-4CE3-8ECD-3E4108A777F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.2969286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomefrontAmerica",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Images/HomefrontAmerica",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

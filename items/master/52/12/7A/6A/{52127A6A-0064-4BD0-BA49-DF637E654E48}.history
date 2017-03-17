@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52127A6A-0064-4BD0-BA49-DF637E654E48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.2709287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auction",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Images/Auction",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

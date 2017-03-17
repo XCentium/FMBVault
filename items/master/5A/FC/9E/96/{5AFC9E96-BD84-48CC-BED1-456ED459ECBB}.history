@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5AFC9E96-BD84-48CC-BED1-456ED459ECBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:30.5135299Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Colorado",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Colorado",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

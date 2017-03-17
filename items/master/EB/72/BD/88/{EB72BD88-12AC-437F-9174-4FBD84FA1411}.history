@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB72BD88-12AC-437F-9174-4FBD84FA1411}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.3165381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel Slide Types",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

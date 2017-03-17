@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35753BF3-8A94-4DA6-A5D7-DBD945D1AA59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:58.5885386Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu divider",
+    "itemPath": "/sitecore/templates/System/Menus/Menu divider",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

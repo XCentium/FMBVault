@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F3C6BEC-E56B-4875-93D7-2846A75881D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:50.2695379Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Data Source",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Conditional Renderings/Set Data Source",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D95BB553-9DB6-4F40-9199-2BE7539F22F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.0449286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans/FM Credit Card",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

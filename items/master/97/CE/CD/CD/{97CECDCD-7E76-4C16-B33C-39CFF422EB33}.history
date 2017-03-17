@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97CECDCD-7E76-4C16-B33C-39CFF422EB33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.8119279Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB Facebook",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Modal Whitelist/FMB Facebook",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CD15EC3-E9E1-43C5-A60E-0310E22618C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.6715249Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FDR-MerchantServices-Banner",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FDR-MerchantServices-Banner",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

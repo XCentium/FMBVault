@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F8AE904-D453-4E11-9506-59636F9CCFD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:11.1035781Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Create Test Dialog",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Approve with Test/Launch Create Test Dialog",
+    "template": "Launch Create Test Dialog Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

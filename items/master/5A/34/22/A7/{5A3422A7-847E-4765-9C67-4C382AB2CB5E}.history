@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A3422A7-847E-4765-9C67-4C382AB2CB5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:37.0275300Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Caledonia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/New Caledonia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

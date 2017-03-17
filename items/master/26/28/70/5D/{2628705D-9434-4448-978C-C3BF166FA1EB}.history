@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2628705D-9434-4448-978C-C3BF166FA1EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.6925852Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MediaVideoLink",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMediaVideo/Media/MediaVideoLink",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

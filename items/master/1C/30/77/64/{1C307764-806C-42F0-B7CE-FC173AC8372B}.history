@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C307764-806C-42F0-B7CE-FC173AC8372B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:54.7774348Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Supports Local Datasource",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Supports Local Datasource",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

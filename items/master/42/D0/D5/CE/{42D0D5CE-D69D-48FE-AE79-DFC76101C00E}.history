@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42D0D5CE-D69D-48FE-AE79-DFC76101C00E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:30.0955303Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Human",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Business Classification/Human",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

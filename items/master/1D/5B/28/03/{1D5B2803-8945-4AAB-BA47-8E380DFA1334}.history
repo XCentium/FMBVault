@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D5B2803-8945-4AAB-BA47-8E380DFA1334}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:39.5685378Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session begin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session begin",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

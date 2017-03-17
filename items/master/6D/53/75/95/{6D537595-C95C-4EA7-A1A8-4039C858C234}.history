@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D537595-C95C-4EA7-A1A8-4039C858C234}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:15.2775246Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "tick",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/tick",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

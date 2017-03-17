@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4EC5FDA0-4579-4A5F-86D9-89497217DD0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:32.5355319Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Foundation",
+    "itemPath": "/sitecore/system/Settings/Foundation",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{066DE2C6-08F0-42FB-8088-4CD7BEC57AC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.4919229Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How do I use my chip card at an ATM",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/How do I use my chip card at an ATM",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

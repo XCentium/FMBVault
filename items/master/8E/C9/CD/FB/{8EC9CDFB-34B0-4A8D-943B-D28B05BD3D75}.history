@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EC9CDFB-34B0-4A8D-943B-D28B05BD3D75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:39.7619438Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization Test Variable",
+    "itemPath": "/sitecore/templates/System/Content Testing/Personalization Test Variable",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B0DF5B8-A11D-4C90-846F-B0699BB86E7E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.2379158Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "faq",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/faq",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

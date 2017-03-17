@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {91EF52E9-E77E-4595-9CD0-FC5ED638BFA4}
+database: master
+path: /sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD/Mortgage-Rates-500 Above Form
+parent: {DD8813E7-0644-47F4-8CC4-6C23B7FAFCEF}
+name: Mortgage-Rates-500 Above Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170308T212033:636246048330470000
+
+----version----
+language: en
+version: 1
+revision: 5daf7ff0-ae6f-4a19-b7be-16af5c8d73a4
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 331
+
+<div class="rightFormBox rightFormHeader">
+<h2>
+Get Started Today
+</h2>
+<p>Get $500 off closing costs. <sup>1</sup></p>
+<p>Let us customize a rate quote for you.</p>
+<img alt="" src="-/media/3D5983F4674A4702A96BF5D0F2222D7E.ashx?w=40%&amp;hash=A7B09B3A7668DD073B40368A43D1ED162FD5EDF1" style="width: 40%; padding-top: 5px;">
+</div>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170308T185806Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5daf7ff0-ae6f-4a19-b7be-16af5c8d73a4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T212936Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

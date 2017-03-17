@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A99866E5-08E7-44D8-8A52-F8E26BCD3714}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.0159391Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News List",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/News List",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

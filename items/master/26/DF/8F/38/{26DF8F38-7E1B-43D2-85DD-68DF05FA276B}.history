@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26DF8F38-7E1B-43D2-85DD-68DF05FA276B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.6525797Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_MailTemplate",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_MailTemplate",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

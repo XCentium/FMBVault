@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F62BCEC2-EE6C-4BD4-9BDA-52F3B6F014BD}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.1499153Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "localteasers",
+    "itemPath": "/sitecore/content/FMBCom/Settings/localteasers",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

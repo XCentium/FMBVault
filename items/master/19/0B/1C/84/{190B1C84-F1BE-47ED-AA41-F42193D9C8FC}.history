@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:11.7375781Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

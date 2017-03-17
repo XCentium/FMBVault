@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A18C1364-B38D-452C-9404-E3F287186CA0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.5669221Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vince Cecere",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Redondo Beach/Vince Cecere",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

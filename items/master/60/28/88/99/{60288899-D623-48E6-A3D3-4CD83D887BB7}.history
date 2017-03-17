@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60288899-D623-48E6-A3D3-4CD83D887BB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:35.8839432Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Page Filter/__Standard Values",
+    "template": "Page Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

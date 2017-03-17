@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{519CD02A-A857-4894-9C9B-AC9BDC472937}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:46.7487736Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor List Item/Data/Header",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

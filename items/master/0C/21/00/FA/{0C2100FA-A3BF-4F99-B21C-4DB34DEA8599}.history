@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C2100FA-A3BF-4F99-B21C-4DB34DEA8599}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.5689159Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CD Rates",
+    "itemPath": "/sitecore/content/FMBCom/Home/CD Rates",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

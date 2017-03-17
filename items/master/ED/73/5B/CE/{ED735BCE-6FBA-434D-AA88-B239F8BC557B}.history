@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED735BCE-6FBA-434D-AA88-B239F8BC557B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.5655243Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cjphoto",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/cjphoto",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

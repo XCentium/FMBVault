@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AEA50B22-9FB8-4428-A494-E50AB8493688}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.0715193Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Files",
+    "itemPath": "/sitecore/media library/FMBCom/Files",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A1B724B-B396-4C48-A833-655CD19018E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.1815816Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasMediaVideo",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMediaVideo",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

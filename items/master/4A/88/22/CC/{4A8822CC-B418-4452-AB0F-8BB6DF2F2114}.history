@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A8822CC-B418-4452-AB0F-8BB6DF2F2114}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:28.8469368Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Home",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4BF43BD-E424-4716-A4E4-10D2F34D945D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.3169574Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Login",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

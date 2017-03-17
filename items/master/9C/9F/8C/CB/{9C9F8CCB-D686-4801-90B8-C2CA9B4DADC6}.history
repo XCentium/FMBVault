@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C9F8CCB-D686-4801-90B8-C2CA9B4DADC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:07.9552186Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "checkBackImage",
+    "itemPath": "/sitecore/media library/FAQs/checkBackImage",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

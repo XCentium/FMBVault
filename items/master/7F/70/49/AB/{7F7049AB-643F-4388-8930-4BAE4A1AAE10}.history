@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F7049AB-643F-4388-8930-4BAE4A1AAE10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.0719382Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PredefinedParameters",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/PredefinedParameters",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

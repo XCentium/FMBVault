@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5F0FBE3-61AD-4967-A5D8-8D760331D6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.9849283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Project",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

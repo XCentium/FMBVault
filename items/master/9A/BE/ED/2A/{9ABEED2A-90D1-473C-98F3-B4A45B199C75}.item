@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {9ABEED2A-90D1-473C-98F3-B4A45B199C75}
+database: master
+path: /sitecore/content/FMBCom/Global/Forms/Form Configurations/Mailing List Form
+parent: {6198CD02-AB88-4214-B4F0-27129A7FD684}
+name: Mailing List Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {6C2B616E-EC60-4FC6-856C-24A54D9B4F8C}
+templatekey: Form Configuration
+created: 20170308T072418:636245546588600000
+
+----version----
+language: en
+version: 1
+revision: f9793e72-fef8-4458-92b2-1d8ac3e9715c
+
+----field----
+field: {BC20CAA7-150F-4B76-8C79-6E1A11C9C159}
+name: EmailRecipients
+key: emailrecipients
+content-length: 61
+
+/sitecore/content/FMBCom/Global/Forms/Form Recipients/default
+----field----
+field: {D71E6464-9F06-4532-8C08-6840E225E885}
+name: FormID
+key: formid
+content-length: 17
+
+Mailing List Form
+----field----
+field: {2C22F643-D4E0-481D-B35D-F1C7276E936C}
+name: SuccessPage
+key: successpage
+content-length: 55
+
+<link linktype="external" url="http://www.yahoo.com" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 13
+
+fmb\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170307T172359Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 13
+
+fmb\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f9793e72-fef8-4458-92b2-1d8ac3e9715c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T165847Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

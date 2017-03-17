@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87693673-6246-43E6-BF58-A29510239A38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.9920213Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Value",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/ConfigurationSetting/Configuration Setting/Value",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

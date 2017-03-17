@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE4635AF-CFBF-4BF6-9B50-00BE23A910C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.1635815Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasMediaSelector",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMediaSelector",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

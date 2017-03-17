@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC450599-7C22-4D86-A901-CC8EEC8992C9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.9349281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Menu",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Social Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

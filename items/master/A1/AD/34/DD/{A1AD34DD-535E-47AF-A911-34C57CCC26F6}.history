@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1AD34DD-535E-47AF-A911-34C57CCC26F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.2769279Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quote",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person/Quote",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

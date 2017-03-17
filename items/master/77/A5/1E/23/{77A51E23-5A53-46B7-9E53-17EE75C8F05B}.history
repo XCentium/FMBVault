@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77A51E23-5A53-46B7-9E53-17EE75C8F05B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.7529272Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To Enroll in Bill Pay",
+    "itemPath": "/sitecore/content/FMBCom/Global/How-Tos/How-To Enroll in Bill Pay",
+    "template": "How-To",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

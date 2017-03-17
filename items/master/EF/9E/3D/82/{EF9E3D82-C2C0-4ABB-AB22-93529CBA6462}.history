@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF9E3D82-C2C0-4ABB-AB22-93529CBA6462}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:07.7939349Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IncludeStandardTemplateFields",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/IncludeStandardTemplateFields",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

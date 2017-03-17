@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B3D5534-E791-4D3B-B514-1E1D1F36692C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.9029230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other - Not Sure",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/PersonalBankingProducts/Other - Not Sure",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

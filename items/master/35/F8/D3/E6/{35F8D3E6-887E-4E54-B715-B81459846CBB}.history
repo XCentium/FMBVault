@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35F8D3E6-887E-4E54-B715-B81459846CBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.9285805Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnableCenterMapControl",
+    "itemPath": "/sitecore/templates/Feature/Maps/_MapRenderingParameters/Map Rendering Parameters/EnableCenterMapControl",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D08FA393-72FA-4BF5-98DF-8C815997D040}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.8579225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Classic Checking Debit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Products/Classic Checking Debit Card",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

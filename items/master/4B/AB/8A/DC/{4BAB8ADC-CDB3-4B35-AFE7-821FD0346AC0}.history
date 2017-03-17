@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4BAB8ADC-CDB3-4B35-AFE7-821FD0346AC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:54.5225353Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Replace string",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Redirect Manager/Replace string",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

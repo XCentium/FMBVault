@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{725A45E3-E307-4B95-B363-2782B059DF06}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.4369154Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBCom",
+    "itemPath": "/sitecore/content/FMBCom",
+    "template": "Site Root",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51B1726B-4290-4908-A2DA-B169194AE80C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.4219392Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Token",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Demo Tokens/Campaign Token",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

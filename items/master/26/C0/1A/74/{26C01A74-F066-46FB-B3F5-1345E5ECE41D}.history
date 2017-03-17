@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26C01A74-F066-46FB-B3F5-1345E5ECE41D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.6029230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Applicants",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Credit-Cards-Applicants",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

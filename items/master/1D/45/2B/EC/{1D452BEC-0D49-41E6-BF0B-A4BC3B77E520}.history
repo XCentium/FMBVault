@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D452BEC-0D49-41E6-BF0B-A4BC3B77E520}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.7599291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office Locations",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Office/Office Locations",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

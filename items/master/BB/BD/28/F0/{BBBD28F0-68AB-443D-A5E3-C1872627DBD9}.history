@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBBD28F0-68AB-443D-A5E3-C1872627DBD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.3689283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Corona del Mar",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Corona del Mar",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

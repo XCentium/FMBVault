@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF54EA18-5417-4F61-96CB-0630CB886EAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.6059226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CAREER OPPORTUNITIES",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/CAREER OPPORTUNITIES",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

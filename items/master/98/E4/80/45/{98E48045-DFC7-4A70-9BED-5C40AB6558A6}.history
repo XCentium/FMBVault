@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98E48045-DFC7-4A70-9BED-5C40AB6558A6}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.8669285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sitecorehabitat",
+    "itemPath": "/sitecore/content/FMBCom/Global/Social/sitecorehabitat",
+    "template": "Twitter Feed",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D1CD897-1936-4A3A-A511-289A94C2A7B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:42.6949457Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dictionary entry",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary entry",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

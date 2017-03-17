@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72AD5359-1C5F-4D37-9B3A-BB73D47C7936}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.5159209Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Friendly",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Alerts/Friendly",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E07D13DB-114D-4D38-959C-BDC04A33A651}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.9705366Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NY",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/NY",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

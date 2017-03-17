@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D71AC27F-0E91-48BE-967F-7302966A51C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.9695193Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fdic_edie",
+    "itemPath": "/sitecore/media library/FMBCom/Images/associations/fdic_edie",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

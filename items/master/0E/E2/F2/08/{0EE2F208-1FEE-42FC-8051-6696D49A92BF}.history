@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0EE2F208-1FEE-42FC-8051-6696D49A92BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.9905860Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OpenGraphTitle",
+    "itemPath": "/sitecore/templates/Feature/Social/_OpenGraph/Facebook Open Graph/OpenGraphTitle",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

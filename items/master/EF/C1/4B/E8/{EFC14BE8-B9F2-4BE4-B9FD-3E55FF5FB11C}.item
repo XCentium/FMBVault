@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {EFC14BE8-B9F2-4BE4-B9FD-3E55FF5FB11C}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Header/Header Login
+parent: {26F72BD8-EE72-40F9-8D3F-4214765B0790}
+name: Header Login
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20170125T211236:636209755567630000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 12
+
+header-login
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 194
+
+{096C0509-13D9-411C-93AF-57D572A53B29}|{18A76D7B-6329-4A7E-8168-BF8CD26F1713}|{8503EA38-BC61-42B8-8891-A5C92D6FCD69}|{F58046E9-3C0E-4109-AC04-F354BA49EFC4}|{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}
+----version----
+language: en
+version: 1
+revision: 286f6227-3bdf-448c-a0d8-6bd9eb57b3e2
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170125T064204Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+286f6227-3bdf-448c-a0d8-6bd9eb57b3e2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170306T200705Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

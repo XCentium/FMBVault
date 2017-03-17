@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F9FCA51-9502-4EEA-B2C1-83249571B523}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:06.5012194Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HSA-BRO",
+    "itemPath": "/sitecore/media library/Brochures/HSA-BRO",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {494F7EB6-3A97-4A9C-B28D-064EE40ED58D}
+database: master
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ Groups/General FAQs - Mobile
+parent: {65B346B4-8D80-435A-94D8-8567676664E7}
+name: General FAQs - Mobile
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+templatekey: FAQ Group
+created: 20170217T200717:636229588375770000
+
+----version----
+language: en
+version: 1
+revision: 04d6918c-02b4-4d2d-9784-9c60a5fd626c
+
+----field----
+field: {3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}
+name: Show Expanded
+key: show expanded
+content-length: 1
+
+1
+----field----
+field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
+name: Group Member
+key: group member
+content-length: 662
+
+{0EAFB480-514A-4983-819D-317F723E9EE8}|{EDCFD4A1-57AF-46E7-B025-547D35970FDE}|{EC6DF5D8-F13D-4491-8410-6D3C7F24EA61}|{C8260F05-6ADD-4373-9E87-E1954E9BB089}|{1C6DA311-37D7-48C3-87DA-CA4D9A0254AC}|{3E360ED8-EF01-4284-B87C-0C9DC2C161E7}|{DC190041-06FA-4697-8F20-CB18D07550C4}|{6096816D-1C77-4307-905A-57C1C3FEFD35}|{9150C5BE-EC5B-4A23-AB76-5E8D456BC507}|{86BFEA41-F534-4C86-9B72-579385611D94}|{3E9D094B-1091-4504-8FD9-ACFC11B413DB}|{7502885A-F3E3-450F-B4D8-DE0CE64F3B41}|{04D08CAA-4B99-464A-B6C3-B6B0509CD10F}|{893B7CDA-8717-401A-9E4D-BF0399B49418}|{BF727C40-3F5F-4789-A5BD-5F561DA01628}|{9FEF32F4-FD91-4311-9D9A-4C5586964CDE}|{C4BDD9F9-3314-49AE-B81E-D2BEB1BE49C2}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T200717Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+04d6918c-02b4-4d2d-9784-9c60a5fd626c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T200903Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

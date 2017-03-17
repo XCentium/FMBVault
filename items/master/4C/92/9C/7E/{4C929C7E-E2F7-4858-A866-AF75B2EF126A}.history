@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C929C7E-E2F7-4858-A866-AF75B2EF126A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.6305856Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disclaimer",
+    "itemPath": "/sitecore/templates/Feature/PageContent/_HasDisclaimer/Disclaimer",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

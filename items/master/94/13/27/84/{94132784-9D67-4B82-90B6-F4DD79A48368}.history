@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94132784-9D67-4B82-90B6-F4DD79A48368}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.0949218Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thuy Moesta",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Belmont Shore/Thuy Moesta",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

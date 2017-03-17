@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5DD68F41-6F46-4DC2-BE6F-CE928FD652B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.7229290Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Retirement Plans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Banking Services/Retirement Plans",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

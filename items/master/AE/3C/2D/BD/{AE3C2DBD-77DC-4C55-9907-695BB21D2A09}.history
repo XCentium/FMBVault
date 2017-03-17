@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE3C2DBD-77DC-4C55-9907-695BB21D2A09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.3099216Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cynthia Le",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Garden Grove/Cynthia Le",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

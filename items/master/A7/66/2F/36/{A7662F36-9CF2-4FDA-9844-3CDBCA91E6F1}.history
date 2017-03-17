@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7662F36-9CF2-4FDA-9844-3CDBCA91E6F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:45.3285380Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculated Cluster Data By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Calculated Cluster Data By Test Id",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

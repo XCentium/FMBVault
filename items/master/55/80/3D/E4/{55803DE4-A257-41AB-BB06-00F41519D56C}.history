@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55803DE4-A257-41AB-BB06-00F41519D56C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.5705847Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ParametersTemplate_DisplayedTestimonials",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/ParametersTemplates/ParametersTemplate_DisplayedTestimonials",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

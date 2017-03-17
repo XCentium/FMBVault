@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{585F89D1-570C-4F66-A6EC-195A8DA654E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.1965854Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CssClass",
+    "itemPath": "/sitecore/templates/Feature/Teasers/Icon/Content/CssClass",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

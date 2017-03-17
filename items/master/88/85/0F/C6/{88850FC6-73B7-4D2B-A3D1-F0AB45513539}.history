@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88850FC6-73B7-4D2B-A3D1-F0AB45513539}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.3609259Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Michigan",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Michigan",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

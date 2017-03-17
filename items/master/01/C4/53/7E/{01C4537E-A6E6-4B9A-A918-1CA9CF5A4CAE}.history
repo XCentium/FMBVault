@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01C4537E-A6E6-4B9A-A918-1CA9CF5A4CAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.2759281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Financial Statement Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Locations Brochures/Personal Financial Statement Form",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

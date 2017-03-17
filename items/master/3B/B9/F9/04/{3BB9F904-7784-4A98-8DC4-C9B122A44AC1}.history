@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BB9F904-7784-4A98-8DC4-C9B122A44AC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:07.0855786Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Rules",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Global Rules",
+    "template": "Global Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

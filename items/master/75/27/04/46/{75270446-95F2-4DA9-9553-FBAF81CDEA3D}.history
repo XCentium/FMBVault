@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75270446-95F2-4DA9-9553-FBAF81CDEA3D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.7525380Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cloud",
+    "itemPath": "/sitecore/system/Settings/Feature/Teasers/Icons/Cloud",
+    "template": "Icon",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

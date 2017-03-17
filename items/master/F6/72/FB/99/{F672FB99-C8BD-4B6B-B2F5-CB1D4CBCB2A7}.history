@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F672FB99-C8BD-4B6B-B2F5-CB1D4CBCB2A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.1329298Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Card Alerts",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

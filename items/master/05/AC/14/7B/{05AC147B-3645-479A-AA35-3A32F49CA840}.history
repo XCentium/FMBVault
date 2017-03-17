@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05AC147B-3645-479A-AA35-3A32F49CA840}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:20.0245230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-social-media-mentions",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-social-media-mentions",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

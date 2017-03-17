@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46866B57-2848-426A-8656-C965EF59EF3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.4185833Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show Login Box",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasLoginBox/Media/Show Login Box",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

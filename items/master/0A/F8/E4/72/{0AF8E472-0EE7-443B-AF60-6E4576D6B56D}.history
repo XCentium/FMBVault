@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0AF8E472-0EE7-443B-AF60-6E4576D6B56D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:42.9715372Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Type",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/File Type",
+    "template": "Facet",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

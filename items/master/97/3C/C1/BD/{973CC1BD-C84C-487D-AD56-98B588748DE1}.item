@@ -1,0 +1,91 @@
+----item----
+version: 1
+id: {973CC1BD-C84C-487D-AD56-98B588748DE1}
+database: master
+path: /sitecore/content/FMBCom/Global/Media/Banners/RLD
+parent: {9856A806-5AD4-4CE0-8FE3-2B949C28D0C5}
+name: RLD
+master: {00000000-0000-0000-0000-000000000000}
+template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
+templatekey: Image
+created: 20170316T223007:636253002071730000
+
+----version----
+language: en
+version: 1
+revision: 843da95c-897a-42c8-9e65-308d14929bf3
+
+----field----
+field: {F7FC505E-3CE5-4810-A88E-75B700FC1452}
+name: Description Layout
+key: description layout
+content-length: 38
+
+{33B8F0AE-3BB9-4A3A-AE83-F57896E69AA5}
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 388
+
+<div class="row">
+<div class="col-md-6">
+<!--nothing needed here-->
+</div>
+<div class="col-md-6">
+<h1>Get a great rate</h1>
+<h3>F&amp;M Home Loans</h3>
+<h2>Ask us today how we can help.</h2>
+<p><a href="~/link.aspx?_id=3FEC1C2499CE41FDADEE89433160BE15&amp;_z=z" class="btn btn-gold">Get started.</a></p>
+<p>All loans are subject to program, credit and property approval.</p>
+</div>
+</div>
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 58
+
+<image mediaid="{FCDB44C9-7892-4CC2-98FE-E8777ABA0AB3}" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170316T223007Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+843da95c-897a-42c8-9e65-308d14929bf3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170317T172900Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

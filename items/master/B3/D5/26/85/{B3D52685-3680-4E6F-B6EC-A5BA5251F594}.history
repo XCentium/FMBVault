@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3D52685-3680-4E6F-B6EC-A5BA5251F594}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.6189297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Newport Beach",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Newport Beach",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9984CCCD-D35B-49C6-A820-C2642E017F54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.0419283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RequestAppointmentForm",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Forms/RequestAppointmentForm",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

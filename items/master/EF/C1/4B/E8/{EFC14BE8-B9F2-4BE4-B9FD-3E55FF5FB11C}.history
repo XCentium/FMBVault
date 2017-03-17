@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFC14BE8-B9F2-4BE4-B9FD-3E55FF5FB11C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.1999287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header Login",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Header/Header Login",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

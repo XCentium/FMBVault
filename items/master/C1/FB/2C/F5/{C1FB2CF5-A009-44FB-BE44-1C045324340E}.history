@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1FB2CF5-A009-44FB-BE44-1C045324340E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.2715182Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomeLoanCenter",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/HomeLoanCenter",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

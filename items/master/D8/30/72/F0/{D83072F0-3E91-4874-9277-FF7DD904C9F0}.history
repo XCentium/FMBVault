@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D83072F0-3E91-4874-9277-FF7DD904C9F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.5319285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Services and Fees",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/About FM/Services and Fees",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

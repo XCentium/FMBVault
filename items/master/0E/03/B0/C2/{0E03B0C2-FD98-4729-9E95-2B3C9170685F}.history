@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E03B0C2-FD98-4729-9E95-2B3C9170685F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.9705861Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook Open Graph",
+    "itemPath": "/sitecore/templates/Feature/Social/_OpenGraph/Facebook Open Graph",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

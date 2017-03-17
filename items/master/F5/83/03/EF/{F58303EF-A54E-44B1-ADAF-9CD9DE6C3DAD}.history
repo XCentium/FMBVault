@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F58303EF-A54E-44B1-ADAF-9CD9DE6C3DAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:48.5715381Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inclusion Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

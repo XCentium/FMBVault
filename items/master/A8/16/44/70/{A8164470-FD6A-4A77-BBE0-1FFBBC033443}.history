@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A8164470-FD6A-4A77-BBE0-1FFBBC033443}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.5795232Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auction_Thumbnail",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/Thumbnails/Auction_Thumbnail",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

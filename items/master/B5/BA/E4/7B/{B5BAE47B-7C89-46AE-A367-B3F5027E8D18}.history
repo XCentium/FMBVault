@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5BAE47B-7C89-46AE-A367-B3F5027E8D18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:02.2165427Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Date",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F54F1364-57B9-4C63-B3D9-7B3841B56EED}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.3869221Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title No Search",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header/Title No Search",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

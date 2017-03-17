@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97DADD0A-10F8-41EB-807A-E3ABDB7E02D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.1029286Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/Login/FM Credit Card",
+    "template": "Modal Content",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

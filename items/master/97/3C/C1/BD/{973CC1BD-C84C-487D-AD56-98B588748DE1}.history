@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{973CC1BD-C84C-487D-AD56-98B588748DE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.2009294Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/RLD",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

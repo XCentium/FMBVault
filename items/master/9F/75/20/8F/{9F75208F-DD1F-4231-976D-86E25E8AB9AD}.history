@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F75208F-DD1F-4231-976D-86E25E8AB9AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:19.8355860Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_County",
+    "itemPath": "/sitecore/templates/Feature/Office/_County",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

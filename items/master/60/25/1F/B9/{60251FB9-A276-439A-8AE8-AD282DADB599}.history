@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60251FB9-A276-439A-8AE8-AD282DADB599}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:28.4415317Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Outcome maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Site maps/website/Outcome maps",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

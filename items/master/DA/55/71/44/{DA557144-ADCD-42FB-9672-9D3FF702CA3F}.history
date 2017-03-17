@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA557144-ADCD-42FB-9672-9D3FF702CA3F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.7609229Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Address",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Personal Info/Address",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

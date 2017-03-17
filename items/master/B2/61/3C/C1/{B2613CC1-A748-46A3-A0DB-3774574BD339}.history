@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2613CC1-A748-46A3-A0DB-3774574BD339}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:38.9909437Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command Template",
+    "itemPath": "/sitecore/templates/System/Branches/Command Template",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

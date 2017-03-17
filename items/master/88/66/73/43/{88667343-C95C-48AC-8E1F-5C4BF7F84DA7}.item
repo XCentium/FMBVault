@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {88667343-C95C-48AC-8E1F-5C4BF7F84DA7}
+database: master
+path: /sitecore/layout/Renderings/Feature/Office/Office Banner
+parent: {864F9392-A126-42F8-B085-E6F4C4EB71E7}
+name: Office Banner
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+created: 20170222T035948:636233327882930000
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 33
+
+/Views/Office/OfficeBanner.cshtml
+----version----
+language: en
+version: 1
+revision: de099dfe-345e-4750-9a49-b19e1eb32099
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170221T214157Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+de099dfe-345e-4750-9a49-b19e1eb32099
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T035948Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18BAF6B0-E0D6-4CCE-9184-A4849343E7E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:19.1785839Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_LinkMenuItem",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_LinkMenuItem",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

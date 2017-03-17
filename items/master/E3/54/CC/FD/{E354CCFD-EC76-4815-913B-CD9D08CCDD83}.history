@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E354CCFD-EC76-4815-913B-CD9D08CCDD83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.8825855Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Body Image Caption",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/_HasTestimonial/Testimonial/Body Image Caption",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F08B9B19-ADFD-4206-B29D-DCC5E3B9EB73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.0719287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google Play",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Mobile App Menu/Google Play",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

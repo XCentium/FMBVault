@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{056C77AE-88D1-413B-8E1F-19DFC3E2ADCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.0199162Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Protecting Your Information",
+    "itemPath": "/sitecore/content/FMBCom/Home/Security/Protecting Your Information",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

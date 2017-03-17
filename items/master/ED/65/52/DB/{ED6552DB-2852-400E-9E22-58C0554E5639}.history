@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED6552DB-2852-400E-9E22-58C0554E5639}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:58.6105414Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu Header",
+    "itemPath": "/sitecore/templates/System/Menus/Menu Header",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

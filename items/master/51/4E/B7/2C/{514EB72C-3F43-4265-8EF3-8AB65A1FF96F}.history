@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{514EB72C-3F43-4265-8EF3-8AB65A1FF96F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.6149212Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referral",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

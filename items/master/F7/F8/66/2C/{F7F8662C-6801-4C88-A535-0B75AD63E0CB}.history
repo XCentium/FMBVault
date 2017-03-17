@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7F8662C-6801-4C88-A535-0B75AD63E0CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.8019169Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Publishers",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Workflow/Publishers",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

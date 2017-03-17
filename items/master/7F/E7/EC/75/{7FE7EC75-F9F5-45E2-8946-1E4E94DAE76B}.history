@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7FE7EC75-F9F5-45E2-8946-1E4E94DAE76B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.7829217Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OfficeDetails",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Office/OfficeDetails",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

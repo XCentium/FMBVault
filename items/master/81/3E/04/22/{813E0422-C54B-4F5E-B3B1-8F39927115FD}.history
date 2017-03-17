@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{813E0422-C54B-4F5E-B3B1-8F39927115FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:11.2925788Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Action",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Compliance Approval/Approve/Validation Action",
+    "template": "Validation Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFE60D87-7CD1-4AC1-9027-35EFE9873E94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.4585187Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RedondoBeach",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/RedondoBeach",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76183BC1-755C-428B-A35A-1425309990BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.2585795Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logged In Summary",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_LoginTeaser/Content/Logged In Summary",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

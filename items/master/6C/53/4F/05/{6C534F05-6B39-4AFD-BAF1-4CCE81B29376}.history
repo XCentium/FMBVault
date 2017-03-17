@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6C534F05-6B39-4AFD-BAF1-4CCE81B29376}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:47.4047750Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "View",
+    "itemPath": "/sitecore/templates/System/Item Buckets/View",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A6ED311-E36D-4B25-8280-F71AA47C5783}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:07.7519334Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sorting",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/Sorting",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

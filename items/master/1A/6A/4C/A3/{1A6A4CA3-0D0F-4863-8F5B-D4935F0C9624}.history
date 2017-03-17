@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A6A4CA3-0D0F-4863-8F5B-D4935F0C9624}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:22.1925254Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fees",
+    "itemPath": "/sitecore/system/Aliases/fees",
+    "template": "Alias",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

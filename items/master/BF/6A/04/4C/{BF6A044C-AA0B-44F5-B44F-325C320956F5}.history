@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF6A044C-AA0B-44F5-B44F-325C320956F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.7269291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Wisconsin",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Wisconsin",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

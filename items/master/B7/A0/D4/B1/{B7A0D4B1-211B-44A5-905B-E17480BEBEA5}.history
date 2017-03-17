@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7A0D4B1-211B-44A5-905B-E17480BEBEA5}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.6389225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Number Of Visits",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Contact Details/Number Of Visits",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

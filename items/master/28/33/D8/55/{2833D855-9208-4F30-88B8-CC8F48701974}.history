@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2833D855-9208-4F30-88B8-CC8F48701974}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.0529283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OfficeBannerCTA",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Feature/Office/OfficeBannerCTA",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

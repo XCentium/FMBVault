@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CAB694FC-E37C-44EB-9012-488B775CF638}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:58.8885394Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Message",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Message",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

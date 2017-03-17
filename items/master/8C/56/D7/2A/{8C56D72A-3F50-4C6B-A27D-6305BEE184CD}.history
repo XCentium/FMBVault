@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C56D72A-3F50-4C6B-A27D-6305BEE184CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.6865858Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modal",
+    "itemPath": "/sitecore/templates/Feature/PageContent/_HasModalContent/Modal",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

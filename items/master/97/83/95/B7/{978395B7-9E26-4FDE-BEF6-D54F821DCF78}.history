@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{978395B7-9E26-4FDE-BEF6-D54F821DCF78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.8919281Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Banking Services/Mobile Banking",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

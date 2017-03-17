@@ -1,0 +1,123 @@
+----item----
+version: 1
+id: {00CAF90D-35A8-4A84-B6B7-2FD45760FE8E}
+database: master
+path: /sitecore/content/FMBCom/Global/Testimonials/Aquarium of the Pacific
+parent: {85684875-D289-49CB-8AC0-31FCE2E86DA7}
+name: Aquarium of the Pacific
+master: {00000000-0000-0000-0000-000000000000}
+template: {43C3FF93-3124-47AF-8574-4D2289837BD5}
+templatekey: Testimonial
+created: 20170309T180802:636246796821400000
+
+----version----
+language: en
+version: 1
+revision: 7b8629c2-7816-4203-807a-01b0ddc03c20
+
+----field----
+field: {0658E55D-0E17-418A-A9D2-0ED0D2A16B24}
+name: Client Name
+key: client name
+content-length: 23
+
+Aquarium of the Pacific
+----field----
+field: {E4D64661-6588-4246-8D79-FA315BB58671}
+name: Location
+key: location
+content-length: 14
+
+Long Beach, CA
+----field----
+field: {6E328113-044E-457B-A44D-BC9729B36F54}
+name: Client Since
+key: client since
+content-length: 4
+
+1998
+----field----
+field: {05F09E34-083E-43D8-B73D-4A5B88E3A7CA}
+name: PageUrl
+key: pageurl
+content-length: 146
+
+<link text="" linktype="internal" class="" title="Aquarium of the Pacific" target="" querystring="" id="{871C33A9-E36C-48D5-A4EE-5EBC83B05DF3}" />
+----field----
+field: {972E097D-D060-4BDA-B2A3-4D4C685E14D3}
+name: Preview Image
+key: preview image
+content-length: 64
+
+<image mediaid="{FC41A858-BD3E-4938-922F-A261E7D6F9C2}"></image>
+----field----
+field: {E456124C-04E3-4D0D-AEFB-5314E679E026}
+name: Teaser Quote
+key: teaser quote
+content-length: 29
+
+Aquarium of the Pacific Quote
+----field----
+field: {D526316A-200F-42DC-BAD1-EE326DAB7327}
+name: Summary
+key: summary
+content-length: 450
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dignissim a elit eget interdum. Nam tempus congue tempus. Fusce imperdiet dolor sed mauris varius, ut congue tellus pharetra. Nullam scelerisque viverra euismod. Integer feugiat facilisis dapibus. Phasellus neque urna, ullamcorper ut convallis facilisis, porttitor vel ipsum. Sed volutpat, velit sit amet egestas posuere, lectus erat auctor leo, id lacinia est justo quis arcu</p>
+----field----
+field: {F76BE998-40B6-4F25-8761-7FEDB300359A}
+name: Body
+key: body
+content-length: 1576
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed orci nunc. Etiam egestas sapien vel elit lacinia hendrerit. Pellentesque ultrices ultricies finibus. Morbi malesuada sodales interdum. Maecenas quis tincidunt risus, eu iaculis nisl. Integer sit amet lorem ut velit pretium blandit. Pellentesque gravida pulvinar magna ac sollicitudin. Suspendisse consequat mattis nisl et rhoncus. Aliquam euismod turpis nisl, a interdum purus sollicitudin et. Quisque ut ullamcorper dolor, sit amet dignissim leo. Nulla venenatis quis turpis eget rutrum. Sed viverra consequat enim. In hac habitasse platea dictumst.</p>
+<p>In consectetur, ipsum id euismod condimentum, neque odio aliquam nibh, sit amet faucibus ligula magna ac diam. Integer quis sem vitae velit rutrum vehicula sit amet non tellus. Nulla facilisi. Nullam at nulla sed nulla tempus eleifend. Ut eu sapien placerat, laoreet dui ac, porttitor eros. Morbi in neque et diam porttitor suscipit. Sed feugiat, lectus et varius convallis, libero elit aliquet lorem, a facilisis sem nunc varius lectus. Suspendisse eu felis venenatis, pretium lorem interdum, varius augue. Ut augue elit, dignissim eget diam ut, luctus vulputate eros. Nunc sit amet mollis dui. Integer sit amet nibh nec purus aliquam convallis id eu metus. Nulla varius vulputate metus ac luctus. Mauris posuere neque dictum justo ullamcorper, id tincidunt quam sollicitudin. Quisque rhoncus lorem neque, at consequat nulla tristique non. Suspendisse gravida fermentum dui sit amet imperdiet. Morbi non volutpat nibh, sit amet dapibus justo.</p>
+----field----
+field: {07E3D093-2225-4628-91B8-BBC7FB827365}
+name: Body Image
+key: body image
+content-length: 64
+
+<image mediaid="{C8A0465C-0C7C-4A42-A117-F4E81B707E0D}"></image>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170301T214447Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7b8629c2-7816-4203-807a-01b0ddc03c20
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T203438Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

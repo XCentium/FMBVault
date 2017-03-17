@@ -1,0 +1,638 @@
+----item----
+version: 1
+id: {44470574-AC7B-482D-9552-CA22DCF089FC}
+database: master
+path: /sitecore/content/FMBCom/Home/LP/mortgage-rates-500
+parent: {941F0951-E65E-447B-B485-8E2A61B3957F}
+name: mortgage-rates-500
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170302T223700:636240910205870000
+
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {D79D9DDD-2774-42F4-94C3-50C892F6E13D}
+name: JavascriptCodeTop
+key: javascriptcodetop
+content-length: 85
+
+<link href="https://fonts.googleapis.com/css?family=Oswald:400,700" rel="stylesheet">
+----field----
+field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
+name: CssCode
+key: csscode
+content-length: 8689
+
+<style>
+  footer{
+   margin-top: 0px !important;
+}
+
+footer .association-icons {
+display:none;
+}
+
+#content {
+    width: 80%;
+    padding: 20px;
+    background: rgba(255,255,255,.8);
+    color: #144633;
+    font-family: "Oswald",sans-serif;
+}
+
+.rightFormBox {
+    padding: 15px 15px 0 15px;
+    background: rgba(255,255,255,.8);
+}
+
+.rightFormHeader {
+text-align: center; }
+
+.phoneWrapper {
+    font-family: "Oswald",sans-serif;
+}
+
+#RLDForm {
+margin-top:5px;
+color: #000;
+}
+#RLDForm .text-box, #RLDForm .select-box {
+ height: auto;
+}
+
+@media (min-width: 992px) {
+.col-md-5 {
+padding-left: 80px; }
+}
+a {
+  color: #fff;
+  font-weight: normal;
+  font-size: 14px;
+}
+a:hover {
+  color: #fff;
+}
+p {
+  font-weight: bold;
+  line-height: 25px;
+  font-size: 18px;
+}
+label {
+  font-weight: normal;
+}
+.bold {
+  font-weight: bold;
+}
+fieldset {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+input,
+select {
+  width: 100%;
+  padding-left: 5px;
+}
+.error {
+  color: red;
+}
+.required {
+  margin-right: 5px;
+}
+.topText {
+  margin-top: 20px;
+  padding-right: 10px;
+  float: right;
+  width: 80%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #144633;
+  font-weight: bold;
+  text-align: right;
+  font-size: 18px;
+}
+.navbar-inverse {
+  background-color: #fff !important;
+  height: auto !important;
+  border: none;
+  padding-bottom: 10px;
+}
+#headerLogo {
+  padding-left: 20px;
+}
+.bodyRow {
+  background-image: url('../img/500/FMB-RLD500-BG.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 95px;
+  margin-top: 85px;
+  background-attachment: fixed;
+}
+.featurette {
+  overflow: hidden;
+  margin-top: 60px;
+  margin-left: 10%;
+}
+#content {
+  width: 90%;
+  padding: 0 20px;
+  color: #fff;
+  font-family: "Oswald", sans-serif;
+}
+#content .row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#content .row .col-xs-2 {
+  text-align: right;
+}
+#content .row .col-xs-10 {
+  padding-left: 5px;
+  line-height: 60px;
+  font-size: 24px;
+}
+#content .phoneWrapper {
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+#content .ratingsWrapper {
+  text-align: center;
+  margin: 10px 0;
+}
+#content .ratingsWrapper .col-md-6 {
+  padding: 0 60px;
+  text-align: center;
+}
+.quoteBox {
+  background-color: rgba(255, 255, 255, 0.8);
+  height: auto;
+  margin-bottom: 30px;
+  margin-top: 60px;
+  margin-right: 120px;
+  padding: 10px 25px;
+  min-width: 350px;
+  max-width: 430px;
+}
+.rightFormHeader h2 {
+  font-size: 42px;
+font-weight: 500;
+  margin-top: 5px;
+  padding-bottom: 7px;
+  color: #144633;
+  text-align: center;
+  border-bottom: 1px dotted #c59f53;
+  font-family: "Oswald", sans-serif;
+}
+.rightFormHeader  p {
+  text-align: center;
+  color: #144633;
+  font-family: "Oswald", sans-serif;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 22px;
+  font-weight: normal;
+}
+.rightFormHeader  p:nth-child(2) {
+  margin-top: 20px !important;
+  font-size: 30px;
+  color: #c59f53;
+}
+.footerWrapper {
+  background-color: #144633;
+  border-top: 10px solid #c59f53;
+  padding: 20px 45px 5px;
+}
+.footerWrapper p {
+  font-size: 14px;
+  color: #fff;
+  line-height: 20px;
+}
+.footerWrapper img {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.footerWrapper p.copyright {
+  line-height: 25px;
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  font-weight: normal;
+}
+/* Makes responsive fields. Sets size and field alignment.*/
+input[type=text],
+select {
+  margin-bottom: 15px;
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #B0B1B1;
+}
+input[type=submit] {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: 1px solid #144633;
+  background-color: #144633;
+  color: aliceblue;
+  font-size: 18px;
+  cursor: pointer;
+}
+.formWrapper {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+@media (max-width: 1534px) {
+  #content .row.first .col-xs-10 {
+    font-size: 36px;
+  }
+  #content .phoneWrapper {
+    font-size: 36px;
+  }
+  .rightFormHeader h2 {
+    font-size: 38px;
+  }
+  .rightFormHeader p {
+    font-size: 20px;
+  }
+  .rightFormHeader p:nth-child(2) {
+    margin-top: 20px !important;
+    font-size: 26px;
+  }
+}
+@media (max-width: 1478px) {
+  #content .row.first .col-xs-10 {
+    font-size: 32px;
+  }
+  #content .row .col-xs-10 {
+    padding-left: 5px;
+    line-height: 35px;
+    font-size: 20px;
+  }
+  #content .phoneWrapper {
+    font-size: 32px;
+  }
+  .rightFormHeader h2 {
+    font-size: 34px;
+  }
+  .rightFormHeader p {
+    font-size: 20px;
+  }
+  .rightFormHeader p:nth-child(2) {
+    font-size: 26px;
+  }
+}
+@media (max-width: 1300px) {
+  #content .ratingsWrapper .col-md-6 {
+    padding: 0 15px;
+  }
+}
+@media (max-width: 1200px) {
+  #content .row.first .col-xs-10 {
+    line-height: 50px;
+    font-size: 28px;
+  }
+  #content .row .col-xs-10 {
+    padding-left: 5px;
+    line-height: 32px;
+    font-size: 20px;
+  }
+  #content .phoneWrapper {
+    font-size: 28px;
+  }
+  #content .phoneWrapper .col-xs-8 {
+    padding: 0 0;
+  }
+  #content .ratingsWrapper .col-xs-8 {
+    text-align: center;
+    padding: 0 0;
+  }
+  .rightFormHeader h2 {
+    font-size: 34px;
+  }
+  .rightFormHeader p {
+    font-size: 20px;
+  }
+  .rightFormHeader p:nth-child(2) {
+    font-size: 26px;
+  }
+}
+@media (max-width: 1297px) {
+  h2 {
+    margin-top: 60px;
+  }
+  #content {
+    width: 80%;
+  }
+}
+@media (max-width: 1200px) {
+  .featurette {
+    margin-left: 5%;
+  }
+}
+@media (max-width: 1050px) {
+  #content .ratingsWrapper .col-xs-8 {
+    padding: 0 0;
+  }
+}
+@media (max-width: 1056px) {
+  .featurette {
+    background-image: none;
+    max-width: 500px;
+    display: block;
+    margin-left: 5%;
+    margin-right: auto;
+  }
+  .featurette #content {
+    width: 100%;
+  }
+  .topText {
+    font-size: 12px;
+    line-height: 15px;
+    width: 100%;
+  }
+  #callNowBox {
+    width: 35%;
+    float: right;
+  }
+  #content .row.first .col-xs-10 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+  #content .row .col-xs-10 {
+    line-height: 28px;
+    font-size: 20px;
+  }
+  #content .phoneWrapper {
+    font-size: 28px;
+  }
+  .col-md-5 {
+    padding-right: 30px !important;
+  }
+  .quoteBox {
+    margin: 60px auto;
+    max-width: 500px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .rightFormHeader h2 {
+    font-size: 34px;
+  }
+  .rightFormHeader p {
+    font-size: 20px;
+  }
+  .rightFormHeader p:nth-child(2) {
+    font-size: 26px;
+  }
+}
+@media (max-width: 995px) {
+  .featurette {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .col-md-5 {
+    padding-right: 0 !important;
+  }
+}
+@media (max-width: 750px) {
+  .container {
+    margin: 0 15px;
+  }
+  .featurette {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .featurette-divider {
+    margin: 40px 0;
+  }
+  .featurette-heading {
+    font-size: 25px;
+  }
+}
+@media (max-width: 668px) {
+  .headline h1 {
+    font-size: 70px;
+  }
+  .headline h2 {
+    font-size: 32px;
+  }
+  .featurette-divider {
+    margin: 30px 0;
+  }
+}
+@media (max-width: 640px) {
+  .headline {
+    padding: 75px 0 25px 0;
+  }
+  .headline h1 {
+    font-size: 60px;
+  }
+  .headline h2 {
+    font-size: 30px;
+  }
+  .topText {
+    font-size: 10px;
+    line-height: 15px;
+  }
+  #callNowBox {
+    width: 35%;
+    float: right;
+  }
+  #headerLogo {
+    width: 60%;
+    float: left;
+    margin-top: 10px;
+  }
+  .featurette {
+    margin-top: 40px;
+  }
+}
+@media (max-width: 445px) {
+  .featurette,
+  .quoteBox {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  #content .row.first .col-xs-10 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  #content .row .col-xs-10 {
+    line-height: 22px;
+    font-size: 18px;
+  }
+  #content .phoneWrapper {
+    font-size: 22px;
+  }
+  .rightFormBox {
+    margin-top: 30px;
+  }
+  .rightFormHeader h2 {
+    font-size: 26px;
+  }
+  .rightFormHeader p {
+    font-size: 20px;
+  }
+  .rightFormHeader p:nth-child(2) {
+    font-size: 24px;
+  }
+}
+@media (max-width: 375px) {
+  .featurette-divider {
+    margin: 10px 0;
+  }
+  .featurette {
+    width: 340px;
+  }
+  .featurette-image {
+    max-width: 100%;
+  }
+  .featurette-image.pull-left {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  .featurette-image.pull-right {
+    margin-bottom: 10px;
+    margin-left: 0;
+  }
+  #content {
+    width: 40%;
+    min-width: 320px;
+  }
+}
+/*# sourceMappingURL=500.css.map */
+</style>
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: en
+version: 1
+revision: 244b999d-f591-4d69-bffb-2376f76a0ebe
+
+----field----
+field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
+name: ParallaxBackgroundImage
+key: parallaxbackgroundimage
+content-length: 58
+
+<image mediaid="{A1B17E98-9DCE-40C4-A3F7-B3A7178038F5}" />
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 41
+
+California’s Strongest, Since 1907  | F&M
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 3874
+
+<img class="img-responsive" style="width: 100%;" alt="F&amp;M Home Loans" src="-/media/479B9CC786B94A0E837383F0AB71F99F.ashx?w=100%&amp;hash=84F72B08DEE513524044B33F6A02B44A426406F2">
+<div class="row" style="color: #ffffff; margin: 20px -15px;">
+<div class="col-xs-2" style="padding-right: 15px; padding-left: 15px; text-align: right;"><img alt="white checkmark" src="-/media/0565EA36B64B43988AF496A43F64F21C.ashx?h=81&amp;w=53&amp;hash=6FC96C28C48C223759431051294D24711BBFF3A5&amp;hash=6FC96C28C48C223759431051294D24711BBFF3A5" style="left: 250px; top: 474px; width: 53px;"></div>
+<div class="col-xs-10" style="padding-right: 15px; padding-left: 5px;"><span style="line-height:50px;font-family: Oswald, sans-serif; font-size: 24px;">Lock in a Great Low Rate</span></div>
+</div>
+<div class="row" style="color: #ffffff; margin: 20px -15px;">
+<div class="col-xs-2" style="padding-right: 15px; padding-left: 15px; text-align: right;"><img alt="white checkmark" src="-/media/0565EA36B64B43988AF496A43F64F21C.ashx?h=81&amp;w=53&amp;hash=6FC96C28C48C223759431051294D24711BBFF3A5&amp;hash=6FC96C28C48C223759431051294D24711BBFF3A5" style="left: 250px; top: 474px; width: 53px;"></div>
+<div class="col-xs-10" style="padding-right: 15px; padding-left: 5px;">&nbsp;</div>
+<div class="col-xs-10" style="padding-right: 15px; padding-left: 5px;"><span style="line-height:15px;font-family: Oswald, sans-serif; font-size: 24px;">Free Purchase Ready Pre-Qualification Letter</span><span style="position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-family: Oswald, sans-serif; font-size: 18px;">2</span></div>
+</div>
+<div class="row" style="color: #ffffff; margin: 20px -15px;">
+<div class="col-xs-2" style="padding-right: 15px; padding-left: 15px; text-align: right;"><img alt="white checkmark" src="-/media/0565EA36B64B43988AF496A43F64F21C.ashx?h=81&amp;w=53&amp;hash=6FC96C28C48C223759431051294D24711BBFF3A5&amp;hash=6FC96C28C48C223759431051294D24711BBFF3A5" style="left: 250px; top: 474px; width: 53px;"></div>
+<div class="col-xs-10" style="padding-right: 15px; padding-left: 5px;"><span style="font-family: Oswald, sans-serif; font-size: 24px;">Have a Local Lender Guide You Through the Process</span></div>
+</div>
+<div class="row" style="color: #ffffff; margin: 20px -15px;">
+<div class="col-xs-2" style="padding-right: 15px; padding-left: 15px; text-align: right;"><img alt="white checkmark" src="-/media/0565EA36B64B43988AF496A43F64F21C.ashx?w=53&amp;hash=6FC96C28C48C223759431051294D24711BBFF3A5" style="left: 250px; top: 474px; width: 53px;"></div>
+<div class="col-xs-10" style="padding-right: 15px; padding-left: 5px;"><span style="font-family: Oswald, sans-serif; font-size: 24px;">24 Locations to Serve You Throughout LA &amp; Orange County</span></div>
+</div>
+<img class="img-responsive" style="width: 100%;" alt="Call Now banner" src="-/media/FAFEA5B43BF04E37AC92713190A13912.ashx">
+<div class="col-xs-12 phoneWrapper" style="color: #ffffff; margin-bottom: 5px; padding-right: 15px; padding-left: 15px; text-align: center;">
+<img alt="phone icon" src="-/media/AAF434F47B1A4CFDBF4A110F0F7C0995.ashx?h=75&amp;w=64&amp;hash=3AA93930B9FA8538EFEC2F65F4C6FA2FE43102BB&amp;hash=3AA93930B9FA8538EFEC2F65F4C6FA2FE43102BB" style="left: 337.156px; top: 1110px; width: 64px; text-align: center; margin-right:5px;"><span style="vertical-align: middle; font-size: 36px;">(888) 508-3377</span></div>
+<div class="col-xs-12 ratingsWrapper" style="color: #ffffff; margin: 10px 0px; padding-right: 15px; padding-left: 15px; text-align: center;">
+<img alt="BBB icon" src="-/media/3D4D5EEABE7E420B8CFE1FFF322F43B3.ashx" style="width: 148px; left: 496px; top: 1113px;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="Equal Housing Lender Icon" src="-/media/B712BBFA63F24A47908D8D99B594C828.ashx?h=65&amp;w=85" style="height: 65px; width: 85px; left: 665px; top: 1078px;">
+</div>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 40
+
+California’s Strongest, Since 1907 | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 152
+
+Find out more about Farmers & Merchants Bank. F&amp;M is a locally owned, family managed bank with over $6.5 Billion in assets that is here to help you.
+----field----
+field: {167ABA77-5172-42AF-9F9E-00299113839E}
+name: CustomMetaData
+key: custommetadata
+content-length: 0
+
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2650
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{2ABF3516-A528-4B73-9A32-897FBDCA9A33}" p:before="*" s:ds="{878B77CC-8392-4DA9-B86B-CC31CF06B5FD}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/footerZone/section/col-huge_184f5b08-910a-4c69-904c-809389262f2d" /><r uid="{EFB8892E-4CE2-4E10-9265-087703C51CD1}" p:after="r[@uid='{2ABF3516-A528-4B73-9A32-897FBDCA9A33}']" s:ds="{91EF52E9-E77E-4595-9CD0-FC5ED638BFA4}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section/col-narrow-1_c15af495-74e9-4025-b60e-941a72dbb90a" /><r uid="{DAF52511-1C40-4217-9A97-4C23387FF4CB}" p:after="r[@uid='{EFB8892E-4CE2-4E10-9265-087703C51CD1}']" s:ds="{32188FDC-591F-4C2F-8599-DEB90C81AFCE}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/footerZone/section/col-huge_8f01bb5b-49b6-4c8f-867d-f39840235347" /><r uid="{8F01BB5B-49B6-4C8F-867D-F39840235347}" p:after="r[@uid='{DAF52511-1C40-4217-9A97-4C23387FF4CB}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/footerZone/section" /><r uid="{BDA24D82-934D-4EE7-AB74-6A2F1663A24D}" p:after="r[@uid='{8F01BB5B-49B6-4C8F-867D-F39840235347}']" s:ds="{E81F1DC4-4505-4D4F-8B56-B8C461AFFC51}" s:id="{20C72992-63E3-4285-B876-61B6B81A9C51}" s:par="" s:ph="/layoutZone/section/col-narrow-1_c15af495-74e9-4025-b60e-941a72dbb90a" /><r uid="{184F5B08-910A-4C69-904C-809389262F2D}" p:after="r[@uid='{BDA24D82-934D-4EE7-AB74-6A2F1663A24D}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/footerZone/section" /><r uid="{B8D18A69-8E28-4F55-98E6-A154D4EB36A9}" p:after="r[@uid='{184F5B08-910A-4C69-904C-809389262F2D}']" s:ds="{12F7D01F-6B75-446D-A0D4-87FFB87E3C77}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/headerZone/header-login" /><r uid="{BE4D16CF-DA1E-40D2-AA34-D204DE2BA041}" p:after="r[@uid='{B8D18A69-8E28-4F55-98E6-A154D4EB36A9}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section/col-wide-1_c15af495-74e9-4025-b60e-941a72dbb90a" /><r uid="{C15AF495-74E9-4025-B60E-941A72DBB90A}" p:after="r[@uid='{BE4D16CF-DA1E-40D2-AA34-D204DE2BA041}']" s:id="{3D848FB2-72F2-4E5A-81EF-656B23595252}" s:ph="/layoutZone/section" /><r uid="{A9F64933-1269-4B05-8868-EC52213E01E1}" s:par="UseStaticPlaceholderNames=1" /><r uid="{9D7A1F75-73CB-49A0-9C6B-24442980DF0C}" s:par="UseStaticPlaceholderNames=1" /><r uid="{C8F02082-3A13-4313-811B-C61A0CA5A98A}"><p:d /></r><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r><r uid="{26D763DB-A9A8-4970-BC41-D661960F2049}" p:after="*[1=2]" /><r uid="{91B388C4-4BD1-482B-A2E1-7D89B83CFEA4}"><p:d /></r><r uid="{B5228527-66A7-4AFD-8CDD-0A319B57C7A8}"><p:d /></r></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170130T234031Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+244b999d-f591-4d69-bffb-2376f76a0ebe
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T161200Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

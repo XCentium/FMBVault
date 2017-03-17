@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCCB99A4-7701-4EF7-9223-BF4FF1CC91D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:10.9225781Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Submit",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Draft/Submit",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,88 @@
+----item----
+version: 1
+id: {F424943D-BA8D-4DC9-9713-03D989527AC0}
+database: master
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part V Faith
+parent: {F0708F4F-F014-4075-8365-0B9584A13CA5}
+name: Part V Faith
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170309T011732:636246190529870000
+
+----version----
+language: en
+version: 1
+revision: c535e49a-51ad-4ba3-accc-841d9a0d22b1
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 14
+
+Part V: Faith.
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 2719
+
+<p>Friends,
+</p>
+<p><img height="320" alt="Kevin Tiber" width="220" src="-/media/0AC4110C465B4190AA79C4E59A669E1A.ashx" style="float: right;">Kevin Tiber
+Faith is a belief in something special, tangible or intangible, apparent or unapparent. It&rsquo;s a belief in a set of guiding values, framed in trust and supported by hope. Faith is strength. So it is altogether fitting then that faith is embedded deeply in F&amp;M Bank. We were founded on the bedrock of our faith &ndash; it&rsquo;s in the way we&rsquo;ve conducted our business since 1907. </p>
+<p>
+I started with the bank 21 years ago, and it quickly became clear to me that F&amp;M was different than other financial institutions. F&amp;M leadership would choose to take the conservative approach in many business decisions. At times, I would drive home thinking to myself, &ldquo;Why are we walking away from opportunities and leaving them for other banks?&rdquo; But ultimately I had faith; faith in our executives, our decisions, and our legacy of conservative practices. </p>
+<p>
+Faith is tested most when the worst happens. It takes great strength to truly adhere to your faith when the world tells you differently. In 2008, in the midst of the financial crisis, my faith and trust in how we conducted our business came into focus. Because of our conservative philosophies, we were able to provide uninterrupted service and support to our community without having to avail ourselves of TARP funding.  We continued to finance schools, sanctuaries, and other not-for-profit organizations when they needed it most. We kept strong. We were stable, profitable, and continued to pay regular shareholder dividends without disruption or reduction. It was faith in our "moral compass" -- which the Walker family has kept firmly in place for over a century -- that led us to stay strong through the Great Recession, and will continue to do so as we grow into the new era.
+</p>
+<p>It took time for the F&amp;M culture of faith to develop within me and to fully appreciate it, but now I love being a messenger for the Good that F&amp;M does. I can truly say it&rsquo;s a blessing to come to work every day and help our organization and the community. We are indeed a family that wants to give back.  Faith in our company is larger than all of us. It&rsquo;s embodied in our organization, at the very core of our true character. It is the same faith-based strength that has been around since our founding 107 years ago, and that will guide us for the next 107 years, if not more.
+</p>
+<p>
+Sincerely,</p>
+<p><img height="100" alt="Kevin Tiber Signature" width="207" src="-/media/50003AE9EF3E4C1D98EC7797F1E47459.ashx"></p>
+<p>Kevin Tiber<br>
+Senior Vice President</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T011732Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c535e49a-51ad-4ba3-accc-841d9a0d22b1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T011910Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

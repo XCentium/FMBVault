@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D3E0ED9-A9F8-44EA-BF31-5981C7572EDA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.1999160Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "dynamicteaser",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/dynamicteaser",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

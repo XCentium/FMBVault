@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3869E77F-C92B-4D6B-9F7A-E1DB87DAF3CC}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.1899240Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Details",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Accounts Menu/Edit Details",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

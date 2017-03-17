@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{739202D6-FD19-48BD-BC3B-DB462315EC01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.7459283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons/Savings Accounts",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

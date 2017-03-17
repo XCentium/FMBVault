@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FAFEA5B4-3BF0-4E37-AC92-713190A13912}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:16.4465249Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-RLD500CallNow",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-RLD500CallNow",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

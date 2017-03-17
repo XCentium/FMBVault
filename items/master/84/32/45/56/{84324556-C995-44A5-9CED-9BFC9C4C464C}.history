@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84324556-C995-44A5-9CED-9BFC9C4C464C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:10.1675791Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Account Renewal",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal",
+    "template": "Workflow",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

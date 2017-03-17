@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9109BFB2-D0FC-44BB-B8F8-BBDD835CEF2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.8735238Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "visa_verified",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/visa_verified",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

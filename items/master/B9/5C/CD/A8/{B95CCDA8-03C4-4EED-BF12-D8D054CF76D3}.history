@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B95CCDA8-03C4-4EED-BF12-D8D054CF76D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:18.8315253Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MVC Form",
+    "itemPath": "/sitecore/media library/Project/Common/Images/Layouts/MVC Form",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

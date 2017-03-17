@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92168572-385B-45F0-B40F-3D987AD20E5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.0319388Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Results",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Search Results",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

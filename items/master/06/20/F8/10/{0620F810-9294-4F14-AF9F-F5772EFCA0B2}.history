@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0620F810-9294-4F14-AF9F-F5772EFCA0B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:49.0297741Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Regional Iso Code",
+    "itemPath": "/sitecore/templates/System/Language/Data/Regional Iso Code",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

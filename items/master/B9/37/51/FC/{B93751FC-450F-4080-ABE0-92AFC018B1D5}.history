@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B93751FC-450F-4080-ABE0-92AFC018B1D5}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.4139230Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sidebar",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

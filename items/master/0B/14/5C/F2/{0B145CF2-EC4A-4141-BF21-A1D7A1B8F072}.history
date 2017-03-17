@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B145CF2-EC4A-4141-BF21-A1D7A1B8F072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.1249226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Landing Page Contact Info",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Headers/Landing Page Contact Info",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

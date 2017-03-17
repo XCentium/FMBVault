@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4194EFD1-5B6A-4077-AAA8-52F60B7EC879}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:10.7325180Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Carousel",
+    "itemPath": "/sitecore/media library/Feature/Teasers/Media Carousel",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

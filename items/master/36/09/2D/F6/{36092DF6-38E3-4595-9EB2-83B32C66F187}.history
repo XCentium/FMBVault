@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36092DF6-38E3-4595-9EB2-83B32C66F187}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.9915798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form",
+    "itemPath": "/sitecore/templates/Feature/Forms/_HasEmailRecipients/Form",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

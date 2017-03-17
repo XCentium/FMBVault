@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CF7C2E0-9540-424A-BB5F-9381D272266E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:53.2179292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Symphony",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Symphony",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

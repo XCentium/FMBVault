@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E0EFA57-84AE-4BE2-907F-537A6FA1552F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.0869147Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Juan Capistrano",
+    "itemPath": "/sitecore/content/FMBCom/Home/Locations/San Juan Capistrano",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

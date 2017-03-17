@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBAB6CF9-8E13-486A-BDAD-D74FDF913F33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:02.6579352Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "enrollment_form_ft_agreement",
+    "itemPath": "/sitecore/media library/Applications/enrollment_form_ft_agreement",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

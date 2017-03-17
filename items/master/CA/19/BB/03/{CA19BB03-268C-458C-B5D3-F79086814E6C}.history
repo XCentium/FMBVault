@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA19BB03-268C-458C-B5D3-F79086814E6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.9945859Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Contact",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

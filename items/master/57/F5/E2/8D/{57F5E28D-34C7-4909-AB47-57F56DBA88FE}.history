@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57F5E28D-34C7-4909-AB47-57F56DBA88FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.3339233Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brian Bielicki",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Huntington Beach/Brian Bielicki",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

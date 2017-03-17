@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F50EB665-2777-4C0E-A253-B41EDA09D583}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.8269282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB Home Loans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Modal Whitelist/FMB Home Loans",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

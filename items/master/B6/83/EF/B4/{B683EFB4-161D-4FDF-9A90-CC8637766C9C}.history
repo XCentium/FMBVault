@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B683EFB4-161D-4FDF-9A90-CC8637766C9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.9449306Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Register",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

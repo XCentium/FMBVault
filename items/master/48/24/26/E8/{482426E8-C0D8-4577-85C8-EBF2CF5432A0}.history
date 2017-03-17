@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{482426E8-C0D8-4577-85C8-EBF2CF5432A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:49.5359213Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BusinessBankingProducts/Business Credit Card",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D6BBC5E-FDE3-4C34-93D3-F4D48D5D8370}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:03.3169347Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brochures_History_Web",
+    "itemPath": "/sitecore/media library/Brochures/Brochures_History_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

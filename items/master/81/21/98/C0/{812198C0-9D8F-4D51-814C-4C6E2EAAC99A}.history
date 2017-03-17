@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{812198C0-9D8F-4D51-814C-4C6E2EAAC99A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:31.6625319Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "test pattern",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/test pattern",
+    "template": "Redirect Pattern",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

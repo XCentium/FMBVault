@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29270EFB-34BD-4472-B799-76E6D7D6705C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:01.0789291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "6 Column 2-2-2-2-2-2",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns/6 Column 2-2-2-2-2-2",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

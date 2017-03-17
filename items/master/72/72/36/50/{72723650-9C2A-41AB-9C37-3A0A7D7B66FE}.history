@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72723650-9C2A-41AB-9C37-3A0A7D7B66FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:07.3262172Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TrusteerDetailedInstructionsMac",
+    "itemPath": "/sitecore/media library/Brochures/TrusteerDetailedInstructionsMac",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

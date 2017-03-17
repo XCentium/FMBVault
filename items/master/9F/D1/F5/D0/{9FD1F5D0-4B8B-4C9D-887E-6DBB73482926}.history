@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9FD1F5D0-4B8B-4C9D-887E-6DBB73482926}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.3059282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DepositRates",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Products/DepositRates",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

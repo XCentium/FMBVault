@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2011D9E6-E441-4603-9939-C4064F1CFD41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:16.8135227Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HowToGetStarted_1",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/HowToGetStarted_1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

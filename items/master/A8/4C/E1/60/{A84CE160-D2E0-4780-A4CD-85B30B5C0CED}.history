@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A84CE160-D2E0-4780-A4CD-85B30B5C0CED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:38.0155310Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sudan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sudan",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35DBDCF5-0849-4FDA-B8C5-172F69BFE98B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:07.9529329Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Account",
+    "itemPath": "/sitecore/templates/System/Social/Account",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

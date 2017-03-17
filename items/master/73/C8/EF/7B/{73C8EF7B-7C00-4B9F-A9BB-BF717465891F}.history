@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73C8EF7B-7C00-4B9F-A9BB-BF717465891F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.2959371Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Map Page/__Standard Values",
+    "template": "Map Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

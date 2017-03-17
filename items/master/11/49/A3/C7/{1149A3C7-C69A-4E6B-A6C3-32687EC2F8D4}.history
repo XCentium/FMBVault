@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.3669284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Section with Media",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Media/Section with Media",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

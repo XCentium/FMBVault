@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F19E8A50-9950-4861-9E66-9598A1898E71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:23.8925860Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "InheritAssets",
+    "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets/Assets/InheritAssets",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

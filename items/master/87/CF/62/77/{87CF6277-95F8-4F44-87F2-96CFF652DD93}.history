@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87CF6277-95F8-4F44-87F2-96CFF652DD93}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.5399152Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "person",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/person",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

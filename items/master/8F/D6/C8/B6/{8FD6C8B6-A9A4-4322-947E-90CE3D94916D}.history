@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FD6C8B6-A9A4-4322-947E-90CE3D94916D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.0015843Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_IndexedItem",
+    "itemPath": "/sitecore/templates/Foundation/Indexing/_IndexedItem",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

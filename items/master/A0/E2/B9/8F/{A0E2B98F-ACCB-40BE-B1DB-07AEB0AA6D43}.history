@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0E2B98F-ACCB-40BE-B1DB-07AEB0AA6D43}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:11.8095162Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icons",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

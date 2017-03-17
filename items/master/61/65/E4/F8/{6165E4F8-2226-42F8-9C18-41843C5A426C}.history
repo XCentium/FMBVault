@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6165E4F8-2226-42F8-9C18-41843C5A426C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.8615382Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NC",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/NC",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

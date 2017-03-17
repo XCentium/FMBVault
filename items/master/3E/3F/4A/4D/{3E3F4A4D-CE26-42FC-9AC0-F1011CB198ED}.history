@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E3F4A4D-CE26-42FC-9AC0-F1011CB198ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:13.2715777Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Branch/Command Template/$name",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

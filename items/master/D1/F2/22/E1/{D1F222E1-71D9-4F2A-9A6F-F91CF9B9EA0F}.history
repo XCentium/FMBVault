@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1F222E1-71D9-4F2A-9A6F-F91CF9B9EA0F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.8449219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Device",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

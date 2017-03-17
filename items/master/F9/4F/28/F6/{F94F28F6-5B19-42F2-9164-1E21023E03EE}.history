@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F94F28F6-5B19-42F2-9164-1E21023E03EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.5249389Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Employee Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

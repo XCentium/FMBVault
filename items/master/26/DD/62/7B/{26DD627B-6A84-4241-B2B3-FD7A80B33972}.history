@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26DD627B-6A84-4241-B2B3-FD7A80B33972}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.4835248Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BBB-Rating",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/BBB-Rating",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

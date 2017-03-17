@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B0DC723-ABC7-4BBA-A752-7BB0B69A31D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:10.6295164Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call To Action Header",
+    "itemPath": "/sitecore/media library/Feature/Teasers/Call To Action Header",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28D3AE32-CA9C-4755-9D9D-F02CE5873AEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:09.8125771Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Testing",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

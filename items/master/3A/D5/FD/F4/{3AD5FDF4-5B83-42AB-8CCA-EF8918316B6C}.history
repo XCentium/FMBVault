@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.5075771Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show Expanded",
+    "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Show Expanded",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

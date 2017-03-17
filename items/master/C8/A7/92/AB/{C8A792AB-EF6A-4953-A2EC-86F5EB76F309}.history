@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8A792AB-EF6A-4953-A2EC-86F5EB76F309}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.2299289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zip Search Form",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Maps/Zip Search Form",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

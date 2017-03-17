@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F406CEA5-510E-4AB0-A45A-81CBAEEF3997}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:41.9089225Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email Security",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Email Security",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

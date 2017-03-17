@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9349ABA8-3594-4C31-9AB0-D2F12DFD8D39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.9799222Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Account Funnel Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Configurations/Account Funnel Form",
+    "template": "Form Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

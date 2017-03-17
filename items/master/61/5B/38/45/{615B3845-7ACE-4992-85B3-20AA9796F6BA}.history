@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{615B3845-7ACE-4992-85B3-20AA9796F6BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.5069289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tools and Support",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Tools and Support",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

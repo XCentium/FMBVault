@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8A9DDFB-9E16-45A8-A06E-5D6FB954BFDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.7839217Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shannon Murphy",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Santa Ana/Shannon Murphy",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

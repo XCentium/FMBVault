@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F1BDE42-E151-4792-AC78-5C93C50310D0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.2179226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Type",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/News/Search/Content Type",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

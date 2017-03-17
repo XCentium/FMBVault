@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9436E9D0-B63E-496F-9700-6B37017ACD26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.7369163Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OutOfStateRecipients_Funnel",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/OutOfStateRecipients_Funnel",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

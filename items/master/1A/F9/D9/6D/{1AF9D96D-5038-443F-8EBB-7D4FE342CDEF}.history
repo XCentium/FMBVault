@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1AF9D96D-5038-443F-8EBB-7D4FE342CDEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.6909169Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CCRecipients_Funnel",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/CCRecipients_Funnel",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C30A8A7-C837-44A7-A569-847124883ED5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.0019215Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rossmoor",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rossmoor",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{867F774A-195E-49D3-8E40-01F18410BB02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.1079390Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Profile Page",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Edit Profile Page",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

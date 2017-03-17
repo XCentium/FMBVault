@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD75CE55-8E4B-470D-A698-6939572DE534}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:25.3615315Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "{39156DC0-21C6-4F64-B641-31E85C8F5DFE}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Return User",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Return User",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

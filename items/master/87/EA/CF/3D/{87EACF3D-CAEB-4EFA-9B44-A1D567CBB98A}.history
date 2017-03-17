@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87EACF3D-CAEB-4EFA-9B44-A1D567CBB98A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.1959291Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Services and Fees",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Locations Brochures/Services and Fees",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F707DD2-0801-442E-AFE3-FBACAF5DE3C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:59.9825368Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Conditional Renderings/Conditions/Visitor Tags",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

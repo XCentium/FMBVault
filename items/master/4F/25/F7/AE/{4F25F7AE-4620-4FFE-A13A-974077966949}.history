@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F25F7AE-4620-4FFE-A13A-974077966949}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:04.4569352Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "e-Statement Enrollment Instructions",
+    "itemPath": "/sitecore/media library/Brochures/e-Statement Enrollment Instructions",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

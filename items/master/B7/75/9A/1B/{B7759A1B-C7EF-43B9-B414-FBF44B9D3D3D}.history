@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7759A1B-C7EF-43B9-B414-FBF44B9D3D3D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.5309220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Invalid data source",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Alerts/Invalid data source",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

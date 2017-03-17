@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15BB542E-BFC4-4770-BAAA-E98BCF01F360}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.8589231Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "One-Time PIN - Wires",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/One-Time PIN - Wires",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

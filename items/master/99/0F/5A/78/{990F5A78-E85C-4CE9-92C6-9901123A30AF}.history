@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{990F5A78-E85C-4CE9-92C6-9901123A30AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.3779150Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "07",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/07",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

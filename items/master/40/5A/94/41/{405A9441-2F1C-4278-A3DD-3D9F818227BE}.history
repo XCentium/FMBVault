@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{405A9441-2F1C-4278-A3DD-3D9F818227BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.9125805Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ZoomLevel",
+    "itemPath": "/sitecore/templates/Feature/Maps/_MapRenderingParameters/Map Rendering Parameters/ZoomLevel",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

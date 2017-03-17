@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C97BA923-8009-4858-BDD5-D8BE5FCCECF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:57.2235395Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Image",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

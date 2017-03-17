@@ -1,0 +1,88 @@
+----item----
+version: 1
+id: {78EC2F2F-D83D-470B-ACC8-8EB008718395}
+database: master
+path: /sitecore/content/FMBCom/Global/Content Modules/Office Info/Office Contact
+parent: {9ABA5A9E-9B79-4FDB-8916-CBBB58CA619F}
+name: Office Contact
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170207T204200:636220969208570000
+
+----version----
+language: en
+version: 1
+revision: 28aa4e12-3391-4f4e-b5e2-c18f96823d71
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 422
+
+<h2>Contact us today.</h2>
+<p><span style="font-size: 15px;">(866) 437&ndash;0011</span></p>
+<p>
+</p>
+<div class="row">
+<div class="col-md-3">M&ndash;F:</div>
+<div class="col-md-9">7 am &ndash; 9 pm</div>
+</div>
+<div class="row">
+<div class="col-md-3">Sat:</div>
+<div class="col-md-9">8 am &ndash; 9 pm</div>
+</div>
+<div class="row">
+<div class="col-md-3">Sun:</div>
+<div class="col-md-9">8 am &ndash; 5 pm PT</div>
+</div>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170207T204200Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+28aa4e12-3391-4f4e-b5e2-c18f96823d71
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170316T170141Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

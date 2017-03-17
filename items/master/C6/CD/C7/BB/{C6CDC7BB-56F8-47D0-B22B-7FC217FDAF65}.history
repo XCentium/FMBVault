@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6CDC7BB-56F8-47D0-B22B-7FC217FDAF65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.7849242Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Founding Values",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Founding Values",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

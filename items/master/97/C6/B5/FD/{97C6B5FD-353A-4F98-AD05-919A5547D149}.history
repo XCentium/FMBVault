@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97C6B5FD-353A-4F98-AD05-919A5547D149}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:57.5669280Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Section",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Layout/Section",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

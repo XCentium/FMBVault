@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73A0D59A-E608-4CDE-A29F-1BCC78D09CF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.1989287Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Financial Calculators",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Tools and Support/Financial Calculators",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

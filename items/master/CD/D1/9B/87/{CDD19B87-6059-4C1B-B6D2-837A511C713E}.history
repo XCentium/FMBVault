@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDD19B87-6059-4C1B-B6D2-837A511C713E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:30.1739386Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Source Item",
+    "itemPath": "/sitecore/templates/Redirect Module/Versioned Redirect Pattern/Information/Source Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2695013C-DD51-410B-9983-F271F16C727D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.1639283Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Language Menu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Language/Language Menu",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

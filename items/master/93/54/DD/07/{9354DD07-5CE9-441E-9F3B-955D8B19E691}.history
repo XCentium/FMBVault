@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9354DD07-5CE9-441E-9F3B-955D8B19E691}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.8509292Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot Password Mail",
+    "itemPath": "/sitecore/content/FMBCom/Global/Registration/Forgot Password Mail",
+    "template": "Service Email",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

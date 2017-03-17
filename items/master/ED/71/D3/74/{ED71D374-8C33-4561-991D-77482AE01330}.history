@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED71D374-8C33-4561-991D-77482AE01330}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:15.8555798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Accounts Details Page",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_AccountsSettings/Accounts/Accounts Details Page",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64ABC0C5-2A0D-41A9-8EB6-E27B6ECA529C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.6049274Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lake Forest",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Lake Forest",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

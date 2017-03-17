@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C2AD681-530F-4186-B8E2-1D26A82A4D53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.6309220Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kathy Reed",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Kathy Reed",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

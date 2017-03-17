@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE56B2B2-7245-4817-B492-D8FABCBBE94A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.5879211Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page View",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Page View",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

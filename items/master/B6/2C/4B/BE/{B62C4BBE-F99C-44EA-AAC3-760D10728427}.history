@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B62C4BBE-F99C-44EA-AAC3-760D10728427}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.8719164Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redondo Beach",
+    "itemPath": "/sitecore/content/FMBCom/Home/Locations/Redondo Beach",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

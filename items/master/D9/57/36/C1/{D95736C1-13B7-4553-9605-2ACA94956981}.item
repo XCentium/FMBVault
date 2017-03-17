@@ -1,0 +1,150 @@
+----item----
+version: 1
+id: {D95736C1-13B7-4553-9605-2ACA94956981}
+database: master
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/03/Long Beach Real Estate Seminars
+parent: {9F2FBD67-2897-4B73-BBDC-F755178E6A5A}
+name: Long Beach Real Estate Seminars
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170216T232256:636228841763930000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 1
+
+1
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20150310T150000Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 013e525b-3baa-4c18-af83-b6b4053ae7c5
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 107
+
+Farmers & Merchants Bank Offers No-Cost Expert Insight on How to Purchase Real Estate in the Current Market
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 52
+
+Local Bank To Host Free Residential Lending Seminars
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 2433
+
+<p>Farmers &amp; Merchants Bank (F&amp;M Bank) announced today its continuing commitment to industry thought leadership through their free residential lending seminars hosted at local F&amp;M Bank offices on select Saturdays in 2015.</p>
+<p>These free seminars will offer insight on topics such as defining ownership goals and creating strategy, getting pre-qualified &amp; requirements to secure an affordable mortgage, local real estate trends and&nbsp;selecting a home, and choosing the right home loan. Prospective home buyers can find a seminar on select Saturdays in both South Orange County and South Los Angeles County.</p>
+<p>&ldquo;With Residential Real Estate interest rates hovering at an all-time low, it&rsquo;s a great time to learn about options and consider purchasing a home, refinancing your current residence or taking out a Home Equity Line of Credit for that remodeling project you&rsquo;ve always wanted to do,&rdquo; said F&amp;M Bank President W. Henry Walker.</p>
+<p>F&amp;M Bank offers Home Loans, home refinancing, Home Equity Lines of Credit and escrow services for current and potential homeowners. For convenience, F&amp;M Bank is currently offering 10 seminar locations on 5 different dates from 11:00am to 12:00pm:&nbsp;</p>
+<ul>
+    <li>March 21st - F&amp;M Bank Los Altos office and F&amp;M Bank San Clemente office</li>
+    <li>April 18th - F&amp;M Bank Rossmoor office and F&amp;M Bank Laguna Hills office</li>
+    <li>May 16th - F&amp;M Bank Belmont Shore office and F&amp;M Bank Tustin office</li>
+    <li>June 20th - F&amp;M Bank Bixby Knolls office and F&amp;M Bank Orange office</li>
+    <li>July 18th - F&amp;M Bank Torrance office and F&amp;M Bank Huntington Beach office</li>
+</ul>
+<p>To RSVP please call (888) 489-3665 or visit www.fmb.com/real-estate-seminars.</p>
+<p><strong>About Farmers &amp; Merchants Bank</strong><br>
+Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has over $5B in assets and 23 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender. </p>
+<p>###</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 50
+
+Long Beach F and M Bank Hosts Real Estate Seminars
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 31
+
+Long Beach Real Estate Seminars
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150310T222200Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+013e525b-3baa-4c18-af83-b6b4053ae7c5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T180137Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

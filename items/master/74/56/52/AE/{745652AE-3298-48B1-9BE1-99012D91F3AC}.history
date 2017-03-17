@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{745652AE-3298-48B1-9BE1-99012D91F3AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.9085857Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_Employee",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

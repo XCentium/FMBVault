@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A75A4A7-7C4A-4698-AB97-54A6BFD7A55A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:54.4809282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Banking Features",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Mobile Banking Features",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

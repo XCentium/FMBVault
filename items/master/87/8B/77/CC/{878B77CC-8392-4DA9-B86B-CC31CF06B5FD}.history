@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{878B77CC-8392-4DA9-B86B-CC31CF06B5FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.1559209Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Landing Page Footer - White",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Footer - White",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

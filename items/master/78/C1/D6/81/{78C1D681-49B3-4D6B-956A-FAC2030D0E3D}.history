@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78C1D681-49B3-4D6B-956A-FAC2030D0E3D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.2979289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Tabs",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Tabs",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B05C591-03CE-4684-9D8A-CCCE99C399ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:58.8279297Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Profile",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Edit Profile",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

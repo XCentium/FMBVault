@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1CB8D62-9A64-448E-A366-A13F1C68C1C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:17.3125236Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fmb-logo",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Logos/fmb-logo",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46DCDC71-1D91-48EA-9953-585AF256F40B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:59.4155390Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AssetMap",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

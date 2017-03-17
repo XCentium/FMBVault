@@ -1,0 +1,109 @@
+----item----
+version: 1
+id: {A04FE1E5-DA48-42BC-B310-D32103C653E1}
+database: master
+path: /sitecore/content/FMBCom/Global/Content Modules/Ratings/Ratings
+parent: {7E7951C7-F268-4D97-9D3B-845617C045E6}
+name: Ratings
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170201T024246:636215137660130000
+
+----field----
+field: {E514A1EB-DDBA-44F7-8528-82CA2280F778}
+name: JavaScript assets
+key: javascript assets
+content-length: 69
+
+https://seal-sanjose.bbb.org/logo/farmers-and-merchants-bank-41158.js
+----field----
+field: {11421560-0BCB-403A-B099-8595C34341FD}
+name: JavaScript inline
+key: javascript inline
+content-length: 437
+
+<script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-sanjose.bbb.org' + unescape('%2Flogo%2Ffarmers-and-merchants-bank-41158.js') + "' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script src="https://seal-sanjose.bbb.org/logo/farmers-and-merchants-bank-41158.js" type="text/javascript"></script>
+----version----
+language: en
+version: 1
+revision: 6f5ad11f-93df-4888-8a67-7c973253c2ee
+
+----field----
+field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
+name: Title
+key: title
+content-length: 7
+
+Ratings
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 1492
+
+<div class="gray-box">
+<div class="rating-widget">
+<ul class="rating-list">
+    <li>
+    <h3>F&amp;M Ratings</h3>
+    </li>
+    <li><a id="bbblink" class="ruhzbum" href="#" data-toggle="modal" data-target="#bbb" title="Farmers &amp; Merchants Bank is a BBB Accredited Bank in Long Beach, CA" style="padding: 0px; margin: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-sanjose.bbb.org/logo/ruhzbum/farmers-and-merchants-bank-41158.png" width="300" height="68" alt="Farmers &amp; Merchants Bank is a BBB Accredited Bank in Long Beach, CA"></a></li>
+    <li><a href="#"><img alt="" class="img-responsive" src="-/media/775426286EE44A47B4A702B817B2EF41.ashx"></a></li>
+    <li>
+    <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+        <tbody>
+            <tr>
+                <td align="center" valign="top" style="width: 135px;"><br>
+                <a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color: #000000; text-decoration: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold; font-stretch: normal; font-size: 7px; line-height: normal; font-family: verdana, sans-serif; letter-spacing: 0.5px; text-align: center; margin: 0px; padding: 0px;">ABOUT SSL CERTIFICATES</a></td>
+            </tr>
+        </tbody>
+    </table>
+    </li>
+</ul>
+</div>
+</div>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170131T050723Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f5ad11f-93df-4888-8a67-7c973253c2ee
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170314T215908Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 22
+
+sitecore\eevirtualuser
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

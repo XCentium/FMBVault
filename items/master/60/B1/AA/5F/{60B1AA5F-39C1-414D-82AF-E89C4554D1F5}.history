@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60B1AA5F-39C1-414D-82AF-E89C4554D1F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:52.2889282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Christmas Club",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Savings/Christmas Club",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71E17F51-7532-4539-AFE1-89DB633FDDAC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:09.3952177Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jumbotron Carousel",
+    "itemPath": "/sitecore/media library/Feature/Media/Jumbotron Carousel",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

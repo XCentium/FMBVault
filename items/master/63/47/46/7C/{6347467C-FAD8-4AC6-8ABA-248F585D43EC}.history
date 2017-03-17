@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6347467C-FAD8-4AC6-8ABA-248F585D43EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.8359212Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marcia Evans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Tustin/Marcia Evans",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE4A7159-86F0-43D5-9630-6C3D14BEFC8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.3815852Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ParametersTemplates",
+    "itemPath": "/sitecore/templates/Feature/PageContent/ParametersTemplates",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

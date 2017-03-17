@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B6802A0-B5E4-485B-B783-940FFAEDFB55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.0669234Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Personal Checking Accounts",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E39F428-28F3-4C79-9FD2-BB0635D6EAEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:46.3945359Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Los Angeles",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/Counties/Los Angeles",
+    "template": "_County",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

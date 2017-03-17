@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75DA7671-C7A8-4DDF-BB8A-9A22B3D86D7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:44.9625369Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Preview View",
+    "template": "View",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

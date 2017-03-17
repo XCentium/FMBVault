@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C91E9A0-F507-4CBD-B126-24A5F3659743}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:16.5605783Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Orientation Type",
+    "itemPath": "/sitecore/templates/Feature/Forms/Form Orientation Type",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

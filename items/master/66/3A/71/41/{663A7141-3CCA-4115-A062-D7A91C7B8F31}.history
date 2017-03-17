@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{663A7141-3CCA-4115-A062-D7A91C7B8F31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:21.9085858Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeedRenderingProperties/Settings",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

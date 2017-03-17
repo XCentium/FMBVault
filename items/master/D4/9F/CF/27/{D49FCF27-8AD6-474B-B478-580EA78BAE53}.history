@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D49FCF27-8AD6-474B-B478-580EA78BAE53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.5919223Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Do CDs and IRAs qualify for the combined balance for waiving monthly service charges",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Personal Checking Accounts/Do CDs and IRAs qualify for the combined balance for waiving monthly service charges",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

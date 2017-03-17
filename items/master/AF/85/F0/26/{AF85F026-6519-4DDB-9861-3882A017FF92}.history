@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF85F026-6519-4DDB-9861-3882A017FF92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:10.5939404Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Status",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration/System/Status",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

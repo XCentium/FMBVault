@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DEDD49D6-8C44-4245-A155-4A4D2513668A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.8909159Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Terms",
+    "itemPath": "/sitecore/content/FMBCom/Home/Terms",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

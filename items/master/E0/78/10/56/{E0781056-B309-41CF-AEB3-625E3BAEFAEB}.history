@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0781056-B309-41CF-AEB3-625E3BAEFAEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:10.6755782Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Publish",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Suspended/Auto Publish",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

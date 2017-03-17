@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C82DC5FF-09EF-4403-96D3-3CAF377B8C5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.1145857Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasource Configuration",
+    "itemPath": "/sitecore/templates/Foundation/Multisite/Datasource Configuration",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

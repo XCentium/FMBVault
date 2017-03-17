@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B4588C2-40AF-426C-9366-3E8E07C0D70B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.4219227Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How can I protect my account",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - General/How can I protect my account",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

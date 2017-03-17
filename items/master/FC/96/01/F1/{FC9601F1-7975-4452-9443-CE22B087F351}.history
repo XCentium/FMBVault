@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FC9601F1-7975-4452-9443-CE22B087F351}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.9669217Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Option Fields",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields",
+    "template": "Field Options Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

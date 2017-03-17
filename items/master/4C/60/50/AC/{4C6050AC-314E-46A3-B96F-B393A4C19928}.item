@@ -1,0 +1,103 @@
+----item----
+version: 1
+id: {4C6050AC-314E-46A3-B96F-B393A4C19928}
+database: master
+path: /sitecore/content/FMBCom/Home/About/Founding Values
+parent: {A30152C2-912C-4298-8A36-F580697C7EBC}
+name: Founding Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170309T012333:636246194133130000
+
+----version----
+language: en
+version: 1
+revision: 959166a7-cbf1-409a-832a-15db8ad62384
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 26
+
+Our declaration of beliefs
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 550
+
+<p>We want to share with you what we believe many companies don’t express enough to their clients: we want to begin a conversation with you about our founding values.
+</p>
+<p>This commitment to our founding values has kept us strong, centered and on a steadfast path to growth for over 110 years, in good times, and bad. And we feel that many of our clients also hold these values true and exemplify them in their own business and personal lives. In today’s fast-paced environment, sometimes we need to take a step back and remember what matters.</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 15
+
+Founding Values
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 15
+
+Founding Values
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1278
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{412EE686-F9BF-48C9-9840-607B5A26A4A5}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{DD53C28F-CB03-4F1A-850F-CA54F79407EC}" p:after="r[@uid='{412EE686-F9BF-48C9-9840-607B5A26A4A5}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{F763E179-A67A-4C97-979F-43E592EFAB9C}" p:after="r[@uid='{DD53C28F-CB03-4F1A-850F-CA54F79407EC}']" s:ds="{C6CDC7BB-56F8-47D0-B22B-7FC217FDAF65}" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_d94ec5a8-0611-4447-8417-e9cd3fc7eda9" /><r uid="{D94EC5A8-0611-4447-8417-E9CD3FC7EDA9}" p:after="r[@uid='{F763E179-A67A-4C97-979F-43E592EFAB9C}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{44EF9D6C-33B8-4B30-AA14-C7ADA70D8814}" p:after="r[@uid='{D94EC5A8-0611-4447-8417-E9CD3FC7EDA9}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T012333Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+959166a7-cbf1-409a-832a-15db8ad62384
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T173624Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

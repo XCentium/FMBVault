@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A33F9523-96C4-4E42-B6D7-1E861718D373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.2565853Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Count",
+    "itemPath": "/sitecore/templates/Feature/Teasers/_DynamicTeaser/Content/Count",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

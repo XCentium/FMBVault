@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D79D9DDD-2774-42F4-94C3-50C892F6E13D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:23.8365838Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JavascriptCodeTop",
+    "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets/Assets/JavascriptCodeTop",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7F3571E-54D6-42C3-985E-82E1289025C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:10.3975184Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Contact Teaser",
+    "itemPath": "/sitecore/media library/Feature/Person/Employee Contact Teaser",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

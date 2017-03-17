@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {114B9F0F-181B-414A-B446-4AEB80D082C3}
+database: master
+path: /sitecore/system/Settings/Feature/Tools/Icon Types/Circle
+parent: {F920FEE5-D8AE-468B-BA1D-B0922FC6A1D9}
+name: Circle
+master: {00000000-0000-0000-0000-000000000000}
+template: {51154646-10A2-4442-9CC7-D0DC12A5E0C5}
+templatekey: _IconType
+created: 20170307T055644:636244630048930000
+
+----version----
+language: en
+version: 1
+revision: 01366cea-4934-4bdd-8d88-2f928d68aeb1
+
+----field----
+field: {140BE8D6-70D3-4D9A-BA77-85EBF748C55B}
+name: Name
+key: name
+content-length: 6
+
+Circle
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170304T032325Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+01366cea-4934-4bdd-8d88-2f928d68aeb1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170307T060444Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 13
+
+fmb\Anonymous

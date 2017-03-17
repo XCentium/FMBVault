@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD075CBC-572E-4D27-A09F-B780E8FF4741}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:26.7689391Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Global Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD548FCB-7B8D-4D81-B541-8B2DE7371EE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:13.5615248Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "jcasillas-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/jcasillas-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

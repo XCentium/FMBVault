@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {C8260F05-6ADD-4373-9E87-E1954E9BB089}
+database: master
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/General FAQs/Is Mobile Banking secure
+parent: {3BCCE265-6295-4446-8EE1-E4B8DECA3312}
+name: Is Mobile Banking secure
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170217T190145:636229549050600000
+
+----version----
+language: en
+version: 1
+revision: dab0ee71-2caf-4883-9558-b1c44c5df679
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 28
+
+4. Is Mobile Banking secure?
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 478
+
+Yes, F&amp;M Mobile Banking service utilizes best practice security services from Online Banking such as HTTPS, 128-bit SSL encryption, password access, and application time-out when not in use. Only the phones that you enroll can access your bank accounts. In addition, no account data is ever stored on your phone. In the event your phone is lost or stolen, Mobile Banking can be immediately disabled by logging in to Online Banking at fmb.com or calling us at (866) 437-0011.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 27
+
+4. Is Mobile Banking secure
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T190145Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dab0ee71-2caf-4883-9558-b1c44c5df679
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T205837Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

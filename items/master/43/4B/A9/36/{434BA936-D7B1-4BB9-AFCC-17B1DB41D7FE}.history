@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{434BA936-D7B1-4BB9-AFCC-17B1DB41D7FE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.8569219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Browser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Device Browser",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

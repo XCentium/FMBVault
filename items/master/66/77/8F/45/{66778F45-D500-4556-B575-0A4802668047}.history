@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66778F45-D500-4556-B575-0A4802668047}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:30.2935307Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Denmark",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/Denmark",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF467DA3-0CFC-4BD9-9448-90A813E0AC3D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:10.7515171Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tabs",
+    "itemPath": "/sitecore/media library/Feature/Teasers/Tabs",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

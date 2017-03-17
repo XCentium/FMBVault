@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03170DE1-C446-4258-8FE5-CC084EE7B359}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.1529255Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "District of Columbia",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/District of Columbia",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

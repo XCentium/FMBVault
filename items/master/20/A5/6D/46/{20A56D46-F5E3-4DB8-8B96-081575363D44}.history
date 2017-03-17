@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20A56D46-F5E3-4DB8-8B96-081575363D44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:22.0695834Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_DynamicTeaser",
+    "itemPath": "/sitecore/templates/Feature/Teasers/_DynamicTeaser",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

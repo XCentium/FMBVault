@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2152B098-6281-4D4F-B7CD-BA67D28EB028}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.4969219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the cut-off time to schedule an online transfer",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - General/What is the cut-off time to schedule an online transfer",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51D4A8DC-5824-463D-B54A-11D7CAAFB8CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:58.9885376Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StringOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/StringOperator",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

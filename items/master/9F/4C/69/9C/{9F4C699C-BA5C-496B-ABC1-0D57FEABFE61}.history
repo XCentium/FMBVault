@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F4C699C-BA5C-496B-ABC1-0D57FEABFE61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:43.9015377Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Open",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Open",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

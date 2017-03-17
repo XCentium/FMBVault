@@ -1,0 +1,118 @@
+----item----
+version: 1
+id: {6119F1FA-D5E1-4680-A2DB-01C1949DA4E0}
+database: master
+path: /sitecore/content/FMBCom/Home/Privacy
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: Privacy
+master: {00000000-0000-0000-0000-000000000000}
+template: {8EE208F9-A6A6-41E2-88A0-C188737A178C}
+templatekey: Section
+created: 20170217T165842:636229475221930000
+
+----version----
+language: en
+version: 1
+revision: 7353a568-b0f6-4727-a201-c90c1ab81932
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 7
+
+Privacy
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 1238
+
+<p>Farmers &amp; Merchants Bank of Long Beach values and protects your privacy. We thank you for the trust that you place in us and we want you to know that the information you share with us will be treated with care. Below is a link to our Privacy Notice and Online Privacy Statement.</p>
+<table>
+    <tbody>
+        <tr>
+            <td><strong>View as PDF:</strong></td>
+            <td>&nbsp;</td>
+            <td><strong>View as Webpage:</strong></td>
+        </tr>
+        <tr>
+            <td><a href="-/media/ACD1AC743D5D4E069E0FA0A107EC8C3A.ashx">Privacy Notice</a> (PDF)</td>
+            <td>&nbsp;</td>
+            <td><a href="~/link.aspx?_id=E19E9634625A4E2B998A91F4CFB631EC&amp;_z=z">Privacy Notice</a></td>
+        </tr>
+        <tr>
+            <td><a href="-/media/4EA9F403CC474856869439BE9FA9B076.ashx">Online Privacy Statement</a> (PDF)</td>
+            <td>&nbsp;</td>
+            <td><a href="~/link.aspx?_id=8BF0C6D8D92C43F580C58BFB569F9EC0&amp;_z=z">Online Privacy Statement</a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td><a href="~/link.aspx?_id=2651E1F30E794582BAFFBF45FF6889F2&amp;_z=z">Social Media Policy</a></td>
+        </tr>
+    </tbody>
+</table>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 7
+
+Privacy
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 49
+
+Privacy Notice and Online Privacy Statement | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 189
+
+F&M understands you place your trust in us and we want you to know that the information you share with us will be treated with care. Privacy Notice and Online Privacy Statement information.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T165842Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7353a568-b0f6-4727-a201-c90c1ab81932
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T170153Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

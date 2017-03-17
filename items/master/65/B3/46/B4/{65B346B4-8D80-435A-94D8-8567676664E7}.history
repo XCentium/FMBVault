@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65B346B4-8D80-435A-94D8-8567676664E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.8799219Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ Groups",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups",
+    "template": "FAQ Group Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62BF5EFC-697D-4B31-B8E6-681058DCE2E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:21.3735231Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal-Credit-Card-Pricing-Terms",
+    "itemPath": "/sitecore/media library/Terms and Conditions/Personal-Credit-Card-Pricing-Terms",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B7B4DF6-B996-4D99-B4AA-767B2B3D2CC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:46.9609224Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Where can I get more information about FDIC insurance",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Where can I get more information about FDIC insurance",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

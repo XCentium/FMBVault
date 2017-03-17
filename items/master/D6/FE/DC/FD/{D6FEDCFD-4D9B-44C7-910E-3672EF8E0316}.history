@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6FEDCFD-4D9B-44C7-910E-3672EF8E0316}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:00.4175377Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IncludePageEvents",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ExperienceMap/Options/IncludePageEvents",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

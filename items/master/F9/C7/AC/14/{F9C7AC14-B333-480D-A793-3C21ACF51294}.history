@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9C7AC14-B333-480D-A793-3C21ACF51294}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.3835379Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bg-secondary",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-secondary",
+    "template": "Background Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

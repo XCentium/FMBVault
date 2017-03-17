@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{054420FD-A74F-4381-AED4-3864111B3FAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:21.2535234Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apple_Pay_TC_ Disclosure",
+    "itemPath": "/sitecore/media library/Terms and Conditions/Apple_Pay_TC_ Disclosure",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5CDC452-05C4-442F-AB36-15508ED2FEE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:45.5279212Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ankit Shah",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Orange/Ankit Shah",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

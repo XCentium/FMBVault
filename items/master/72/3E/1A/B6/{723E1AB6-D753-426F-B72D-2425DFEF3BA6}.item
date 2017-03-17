@@ -1,0 +1,131 @@
+----item----
+version: 1
+id: {723E1AB6-D753-426F-B72D-2425DFEF3BA6}
+database: master
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/FM Credit Cards
+parent: {65251C06-403E-43B0-AF58-59F59E7E48DB}
+name: FM Credit Cards
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170222T022732:636233272527630000
+
+----version----
+language: en
+version: 1
+revision: 4676558a-034b-4b04-b3e4-89f62920e876
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 16
+
+F&M CREDIT CARDS
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 2296
+
+<table border="0" cellpadding="5">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 275px;">Call Us - 24 Hour Account Information</td>
+            <td valign="top" style="width: 275px;">
+            <p>(866) 558-7687&nbsp;<br>
+            (Toll Free - Automated Service - 24/7)
+            </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 275px;">Call Us - Lost or Stolen Card</td>
+            <td valign="top" style="width: 275px;">(800) 556-5678 (Toll Free - 24/7)
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 275px;">Call Us - Fraud Hotline&nbsp;</td>
+            <td valign="top" style="width: 275px;">(562) 344-2350<br>
+            Monday-Friday, 7am-9pm<br>
+            Saturday, 8am-5pm, PT &nbsp;&nbsp;<br>
+            (after hours voicemail)</td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 275px;">Fax Us</td>
+            <td valign="top" style="width: 275px;">(562) 344-2349 (24/7)</td>
+        </tr>
+        <tr>
+            <td valign="top">E-mail Us</td>
+            <td valign="top"><sup>2</sup></td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;Write Us - Correspondence Only</td>
+            <td valign="top">F&amp;M Bankcard Department<br>
+            P.O. Box 2087<br>
+            Long Beach, CA &nbsp;90801-2087&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;Mail Payments</td>
+            <td valign="top">F&amp;M Bankcard Department<br>
+            P.O. Box 21595<br>
+            Long Beach, CA &nbsp;90801</td>
+        </tr>
+        <tr>
+            <td valign="top">Credit Report Dispute Information</td>
+            <td valign="top">
+            <p><strong>Disputes of F&amp;M Account Information in a Consumer Credit Report</strong><br>
+            In the event you do not agree with the information contained in a consumer credit report that is related to your F&amp;M credit card account, you have a right to dispute the information with the consumer reporting agency or directly with F&amp;M.</p>
+            <p><a href="-/media/2D94E155262B4253A78853655003AB0F.ashx">Click here to view the Direct Dispute Submission Requirements.</a></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 16
+
+F&M CREDIT CARDS
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170222T022732Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4676558a-034b-4b04-b3e4-89f62920e876
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T204742Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

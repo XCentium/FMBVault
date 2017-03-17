@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4CE5263-0AAD-4540-BC85-9477F8529745}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:47.3015360Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Background Types",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types",
+    "template": "Background Type Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

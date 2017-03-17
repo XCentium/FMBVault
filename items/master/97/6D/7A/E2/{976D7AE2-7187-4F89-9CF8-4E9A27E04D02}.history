@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{976D7AE2-7187-4F89-9CF8-4E9A27E04D02}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:43.0559226Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Media",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

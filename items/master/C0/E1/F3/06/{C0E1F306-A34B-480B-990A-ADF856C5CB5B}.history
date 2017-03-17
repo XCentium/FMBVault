@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0E1F306-A34B-480B-990A-ADF856C5CB5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:14.0815251Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SYenche",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/SYenche",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

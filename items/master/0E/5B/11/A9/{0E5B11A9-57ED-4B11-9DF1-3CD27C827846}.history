@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E5B11A9-57ED-4B11-9DF1-3CD27C827846}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:24.6530206Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Layout",
+    "itemPath": "/sitecore/templates/Foundation/Theming/ParametersTemplate_HasBackground/Page Layout",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

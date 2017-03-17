@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B836BA6-4778-45A9-B701-57F009EC0A9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:48.9549217Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Recipients",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Recipients",
+    "template": "Form Recipients Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

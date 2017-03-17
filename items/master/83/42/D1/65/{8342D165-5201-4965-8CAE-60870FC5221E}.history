@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8342D165-5201-4965-8CAE-60870FC5221E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:37.0439458Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Cards/__Standard Values",
+    "template": "Pattern Cards",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

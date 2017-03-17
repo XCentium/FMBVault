@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6BA23C6-08F7-43D0-BE00-BB2129D6F288}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:59.4519298Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Breadcrumb",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Breadcrumb",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

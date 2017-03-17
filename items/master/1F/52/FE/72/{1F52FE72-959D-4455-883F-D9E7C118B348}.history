@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F52FE72-959D-4455-883F-D9E7C118B348}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:18.0805814Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasLoginBox",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasLoginBox",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

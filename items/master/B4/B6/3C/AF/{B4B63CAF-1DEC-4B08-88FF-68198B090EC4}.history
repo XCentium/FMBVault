@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4B63CAF-1DEC-4B08-88FF-68198B090EC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.6009159Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Navigation",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/Navigation/Main Navigation",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

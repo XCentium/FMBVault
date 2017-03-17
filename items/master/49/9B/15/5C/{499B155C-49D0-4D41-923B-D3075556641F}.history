@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{499B155C-49D0-4D41-923B-D3075556641F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.1609288Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Customer Recognition",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/News and Community/Customer Recognition",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

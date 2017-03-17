@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87DE29D9-617E-4D37-9EB4-D71FCA509B31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:42.6949224Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "left bottom banner - mobile alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/signoff/left bottom banner - mobile alerts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

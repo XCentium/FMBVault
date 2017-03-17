@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA7FCAAB-FD8A-4462-B55E-B8D458202910}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.3839294Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Downey",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Downey",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

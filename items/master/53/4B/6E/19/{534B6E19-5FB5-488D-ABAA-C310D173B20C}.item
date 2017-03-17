@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {534B6E19-5FB5-488D-ABAA-C310D173B20C}
+database: master
+path: /sitecore/system/Workflow Rules/Standard Rules
+parent: {466F245E-F611-42AA-8FA3-FA123464791E}
+name: Standard Rules
+master: {00000000-0000-0000-0000-000000000000}
+template: {633FCA70-AB4A-4E6C-AC30-CDFD499E7DEE}
+templatekey: Workflow Rule
+created: 20170310T080411:636247298515130000
+
+----version----
+language: en
+version: 1
+revision: c9c24b85-e930-41da-b4e1-1822cad7e65c
+
+----field----
+field: {7A7BF30A-2C86-472C-80C5-BE8AA2571E82}
+name: Start Path
+key: start path
+content-length: 38
+
+{725A45E3-E307-4B95-B363-2782B059DF06}
+----field----
+field: {C4D79957-2FA4-4AE7-B252-E8827268CC9B}
+name: Languages
+key: languages
+content-length: 38
+
+{AF584191-45C9-4201-8740-5409F4CF8BDD}
+----field----
+field: {255C4C87-E391-43DF-B12D-DF56ABE90797}
+name: Email List
+key: email list
+content-length: 79
+
+/sitecore/content/FMBCom/Settings/Site Configuration/Workflow/Content Approvers
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170307T233717Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c9c24b85-e930-41da-b4e1-1822cad7e65c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170310T080411Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 13
+
+fmb\Anonymous

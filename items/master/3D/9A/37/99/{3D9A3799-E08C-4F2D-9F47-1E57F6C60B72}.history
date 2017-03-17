@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D9A3799-E08C-4F2D-9F47-1E57F6C60B72}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:09.7025165Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LegalMenu",
+    "itemPath": "/sitecore/media library/Feature/Navigation/LegalMenu",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

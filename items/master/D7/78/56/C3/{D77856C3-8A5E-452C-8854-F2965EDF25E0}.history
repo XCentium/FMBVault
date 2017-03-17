@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D77856C3-8A5E-452C-8854-F2965EDF25E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.7025798Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_MapRenderingParameters",
+    "itemPath": "/sitecore/templates/Feature/Maps/_MapRenderingParameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

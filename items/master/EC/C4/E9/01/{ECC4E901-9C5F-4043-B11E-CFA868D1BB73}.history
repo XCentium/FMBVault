@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECC4E901-9C5F-4043-B11E-CFA868D1BB73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:29.0909390Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Page",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Login Page",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

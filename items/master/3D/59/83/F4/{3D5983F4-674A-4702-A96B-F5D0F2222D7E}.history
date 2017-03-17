@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D5983F4-674A-4702-A96B-F5D0F2222D7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:16.2815255Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-DownArrowGreen",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-DownArrowGreen",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

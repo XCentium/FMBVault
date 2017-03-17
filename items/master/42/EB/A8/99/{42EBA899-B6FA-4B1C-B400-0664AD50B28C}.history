@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42EBA899-B6FA-4B1C-B400-0664AD50B28C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:44.5469208Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking-Platinum-Gold",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Checking-Platinum-Gold",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

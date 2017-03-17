@@ -1,0 +1,125 @@
+----item----
+version: 1
+id: {52894AEB-8825-4286-9B9C-5AE089F3B6B6}
+database: master
+path: /sitecore/content/FMBCom/Home/Personal/Christmas Club
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Christmas Club
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170203T214953:636217553934330000
+
+----version----
+language: en
+version: 1
+revision: cc146534-3fdb-4dd9-a1f8-7c31a591d8ea
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 30
+
+Christmas Club Savings Account
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1331
+
+<p>Looking for a better way to save for Christmas? Let us help! Just like wassail and gingerbread, <strong>Christmas Club savings accounts</strong> are still a tradition at F&amp;M Bank. A Christmas savings account is a simple and automatic way to save. Sign up today and get started!</p>
+<p><strong>Automatic Deposits:</strong></p>
+<ul>
+    <li>Automatic deposits will be made from your F&amp;M checking account.</li>
+    <li>A check for the principal and accrued interest will be mailed to you in November, giving you plenty of time for Holiday shopping.</li>
+    <li>Automatic transfers will start again in January.</li>
+</ul>
+<p><strong>Coupon Book:</strong></p>
+<ul>
+    <li>Make deposits directly to your Christmas Club Savings account at any time using convenient coupons.</li>
+    <li>A check for the principal and accrued interest will be mailed to you in November, giving you plenty of time for Holiday shopping.</li>
+    <li>Coupons will be automatically mailed to you each year.</li>
+</ul>
+<em>Other transaction limitations or account fees may apply. Refer to the account agreements for details.</em><br>
+<br>
+<a href="~/link.aspx?_id=67B5E959E0FF4B7498FF5764CD8FF541&amp;_z=z">Click Here to See Our Interest Rates</a>&nbsp;<br>
+<br>
+<a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">See All Services and Fees</a>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 14
+
+Christmas Club
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 48
+
+Save Today, Christmas Club Savings Account | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 128
+
+Save for Christmas all year long with an F&M Christmas Club savings account. See why we are one of California's strongest banks!
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 797
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D4C0A25D-9AF5-4A31-827A-96D3FBE94522}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{9558BE9D-19C0-447D-8ED4-B151B4F1A941}" p:after="r[@uid='{D4C0A25D-9AF5-4A31-827A-96D3FBE94522}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{C25E8D4A-1961-4897-A535-4F07AB60E861}" p:after="r[@uid='{9558BE9D-19C0-447D-8ED4-B151B4F1A941}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170203T214953Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cc146534-3fdb-4dd9-a1f8-7c31a591d8ea
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170301T231219Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

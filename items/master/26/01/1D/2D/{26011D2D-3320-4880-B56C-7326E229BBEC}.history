@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26011D2D-3320-4880-B56C-7326E229BBEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:18.1035238Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SymphonicSpectacularVideo_1680",
+    "itemPath": "/sitecore/media library/FMBCom/Videos/SymphonicSpectacularVideo_1680",
+    "template": "Movie",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

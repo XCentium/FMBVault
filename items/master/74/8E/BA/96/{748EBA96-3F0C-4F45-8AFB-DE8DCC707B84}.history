@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{748EBA96-3F0C-4F45-8AFB-DE8DCC707B84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:17.5825790Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_LanguageSettings",
+    "itemPath": "/sitecore/templates/Feature/Language/_LanguageSettings",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

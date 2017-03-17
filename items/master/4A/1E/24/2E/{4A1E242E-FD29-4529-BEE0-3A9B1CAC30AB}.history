@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A1E242E-FD29-4529-BEE0-3A9B1CAC30AB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:55.9959282Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lighboxes",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Lighboxes",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

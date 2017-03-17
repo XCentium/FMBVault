@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43C3FF93-3124-47AF-8574-4D2289837BD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:27.3109391Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testimonial",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Testimonial",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

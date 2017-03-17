@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0509F03-1D03-46EF-908E-0E72497C20FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:22.2055256Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD - Home Page",
+    "itemPath": "/sitecore/system/Aliases/RLD - Home Page",
+    "template": "Alias",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

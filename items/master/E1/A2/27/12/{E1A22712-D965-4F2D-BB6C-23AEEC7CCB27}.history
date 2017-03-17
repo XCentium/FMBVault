@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1A22712-D965-4F2D-BB6C-23AEEC7CCB27}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:56.2019284Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dynamic Jumbotron Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Dynamic Jumbotron Carousel",
+    "template": "Dynamic Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

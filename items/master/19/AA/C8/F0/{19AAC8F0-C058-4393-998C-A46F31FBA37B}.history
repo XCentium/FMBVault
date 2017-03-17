@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19AAC8F0-C058-4393-998C-A46F31FBA37B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:51.0989289Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "YouTube",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Social Media Menu/YouTube",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

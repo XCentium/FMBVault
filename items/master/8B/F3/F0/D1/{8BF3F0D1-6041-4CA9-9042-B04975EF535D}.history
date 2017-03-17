@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BF3F0D1-6041-4CA9-9042-B04975EF535D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:50.8279275Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Skiing",
+    "itemPath": "/sitecore/content/FMBCom/Global/Interests/Skiing",
+    "template": "Interest",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

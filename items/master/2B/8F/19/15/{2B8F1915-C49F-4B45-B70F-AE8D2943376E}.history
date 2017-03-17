@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B8F1915-C49F-4B45-B70F-AE8D2943376E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:37.5309161Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Alerts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB7A144A-4422-46C9-8254-0BF076919C20}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:46:20.0775861Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Street Address",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Street Address",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

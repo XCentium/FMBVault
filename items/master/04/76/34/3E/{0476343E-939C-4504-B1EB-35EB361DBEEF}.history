@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0476343E-939C-4504-B1EB-35EB361DBEEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:45:00.6109285Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CalcDefinitions",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Tools/CalcDefinitions",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

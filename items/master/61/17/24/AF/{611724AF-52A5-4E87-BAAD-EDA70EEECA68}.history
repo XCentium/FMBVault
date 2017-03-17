@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{611724AF-52A5-4E87-BAAD-EDA70EEECA68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:47:07.4589348Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Query",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Query",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

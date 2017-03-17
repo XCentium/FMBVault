@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40DE8889-7718-4D43-8A11-75134167280A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:39.8999166Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rossmoor",
+    "itemPath": "/sitecore/content/FMBCom/Home/Locations/Rossmoor",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

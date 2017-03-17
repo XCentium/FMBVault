@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDB21766-A746-4B18-9B6D-66F69125772D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-17T20:44:40.1359160Z",
+    "label": "Snapshot - 20170317_Baseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasources",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources",
+    "template": "Datasource Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

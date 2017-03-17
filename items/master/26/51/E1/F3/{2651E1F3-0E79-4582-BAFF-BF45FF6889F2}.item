@@ -1,0 +1,130 @@
+----item----
+version: 1
+id: {2651E1F3-0E79-4582-BAFF-BF45FF6889F2}
+database: master
+path: /sitecore/content/FMBCom/Home/Privacy/Social Media Policy
+parent: {6119F1FA-D5E1-4680-A2DB-01C1949DA4E0}
+name: Social Media Policy
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170217T004845:636228893259930000
+
+----version----
+language: en
+version: 1
+revision: ea4fcda2-519a-4147-9e1e-4bd6214479bd
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 19
+
+Social Media Policy
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 4054
+
+<h2>Social Media Policy:</h2>
+<p>Welcome!  Here at Farmers &amp; Merchants Bank, we have always taken great pride in being an active member of the community. Our social media platforms are an extension of this effort. We encourage you to use this page as both an informational resource and a positive place to interact.</p>
+<h3>
+Comments and Posting Policy</h3>
+<p>We encourage users to engage and interact on our social media pages. We ask that conversations follow the rules and that participants treat each other with respect. We may delete comments or posts that do not obey the following guidelines:</p>
+<ol>
+    <li>Please be respectful. Feel free to share your opinions and comments but abstain from anything inflammatory, derogatory or unscrupulous. We'll have to take down those posts.</li>
+    <li>Please keep it clean. F&amp;M's social media platforms are public, which means any content you post can be seen by anyone on F&amp;M&rsquo;s social media pages. Posts containing inappropriate language or photos will be untagged and/or deleted.</li>
+    <li>Stay on topic. We ask that content be relevant to F&amp;M Bank. Posts that are off-topic or unrelated may be deleted.</li>
+    <li>No spam! This means any comment, link or photo intended to promote a product, service or individual will be taken down immediately.</li>
+    <li>Please don't post any personal information. If you post a question, we will do our best to respond as soon as possible, but avoid sharing any confidential information like phone numbers, email addresses or account details that might compromise your security.</li>
+</ol>
+<p>If we feel that a comment or post do not follow these guidelines, the comment or post may be deleted. In addition, if a user continues to abuse these guidelines, they will be banned from posting on our page.</p>
+<h3>For Employees</h3>
+<p>We encourage involvement, but please disclose your affiliation with F&amp;M Bank and that what you post is your opinion, not the opinion of the Bank.</p>
+<h3>Our Promise</h3>
+<p>We are monitoring our social media pages and we will do our best to respond to all of your questions in a timely manner. If you need an immediate response, we're also available offline. Contact F&amp;M Bank at (866) 437-0011 or stop by your <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">local branch</a> and we'll be sure to address your needs right away.</p>
+<h3>Legal Disclaimer</h3>
+<p>Third party posts about or related to do not reflect the views of Farmers &amp; Merchants Bank or its affiliates and have not been reviewed except for content which violates F&amp;M Bank's Social Media Policy, such as offensive language for example.<br>
+<br>
+This page and links to <a href="~/link.aspx?_id=FF63C25D10594B0DA0FB563516E771A8&amp;_z=z">www.fmb.com</a> are presented by F&amp;M Bank. Facebook.com, YouTube.com, and LinkedIn.com are owned by third parties unaffiliated with F&amp;M Bank. F&amp;M Bank is not responsible for the privacy or security policies on these sites or other third party sites that may be linked to by this page or other Facebook, YouTube or LinkedIn pages. We urge you to review the privacy and other policies of each website that you visit. F&amp;M Bank does not endorse and is not responsible for any ads that Facebook, YouTube or LinkedIn may place on F&amp;M&rsquo;s pages, or for the content, products, advice, opinions, recommendations or other material of third party sites or other pages on Facebook, YouTube or LinkedIn.</p>
+<h3>Privacy</h3>
+<p>To help ensure that your data stays safe, we remind you to always protect your financial and other confidential information online (e.g. account numbers, social security numbers, passwords, etc.). Please note that F&amp;M Bank will never ask you to provide this type of information through Facebook, YouTube, LinkedIn or any other type of public channel. For more information about online safety and privacy tips visit <a href="~/link.aspx?_id=728B942DC6C743218B2281B71BBD336F&amp;_z=z">https://www.fmb.com/security</a>.</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 19
+
+Social Media Policy
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 46
+
+Social Media Policy | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 88
+
+Learn more about our Social Media Policy. We encourage users to interact with us online.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 293
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D5357B23-0ADB-4AB8-B77F-D186688236D0}" p:before="*" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T004846Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ea4fcda2-519a-4147-9e1e-4bd6214479bd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T165938Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
