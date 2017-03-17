@@ -326,7 +326,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: bf5fc57d-6a0a-4a55-9445-2e302f7262da
+revision: 3bdd65e4-a45b-4b3f-884b-59cb28270b4c
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -346,7 +346,7 @@ F&M Certificate Of Deposit
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 10260
+content-length: 10623
 
 
         <div class="row" style="margin-top: 30px;">
@@ -414,7 +414,8 @@ content-length: 10260
 <div id="mc_embed_signup">
 <form action="//fmb.us7.list-manage.com/subscribe/post?u=bd5bed6c81dc8cf65dc788186&amp;id=bc7ba65dad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
     <div id="mc_embed_signup_scroll">
-                
+                <p class="section-heading" style="font-size: 1.5em; font-family: Arial; color: #155835; text-transform: uppercase; font-weight: bold; margin-bottom: 0; margin-top: 10px;">CD Rates Alert</p>
+<p style="font-size: 16px; font-weight: bold; margin-bottom: 20px; margin-top: 10px;">When our rates change, be the first to know with our innovative rates alert emails.</p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
                 <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
@@ -504,14 +505,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bf5fc57d-6a0a-4a55-9445-2e302f7262da
+3bdd65e4-a45b-4b3f-884b-59cb28270b4c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170317T223023Z
+20170317T223131Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
