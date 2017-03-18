@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B4B575A6-970F-4B26-AD10-8587ED801542}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-18T00:01:46.3803975Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copy of mobile",
+    "itemPath": "/sitecore/content/FMBCom/Home/Copy of mobile",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
