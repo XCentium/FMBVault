@@ -14,9 +14,9 @@ created: 20170313T193504:636250305044330000
 field: {C7A2362D-35F5-4735-9366-59838AA20E2F}
 name: Requested Expression
 key: requested expression
-content-length: 26
+content-length: 70
 
-^(.*)\/jimtest\/(.+).html$
+^/JimTest/Personal(?<Path>/.*?)?(.html)?(?<OptionalQueryString>\?.*)?$
 ----field----
 field: {B0AA4048-823B-4466-83C5-6B920B3CFC36}
 name: Response Status Code
@@ -28,13 +28,13 @@ content-length: 38
 field: {FB68F214-543C-48FB-856E-B96C4C8796C8}
 name: Source Item
 key: source item
-content-length: 29
+content-length: 67
 
-/sitecore/content/fmbcom/home
+/sitecore/content/fmbcom/home/personal${Path}${OptionalQueryString}
 ----version----
 language: en
 version: 1
-revision: e900de34-6118-4460-be55-3bd9e3a6eb07
+revision: 30e2d551-5f9e-4ae0-98ef-dc400b716589
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e900de34-6118-4460-be55-3bd9e3a6eb07
+30e2d551-5f9e-4ae0-98ef-dc400b716589
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170318T000954Z
+20170318T001451Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
