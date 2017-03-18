@@ -2,9 +2,9 @@
 version: 1
 id: {B4B575A6-970F-4B26-AD10-8587ED801542}
 database: master
-path: /sitecore/content/FMBCom/Home/Copy of mobile
+path: /sitecore/content/FMBCom/Home/mobile2
 parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
-name: Copy of mobile
+name: mobile2
 master: {00000000-0000-0000-0000-000000000000}
 template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
 templatekey: Landing Page
@@ -90,7 +90,7 @@ content-length: 754
 ----version----
 language: en
 version: 1
-revision: 90e38d9c-171a-4a4d-bd8c-5793550c929f
+revision: 18e68a72-49ca-403a-90b1-ca0b9f034786
 
 ----field----
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
@@ -133,18 +133,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-90e38d9c-171a-4a4d-bd8c-5793550c929f
+18e68a72-49ca-403a-90b1-ca0b9f034786
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170307T180355Z
+20170318T000201Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 11
+content-length: 14
 
-fmb\hahmady
+sitecore\admin
