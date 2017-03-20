@@ -2,8 +2,8 @@
 version: 1
 id: {A28106E7-26FC-4924-BFD5-5598DE7CFEA8}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Platinum Checking
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Platinum Checking
+parent: {B7719719-D8DA-4204-B604-F998129BD4F2}
 name: Platinum Checking
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
