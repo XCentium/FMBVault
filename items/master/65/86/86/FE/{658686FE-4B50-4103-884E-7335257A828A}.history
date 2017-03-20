@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{658686FE-4B50-4103-884E-7335257A828A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-20T22:44:31.1072357Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Copy of Business - Other Services",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Copy of Business - Other Services",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
