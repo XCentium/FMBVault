@@ -13,15 +13,15 @@ created: 20170223T043956:636234215966000000
 ----version----
 language: en
 version: 1
-revision: 6a6d0e5d-f4ec-4e7a-b7b7-9a1224b2ab68
+revision: bfbafbca-2452-431a-9614-7839b49d00ed
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 190
+content-length: 213
 
-<a href="/client-testimonial-discovery-cube"><img alt="discovery cube thumbnail" src="-/media/B956C0A31A8A4FB7802BC440BDEA8F0C.ashx?h=192&amp;w=345" style="height: 192px; width: 345px;"></a>
+<a href="~/link.aspx?_id=42668083837345D4951A1486FB6F3134&amp;_z=z"><img alt="discovery cube thumbnail" src="-/media/B956C0A31A8A4FB7802BC440BDEA8F0C.ashx?h=192&amp;w=345" style="height: 192px; width: 345px;"></a>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,21 +49,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6a6d0e5d-f4ec-4e7a-b7b7-9a1224b2ab68
+bfbafbca-2452-431a-9614-7839b49d00ed
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170223T062926Z
+20170320T192934Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 11
+content-length: 12
 
-fmb\hahmady
+fmb\jbridges
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
