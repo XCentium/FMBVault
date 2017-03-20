@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5AD8DC7B-E49E-47C1-A943-EFA8A0D38F01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-20T19:35:39.9300303Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\hahmady",
+    "itemName": "favicon",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/favicon",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
