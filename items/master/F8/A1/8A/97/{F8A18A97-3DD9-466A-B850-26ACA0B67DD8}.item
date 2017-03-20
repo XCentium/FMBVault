@@ -1,33 +1,33 @@
 ----item----
 version: 1
-id: {2C34A8C4-8D61-48CE-A3D1-C841229D64FC}
+id: {F8A18A97-3DD9-466A-B850-26ACA0B67DD8}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Christmas Club
-parent: {B7719719-D8DA-4204-B604-F998129BD4F2}
-name: Christmas Club
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/News and Community/Articles
+parent: {7988CC73-15CF-4D3C-8183-32F2FB89004E}
+name: Articles
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
-created: 20170320T231710:636256486303970000
+created: 20170320T232406:636256490466900000
 
 ----field----
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 98
+content-length: 25
 
-/home/individual-banking/personal-banking-services/individual-savings-accounts/christmas-club.html
+/home/news-and-community/
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{52894AEB-8825-4286-9B9C-5AE089F3B6B6}
+{218E32BC-364F-42ED-859C-85A4921BED34}
 ----version----
 language: en
 version: 1
-revision: 61e9a23e-aab5-407a-8200-20dcc8ce08f2
+revision: 3ec15323-a6c2-4b08-877b-bf5442037f96
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-61e9a23e-aab5-407a-8200-20dcc8ce08f2
+3ec15323-a6c2-4b08-877b-bf5442037f96
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170320T231731Z
+20170320T225653Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

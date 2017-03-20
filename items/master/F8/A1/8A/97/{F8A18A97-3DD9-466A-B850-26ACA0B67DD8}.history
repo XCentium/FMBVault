@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F8A18A97-3DD9-466A-B850-26ACA0B67DD8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-20T23:24:06.7149437Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Articles",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/News and Community/Articles",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
