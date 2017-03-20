@@ -2,8 +2,8 @@
 version: 1
 id: {B7719719-D8DA-4204-B604-F998129BD4F2}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Personal Banking
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking
+parent: {B9B0BD69-0DC2-43E0-9464-8039E56F6FF9}
 name: Personal Banking
 master: {00000000-0000-0000-0000-000000000000}
 template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
