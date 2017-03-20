@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {9460346C-487D-4492-89E9-2EF7E927B548}
+database: master
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Health Savings Account
+parent: {B7719719-D8DA-4204-B604-F998129BD4F2}
+name: Health Savings Account
+master: {00000000-0000-0000-0000-000000000000}
+template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
+templatekey: Redirect Url
+created: 20170320T235712:636256510328800000
+
+----field----
+field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
+name: Requested Url
+key: requested url
+content-length: 98
+
+/home/individual-banking/personal-banking-services/individual-savings-accounts/christmas-club.html
+----field----
+field: {544E5C57-1626-4972-8535-196F000E4B1F}
+name: Redirect To Item
+key: redirect to item
+content-length: 38
+
+{52894AEB-8825-4286-9B9C-5AE089F3B6B6}
+----version----
+language: en
+version: 1
+revision: 61e9a23e-aab5-407a-8200-20dcc8ce08f2
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170313T193124Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+61e9a23e-aab5-407a-8200-20dcc8ce08f2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170320T231731Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
