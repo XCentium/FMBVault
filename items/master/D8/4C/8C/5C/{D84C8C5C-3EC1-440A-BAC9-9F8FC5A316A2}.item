@@ -13,7 +13,7 @@ created: 20170223T044008:636234216085470000
 ----version----
 language: en
 version: 1
-revision: 536bb670-2b18-4f4e-8969-f880dc34cf89
+revision: 5a3bfebe-74d5-4132-87ec-790e1cc3e244
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
@@ -21,7 +21,7 @@ name: Body
 key: body
 content-length: 228
 
-<a href="/client-testimonial-winspire"></a><img alt="winspire thumbnail" src="-/media/5437BE0C522743568CC229384ECF6B10.ashx?h=192&amp;w=345&amp;hash=73A8F991B8CDE5207D7BD84DAF18AF4A8D11CA37" style="height: 192px; width: 345px;">
+<a href="/client-testimonial-winspire"><img alt="winspire thumbnail" src="-/media/5437BE0C522743568CC229384ECF6B10.ashx?h=192&amp;w=345&amp;hash=73A8F991B8CDE5207D7BD84DAF18AF4A8D11CA37" style="height: 192px; width: 345px;"></a>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-536bb670-2b18-4f4e-8969-f880dc34cf89
+5a3bfebe-74d5-4132-87ec-790e1cc3e244
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170227T190001Z
+20170320T192738Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
