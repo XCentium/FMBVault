@@ -2,9 +2,9 @@
 version: 1
 id: {6083F93B-0CB2-4215-8F0E-A725F560DCAD}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Personal Banking/Copy of Youth Savings
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Personal Banking/Personal Checking
 parent: {B7719719-D8DA-4204-B604-F998129BD4F2}
-name: Copy of Youth Savings
+name: Personal Checking
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: f870ce3e-0860-4736-8f5c-298311a963ae
+revision: 70ee0abb-bba1-4ac8-9406-96207e498761
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f870ce3e-0860-4736-8f5c-298311a963ae
+70ee0abb-bba1-4ac8-9406-96207e498761
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170320T224819Z
+20170320T224858Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
