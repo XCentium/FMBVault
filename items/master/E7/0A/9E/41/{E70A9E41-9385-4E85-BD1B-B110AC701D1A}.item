@@ -13,7 +13,7 @@ created: 20170320T182216:636256309368830000
 ----version----
 language: en
 version: 1
-revision: 1ede53d7-c6d1-4fbd-99c4-e6d6a72fbc94
+revision: 4e889439-4890-435c-bd27-ca03e741695f
 
 ----field----
 field: {AC3FD4DB-8266-476D-9635-67814D91E901}
@@ -26,12 +26,28 @@ content-length: 0
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 646
+content-length: 1554
 
 <br>
 <h2 class="featurette-heading" style="color: #006237; background-color: #ffffff; margin-top: 10px; margin-right: 0px; margin-left: 0px; letter-spacing: -1px;"><span style="font-size: 32px;"><span style="font-family: tahoma;">Thank </span><span style="font-family: tahoma;">You</span></span></h2>
 <br>
-<p class="lead" style="color: #333333; background-color: #ffffff; margin-bottom: 20px;">Thank you for requesting a customized rate quote. An F&amp;M Loan Consultant will reach out to you shortly to help. Should you have questions or you would like to speak to us sooner, please call us direct at (866) 649-3836.</p>
+<p class="lead" style="color: #333333; background-color: #ffffff; margin-bottom: 20px;">Thank you for reserving your spot for our upcoming webinar<br>
+The Top 5 Things You Need to Know Before Buying Your First Home &nbsp;</p>
+<p class="lead" style="color: #333333; background-color: #ffffff; margin-bottom: 20px;">
+</p>
+<div>What you&rsquo;ll learn:<br>
+<ul>
+    <li>How to determine if this is the market for you to make your first purchase</li>
+    Beyond mortgage calculators, determine how much home you can afford
+    5 questions to ask to help you identify the agent that will get you the best deal
+    3 loan programs for first-time homebuyers to give you the edge in any market
+    A step-by-step guide to give you confidence until you turn the key to your new home
+    <div>&nbsp;</div>
+</ul>
+</div>
+<p>&nbsp;</p>
+<p class="lead" style="color: #333333; background-color: #ffffff; margin-bottom: 20px;">&nbsp;</p>
+<p class="lead" style="color: #333333; background-color: #ffffff; margin-bottom: 20px;">requesting a customized rate quote. An F&amp;M Loan Consultant will reach out to you shortly to help. Should you have questions or you would like to speak to us sooner, please call us direct at (866) 649-3836.</p>
 <br>
 <br>
 <br>
@@ -71,18 +87,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1ede53d7-c6d1-4fbd-99c4-e6d6a72fbc94
+4e889439-4890-435c-bd27-ca03e741695f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170306T201555Z
+20170320T232911Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 11
+content-length: 12
 
-fmb\hahmady
+fmb\mlangdon
