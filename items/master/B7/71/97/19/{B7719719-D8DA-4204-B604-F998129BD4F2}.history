@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B7719719-D8DA-4204-B604-F998129BD4F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-20T22:44:19.4246639Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Personal Banking",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Personal Banking",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
