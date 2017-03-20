@@ -2,9 +2,9 @@
 version: 1
 id: {A281AB55-2818-4753-B0E2-5A22AB6F1B97}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Business - Deposit Services
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Deposit Services
 parent: {E6707B20-0635-4C12-B7ED-AFE6304D1771}
-name: Business - Deposit Services
+name: Deposit Services
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 14e169dd-ccc7-4a05-b527-00d4dc1e1549
+revision: 5a77ca12-cf44-4895-adf7-6f9b1b4c8e64
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-14e169dd-ccc7-4a05-b527-00d4dc1e1549
+5a77ca12-cf44-4895-adf7-6f9b1b4c8e64
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170317T160033Z
+20170320T225039Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
