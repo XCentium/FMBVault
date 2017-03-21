@@ -13224,7 +13224,30 @@
           "id": "{24DD5B45-8C1E-47B9-AE47-B02CDE8A4A87}",
           "sortOrder": 100,
           "icon": "Applications/16x16/form_blue.png",
-          "fields": []
+          "fields": [
+            {
+              "name": "TEST IGNORE",
+              "id": "{2A3D17A6-1556-4CC1-A88F-8E7EBD90E24D}",
+              "defaultValue": null,
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 400,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
         }
       ]
     },

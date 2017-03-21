@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2A3D17A6-1556-4CC1-A88F-8E7EBD90E24D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T17:47:42.1044101Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TEST IGNORE",
+    "itemPath": "/sitecore/templates/Feature/PageContent/_HasPageContent/Content/TEST IGNORE",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
