@@ -1,33 +1,33 @@
 ----item----
 version: 1
-id: {14F08972-51E6-4FA3-BA78-6D476C3F84DF}
+id: {91E4B283-AB93-4499-98DB-55FEEE5473EB}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Certificates of Deposit
-parent: {B7719719-D8DA-4204-B604-F998129BD4F2}
-name: Certificates of Deposit
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Small Business Loans
+parent: {E6707B20-0635-4C12-B7ED-AFE6304D1771}
+name: Small Business Loans
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
-created: 20170321T000346:636256514260730000
+created: 20170321T000443:636256514835900000
 
 ----field----
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 88
+content-length: 89
 
-/home/individual-banking/personal-banking-services/consumer-certificates-of-deposit.html
+/home/business-banking/business-credit-loans/business-real-estate-construction-loans.html
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{FBBC61D3-191A-45D5-B3AF-F3D589AFC5B5}
+{DC0FA3EF-2065-4134-89DC-718B1523BFB2}
 ----version----
 language: en
 version: 1
-revision: 98662767-5b5b-4962-ba91-b3e5c967d2da
+revision: 227a4f41-2897-41bd-80a0-05bc44983bf8
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-98662767-5b5b-4962-ba91-b3e5c967d2da
+227a4f41-2897-41bd-80a0-05bc44983bf8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170321T000409Z
+20170321T000138Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
