@@ -13,16 +13,16 @@ created: 20170208T234036:636221940363330000
 ----version----
 language: en
 version: 1
-revision: cffc8858-4f56-477a-a22f-26eae918c1e7
+revision: 01b5af72-3ef2-485b-88dd-acdb51973435
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 319
+content-length: 318
 
 <img alt="Classic Checking Debit Card" src="-/media/2490CD43B01D4DFF8A53EE64D600DAA1.ashx?h=168&amp;w=258" style="height: 168px; width: 258px;">
-<a style="display: inline-block; margin-right: 51px;" href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a>
+<a style="display: inline-block; margin-left: 51px;" href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -50,14 +50,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cffc8858-4f56-477a-a22f-26eae918c1e7
+01b5af72-3ef2-485b-88dd-acdb51973435
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170321T001931Z
+20170321T002024Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
