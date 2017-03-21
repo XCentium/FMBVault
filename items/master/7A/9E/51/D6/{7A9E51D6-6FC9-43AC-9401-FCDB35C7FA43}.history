@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7A9E51D6-6FC9-43AC-9401-FCDB35C7FA43}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T17:29:05.0035442Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "iPhone",
+    "itemPath": "/sitecore/layout/Devices/iPhone",
+    "template": "Device",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
