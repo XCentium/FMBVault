@@ -51,9 +51,28 @@
     "itemName": "RLD",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/RLD",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "98893e3d912ca4fa13f9679729ae4cefb7d242cd",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{973CC1BD-C84C-487D-AD56-98B588748DE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T20:41:26.4449432Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "RLD",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/RLD",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
