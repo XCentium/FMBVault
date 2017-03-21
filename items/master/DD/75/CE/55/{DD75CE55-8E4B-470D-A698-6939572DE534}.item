@@ -25,13 +25,6 @@ content-length: 1
 
 5
 ----field----
-field: {E4D0FAF3-61E7-44D4-A921-CE5C606A8DA8}
-name: IsSystem
-key: issystem
-content-length: 5
-
-false
-----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
 key: __workflow
@@ -50,13 +43,6 @@ key: description
 content-length: 41
 
 User has logged in to OLB and signed out.
-----field----
-field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
-name: __Display name
-key: __display name
-content-length: 15
-
-Return Customer
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
