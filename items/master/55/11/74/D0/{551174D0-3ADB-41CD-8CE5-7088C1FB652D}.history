@@ -32,9 +32,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Home/__Standard Values",
     "template": "Home",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6ec85010f7077b56b496db08253cb9025191150a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{551174D0-3ADB-41CD-8CE5-7088C1FB652D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T17:17:35.0766569Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Home/__Standard Values",
+    "template": "Home",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
