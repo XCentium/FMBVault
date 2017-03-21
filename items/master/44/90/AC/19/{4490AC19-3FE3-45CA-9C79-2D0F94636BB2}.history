@@ -32,9 +32,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/How To/__Standard Values",
     "template": "How To",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cb76467daad5352508c35cdded6d99bfb53981a1",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4490AC19-3FE3-45CA-9C79-2D0F94636BB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T18:12:05.4718918Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/How To/__Standard Values",
+    "template": "How To",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
