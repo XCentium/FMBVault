@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{14F08972-51E6-4FA3-BA78-6D476C3F84DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T00:03:46.0881158Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Certificates of Deposit",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Certificates of Deposit",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
