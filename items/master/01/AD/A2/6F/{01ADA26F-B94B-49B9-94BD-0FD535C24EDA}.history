@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{01ADA26F-B94B-49B9-94BD-0FD535C24EDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T22:12:05.8310756Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GoogleTagManager_Key",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/GoogleTagManager_Key",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
