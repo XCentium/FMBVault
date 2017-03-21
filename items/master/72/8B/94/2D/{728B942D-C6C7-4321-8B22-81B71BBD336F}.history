@@ -32,9 +32,28 @@
     "itemName": "Security",
     "itemPath": "/sitecore/content/FMBCom/Home/Security",
     "template": "Section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c393c5083c89b44f66e88affa19867832eb871d4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{728B942D-C6C7-4321-8B22-81B71BBD336F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T18:13:49.0508155Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/content/FMBCom/Home/Security",
+    "template": "Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
