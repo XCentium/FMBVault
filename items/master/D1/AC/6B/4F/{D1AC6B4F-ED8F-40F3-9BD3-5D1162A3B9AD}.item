@@ -13,7 +13,7 @@ created: 20170302T073746:636240370663930000
 ----version----
 language: en
 version: 1
-revision: bb0647a7-080e-4825-85ed-2316e2267479
+revision: 23e4d97a-ce36-4301-9ddc-0152da03d187
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
@@ -26,8 +26,8 @@ content-length: 338
 <div class="col-lg-12">
 <div class="wrap">
 <div class="clearfix">
-<h1 class="pull-left">Open an account for your business today.</h1>
-<a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-lg pull-right">Get started now</a>
+<p class="pull-left text">Open an account for your business today.</p>
+<a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-gold btn-lg pull-right">Get started now</a>
 </div>
 </div>
 </div>
@@ -60,18 +60,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bb0647a7-080e-4825-85ed-2316e2267479
+23e4d97a-ce36-4301-9ddc-0152da03d187
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170308T200746Z
+20170321T030444Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 14
 
-fmb\jbridges
+fmb\mmondragon
