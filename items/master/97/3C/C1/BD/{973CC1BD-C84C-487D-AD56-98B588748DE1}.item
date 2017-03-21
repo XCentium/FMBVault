@@ -13,7 +13,7 @@ created: 20170316T223007:636253002071730000
 ----version----
 language: en
 version: 1
-revision: 843da95c-897a-42c8-9e65-308d14929bf3
+revision: 38a3520e-ec21-4bc3-9583-953080626ab1
 
 ----field----
 field: {F7FC505E-3CE5-4810-A88E-75B700FC1452}
@@ -29,10 +29,10 @@ key: mediadescription
 content-length: 388
 
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-8">
 <!--nothing needed here-->
 </div>
-<div class="col-md-6">
+<div class="col-md-4">
 <h1>Get a great rate</h1>
 <h3>F&amp;M Home Loans</h3>
 <h2>Ask us today how we can help.</h2>
@@ -74,14 +74,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-843da95c-897a-42c8-9e65-308d14929bf3
+38a3520e-ec21-4bc3-9583-953080626ab1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170317T172900Z
+20170321T163436Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
