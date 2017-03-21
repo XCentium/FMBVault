@@ -13,9 +13,28 @@
     "itemName": "Notices",
     "itemPath": "/sitecore/media library/Notices",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{212C58BA-2CEE-4B5C-B987-38C49C78E72F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:59.1945783Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notices",
+    "itemPath": "/sitecore/media library/Notices",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

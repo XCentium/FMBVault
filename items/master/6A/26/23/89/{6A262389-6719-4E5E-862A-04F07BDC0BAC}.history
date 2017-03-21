@@ -13,9 +13,28 @@
     "itemName": "3 Column 4-4-4",
     "itemPath": "/sitecore/media library/Project/Common/Images/Layouts/3 Column 4-4-4",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A262389-6719-4E5E-862A-04F07BDC0BAC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:17.1581948Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "3 Column 4-4-4",
+    "itemPath": "/sitecore/media library/Project/Common/Images/Layouts/3 Column 4-4-4",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

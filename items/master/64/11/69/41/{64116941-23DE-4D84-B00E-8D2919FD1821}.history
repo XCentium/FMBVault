@@ -13,9 +13,28 @@
     "itemName": "September",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/September",
     "template": "Standard template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64116941-23DE-4D84-B00E-8D2919FD1821}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:02.3636305Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "September",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/September",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

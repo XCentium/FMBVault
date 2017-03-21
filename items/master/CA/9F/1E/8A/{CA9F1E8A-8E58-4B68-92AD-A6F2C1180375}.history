@@ -13,9 +13,28 @@
     "itemName": "default",
     "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/General/default",
     "template": "Modal Content",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA9F1E8A-8E58-4B68-92AD-A6F2C1180375}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:46.3011290Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/General/default",
+    "template": "Modal Content",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

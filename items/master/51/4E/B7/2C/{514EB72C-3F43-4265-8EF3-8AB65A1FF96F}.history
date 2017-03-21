@@ -13,9 +13,28 @@
     "itemName": "Referral",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{514EB72C-3F43-4265-8EF3-8AB65A1FF96F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:28.4801235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referral",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

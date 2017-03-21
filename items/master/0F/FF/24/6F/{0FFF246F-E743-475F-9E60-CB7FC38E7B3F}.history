@@ -13,9 +13,28 @@
     "itemName": "Duration Reached",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Duration Reached",
     "template": "Condition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FFF246F-E743-475F-9E60-CB7FC38E7B3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:09.2176368Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Duration Reached",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Duration Reached",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

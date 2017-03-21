@@ -13,9 +13,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/FieldOption/__Standard Values",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F82AF74-D7E0-4E6B-8EF9-6AE97576693A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:48.6816483Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/FieldOption/__Standard Values",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

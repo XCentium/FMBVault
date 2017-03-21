@@ -13,9 +13,28 @@
     "itemName": "Read more",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person/Employee Teaser/Read more",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{281849C1-45EE-47B8-B477-168169F36114}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:29.7991237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Read more",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person/Employee Teaser/Read more",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

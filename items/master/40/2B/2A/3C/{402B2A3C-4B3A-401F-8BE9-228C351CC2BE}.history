@@ -13,9 +13,28 @@
     "itemName": "AShah-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/AShah-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{402B2A3C-4B3A-401F-8BE9-228C351CC2BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.3391941Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AShah-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/AShah-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Monetary Value Applicable",
     "itemPath": "/sitecore/templates/System/Analytics/Outcome/Outcome Definition/Data/Monetary Value Applicable",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4674871A-2885-4504-9CDE-CFBA07B2FA69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:00.3810230Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Monetary Value Applicable",
+    "itemPath": "/sitecore/templates/System/Analytics/Outcome/Outcome Definition/Data/Monetary Value Applicable",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

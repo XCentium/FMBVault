@@ -13,9 +13,28 @@
     "itemName": "KimSearles-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KimSearles-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF567EBC-A2B9-454D-BBAA-46DD170C33A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:11.0171948Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KimSearles-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KimSearles-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

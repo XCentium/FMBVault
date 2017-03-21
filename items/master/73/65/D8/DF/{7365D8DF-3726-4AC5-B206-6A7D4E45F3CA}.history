@@ -13,9 +13,28 @@
     "itemName": "HI",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/HI",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7365D8DF-3726-4AC5-B206-6A7D4E45F3CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:56.0526303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HI",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/HI",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

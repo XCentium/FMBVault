@@ -13,9 +13,28 @@
     "itemName": "Headline",
     "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Headline",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.3965738Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Headline",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "WorldLingo Language Identifier",
     "itemPath": "/sitecore/templates/System/Language/Data/WorldLingo Language Identifier",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CB05A97-3BF9-47FE-A835-6088E592FDE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:15.9580289Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WorldLingo Language Identifier",
+    "itemPath": "/sitecore/templates/System/Language/Data/WorldLingo Language Identifier",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

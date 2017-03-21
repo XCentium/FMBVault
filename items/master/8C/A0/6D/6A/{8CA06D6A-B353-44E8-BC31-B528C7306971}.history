@@ -13,9 +13,28 @@
     "itemName": "Standard Rendering Parameters",
     "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CA06D6A-B353-44E8-BC31-B528C7306971}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:18.2130283Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Standard Rendering Parameters",
+    "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Client Information",
     "itemPath": "/sitecore/templates/Feature/Testimonial/_HasClient/Client Information",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F5D5304-8685-40C3-BE97-4CF042797FE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:42.6906487Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Information",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/_HasClient/Client Information",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

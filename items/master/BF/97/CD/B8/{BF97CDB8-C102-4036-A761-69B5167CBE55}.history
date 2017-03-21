@@ -13,9 +13,28 @@
     "itemName": "Other Services",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Other Services",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF97CDB8-C102-4036-A761-69B5167CBE55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:19.9131237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Services",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Other Services",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

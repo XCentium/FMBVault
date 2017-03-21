@@ -13,9 +13,28 @@
     "itemName": "Map Page",
     "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Map Page",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE9E5BDB-7D71-48F7-B461-42BF9C2052EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:50.6216477Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Page",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Map Page",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

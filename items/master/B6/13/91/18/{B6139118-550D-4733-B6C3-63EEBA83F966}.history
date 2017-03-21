@@ -13,9 +13,28 @@
     "itemName": "Pattern Cards",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards",
     "template": "Pattern Cards",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6139118-550D-4733-B6C3-63EEBA83F966}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:32.1936177Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pattern Cards",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards",
+    "template": "Pattern Cards",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

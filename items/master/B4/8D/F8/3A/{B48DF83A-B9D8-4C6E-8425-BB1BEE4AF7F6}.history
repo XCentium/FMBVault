@@ -13,9 +13,28 @@
     "itemName": "Brochures",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:42.6831300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brochures",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

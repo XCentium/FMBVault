@@ -13,9 +13,28 @@
     "itemName": "Uzbekistan",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uzbekistan",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DDAA344-B1D3-4B44-9033-B3150460E9CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:45.0976228Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Uzbekistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uzbekistan",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

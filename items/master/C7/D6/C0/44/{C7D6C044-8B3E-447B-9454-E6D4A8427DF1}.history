@@ -13,9 +13,28 @@
     "itemName": "Maintenance",
     "itemPath": "/sitecore/content/FMBCom/Home/Maintenance",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7D6C044-8B3E-447B-9454-E6D4A8427DF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:18.0261227Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Maintenance",
+    "itemPath": "/sitecore/content/FMBCom/Home/Maintenance",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "carousel",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/carousel",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6047F883-98D5-4363-B0B4-3B631FE2444E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:22.8381238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "carousel",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/carousel",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

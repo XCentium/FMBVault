@@ -13,9 +13,28 @@
     "itemName": "Mime Type",
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Mime Type",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:24.3512400Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mime Type",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Mime Type",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

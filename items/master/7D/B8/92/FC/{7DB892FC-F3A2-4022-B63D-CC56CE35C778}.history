@@ -13,9 +13,28 @@
     "itemName": "strengthsecurity",
     "itemPath": "/sitecore/media library/FMBCom/Images/associations/strengthsecurity",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DB892FC-F3A2-4022-B63D-CC56CE35C778}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:08.8341937Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "strengthsecurity",
+    "itemPath": "/sitecore/media library/FMBCom/Images/associations/strengthsecurity",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

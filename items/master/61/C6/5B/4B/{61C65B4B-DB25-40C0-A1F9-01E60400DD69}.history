@@ -13,9 +13,28 @@
     "itemName": "Duplicate Sort Order",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Duplicate Sort Order",
     "template": "Validation Rule",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61C65B4B-DB25-40C0-A1F9-01E60400DD69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:24.2926432Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Duplicate Sort Order",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Duplicate Sort Order",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "File Name",
     "itemPath": "/sitecore/templates/System/Analytics/Report/Data/File Name",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CC4AD84-F69D-44D2-9600-5C7522AA2401}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:02.6050229Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Name",
+    "itemPath": "/sitecore/templates/System/Analytics/Report/Data/File Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

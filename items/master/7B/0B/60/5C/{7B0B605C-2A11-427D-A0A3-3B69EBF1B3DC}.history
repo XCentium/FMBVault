@@ -13,9 +13,28 @@
     "itemName": "Campaign facet 7",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Campaign facet 7",
     "template": "Custom taxonomy",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B0B605C-2A11-427D-A0A3-3B69EBF1B3DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:22.7252016Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign facet 7",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Campaign facet 7",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

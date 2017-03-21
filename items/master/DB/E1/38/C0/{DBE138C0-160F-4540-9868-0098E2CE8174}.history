@@ -13,9 +13,28 @@
     "itemName": "Countries",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DBE138C0-160F-4540-9868-0098E2CE8174}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:38.7246226Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Countries",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

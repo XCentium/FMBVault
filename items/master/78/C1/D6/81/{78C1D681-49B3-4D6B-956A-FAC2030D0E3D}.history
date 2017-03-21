@@ -13,9 +13,28 @@
     "itemName": "Headline Tabs",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Tabs",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78C1D681-49B3-4D6B-956A-FAC2030D0E3D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.9891297Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Tabs",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Tabs",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

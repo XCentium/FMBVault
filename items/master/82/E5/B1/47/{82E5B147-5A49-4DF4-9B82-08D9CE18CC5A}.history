@@ -13,9 +13,28 @@
     "itemName": "ch-livechat",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-livechat",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82E5B147-5A49-4DF4-9B82-08D9CE18CC5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:18.8131983Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-livechat",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-livechat",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

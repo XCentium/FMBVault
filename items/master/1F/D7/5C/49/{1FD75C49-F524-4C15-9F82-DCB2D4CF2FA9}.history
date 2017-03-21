@@ -13,9 +13,28 @@
     "itemName": "Background Type Folder",
     "itemPath": "/sitecore/templates/Feature/Media/Background Type Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1FD75C49-F524-4C15-9F82-DCB2D4CF2FA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:36.3886433Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Background Type Folder",
+    "itemPath": "/sitecore/templates/Feature/Media/Background Type Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

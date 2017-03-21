@@ -13,9 +13,28 @@
     "itemName": "Sonya Garay",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Santa Ana/Sonya Garay",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B56A03DD-EB49-46A1-A241-A518196B2378}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:32.2131237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sonya Garay",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Santa Ana/Sonya Garay",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

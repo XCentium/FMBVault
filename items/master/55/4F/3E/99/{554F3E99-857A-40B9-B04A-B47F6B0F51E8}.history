@@ -13,9 +13,28 @@
     "itemName": "Field Option",
     "itemPath": "/sitecore/templates/Feature/Forms/_FormFieldOption/Field Option",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{554F3E99-857A-40B9-B04A-B47F6B0F51E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.6346429Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Field Option",
+    "itemPath": "/sitecore/templates/Feature/Forms/_FormFieldOption/Field Option",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

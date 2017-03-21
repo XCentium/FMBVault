@@ -13,9 +13,28 @@
     "itemName": "Data",
     "itemPath": "/sitecore/templates/Feature/Media/Background Type/Data",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDDF75D7-6254-4D37-9A2B-9F0B804B5151}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:36.6356428Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/Feature/Media/Background Type/Data",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

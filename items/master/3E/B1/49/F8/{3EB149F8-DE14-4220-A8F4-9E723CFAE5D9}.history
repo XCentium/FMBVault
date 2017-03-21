@@ -13,9 +13,28 @@
     "itemName": "Extension",
     "itemPath": "/sitecore/templates/System/Media/Versioned/File/Information/Extension",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EB149F8-DE14-4220-A8F4-9E723CFAE5D9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:26.3374172Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extension",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Information/Extension",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

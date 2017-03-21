@@ -13,9 +13,28 @@
     "itemName": "JAnderson-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/JAnderson-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C9A142F-D825-48A7-8B5D-0D5C48FF01F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.7491946Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JAnderson-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/JAnderson-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

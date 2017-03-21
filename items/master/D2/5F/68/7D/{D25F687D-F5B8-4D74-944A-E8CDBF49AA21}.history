@@ -13,9 +13,28 @@
     "itemName": "UserViewer",
     "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer/UserViewer",
     "template": "Sublayout",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D25F687D-F5B8-4D74-944A-E8CDBF49AA21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:57.9245780Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UserViewer",
+    "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer/UserViewer",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

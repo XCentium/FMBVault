@@ -13,9 +13,28 @@
     "itemName": "One-Time Pin - OLB",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/One-Time Pin - OLB",
     "template": "FAQ Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A42469C8-98D3-41F4-AE24-D020525A9B9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:37.3941302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "One-Time Pin - OLB",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/One-Time Pin - OLB",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

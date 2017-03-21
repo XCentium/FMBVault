@@ -13,9 +13,28 @@
     "itemName": "Search Definition",
     "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{339E3A47-95B5-4767-8924-4C04610AE162}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:38.8284229Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Definition",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

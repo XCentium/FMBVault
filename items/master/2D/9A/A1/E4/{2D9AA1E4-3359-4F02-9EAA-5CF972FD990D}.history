@@ -13,9 +13,28 @@
     "itemName": "_ProfileSettings",
     "itemPath": "/sitecore/templates/Feature/Accounts/_ProfileSettings",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D9AA1E4-3359-4F02-9EAA-5CF972FD990D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:33.0306409Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_ProfileSettings",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_ProfileSettings",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

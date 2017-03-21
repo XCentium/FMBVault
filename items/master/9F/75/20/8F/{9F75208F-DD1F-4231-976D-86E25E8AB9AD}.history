@@ -13,9 +13,28 @@
     "itemName": "_County",
     "itemPath": "/sitecore/templates/Feature/Office/_County",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F75208F-DD1F-4231-976D-86E25E8AB9AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:38.9676501Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_County",
+    "itemPath": "/sitecore/templates/Feature/Office/_County",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

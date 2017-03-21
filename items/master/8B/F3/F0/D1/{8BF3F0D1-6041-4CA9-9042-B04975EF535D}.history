@@ -13,9 +13,28 @@
     "itemName": "Skiing",
     "itemPath": "/sitecore/content/FMBCom/Global/Interests/Skiing",
     "template": "Interest",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BF3F0D1-6041-4CA9-9042-B04975EF535D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:41.0381301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Skiing",
+    "itemPath": "/sitecore/content/FMBCom/Global/Interests/Skiing",
+    "template": "Interest",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

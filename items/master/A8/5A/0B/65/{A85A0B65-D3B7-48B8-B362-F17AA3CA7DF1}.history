@@ -13,9 +13,28 @@
     "itemName": "Article Aside Both",
     "itemPath": "/sitecore/layout/Renderings/Project/Common/Article Aside Both",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A85A0B65-D3B7-48B8-B362-F17AA3CA7DF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.9545771Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Aside Both",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Article Aside Both",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

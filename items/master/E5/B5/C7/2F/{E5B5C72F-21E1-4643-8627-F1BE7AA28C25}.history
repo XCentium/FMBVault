@@ -13,9 +13,28 @@
     "itemName": "San Clemente",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Clemente",
     "template": "Employee Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5B5C72F-21E1-4643-8627-F1BE7AA28C25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:30.9561238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Clemente",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Clemente",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

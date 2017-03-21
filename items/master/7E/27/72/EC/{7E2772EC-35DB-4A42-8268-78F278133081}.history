@@ -13,9 +13,28 @@
     "itemName": "CallCenterEmail",
     "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/CallCenterEmail",
     "template": "ConfigurationSetting",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E2772EC-35DB-4A42-8268-78F278133081}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.5871227Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CallCenterEmail",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/CallCenterEmail",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

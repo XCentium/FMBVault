@@ -13,9 +13,28 @@
     "itemName": "Campaign group",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Campaign group",
     "template": "Template Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F16382F0-E2C1-422F-86F7-A97C68206885}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:54.9146555Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign group",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Campaign group",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

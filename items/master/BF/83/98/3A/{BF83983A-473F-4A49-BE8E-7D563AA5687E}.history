@@ -13,9 +13,28 @@
     "itemName": "Cite Origin",
     "itemPath": "/sitecore/templates/Feature/Person/_Quote/Details/Cite Origin",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF83983A-473F-4A49-BE8E-7D563AA5687E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:40.9226496Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cite Origin",
+    "itemPath": "/sitecore/templates/Feature/Person/_Quote/Details/Cite Origin",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

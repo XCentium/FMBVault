@@ -13,9 +13,28 @@
     "itemName": "Buckets",
     "itemPath": "/sitecore/system/Settings/Buckets",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{877091A7-131E-40D2-BDC6-5534284C5D03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:36.5926199Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Buckets",
+    "itemPath": "/sitecore/system/Settings/Buckets",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

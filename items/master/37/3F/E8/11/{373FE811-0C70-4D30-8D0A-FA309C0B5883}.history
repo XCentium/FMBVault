@@ -13,9 +13,28 @@
     "itemName": "Item Has Subitems that Are Not In Insert Options",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Insert Options/Item Has Subitems that Are Not In Insert Options",
     "template": "Validation Rule",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{373FE811-0C70-4D30-8D0A-FA309C0B5883}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:24.2356434Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Has Subitems that Are Not In Insert Options",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Insert Options/Item Has Subitems that Are Not In Insert Options",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

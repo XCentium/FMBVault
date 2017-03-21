@@ -13,9 +13,28 @@
     "itemName": "Some Exclusions",
     "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Some Exclusions",
     "template": "Disclaimer",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58EBB4F2-F5E8-4FFE-8C20-FF6B772880B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:30.4381231Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Some Exclusions",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Some Exclusions",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

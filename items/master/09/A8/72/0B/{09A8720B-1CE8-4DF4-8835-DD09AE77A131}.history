@@ -13,9 +13,28 @@
     "itemName": "No Flash Support Trait",
     "itemPath": "/sitecore/layout/Simulators/Blackberry/No Flash Support Trait",
     "template": "No Flash Support Trait",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09A8720B-1CE8-4DF4-8835-DD09AE77A131}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:58.6825776Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/Blackberry/No Flash Support Trait",
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

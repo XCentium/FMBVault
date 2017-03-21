@@ -13,9 +13,28 @@
     "itemName": "ND",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/ND",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73263A0B-5733-43B6-B94C-11591D543488}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:56.4996304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ND",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/ND",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Virginia",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Virginia",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCBEB1C5-1740-46D4-A5B3-30B7D52D6DD8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:40.7821304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Virginia",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Virginia",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

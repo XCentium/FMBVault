@@ -13,9 +13,28 @@
     "itemName": "ModestaHaro-Mendez-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/ModestaHaro-Mendez-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9928210-4C07-48F8-95A3-1D8B7418D687}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:11.3091948Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ModestaHaro-Mendez-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/ModestaHaro-Mendez-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

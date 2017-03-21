@@ -13,9 +13,28 @@
     "itemName": "Account Funnel First Step",
     "itemPath": "/sitecore/layout/Renderings/Feature/Forms/Account Funnel First Step",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E89E80C-0997-4836-8C1E-BE61D6512A07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:54.1561298Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Account Funnel First Step",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Forms/Account Funnel First Step",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

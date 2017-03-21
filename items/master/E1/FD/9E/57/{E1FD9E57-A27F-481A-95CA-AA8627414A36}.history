@@ -13,9 +13,28 @@
     "itemName": "FDAMediaFolder",
     "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1FD9E57-A27F-481A-95CA-AA8627414A36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:48.8012528Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FDAMediaFolder",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

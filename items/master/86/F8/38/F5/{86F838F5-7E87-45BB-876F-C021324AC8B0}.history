@@ -13,9 +13,28 @@
     "itemName": "FeedRenderer",
     "itemPath": "/sitecore/layout/Renderings/System/Feeds/FeedRenderer",
     "template": "Webcontrol",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86F838F5-7E87-45BB-876F-C021324AC8B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:53.2641299Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FeedRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/Feeds/FeedRenderer",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

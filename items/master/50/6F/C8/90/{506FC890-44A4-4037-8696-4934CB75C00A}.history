@@ -13,9 +13,28 @@
     "itemName": "Require Login",
     "itemPath": "/sitecore/system/Settings/Security/Presets/Require Login",
     "template": "Security Preset",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{506FC890-44A4-4037-8696-4934CB75C00A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:21.5136427Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Require Login",
+    "itemPath": "/sitecore/system/Settings/Security/Presets/Require Login",
+    "template": "Security Preset",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

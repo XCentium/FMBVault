@@ -13,9 +13,28 @@
     "itemName": "Sublayout",
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/Sublayout/Sublayout",
     "template": "Command Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BECC3DB0-0B05-46F2-AC83-700421638BBE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:30.3826432Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sublayout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/Sublayout/Sublayout",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

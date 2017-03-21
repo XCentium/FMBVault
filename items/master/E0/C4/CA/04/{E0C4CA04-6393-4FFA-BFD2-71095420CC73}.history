@@ -13,9 +13,28 @@
     "itemName": "5 Why didnt I receive a text andor email after I set up my Purchase Alerts",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/5 Why didnt I receive a text andor email after I set up my Purchase Alerts",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0C4CA04-6393-4FFA-BFD2-71095420CC73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:33.0891237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "5 Why didnt I receive a text andor email after I set up my Purchase Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/5 Why didnt I receive a text andor email after I set up my Purchase Alerts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

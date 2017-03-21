@@ -13,9 +13,28 @@
     "itemName": "Social Marketer Account",
     "itemPath": "/sitecore/templates/System/Social/Account/Social Marketer Account",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39394D34-D9B8-4334-A712-B3216E936750}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:39.5914237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Marketer Account",
+    "itemPath": "/sitecore/templates/System/Social/Account/Social Marketer Account",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

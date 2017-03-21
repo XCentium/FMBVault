@@ -13,9 +13,28 @@
     "itemName": "MEguchi",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/MEguchi",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93CC612D-7DAA-4FCB-B1FC-F07B238864BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:11.2311947Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MEguchi",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/MEguchi",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

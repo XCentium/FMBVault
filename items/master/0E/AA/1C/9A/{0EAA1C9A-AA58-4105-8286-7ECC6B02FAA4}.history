@@ -13,9 +13,28 @@
     "itemName": "IL",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/IL",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0EAA1C9A-AA58-4105-8286-7ECC6B02FAA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:56.1326303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IL",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/IL",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

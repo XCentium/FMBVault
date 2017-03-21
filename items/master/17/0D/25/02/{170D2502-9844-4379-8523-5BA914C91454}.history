@@ -13,9 +13,28 @@
     "itemName": "10",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/10",
     "template": "Bucket",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{170D2502-9844-4379-8523-5BA914C91454}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:21.8171237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "10",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/10",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

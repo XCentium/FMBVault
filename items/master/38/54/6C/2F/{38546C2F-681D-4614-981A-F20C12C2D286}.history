@@ -13,9 +13,28 @@
     "itemName": "Suggested Test",
     "itemPath": "/sitecore/templates/System/Content Testing/Suggested Test",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38546C2F-681D-4614-981A-F20C12C2D286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:04.8060220Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suggested Test",
+    "itemPath": "/sitecore/templates/System/Content Testing/Suggested Test",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

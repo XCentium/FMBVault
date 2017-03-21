@@ -13,9 +13,28 @@
     "itemName": "Items",
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Items",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70893EF5-98E6-4721-844A-C364D0D9E48E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:43.2274226Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Items",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Items",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Oklahoma",
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Oklahoma",
     "template": "Predefined Filter Value",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{756EF428-D9BF-4E84-AB06-7033C8ABAB4E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:34.2336175Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Oklahoma",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Oklahoma",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

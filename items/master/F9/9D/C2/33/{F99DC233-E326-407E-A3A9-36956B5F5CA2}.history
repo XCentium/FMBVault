@@ -13,9 +13,28 @@
     "itemName": "ExperienceExplorer",
     "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F99DC233-E326-407E-A3A9-36956B5F5CA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:57.7285784Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperienceExplorer",
+    "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

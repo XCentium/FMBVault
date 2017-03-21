@@ -13,9 +13,28 @@
     "itemName": "_NewsArticle",
     "itemPath": "/sitecore/templates/Feature/News/_NewsArticle",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F75C8AF-35FC-4A88-B585-7595203F442C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:38.6456496Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_NewsArticle",
+    "itemPath": "/sitecore/templates/Feature/News/_NewsArticle",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

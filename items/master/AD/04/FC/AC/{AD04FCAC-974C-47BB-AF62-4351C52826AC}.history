@@ -13,9 +13,28 @@
     "itemName": "Visits",
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Not Found Urls Visits/Visits",
     "template": "Report",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD04FCAC-974C-47BB-AF62-4351C52826AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:50.2576298Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Not Found Urls Visits/Visits",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

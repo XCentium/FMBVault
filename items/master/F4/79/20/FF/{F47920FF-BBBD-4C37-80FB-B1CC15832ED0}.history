@@ -13,9 +13,28 @@
     "itemName": "Matt Greville",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Orange/Matt Greville",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F47920FF-BBBD-4C37-80FB-B1CC15832ED0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:31.7601234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Matt Greville",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Orange/Matt Greville",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

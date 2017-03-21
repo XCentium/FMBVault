@@ -13,9 +13,28 @@
     "itemName": "Re-deploy",
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Deployed/Re-deploy",
     "template": "Command",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2289B044-6CD1-4655-9ADA-5D9C469C760A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:27.6506417Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Re-deploy",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Deployed/Re-deploy",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

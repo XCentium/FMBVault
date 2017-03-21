@@ -13,9 +13,28 @@
     "itemName": "Customer Recognition Programs",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Customer Recognition Programs",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BB0FF23-66CD-4C8E-8BAF-BF550DE39F8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:21.1961236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Customer Recognition Programs",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Customer Recognition Programs",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

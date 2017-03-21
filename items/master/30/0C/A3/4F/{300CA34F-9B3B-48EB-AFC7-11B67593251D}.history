@@ -13,9 +13,28 @@
     "itemName": "KennyLim-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KennyLim-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{300CA34F-9B3B-48EB-AFC7-11B67593251D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.9901945Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KennyLim-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KennyLim-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

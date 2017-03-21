@@ -13,9 +13,28 @@
     "itemName": "Cecile",
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Cecile",
     "template": "Preset Persona",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED5F28BC-69CF-4934-84BE-402FE4A5D566}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:32.5286170Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cecile",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Cecile",
+    "template": "Preset Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Orange County",
     "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County",
     "template": "Map Points Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82A13318-1CA7-4167-A143-254C4E274CF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:43.6371300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange County",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County",
+    "template": "Map Points Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

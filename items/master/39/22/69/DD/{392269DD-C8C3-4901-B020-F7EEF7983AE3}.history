@@ -13,9 +13,28 @@
     "itemName": "Chile",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Chile",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{392269DD-C8C3-4901-B020-F7EEF7983AE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:39.9146237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chile",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Chile",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

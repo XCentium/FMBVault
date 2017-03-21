@@ -13,9 +13,28 @@
     "itemName": "Julie 128x128",
     "itemPath": "/sitecore/media library/Experience Explorer/Presets/Julie 128x128",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D613FF28-C4D1-421F-A640-40F4827C802D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:07.3761946Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Julie 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Julie 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Part III Service Above Self",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part III Service Above Self",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C02A8EFD-1C00-4E5E-9AA6-422DC8D522B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:33.7301235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Part III Service Above Self",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part III Service Above Self",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Facebook",
     "itemPath": "/sitecore/system/Social/Networks/Facebook",
     "template": "Network",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7429409-D6DA-46CD-91DD-8702781AE3C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:24.9556429Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/system/Social/Networks/Facebook",
+    "template": "Network",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

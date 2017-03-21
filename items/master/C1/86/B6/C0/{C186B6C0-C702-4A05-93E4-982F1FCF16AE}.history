@@ -13,9 +13,28 @@
     "itemName": "Has Specific Field Type",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields/Has Specific Field Type",
     "template": "Condition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C186B6C0-C702-4A05-93E4-982F1FCF16AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:04.3856309Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Specific Field Type",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields/Has Specific Field Type",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

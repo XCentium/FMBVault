@@ -13,9 +13,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/List Manager/Segmented List/__Standard Values",
     "template": "Segmented List",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{479583C9-9235-436F-8540-485E71E68EE5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:46.6976493Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/List Manager/Segmented List/__Standard Values",
+    "template": "Segmented List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

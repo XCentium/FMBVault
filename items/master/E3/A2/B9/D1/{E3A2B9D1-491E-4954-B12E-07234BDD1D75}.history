@@ -13,9 +13,28 @@
     "itemName": "Cog",
     "itemPath": "/sitecore/system/Settings/Feature/Teasers/Icons/Cog",
     "template": "Icon",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E3A2B9D1-491E-4954-B12E-07234BDD1D75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:57.7296281Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cog",
+    "itemPath": "/sitecore/system/Settings/Feature/Teasers/Icons/Cog",
+    "template": "Icon",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Refresh Visit Details Panel",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar/Refresh Visit Details Panel",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F27E3B4-3303-499F-9248-12C51243D112}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:30.0401236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Refresh Visit Details Panel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar/Refresh Visit Details Panel",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

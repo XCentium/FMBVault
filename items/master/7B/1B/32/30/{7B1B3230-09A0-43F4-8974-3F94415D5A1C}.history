@@ -13,9 +13,28 @@
     "itemName": "Media folder",
     "itemPath": "/sitecore/media library/Media folder",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B1B3230-09A0-43F4-8974-3F94415D5A1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:59.1405786Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media folder",
+    "itemPath": "/sitecore/media library/Media folder",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

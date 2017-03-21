@@ -13,9 +13,28 @@
     "itemName": "Site Configuration",
     "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration",
     "template": "Configuration Setting Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A839C6A2-9636-45C5-A4B3-A05A1AD16955}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:22.8141237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Configuration",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration",
+    "template": "Configuration Setting Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

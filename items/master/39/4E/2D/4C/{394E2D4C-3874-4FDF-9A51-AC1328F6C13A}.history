@@ -13,9 +13,28 @@
     "itemName": "Orientation Types",
     "itemPath": "/sitecore/system/Settings/Feature/Forms/Orientation Types",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{394E2D4C-3874-4FDF-9A51-AC1328F6C13A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:55.4466304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orientation Types",
+    "itemPath": "/sitecore/system/Settings/Feature/Forms/Orientation Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

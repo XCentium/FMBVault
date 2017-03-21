@@ -13,9 +13,28 @@
     "itemName": "Reject",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Reject",
     "template": "Command",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE7D79F2-BC1F-49EA-ABC9-B0863B7B9D1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:26.8096418Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reject",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Reject",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

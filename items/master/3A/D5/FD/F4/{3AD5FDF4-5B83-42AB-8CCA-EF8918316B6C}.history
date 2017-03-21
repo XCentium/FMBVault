@@ -13,9 +13,28 @@
     "itemName": "Show Expanded",
     "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Show Expanded",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.0876412Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show Expanded",
+    "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Show Expanded",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

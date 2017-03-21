@@ -13,9 +13,28 @@
     "itemName": "Inactive",
     "itemPath": "/sitecore/system/Workflows/Segment/Inactive",
     "template": "State",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69C53BD8-A79F-4A91-BA4F-813241EE8E88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:28.1166429Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inactive",
+    "itemPath": "/sitecore/system/Workflows/Segment/Inactive",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

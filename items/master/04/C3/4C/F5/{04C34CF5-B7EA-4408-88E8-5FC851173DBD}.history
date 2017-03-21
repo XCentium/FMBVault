@@ -13,9 +13,28 @@
     "itemName": "Map Type",
     "itemPath": "/sitecore/templates/Feature/Maps/Map Type",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04C34CF5-B7EA-4408-88E8-5FC851173DBD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:35.7676431Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Type",
+    "itemPath": "/sitecore/templates/Feature/Maps/Map Type",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

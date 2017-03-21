@@ -13,9 +13,28 @@
     "itemName": "iPhone",
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPhone",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C19E9164-FF99-4A05-B8C0-E9C931DA111F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:20.6742021Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPhone",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Employee List",
     "itemPath": "/sitecore/media library/Feature/Person/Employee List",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9F7775D-946D-458B-A2E0-D7BE50A99240}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:06.6381950Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee List",
+    "itemPath": "/sitecore/media library/Feature/Person/Employee List",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "CRE_FMBWebBanner_Q1",
     "itemPath": "/sitecore/media library/CRE_FMBWebBanner_Q1",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07BB15EB-18E4-4CFF-BB5B-C22F822F0781}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:59.0245786Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE_FMBWebBanner_Q1",
+    "itemPath": "/sitecore/media library/CRE_FMBWebBanner_Q1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

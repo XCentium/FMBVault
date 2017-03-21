@@ -13,9 +13,28 @@
     "itemName": "Disclaimers",
     "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Disclaimers",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5318E8CE-1072-4CFF-A502-D00AED1B2820}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.6325717Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disclaimers",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Disclaimers",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

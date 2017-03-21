@@ -13,9 +13,28 @@
     "itemName": "Report Query",
     "itemPath": "/sitecore/templates/System/Analytics/ReportQuery/Report Query",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBFC4744-F615-4764-BBB8-2DDC4916D9D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:03.4000219Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report Query",
+    "itemPath": "/sitecore/templates/System/Analytics/ReportQuery/Report Query",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

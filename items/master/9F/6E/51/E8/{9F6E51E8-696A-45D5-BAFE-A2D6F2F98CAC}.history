@@ -13,9 +13,28 @@
     "itemName": "Quotes",
     "itemPath": "/sitecore/content/FMBCom/Global/Quotes",
     "template": "Quote Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F6E51E8-696A-45D5-BAFE-A2D6F2F98CAC}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:24.2291227Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quotes",
+    "itemPath": "/sitecore/content/FMBCom/Global/Quotes",
+    "template": "Quote Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

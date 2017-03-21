@@ -13,9 +13,28 @@
     "itemName": "Write Testing Cluster Members",
     "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Testing Cluster Members",
     "template": "ReportQuery",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA1DBA36-423B-4AA2-80CD-2765789753AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:54.7486303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Write Testing Cluster Members",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Testing Cluster Members",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

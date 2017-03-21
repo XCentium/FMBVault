@@ -13,9 +13,28 @@
     "itemName": "Zip Search Form",
     "itemPath": "/sitecore/layout/Renderings/Feature/Maps/Zip Search Form",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8A792AB-EF6A-4953-A2EC-86F5EB76F309}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:54.6051298Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zip Search Form",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Maps/Zip Search Form",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

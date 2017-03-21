@@ -13,9 +13,28 @@
     "itemName": "DWhite-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/DWhite-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{13CC7284-D652-478E-A073-D18D52C45EC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.6401947Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DWhite-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/DWhite-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

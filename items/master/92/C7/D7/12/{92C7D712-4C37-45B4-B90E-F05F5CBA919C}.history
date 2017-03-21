@@ -13,9 +13,28 @@
     "itemName": "How-Tos",
     "itemPath": "/sitecore/content/FMBCom/Global/How-Tos",
     "template": "How-To Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92C7D712-4C37-45B4-B90E-F05F5CBA919C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.9881234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-Tos",
+    "itemPath": "/sitecore/content/FMBCom/Global/How-Tos",
+    "template": "How-To Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

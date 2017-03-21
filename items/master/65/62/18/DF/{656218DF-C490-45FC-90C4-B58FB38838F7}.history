@@ -13,9 +13,28 @@
     "itemName": "Preset",
     "itemPath": "/sitecore/templates/System/Experience Explorer/Preset",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{656218DF-C490-45FC-90C4-B58FB38838F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:08.8640227Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

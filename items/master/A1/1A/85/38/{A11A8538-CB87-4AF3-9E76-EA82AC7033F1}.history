@@ -13,9 +13,28 @@
     "itemName": "Device Vendor",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Vendor",
     "template": "Condition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A11A8538-CB87-4AF3-9E76-EA82AC7033F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:02.7786302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Vendor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Vendor",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

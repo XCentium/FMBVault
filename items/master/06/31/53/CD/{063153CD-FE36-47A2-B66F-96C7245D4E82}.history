@@ -13,9 +13,28 @@
     "itemName": "Clear Rules Cache",
     "itemPath": "/sitecore/system/Settings/Rules/Version Removed/Rules/Clear Rules Cache",
     "template": "Rule",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{063153CD-FE36-47A2-B66F-96C7245D4E82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:21.3156433Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clear Rules Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Version Removed/Rules/Clear Rules Cache",
+    "template": "Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

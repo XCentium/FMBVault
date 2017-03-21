@@ -13,9 +13,28 @@
     "itemName": "Fallback Language",
     "itemPath": "/sitecore/templates/System/Language/Data/Fallback Language",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{892975AC-496F-4AC9-8826-087095C68E1D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:15.8710302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fallback Language",
+    "itemPath": "/sitecore/templates/System/Language/Data/Fallback Language",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

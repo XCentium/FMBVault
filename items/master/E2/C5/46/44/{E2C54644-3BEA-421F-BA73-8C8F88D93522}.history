@@ -13,9 +13,28 @@
     "itemName": "Notifications",
     "itemPath": "/sitecore/layout/Renderings/Feature/Tools/Notifications",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2C54644-3BEA-421F-BA73-8C8F88D93522}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.6435751Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notifications",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Tools/Notifications",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

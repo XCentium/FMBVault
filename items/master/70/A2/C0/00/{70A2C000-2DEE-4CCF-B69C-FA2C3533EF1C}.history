@@ -13,9 +13,28 @@
     "itemName": "LosAltos",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/LosAltos",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70A2C000-2DEE-4CCF-B69C-FA2C3533EF1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:07.9991947Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LosAltos",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/LosAltos",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

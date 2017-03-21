@@ -13,9 +13,28 @@
     "itemName": "roadmap",
     "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types/roadmap",
     "template": "Map Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9ED37C4-B27D-4353-863F-3B3683A14FD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:55.5756306Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "roadmap",
+    "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types/roadmap",
+    "template": "Map Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

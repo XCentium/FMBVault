@@ -13,9 +13,28 @@
     "itemName": "Compare-Non-Analyzed-Business-Checking Right Header",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Online Account/Compare-Non-Analyzed-Business-Checking Right Header",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14784A46-A68F-48C5-AB7D-9E03103154E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:26.3111235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compare-Non-Analyzed-Business-Checking Right Header",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Online Account/Compare-Non-Analyzed-Business-Checking Right Header",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

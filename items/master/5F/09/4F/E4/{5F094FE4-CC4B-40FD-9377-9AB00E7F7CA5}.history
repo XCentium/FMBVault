@@ -13,9 +13,28 @@
     "itemName": "Aliases",
     "itemPath": "/sitecore/system/Aliases",
     "template": "Node",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F094FE4-CC4B-40FD-9377-9AB00E7F7CA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:21.5792015Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aliases",
+    "itemPath": "/sitecore/system/Aliases",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "FMB_Application",
     "itemPath": "/sitecore/media library/Brochures/FMB_Application",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F80FF35A-DC6C-4141-8CBE-87E73ED25949}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:02.4075761Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB_Application",
+    "itemPath": "/sitecore/media library/Brochures/FMB_Application",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

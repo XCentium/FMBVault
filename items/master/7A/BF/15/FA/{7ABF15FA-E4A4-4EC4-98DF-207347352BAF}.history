@@ -13,9 +13,28 @@
     "itemName": "Flow Type",
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7ABF15FA-E4A4-4EC4-98DF-207347352BAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:38.1616240Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flow Type",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

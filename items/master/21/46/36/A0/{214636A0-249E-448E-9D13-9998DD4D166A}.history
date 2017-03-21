@@ -13,9 +13,28 @@
     "itemName": "CT",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/CT",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{214636A0-249E-448E-9D13-9998DD4D166A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:55.9246306Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CT",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/CT",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Home Loans",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures/Home Loans",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E771E206-470B-4E9C-8E24-71B07E8FE1D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:42.8741303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Loans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures/Home Loans",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

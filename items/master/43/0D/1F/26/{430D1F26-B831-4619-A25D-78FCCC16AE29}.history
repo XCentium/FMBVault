@@ -13,9 +13,28 @@
     "itemName": "Savings",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Savings",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{430D1F26-B831-4619-A25D-78FCCC16AE29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:42.7801303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Savings",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

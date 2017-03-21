@@ -13,9 +13,28 @@
     "itemName": "How Trusteer Works",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/How Trusteer Works",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7E19D66-2DE4-4124-BC64-D52C69AA98FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:19.8201232Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How Trusteer Works",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/How Trusteer Works",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

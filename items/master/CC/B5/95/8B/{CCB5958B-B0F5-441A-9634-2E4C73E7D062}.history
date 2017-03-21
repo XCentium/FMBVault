@@ -13,9 +13,28 @@
     "itemName": "Slider",
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Slider",
     "template": "Profile Key Control",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCB5958B-B0F5-441A-9634-2E4C73E7D062}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:46.4256249Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Slider",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Slider",
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

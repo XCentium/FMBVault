@@ -13,9 +13,28 @@
     "itemName": "Display name",
     "itemPath": "/sitecore/system/Settings/Subitems Sorting/Display name",
     "template": "Child Sorting",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44D1A0D2-E17B-4DAA-ADDF-53F2E8F58525}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:21.7036431Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Display name",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Display name",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

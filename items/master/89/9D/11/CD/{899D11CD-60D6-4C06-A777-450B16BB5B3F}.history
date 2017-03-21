@@ -13,9 +13,28 @@
     "itemName": "MVC Layout",
     "itemPath": "/sitecore/templates/Branches/System/Layouts/MVC Layout",
     "template": "Command Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{899D11CD-60D6-4C06-A777-450B16BB5B3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:29.9706424Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MVC Layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/MVC Layout",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

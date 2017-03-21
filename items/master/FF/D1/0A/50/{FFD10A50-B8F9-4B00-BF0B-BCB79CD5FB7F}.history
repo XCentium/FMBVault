@@ -13,9 +13,28 @@
     "itemName": "Anonymous User",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Personal Info/Anonymous User",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFD10A50-B8F9-4B00-BF0B-BCB79CD5FB7F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:28.7851231Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anonymous User",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Personal Info/Anonymous User",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

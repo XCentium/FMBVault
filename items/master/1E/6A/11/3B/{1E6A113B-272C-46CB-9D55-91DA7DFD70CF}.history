@@ -13,9 +13,28 @@
     "itemName": "FandM-Logo-Green",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FandM-Logo-Green",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1E6A113B-272C-46CB-9D55-91DA7DFD70CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:13.9311966Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FandM-Logo-Green",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FandM-Logo-Green",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

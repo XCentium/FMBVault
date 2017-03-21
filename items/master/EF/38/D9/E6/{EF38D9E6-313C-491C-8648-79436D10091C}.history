@@ -13,9 +13,28 @@
     "itemName": "_LoginTeaser",
     "itemPath": "/sitecore/templates/Feature/Accounts/_LoginTeaser",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF38D9E6-313C-491C-8648-79436D10091C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:32.9766427Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_LoginTeaser",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_LoginTeaser",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "arrowbox-right",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/arrowbox-right",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D75175EF-F393-4883-B136-6D28BE002264}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:13.5681981Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "arrowbox-right",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/arrowbox-right",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

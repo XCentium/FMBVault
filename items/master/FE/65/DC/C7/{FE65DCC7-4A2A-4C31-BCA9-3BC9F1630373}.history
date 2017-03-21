@@ -13,9 +13,28 @@
     "itemName": "Like",
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Like",
     "template": "Goal",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE65DCC7-4A2A-4C31-BCA9-3BC9F1630373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:26.2656176Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Like",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Like",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

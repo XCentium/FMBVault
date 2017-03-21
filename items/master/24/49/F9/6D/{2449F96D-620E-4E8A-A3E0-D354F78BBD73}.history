@@ -13,9 +13,28 @@
     "itemName": "Mp3",
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2449F96D-620E-4E8A-A3E0-D354F78BBD73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:25.8834167Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mp3",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

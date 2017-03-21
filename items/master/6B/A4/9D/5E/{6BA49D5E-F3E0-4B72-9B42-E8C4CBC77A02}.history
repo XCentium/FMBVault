@@ -13,9 +13,28 @@
     "itemName": "headlines",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/headlines",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6BA49D5E-F3E0-4B72-9B42-E8C4CBC77A02}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:22.9811234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "headlines",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/headlines",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

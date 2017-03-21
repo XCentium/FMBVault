@@ -13,9 +13,28 @@
     "itemName": "Twitter",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Social Menu/Twitter",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED40F161-FC99-40F2-A2F8-469A485BFCAA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:43.4771301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Social Menu/Twitter",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

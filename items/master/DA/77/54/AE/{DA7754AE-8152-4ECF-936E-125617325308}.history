@@ -13,9 +13,28 @@
     "itemName": "Visit 3",
     "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/History/Visit 3",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA7754AE-8152-4ECF-936E-125617325308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:10.0930224Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit 3",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/History/Visit 3",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

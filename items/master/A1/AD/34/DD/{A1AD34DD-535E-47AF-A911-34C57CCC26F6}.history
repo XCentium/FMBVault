@@ -13,9 +13,28 @@
     "itemName": "Quote",
     "itemPath": "/sitecore/layout/Renderings/Feature/Person/Quote",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1AD34DD-535E-47AF-A911-34C57CCC26F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.9965722Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quote",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person/Quote",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

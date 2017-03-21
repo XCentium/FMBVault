@@ -13,9 +13,28 @@
     "itemName": "SignOff-DiscoveryCube",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/SignOff-DiscoveryCube",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B956C0A3-1A8A-4FB7-802B-C440BDEA8F0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.1981950Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SignOff-DiscoveryCube",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/SignOff-DiscoveryCube",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

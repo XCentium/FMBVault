@@ -13,9 +13,28 @@
     "itemName": "Name Encoded Characters",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Name Encoded Characters",
     "template": "Validation Rule",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6E17B0F-3BFD-4B5E-A396-5FD6830EC080}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:24.3466432Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Name Encoded Characters",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Name Encoded Characters",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

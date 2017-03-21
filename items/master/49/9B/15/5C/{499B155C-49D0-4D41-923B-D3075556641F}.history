@@ -13,9 +13,28 @@
     "itemName": "Customer Recognition",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/News and Community/Customer Recognition",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{499B155C-49D0-4D41-923B-D3075556641F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:48.0341303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Customer Recognition",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/News and Community/Customer Recognition",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

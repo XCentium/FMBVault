@@ -13,9 +13,28 @@
     "itemName": "FHashmi",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/FHashmi",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4AD19547-65D6-4C47-8A3A-C3784695C12C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.6951939Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FHashmi",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/FHashmi",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

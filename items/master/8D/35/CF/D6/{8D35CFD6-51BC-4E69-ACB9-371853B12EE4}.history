@@ -13,9 +13,28 @@
     "itemName": "teaser-placeholder-10",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Teaser Placeholders/teaser-placeholder-10",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D35CFD6-51BC-4E69-ACB9-371853B12EE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:52.6991303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "teaser-placeholder-10",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Teaser Placeholders/teaser-placeholder-10",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

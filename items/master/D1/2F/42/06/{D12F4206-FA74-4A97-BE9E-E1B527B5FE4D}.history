@@ -13,9 +13,28 @@
     "itemName": "Alerts",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Alerts",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D12F4206-FA74-4A97-BE9E-E1B527B5FE4D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:27.4141230Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Alerts",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

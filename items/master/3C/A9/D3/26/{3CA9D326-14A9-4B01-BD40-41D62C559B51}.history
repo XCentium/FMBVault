@@ -13,9 +13,28 @@
     "itemName": "Are Chip EMV and Smart Chip different",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/Are Chip EMV and Smart Chip different",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CA9D326-14A9-4B01-BD40-41D62C559B51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:33.3281241Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Are Chip EMV and Smart Chip different",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/Are Chip EMV and Smart Chip different",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

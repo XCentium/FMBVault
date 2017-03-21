@@ -13,9 +13,28 @@
     "itemName": "Field Options Folder",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Field Options Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AEBBBE7-9949-4C78-BA00-39D6F910B2F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:47.2996496Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Field Options Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Field Options Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

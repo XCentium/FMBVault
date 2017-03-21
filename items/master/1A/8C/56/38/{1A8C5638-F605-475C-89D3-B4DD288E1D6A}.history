@@ -13,9 +13,28 @@
     "itemName": "New class",
     "itemPath": "/sitecore/templates/System/Html editor/HTML Translation/Data/New class",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A8C5638-F605-475C-89D3-B4DD288E1D6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:12.3530223Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New class",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Translation/Data/New class",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

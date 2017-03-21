@@ -13,9 +13,28 @@
     "itemName": "Which of my FM accounts can I transfer money between",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - Transfers/Which of my FM accounts can I transfer money between",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C9B91C0-0C03-44A6-A82B-9A153CC634DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:36.8881300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Which of my FM accounts can I transfer money between",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - Transfers/Which of my FM accounts can I transfer money between",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

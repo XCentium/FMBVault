@@ -13,9 +13,28 @@
     "itemName": "Register Failed",
     "itemPath": "/sitecore/media library/System/Page Event Images/Register Failed",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0AFA86B-9338-4B9A-9632-A609A78C53F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:20.0862010Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register Failed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Register Failed",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

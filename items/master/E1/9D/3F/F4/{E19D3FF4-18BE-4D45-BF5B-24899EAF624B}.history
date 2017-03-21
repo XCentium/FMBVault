@@ -13,9 +13,28 @@
     "itemName": "Metadata",
     "itemPath": "/sitecore/templates/Feature/Metadata/_SiteMetadata/Metadata",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E19D3FF4-18BE-4D45-BF5B-24899EAF624B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:37.8186470Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Metadata",
+    "itemPath": "/sitecore/templates/Feature/Metadata/_SiteMetadata/Metadata",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

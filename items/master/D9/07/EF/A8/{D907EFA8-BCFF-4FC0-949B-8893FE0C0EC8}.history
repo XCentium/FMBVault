@@ -13,9 +13,28 @@
     "itemName": "Footer Mobile App Menu",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Footer/Footer Mobile App Menu",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D907EFA8-BCFF-4FC0-949B-8893FE0C0EC8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:51.6241304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer Mobile App Menu",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Footer/Footer Mobile App Menu",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

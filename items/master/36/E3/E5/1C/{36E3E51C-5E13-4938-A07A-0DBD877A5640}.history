@@ -13,9 +13,28 @@
     "itemName": "Form Controller Name",
     "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Data/Form Controller Name",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36E3E51C-5E13-4938-A07A-0DBD877A5640}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:21.1120307Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Controller Name",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Data/Form Controller Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

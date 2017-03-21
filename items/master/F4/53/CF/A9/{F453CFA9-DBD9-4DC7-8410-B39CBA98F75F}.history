@@ -13,9 +13,28 @@
     "itemName": "Indexing",
     "itemPath": "/sitecore/templates/Foundation/Indexing/_IndexedItem/Indexing",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F453CFA9-DBD9-4DC7-8410-B39CBA98F75F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:44.3996494Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indexing",
+    "itemPath": "/sitecore/templates/Foundation/Indexing/_IndexedItem/Indexing",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

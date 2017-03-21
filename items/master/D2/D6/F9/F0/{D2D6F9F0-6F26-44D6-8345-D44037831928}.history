@@ -13,9 +13,28 @@
     "itemName": "Test Outcome by Test Id",
     "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Test Outcome by Test Id",
     "template": "ReportQuery",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2D6F9F0-6F26-44D6-8345-D44037831928}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:54.4376303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Outcome by Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Test Outcome by Test Id",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

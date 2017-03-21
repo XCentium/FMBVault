@@ -13,9 +13,28 @@
     "itemName": "Paid",
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Paid",
     "template": "Traffic Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7E77613-B890-4A8A-A983-747635727733}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:48.4516299Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Paid",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

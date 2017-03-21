@@ -13,9 +13,28 @@
     "itemName": "bg-media",
     "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-media",
     "template": "Background Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DEE1F8F7-E786-4D38-A009-878535A6C933}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:57.2736300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bg-media",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-media",
+    "template": "Background Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Navigation Group",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Navigation/Navigation Group",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{603A5A97-19EE-40C8-BF4C-0A163B40D841}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:49.5196494Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation Group",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Navigation/Navigation Group",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

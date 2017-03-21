@@ -13,9 +13,28 @@
     "itemName": "Comparisons",
     "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons",
     "template": "Comparison Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58E1774C-D34F-45AF-BA59-CE5F66758734}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:48.9211299Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comparisons",
+    "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons",
+    "template": "Comparison Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

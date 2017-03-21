@@ -13,9 +13,28 @@
     "itemName": "Other Services Menu",
     "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Other Services Menu",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F58046E9-3C0E-4109-AC04-F354BA49EFC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.2405722Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Services Menu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Other Services Menu",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

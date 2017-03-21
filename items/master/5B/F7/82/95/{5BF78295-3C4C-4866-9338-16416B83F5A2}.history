@@ -13,9 +13,28 @@
     "itemName": "Outcome maps",
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Global maps/Outcome maps",
     "template": "MapGroup",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5BF78295-3C4C-4866-9338-16416B83F5A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:29.9926164Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Outcome maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Global maps/Outcome maps",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

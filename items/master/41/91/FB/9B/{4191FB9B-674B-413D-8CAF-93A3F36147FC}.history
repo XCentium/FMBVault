@@ -13,9 +13,28 @@
     "itemName": "Created Date",
     "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata/Created Date",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4191FB9B-674B-413D-8CAF-93A3F36147FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:41.6594233Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Created Date",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata/Created Date",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Previous",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Media/Carousel/Previous",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76A4FC67-0059-4D42-95E6-E57A29253B48}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:29.4041230Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Previous",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Media/Carousel/Previous",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

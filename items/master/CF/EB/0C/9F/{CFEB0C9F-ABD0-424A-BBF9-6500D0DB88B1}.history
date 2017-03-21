@@ -13,9 +13,28 @@
     "itemName": "Navigation",
     "itemPath": "/sitecore/templates/Feature/Navigation/_Link/Navigation",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFEB0C9F-ABD0-424A-BBF9-6500D0DB88B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:38.2646497Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_Link/Navigation",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

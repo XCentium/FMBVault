@@ -13,9 +13,28 @@
     "itemName": "Michael Bueche",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Laguna Hills/Michael Bueche",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E9E0780-B742-439D-965C-F73343311AF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:31.4851238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Michael Bueche",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Laguna Hills/Michael Bueche",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

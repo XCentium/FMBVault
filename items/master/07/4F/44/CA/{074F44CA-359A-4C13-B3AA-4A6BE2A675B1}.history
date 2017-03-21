@@ -13,9 +13,28 @@
     "itemName": "Validation",
     "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Validation",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:47.1974312Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Validation",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

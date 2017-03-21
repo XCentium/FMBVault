@@ -13,9 +13,28 @@
     "itemName": "Who do I call if I have questions about submitting my Wire Transfers with One Time PIN",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time Pin - Wires/Who do I call if I have questions about submitting my Wire Transfers with One Time PIN",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5BB4A7D-83B4-4995-889E-A3A1FF2ADC3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:36.6031300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Who do I call if I have questions about submitting my Wire Transfers with One Time PIN",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time Pin - Wires/Who do I call if I have questions about submitting my Wire Transfers with One Time PIN",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

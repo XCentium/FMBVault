@@ -13,9 +13,28 @@
     "itemName": "__Long description",
     "itemPath": "/sitecore/templates/System/Templates/Sections/Help/Help/__Long description",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{577F1689-7DE4-4AD2-A15F-7FDC1759285F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:44.7964237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Long description",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Help/Help/__Long description",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Latest News",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/News/Latest News",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8794F01-3927-439E-AACA-CCADBE12CA34}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:29.4411234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest News",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/News/Latest News",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

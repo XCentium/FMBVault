@@ -13,9 +13,28 @@
     "itemName": "Section With Media",
     "itemPath": "/sitecore/media library/Feature/Media/Section With Media",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2AA26F9-520E-4DD8-84C6-22219E99EDE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:05.5931942Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Section With Media",
+    "itemPath": "/sitecore/media library/Feature/Media/Section With Media",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

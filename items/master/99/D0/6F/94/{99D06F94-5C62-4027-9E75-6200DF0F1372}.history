@@ -13,9 +13,28 @@
     "itemName": "_HasEmployees",
     "itemPath": "/sitecore/templates/Feature/Office/_HasEmployees",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99D06F94-5C62-4027-9E75-6200DF0F1372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:38.9946495Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasEmployees",
+    "itemPath": "/sitecore/templates/Feature/Office/_HasEmployees",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

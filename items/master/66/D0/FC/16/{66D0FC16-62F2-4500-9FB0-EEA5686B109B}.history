@@ -13,9 +13,28 @@
     "itemName": "PMeyers",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/PMeyers",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66D0FC16-62F2-4500-9FB0-EEA5686B109B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:11.3621941Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PMeyers",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/PMeyers",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

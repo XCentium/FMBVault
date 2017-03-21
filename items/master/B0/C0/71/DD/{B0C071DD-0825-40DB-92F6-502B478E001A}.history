@@ -13,9 +13,28 @@
     "itemName": "Search Query Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder",
     "template": "Element Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0C071DD-0825-40DB-92F6-502B478E001A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:59.9936301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Query Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

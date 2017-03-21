@@ -13,9 +13,28 @@
     "itemName": "External Links Without Modal",
     "itemPath": "/sitecore/templates/Foundation/Multisite/External Links Modal/Data/External Links Without Modal",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{886C33E3-B2DD-4BA8-BE17-0F79BDA1195F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:44.8126499Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "External Links Without Modal",
+    "itemPath": "/sitecore/templates/Foundation/Multisite/External Links Modal/Data/External Links Without Modal",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

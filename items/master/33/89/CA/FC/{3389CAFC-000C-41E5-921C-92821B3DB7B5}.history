@@ -13,9 +13,28 @@
     "itemName": "Facebook Open Graph Metadata",
     "itemPath": "/sitecore/layout/Renderings/Feature/Social/Facebook Open Graph Metadata",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3389CAFC-000C-41E5-921C-92821B3DB7B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.1885724Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook Open Graph Metadata",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Social/Facebook Open Graph Metadata",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

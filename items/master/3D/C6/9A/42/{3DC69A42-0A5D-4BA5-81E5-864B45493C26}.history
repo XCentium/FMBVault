@@ -13,9 +13,28 @@
     "itemName": "Seychelles",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Seychelles",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DC69A42-0A5D-4BA5-81E5-864B45493C26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:44.0906240Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Seychelles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Seychelles",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

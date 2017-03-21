@@ -13,9 +13,28 @@
     "itemName": "Paid search",
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search",
     "template": "DimensionFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F201003B-514B-4A86-8C56-48B39DE53306}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:29.2606174Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search",
+    "template": "DimensionFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

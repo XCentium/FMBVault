@@ -13,9 +13,28 @@
     "itemName": "Notifications",
     "itemPath": "/sitecore/content/FMBCom/Global/Notifications",
     "template": "Notification Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8940ECD5-1026-412F-AA09-0E83C524EDC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:24.1581228Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notifications",
+    "itemPath": "/sitecore/content/FMBCom/Global/Notifications",
+    "template": "Notification Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

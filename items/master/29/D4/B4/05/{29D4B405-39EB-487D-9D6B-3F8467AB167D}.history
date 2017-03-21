@@ -13,9 +13,28 @@
     "itemName": "Teaser Folder",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Teasers/Teaser Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29D4B405-39EB-487D-9D6B-3F8467AB167D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:49.9556496Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teaser Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Teasers/Teaser Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Savings Account - Limitations",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Savings Account - Limitations",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4A3E8F5-A8A1-4308-9C68-EE0CB707BCE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:25.6851237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Account - Limitations",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Savings Account - Limitations",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

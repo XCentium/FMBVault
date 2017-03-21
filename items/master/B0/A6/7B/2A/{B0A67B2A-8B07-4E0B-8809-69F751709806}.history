@@ -13,9 +13,28 @@
     "itemName": "__Tracking",
     "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Tracking",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0A67B2A-8B07-4E0B-8809-69F751709806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:44.2274229Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Tracking",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Tracking",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

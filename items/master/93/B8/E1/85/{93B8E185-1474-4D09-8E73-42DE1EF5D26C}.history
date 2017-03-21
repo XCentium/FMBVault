@@ -13,9 +13,28 @@
     "itemName": "Item",
     "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Definition/Data/Item",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93B8E185-1474-4D09-8E73-42DE1EF5D26C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:05.8780231Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Definition/Data/Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

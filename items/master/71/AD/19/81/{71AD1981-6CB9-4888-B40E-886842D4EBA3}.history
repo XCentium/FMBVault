@@ -13,9 +13,28 @@
     "itemName": "Malawi",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Malawi",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71AD1981-6CB9-4888-B40E-886842D4EBA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:42.3626216Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Malawi",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Malawi",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

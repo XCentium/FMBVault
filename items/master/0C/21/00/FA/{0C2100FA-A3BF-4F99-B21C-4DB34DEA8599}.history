@@ -70,9 +70,28 @@
     "itemName": "CD Rates",
     "itemPath": "/sitecore/content/FMBCom/Home/CD Rates",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C2100FA-A3BF-4F99-B21C-4DB34DEA8599}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:17.8541227Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CD Rates",
+    "itemPath": "/sitecore/content/FMBCom/Home/CD Rates",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "NetworkProperty",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
     "template": "Macro",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB82EAC5-3A9A-47FF-956A-5D79E31EAFD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:12.3916372Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NetworkProperty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

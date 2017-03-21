@@ -13,9 +13,28 @@
     "itemName": "UseAllDatabase",
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/UseAllDatabase",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08B40FF0-F812-4DCF-83A8-F05E493831F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:46.3876495Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UseAllDatabase",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/UseAllDatabase",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

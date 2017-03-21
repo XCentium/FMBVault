@@ -13,9 +13,28 @@
     "itemName": "Social",
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Global maps/Channel maps/Social",
     "template": "ChannelMap",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D3C6A8D-D99F-4F9D-B4AD-F981C68DCBA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:30.4516174Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Global maps/Channel maps/Social",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

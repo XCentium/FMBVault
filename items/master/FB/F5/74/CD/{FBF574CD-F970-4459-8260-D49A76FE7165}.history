@@ -13,9 +13,28 @@
     "itemName": "Business Overview",
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview/Business Overview",
     "template": "Report",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBF574CD-F970-4459-8260-D49A76FE7165}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:50.1696290Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview/Business Overview",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

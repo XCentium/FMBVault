@@ -13,9 +13,28 @@
     "itemName": "Rules",
     "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Map Groups/Rules",
     "template": "Rules Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7AD6858-3F1D-45C2-B85F-7A6F3F91B9E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:20.4676427Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Map Groups/Rules",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

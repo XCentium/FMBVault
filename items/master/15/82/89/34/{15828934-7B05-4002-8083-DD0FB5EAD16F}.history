@@ -13,9 +13,28 @@
     "itemName": "Business",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Main Navigation/Default/Business",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15828934-7B05-4002-8083-DD0FB5EAD16F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:46.5691288Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Main Navigation/Default/Business",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

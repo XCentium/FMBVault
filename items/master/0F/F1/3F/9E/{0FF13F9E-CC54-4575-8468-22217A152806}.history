@@ -13,9 +13,28 @@
     "itemName": "Anand Chokshi",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Main Office/Anand Chokshi",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FF13F9E-CC54-4575-8468-22217A152806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:31.6231235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anand Chokshi",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Main Office/Anand Chokshi",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

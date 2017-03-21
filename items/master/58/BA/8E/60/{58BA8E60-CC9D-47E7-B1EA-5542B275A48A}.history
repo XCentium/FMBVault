@@ -13,9 +13,28 @@
     "itemName": "East Long Beach",
     "itemPath": "/sitecore/content/FMBCom/Global/Offices/East Long Beach",
     "template": "Office Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58BA8E60-CC9D-47E7-B1EA-5542B275A48A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:48.4521315Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "East Long Beach",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/East Long Beach",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

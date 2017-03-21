@@ -13,9 +13,28 @@
     "itemName": "LastRenewalDate",
     "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/LastRenewalDate",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BFA1D0D-46B5-4C99-B40F-EAC683C1C9D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:40.0354224Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LastRenewalDate",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/LastRenewalDate",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

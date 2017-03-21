@@ -13,9 +13,28 @@
     "itemName": "_Quote",
     "itemPath": "/sitecore/templates/Feature/Person/_Quote",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{755F1188-D385-4717-8681-EF45F2258575}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:40.4036499Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_Quote",
+    "itemPath": "/sitecore/templates/Feature/Person/_Quote",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "How-To Sign Up for eStatements",
     "itemPath": "/sitecore/content/FMBCom/Home/How To/How-To Sign Up for eStatements",
     "template": "How To",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D7945F8-73E7-46F3-B029-49A2E829406E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:19.0501232Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To Sign Up for eStatements",
+    "itemPath": "/sitecore/content/FMBCom/Home/How To/How-To Sign Up for eStatements",
+    "template": "How To",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

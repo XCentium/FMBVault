@@ -13,9 +13,28 @@
     "itemName": "End Visit",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar/End Visit",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E04C6860-137F-4606-84A7-93A65A4BB2A6}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:29.9931236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Visit",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar/End Visit",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

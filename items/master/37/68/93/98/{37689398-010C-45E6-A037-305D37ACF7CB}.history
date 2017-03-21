@@ -13,9 +13,28 @@
     "itemName": "Footer",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Footer",
     "template": "Placeholder Settings Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37689398-010C-45E6-A037-305D37ACF7CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:51.2871298Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Footer",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

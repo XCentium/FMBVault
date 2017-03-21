@@ -13,9 +13,28 @@
     "itemName": "Asset facet 2",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset facet 2",
     "template": "Custom taxonomy",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45000106-8DF4-4145-9B33-ADB09F6DD365}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:22.8542029Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset facet 2",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset facet 2",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

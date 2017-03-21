@@ -13,9 +13,28 @@
     "itemName": "TagRepository",
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:50.5626304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagRepository",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Teaser Page",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page",
     "template": "Teaser Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E151CDEF-1A9F-449D-A87C-5CF5741FA857}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.5141305Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teaser Page",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page",
+    "template": "Teaser Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

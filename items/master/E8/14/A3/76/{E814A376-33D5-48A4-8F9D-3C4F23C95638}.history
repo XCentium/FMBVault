@@ -13,9 +13,28 @@
     "itemName": "associations",
     "itemPath": "/sitecore/media library/FMBCom/Images/associations",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E814A376-33D5-48A4-8F9D-3C4F23C95638}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:08.3891951Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "associations",
+    "itemPath": "/sitecore/media library/FMBCom/Images/associations",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Cocos Keeling Islands",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cocos Keeling Islands",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BA413E1-9BCE-42B1-8CE2-FF013BB6267E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:39.9916237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cocos Keeling Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cocos Keeling Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

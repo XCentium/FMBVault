@@ -13,9 +13,28 @@
     "itemName": "MichaelBueche-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/MichaelBueche-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC57F6A6-019F-4259-9C72-3D590C9B97B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:11.2841942Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MichaelBueche-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/MichaelBueche-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

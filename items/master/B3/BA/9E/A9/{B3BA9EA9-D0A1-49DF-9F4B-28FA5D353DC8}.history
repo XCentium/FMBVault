@@ -13,9 +13,28 @@
     "itemName": "JavascriptCodeBottom",
     "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets/Assets/JavascriptCodeBottom",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3BA9EA9-D0A1-49DF-9F4B-28FA5D353DC8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:44.1516492Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JavascriptCodeBottom",
+    "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets/Assets/JavascriptCodeBottom",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

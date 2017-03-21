@@ -13,9 +13,28 @@
     "itemName": "__Owner",
     "itemPath": "/sitecore/templates/System/Templates/Sections/Security/Security/__Owner",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52807595-0F8F-4B20-8D2A-CB71D28C6103}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:45.9634237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Owner",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Security/Security/__Owner",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

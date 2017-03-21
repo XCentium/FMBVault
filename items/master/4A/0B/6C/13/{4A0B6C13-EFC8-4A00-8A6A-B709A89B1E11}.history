@@ -13,9 +13,28 @@
     "itemName": "Twitter display",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Display/Twitter display",
     "template": "Channel",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A0B6C13-EFC8-4A00-8A6A-B709A89B1E11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:23.8976170Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter display",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Display/Twitter display",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

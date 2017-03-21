@@ -13,9 +13,28 @@
     "itemName": "Notify Author",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish/Publish/Notify Author",
     "template": "Workflow Email",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7886808A-38DC-4505-8763-122C783956EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:27.3426430Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notify Author",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish/Publish/Notify Author",
+    "template": "Workflow Email",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

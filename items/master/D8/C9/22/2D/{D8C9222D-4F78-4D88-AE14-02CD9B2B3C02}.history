@@ -13,9 +13,28 @@
     "itemName": "Email",
     "itemPath": "/sitecore/templates/Feature/Forms/_EmailRecipients/Email",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8C9222D-4F78-4D88-AE14-02CD9B2B3C02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.5836435Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/templates/Feature/Forms/_EmailRecipients/Email",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

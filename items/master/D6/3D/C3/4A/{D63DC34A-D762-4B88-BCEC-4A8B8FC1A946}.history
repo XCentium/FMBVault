@@ -13,9 +13,28 @@
     "itemName": "Configuration Setting",
     "itemPath": "/sitecore/templates/Foundation/Utilities/ConfigurationSetting/Configuration Setting",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D63DC34A-D762-4B88-BCEC-4A8B8FC1A946}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:45.4816494Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configuration Setting",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/ConfigurationSetting/Configuration Setting",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

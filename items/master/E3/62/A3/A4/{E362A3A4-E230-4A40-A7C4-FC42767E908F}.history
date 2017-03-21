@@ -13,9 +13,28 @@
     "itemName": "is less than",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E362A3A4-E230-4A40-A7C4-FC42767E908F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:15.4986367Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is less than",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

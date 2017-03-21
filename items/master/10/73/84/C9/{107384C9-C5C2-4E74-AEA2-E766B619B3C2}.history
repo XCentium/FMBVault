@@ -13,9 +13,28 @@
     "itemName": "Rolling Hills Estates",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rolling Hills Estates",
     "template": "Employee Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{107384C9-C5C2-4E74-AEA2-E766B619B3C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:30.9111240Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rolling Hills Estates",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rolling Hills Estates",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

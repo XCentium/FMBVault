@@ -13,9 +13,28 @@
     "itemName": "Twitter Feed",
     "itemPath": "/sitecore/layout/Renderings/Feature/Social/Twitter Feed",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CF58F14-D0F8-4C41-9896-3D69048A0B19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.2135722Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Feed",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Social/Twitter Feed",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

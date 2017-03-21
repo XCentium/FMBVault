@@ -13,9 +13,28 @@
     "itemName": "Calculator",
     "itemPath": "/sitecore/templates/Feature/Tools/_HasCalculator/Calculator",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{550DA0E8-4B42-4828-B2FD-46682FDC6655}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:43.1236494Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculator",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasCalculator/Calculator",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

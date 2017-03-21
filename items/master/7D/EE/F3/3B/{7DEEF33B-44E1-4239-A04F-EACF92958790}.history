@@ -13,9 +13,28 @@
     "itemName": "Testimonials",
     "itemPath": "/sitecore/templates/Feature/Testimonial/ParametersTemplates/ParametersTemplate_DisplayedTestimonials/Displayed Testimonials/Testimonials",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DEEF33B-44E1-4239-A04F-EACF92958790}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:42.6626492Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testimonials",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/ParametersTemplates/ParametersTemplate_DisplayedTestimonials/Displayed Testimonials/Testimonials",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

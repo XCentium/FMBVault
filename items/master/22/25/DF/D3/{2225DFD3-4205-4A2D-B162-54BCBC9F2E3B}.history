@@ -13,9 +13,28 @@
     "itemName": "WinnerCombination",
     "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/WinnerCombination",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2225DFD3-4205-4A2D-B162-54BCBC9F2E3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:07.0300226Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WinnerCombination",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/WinnerCombination",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

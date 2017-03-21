@@ -13,9 +13,28 @@
     "itemName": "CanIndex",
     "itemPath": "/sitecore/templates/Feature/Metadata/_PageMetadata/Metadata/CanIndex",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{683D7237-206A-488F-9DEE-4A4E41FB161D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:37.7396465Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CanIndex",
+    "itemPath": "/sitecore/templates/Feature/Metadata/_PageMetadata/Metadata/CanIndex",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

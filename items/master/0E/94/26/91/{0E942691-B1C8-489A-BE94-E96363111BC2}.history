@@ -13,9 +13,28 @@
     "itemName": "Body Image",
     "itemPath": "/sitecore/templates/Feature/HowTo/_HasHowTo/How-To/Body Image",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E942691-B1C8-489A-BE94-E96363111BC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:35.3326433Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Body Image",
+    "itemPath": "/sitecore/templates/Feature/HowTo/_HasHowTo/How-To/Body Image",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

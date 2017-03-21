@@ -13,9 +13,28 @@
     "itemName": "San Marino",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/San Marino",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B0AFE59-35C9-4CDA-8C4C-C9A22A3DD540}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:43.9376235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Marino",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/San Marino",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

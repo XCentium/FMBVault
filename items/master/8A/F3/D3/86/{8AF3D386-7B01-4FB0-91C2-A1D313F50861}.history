@@ -13,9 +13,28 @@
     "itemName": "CalClosets_Thumbnail",
     "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/Thumbnails/CalClosets_Thumbnail",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8AF3D386-7B01-4FB0-91C2-A1D313F50861}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:16.1491944Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CalClosets_Thumbnail",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/Thumbnails/CalClosets_Thumbnail",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

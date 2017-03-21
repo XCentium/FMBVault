@@ -13,9 +13,28 @@
     "itemName": "CardAlerts-2016",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/CardAlerts-2016",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F1EB59C-DD3D-49E1-ABDC-510E4ECC8337}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:09.7611944Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CardAlerts-2016",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/CardAlerts-2016",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

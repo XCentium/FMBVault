@@ -13,9 +13,28 @@
     "itemName": "Next state",
     "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Next state",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA367915-B5A1-4E32-B35F-D7C9ECD399EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:49.3472534Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Next state",
+    "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Next state",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

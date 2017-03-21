@@ -13,9 +13,28 @@
     "itemName": "IsAuthorFeedback",
     "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsAuthorFeedback",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89776A46-3319-43F2-9D80-4FEB8A8E069E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:00.8660242Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsAuthorFeedback",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsAuthorFeedback",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Phone_Tablet",
     "itemPath": "/sitecore/media library/FMBCom/Images/General/Phone_Tablet",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{459AAEBF-4F58-4A32-9A4F-6408C28B0F2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:12.6111967Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phone_Tablet",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Phone_Tablet",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

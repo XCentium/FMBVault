@@ -13,9 +13,28 @@
     "itemName": "Purchase",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/CRE Loan Purpose List/Purchase",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6CAB4F1F-8EE3-4996-B9E1-7D5DCBDB8A17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:38.9841298Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Purchase",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/CRE Loan Purpose List/Purchase",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

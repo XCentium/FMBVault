@@ -13,9 +13,28 @@
     "itemName": "Locations",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Main Navigation/Default/Locations",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A65A5C82-F8A5-4409-84CE-F4C80DF39A08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:46.6631293Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Locations",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Main Navigation/Default/Locations",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

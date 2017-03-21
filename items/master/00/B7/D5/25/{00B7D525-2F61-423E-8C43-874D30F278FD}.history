@@ -13,9 +13,28 @@
     "itemName": "Our Clients",
     "itemPath": "/sitecore/content/FMBCom/Home/Our Clients",
     "template": "Navigation Link",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00B7D525-2F61-423E-8C43-874D30F278FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:18.4481232Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Our Clients",
+    "itemPath": "/sitecore/content/FMBCom/Home/Our Clients",
+    "template": "Navigation Link",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

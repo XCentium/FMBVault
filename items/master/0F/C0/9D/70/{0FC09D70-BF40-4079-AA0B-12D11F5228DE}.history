@@ -13,9 +13,28 @@
     "itemName": "Sweden",
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/Sweden",
     "template": "Predefined Filter Value",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FC09D70-BF40-4079-AA0B-12D11F5228DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:33.2226176Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sweden",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/Sweden",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Business",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business",
     "template": "Bucket",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6707B20-0635-4C12-B7ED-AFE6304D1771}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:34.8996175Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

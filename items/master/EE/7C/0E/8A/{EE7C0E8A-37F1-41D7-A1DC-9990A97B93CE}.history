@@ -13,9 +13,28 @@
     "itemName": "Download",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Download",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE7C0E8A-37F1-41D7-A1DC-9990A97B93CE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.2661301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Download",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

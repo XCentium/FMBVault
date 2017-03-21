@@ -13,9 +13,28 @@
     "itemName": "Success Stories",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousel Slides/Scrolling/Success Stories",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9FAF5CA-EA4B-48AC-91A1-1BD66A8B935B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:45.1591302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Success Stories",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousel Slides/Scrolling/Success Stories",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

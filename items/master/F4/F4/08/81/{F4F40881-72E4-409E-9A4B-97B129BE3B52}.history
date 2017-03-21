@@ -13,9 +13,28 @@
     "itemName": "Conditional Renderings",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Conditional Renderings",
     "template": "Element Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4F40881-72E4-409E-9A4B-97B129BE3B52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:59.2686301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Conditional Renderings",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Conditional Renderings",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

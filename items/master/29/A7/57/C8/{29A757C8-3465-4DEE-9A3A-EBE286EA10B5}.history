@@ -13,9 +13,28 @@
     "itemName": "Sub Navigation",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/Navigation/Sub Navigation",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29A757C8-3465-4DEE-9A3A-EBE286EA10B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.4721236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sub Navigation",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/Navigation/Sub Navigation",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

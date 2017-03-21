@@ -13,9 +13,28 @@
     "itemName": "Rules Context Folder",
     "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Rules Context Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:37.1064234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules Context Folder",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Rules Context Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

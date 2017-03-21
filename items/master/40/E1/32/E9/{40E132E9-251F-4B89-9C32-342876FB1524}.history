@@ -13,9 +13,28 @@
     "itemName": "Content Search Enabled",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Content Search Enabled",
     "template": "Condition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40E132E9-251F-4B89-9C32-342876FB1524}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:08.8886359Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Search Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Content Search Enabled",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

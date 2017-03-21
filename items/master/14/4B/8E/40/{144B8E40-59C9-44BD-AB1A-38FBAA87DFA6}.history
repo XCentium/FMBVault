@@ -13,9 +13,28 @@
     "itemName": "Lake Forest",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest",
     "template": "Employee Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{144B8E40-59C9-44BD-AB1A-38FBAA87DFA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:30.7041236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lake Forest",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

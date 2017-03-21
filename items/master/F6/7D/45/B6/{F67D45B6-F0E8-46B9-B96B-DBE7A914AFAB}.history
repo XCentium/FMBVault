@@ -13,9 +13,28 @@
     "itemName": "FMBLANDING-Footer-1920x600",
     "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/FMBLANDING-Footer-1920x600",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F67D45B6-F0E8-46B9-B96B-DBE7A914AFAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:08.9221941Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBLANDING-Footer-1920x600",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/FMBLANDING-Footer-1920x600",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

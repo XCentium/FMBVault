@@ -13,9 +13,28 @@
     "itemName": "default",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Recipients/default",
     "template": "Form Recipients",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{299ACD7C-DE80-4D55-8304-C7819734EF17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:37.7961275Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Recipients/default",
+    "template": "Form Recipients",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

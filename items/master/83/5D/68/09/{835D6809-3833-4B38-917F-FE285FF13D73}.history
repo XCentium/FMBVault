@@ -13,9 +13,28 @@
     "itemName": "1 What are FM Card Alerts",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/1 What are FM Card Alerts",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{835D6809-3833-4B38-917F-FE285FF13D73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:32.6901222Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "1 What are FM Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/1 What are FM Card Alerts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

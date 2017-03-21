@@ -13,9 +13,28 @@
     "itemName": "Mobile App Menu",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Mobile App Menu",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8D4B00E-2DAC-4346-ADB9-3EA5A55804CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:41.3021299Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile App Menu",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Mobile App Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

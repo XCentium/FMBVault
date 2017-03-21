@@ -13,9 +13,28 @@
     "itemName": "Phone",
     "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Phone",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3EC2229-CB60-47C9-88DE-F72C0638A9A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:39.4596481Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phone",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Phone",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -89,9 +89,28 @@
     "itemName": "Customer Recognition Programs",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/News and Community/Customer Recognition Programs",
     "template": "Redirect Url",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0B004BE-AADB-4FAE-B3CD-CC52D35F7E32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:35.3206175Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Customer Recognition Programs",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/News and Community/Customer Recognition Programs",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

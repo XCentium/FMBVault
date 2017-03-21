@@ -13,9 +13,28 @@
     "itemName": "Disabled",
     "itemPath": "/sitecore/templates/System/Html editor/Setting group/Data/Disabled",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F4DDC2D-9C99-45C9-815D-D0FE45D15BCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:12.4090228Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disabled",
+    "itemPath": "/sitecore/templates/System/Html editor/Setting group/Data/Disabled",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

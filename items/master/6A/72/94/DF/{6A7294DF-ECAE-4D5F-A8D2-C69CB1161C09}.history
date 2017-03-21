@@ -13,9 +13,28 @@
     "itemName": "is not case-insensitively equal to",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is not case-insensitively equal to",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A7294DF-ECAE-4D5F-A8D2-C69CB1161C09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:15.7126366Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is not case-insensitively equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is not case-insensitively equal to",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

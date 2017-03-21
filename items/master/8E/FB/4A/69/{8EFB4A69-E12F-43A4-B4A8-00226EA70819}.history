@@ -13,9 +13,28 @@
     "itemName": "Website",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EFB4A69-E12F-43A4-B4A8-00226EA70819}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:27.6381224Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Website",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

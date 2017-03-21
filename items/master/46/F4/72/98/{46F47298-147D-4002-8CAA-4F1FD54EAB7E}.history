@@ -13,9 +13,28 @@
     "itemName": "Massachusetts",
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Massachusetts",
     "template": "Predefined Filter Value",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46F47298-147D-4002-8CAA-4F1FD54EAB7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:33.8446176Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Massachusetts",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Massachusetts",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

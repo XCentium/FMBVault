@@ -13,9 +13,28 @@
     "itemName": "June 18 - Tustin",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/June 18 - Tustin",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9693A112-58D9-4D91-B4DD-8029F8129393}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:39.6061302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "June 18 - Tustin",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/June 18 - Tustin",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

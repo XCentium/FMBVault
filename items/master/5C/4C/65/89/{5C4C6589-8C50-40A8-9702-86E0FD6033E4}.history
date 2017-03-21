@@ -13,9 +13,28 @@
     "itemName": "Rolling Hills Estates Branch Transformation",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/05/Rolling Hills Estates Branch Transformation",
     "template": "News Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C4C6589-8C50-40A8-9702-86E0FD6033E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:21.9241226Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rolling Hills Estates Branch Transformation",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/05/Rolling Hills Estates Branch Transformation",
+    "template": "News Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "New Content Editor",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Content Editor",
     "template": "Open Result Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE75A859-C17B-43C1-82ED-961FE4A37E19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:53.0716304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Content Editor",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Content Editor",
+    "template": "Open Result Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

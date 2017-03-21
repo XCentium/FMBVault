@@ -13,9 +13,28 @@
     "itemName": "Press",
     "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/Press",
     "template": "Modal Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74D7EB43-A6EA-4E11-AF41-1DF61B6B5392}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:46.2771302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Press",
+    "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/Press",
+    "template": "Modal Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

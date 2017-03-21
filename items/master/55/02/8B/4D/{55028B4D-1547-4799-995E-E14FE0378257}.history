@@ -13,9 +13,28 @@
     "itemName": "Matcher Rule",
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Page Filter/Configuration/Matcher Rule",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55028B4D-1547-4799-995E-E14FE0378257}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:59.8100227Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Matcher Rule",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Page Filter/Configuration/Matcher Rule",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

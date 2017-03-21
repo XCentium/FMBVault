@@ -13,9 +13,28 @@
     "itemName": "personal-banner-default",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/personal-banner-default",
     "template": "Carousel",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2724181-B1D7-4F47-8D34-89CA4C02A9D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:45.4711300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "personal-banner-default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/personal-banner-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

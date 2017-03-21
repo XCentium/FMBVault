@@ -13,9 +13,28 @@
     "itemName": "Edit Message",
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Edit/Edit Message",
     "template": "Action",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DEC8F91-C45B-4E38-A6C7-01F1F865F2C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:28.6646405Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Message",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Edit/Edit Message",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

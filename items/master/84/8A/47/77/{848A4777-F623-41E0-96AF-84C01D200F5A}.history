@@ -13,9 +13,28 @@
     "itemName": "Please Review Definitions - Savings",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Please Review Definitions - Savings",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{848A4777-F623-41E0-96AF-84C01D200F5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:25.5431232Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Please Review Definitions - Savings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Please Review Definitions - Savings",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

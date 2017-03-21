@@ -13,9 +13,28 @@
     "itemName": "Tracking Enabled",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Tracking/Tracking Enabled",
     "template": "Condition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{511843B5-62DE-46AB-86C5-002F017D053C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:09.6426367Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tracking Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Tracking/Tracking Enabled",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

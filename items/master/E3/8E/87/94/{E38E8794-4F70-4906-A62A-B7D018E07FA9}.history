@@ -13,9 +13,28 @@
     "itemName": "Reach For Rule",
     "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Reach For Rule",
     "template": "ReportQuery",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E38E8794-4F70-4906-A62A-B7D018E07FA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:54.3476300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reach For Rule",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Reach For Rule",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

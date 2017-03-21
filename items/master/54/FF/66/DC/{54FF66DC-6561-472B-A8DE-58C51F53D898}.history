@@ -13,9 +13,28 @@
     "itemName": "__Method Rendering",
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Method Rendering",
     "template": "Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54FF66DC-6561-472B-A8DE-58C51F53D898}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:30.2176430Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Method Rendering",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Method Rendering",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

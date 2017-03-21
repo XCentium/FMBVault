@@ -13,9 +13,28 @@
     "itemName": "Long Beach 78th Christmas Apples Tradition",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/12/Long Beach 78th Christmas Apples Tradition",
     "template": "News Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D2413E1-298F-4CF1-8A10-0DD4C6AA04BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:22.0181235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Beach 78th Christmas Apples Tradition",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/12/Long Beach 78th Christmas Apples Tradition",
+    "template": "News Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

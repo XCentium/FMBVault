@@ -13,9 +13,28 @@
     "itemName": "Accordion",
     "itemPath": "/sitecore/templates/System/Experience Explorer/Accordion",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00A60C7A-2373-4E30-8197-920B8374509E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:08.7210228Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Accordion",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Accordion",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

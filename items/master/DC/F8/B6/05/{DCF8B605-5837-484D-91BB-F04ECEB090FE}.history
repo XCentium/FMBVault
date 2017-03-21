@@ -13,9 +13,28 @@
     "itemName": "Helix",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Helix",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCF8B605-5837-484D-91BB-F04ECEB090FE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.3901303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Helix",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Helix",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

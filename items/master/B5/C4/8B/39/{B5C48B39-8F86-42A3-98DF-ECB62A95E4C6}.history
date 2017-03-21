@@ -13,9 +13,28 @@
     "itemName": "EmailFrom_RLD",
     "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/EmailFrom_RLD",
     "template": "ConfigurationSetting",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5C48B39-8F86-42A3-98DF-ECB62A95E4C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.6801236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EmailFrom_RLD",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/EmailFrom_RLD",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

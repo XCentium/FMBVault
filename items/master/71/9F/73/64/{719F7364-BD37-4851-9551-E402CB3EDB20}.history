@@ -13,9 +13,28 @@
     "itemName": "Banner Zone - Hero",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Banner/Banner Zone - Hero",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{719F7364-BD37-4851-9551-E402CB3EDB20}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:51.7471295Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banner Zone - Hero",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Banner/Banner Zone - Hero",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

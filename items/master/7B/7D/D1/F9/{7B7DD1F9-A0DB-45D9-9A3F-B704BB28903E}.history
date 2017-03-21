@@ -13,9 +13,28 @@
     "itemName": "Employee Teaser",
     "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Teaser",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B7DD1F9-A0DB-45D9-9A3F-B704BB28903E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.9235719Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Teaser",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Teaser",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

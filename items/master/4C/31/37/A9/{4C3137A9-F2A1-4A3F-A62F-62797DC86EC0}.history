@@ -13,9 +13,28 @@
     "itemName": "Text",
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Text",
     "template": "Profile Key Control",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C3137A9-F2A1-4A3F-A62F-62797DC86EC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:46.5036259Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Text",
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

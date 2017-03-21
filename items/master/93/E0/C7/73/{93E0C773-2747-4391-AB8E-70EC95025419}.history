@@ -13,9 +13,28 @@
     "itemName": "Zone",
     "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Zone",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93E0C773-2747-4391-AB8E-70EC95025419}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:30.8544232Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zone",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Zone",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

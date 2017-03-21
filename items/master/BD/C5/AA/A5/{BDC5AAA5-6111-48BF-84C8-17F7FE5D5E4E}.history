@@ -13,9 +13,28 @@
     "itemName": "Feature",
     "itemPath": "/sitecore/layout/Renderings/Feature",
     "template": "Rendering Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDC5AAA5-6111-48BF-84C8-17F7FE5D5E4E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:52.9611303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feature",
+    "itemPath": "/sitecore/layout/Renderings/Feature",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

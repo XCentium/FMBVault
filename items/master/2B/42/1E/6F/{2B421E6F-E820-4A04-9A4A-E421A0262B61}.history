@@ -13,9 +13,28 @@
     "itemName": "Html Editor List Item",
     "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor List Item",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B421E6F-E820-4A04-9A4A-E421A0262B61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:12.6150226Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html Editor List Item",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor List Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "17 Why do I receive multiple text messages for a Card Alert",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/17 Why do I receive multiple text messages for a Card Alert",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32455B12-80ED-45A2-B1EB-29B3C34EFFC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:32.8561230Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "17 Why do I receive multiple text messages for a Card Alert",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/17 Why do I receive multiple text messages for a Card Alert",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

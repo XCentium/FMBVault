@@ -13,9 +13,28 @@
     "itemName": "Form Orientation Type",
     "itemPath": "/sitecore/templates/Feature/Forms/Form Orientation Type",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C91E9A0-F507-4CBD-B126-24A5F3659743}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.1706433Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Orientation Type",
+    "itemPath": "/sitecore/templates/Feature/Forms/Form Orientation Type",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

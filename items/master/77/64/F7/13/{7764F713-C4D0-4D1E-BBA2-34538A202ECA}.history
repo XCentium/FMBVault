@@ -13,9 +13,28 @@
     "itemName": "Pages Visits",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages Visits",
     "template": "ReportQuery",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7764F713-C4D0-4D1E-BBA2-34538A202ECA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:47.2026304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages Visits",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Winspire",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Testimonials/Winspire",
     "template": "Video",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2EE58AF-F656-45C0-8BC3-F3B711719448}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:46.1751303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winspire",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Testimonials/Winspire",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Login Teaser",
     "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Login Teaser",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97459D5B-3C92-46C2-A329-138C1E277465}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:54.0571290Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Teaser",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Login Teaser",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

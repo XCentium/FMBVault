@@ -13,9 +13,28 @@
     "itemName": "Commercial Loan",
     "itemPath": "/sitecore/content/FMBCom/Home/Calc/Commercial Loan",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{275928D3-5C3D-49B9-8673-1A288FF712E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:18.6211234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commercial Loan",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/Commercial Loan",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

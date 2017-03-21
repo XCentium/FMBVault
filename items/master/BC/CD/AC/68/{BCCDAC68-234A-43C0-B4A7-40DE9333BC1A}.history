@@ -32,9 +32,28 @@
     "itemName": "Personal Checking Accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Personal Checking Accounts",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCCDAC68-234A-43C0-B4A7-40DE9333BC1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:19.9361227Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Personal Checking Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

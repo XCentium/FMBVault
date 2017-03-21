@@ -13,9 +13,28 @@
     "itemName": "Can I schedule a future dated payment in the Mobile App",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Bill Pay for Mobile/Can I schedule a future dated payment in the Mobile App",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD6D886D-F95B-4607-BFA6-E7AE9E39E186}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:34.4871238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Can I schedule a future dated payment in the Mobile App",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Bill Pay for Mobile/Can I schedule a future dated payment in the Mobile App",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

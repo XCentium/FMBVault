@@ -13,9 +13,28 @@
     "itemName": "enrollment_form_ft_agreement",
     "itemPath": "/sitecore/media library/Applications/enrollment_form_ft_agreement",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBAB6CF9-8E13-486A-BDAD-D74FDF913F33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:59.5975783Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "enrollment_form_ft_agreement",
+    "itemPath": "/sitecore/media library/Applications/enrollment_form_ft_agreement",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

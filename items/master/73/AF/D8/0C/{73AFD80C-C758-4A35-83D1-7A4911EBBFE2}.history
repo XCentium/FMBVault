@@ -13,9 +13,28 @@
     "itemName": "Thank You Survey Recommend",
     "itemPath": "/sitecore/content/FMBCom/Home/Thank You Survey Recommend",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73AFD80C-C758-4A35-83D1-7A4911EBBFE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:18.3471232Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thank You Survey Recommend",
+    "itemPath": "/sitecore/content/FMBCom/Home/Thank You Survey Recommend",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

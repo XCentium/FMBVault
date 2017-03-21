@@ -13,9 +13,28 @@
     "itemName": "Login Header",
     "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Login Header",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{096C0509-13D9-411C-93AF-57D572A53B29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:54.0081293Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Header",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Accounts/Login Header",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

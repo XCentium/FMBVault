@@ -13,9 +13,28 @@
     "itemName": "Canada",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Canada",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86ED7BFC-F0F0-4199-9D32-AB60820E6A78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:39.7756231Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Canada",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Canada",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

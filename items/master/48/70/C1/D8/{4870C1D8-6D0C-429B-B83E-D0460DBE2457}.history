@@ -13,9 +13,28 @@
     "itemName": "Long Beach Camp Fire Urban Forest Project",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/04/Long Beach Camp Fire Urban Forest Project",
     "template": "News Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4870C1D8-6D0C-429B-B83E-D0460DBE2457}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:21.5341237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Beach Camp Fire Urban Forest Project",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/04/Long Beach Camp Fire Urban Forest Project",
+    "template": "News Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

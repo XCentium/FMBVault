@@ -13,9 +13,28 @@
     "itemName": "Secondary Menu",
     "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Secondary Menu",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F7AD288-FA57-441F-AD79-CA60DC0C0A8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.2885724Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secondary Menu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Secondary Menu",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

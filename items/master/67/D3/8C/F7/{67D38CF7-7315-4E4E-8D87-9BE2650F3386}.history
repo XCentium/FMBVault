@@ -13,9 +13,28 @@
     "itemName": "Contact Info",
     "itemPath": "/sitecore/templates/Feature/Office/_Office/Contact Info",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67D38CF7-7315-4E4E-8D87-9BE2650F3386}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:39.2386493Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Info",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Contact Info",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Compare Personal Checking Accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Compare Personal Checking Accounts",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81FC69E4-6D3E-4EEF-8F68-17C678ABEB2B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:19.6931237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compare Personal Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Compare Personal Checking Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

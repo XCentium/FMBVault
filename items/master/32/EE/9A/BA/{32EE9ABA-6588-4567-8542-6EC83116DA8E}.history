@@ -13,9 +13,28 @@
     "itemName": "DayOfMyLive",
     "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/DayOfMyLive",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32EE9ABA-6588-4567-8542-6EC83116DA8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:10.3550239Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DayOfMyLive",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/DayOfMyLive",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "linkmenu",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/linkmenu",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B959F23A-ED27-464B-9E64-CC4DAC5535E2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.1301237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "linkmenu",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/linkmenu",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

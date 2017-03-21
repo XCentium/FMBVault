@@ -13,9 +13,28 @@
     "itemName": "Metadata",
     "itemPath": "/sitecore/layout/Renderings/Feature/Metadata",
     "template": "Rendering Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE27E498-2690-436D-A0E2-B55D089BC69A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:53.6001300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Metadata",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Metadata",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

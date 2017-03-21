@@ -13,9 +13,28 @@
     "itemName": "Modal Content",
     "itemPath": "/sitecore/templates/Feature/Navigation/_HasModalContent/Modal/Modal Content",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64FB8DE1-AA35-4CEE-AD22-6E4A8812E5B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:38.2096490Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modal Content",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_HasModalContent/Modal/Modal Content",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

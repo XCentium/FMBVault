@@ -13,9 +13,28 @@
     "itemName": "California",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/California",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AE8FCAF-3F63-44CE-AEC8-88E7CB8C74FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:39.6771301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "California",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/California",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

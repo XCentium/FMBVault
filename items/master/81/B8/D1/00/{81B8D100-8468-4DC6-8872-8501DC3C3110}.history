@@ -13,9 +13,28 @@
     "itemName": "Validation Rules",
     "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules/Validation Rules",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81B8D100-8468-4DC6-8872-8501DC3C3110}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:48.1692522Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Rules",
+    "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules/Validation Rules",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

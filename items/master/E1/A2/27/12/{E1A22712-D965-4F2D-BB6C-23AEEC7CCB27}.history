@@ -13,9 +13,28 @@
     "itemName": "Dynamic Jumbotron Carousel",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Dynamic Jumbotron Carousel",
     "template": "Dynamic Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1A22712-D965-4F2D-BB6C-23AEEC7CCB27}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.8221292Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dynamic Jumbotron Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Dynamic Jumbotron Carousel",
+    "template": "Dynamic Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

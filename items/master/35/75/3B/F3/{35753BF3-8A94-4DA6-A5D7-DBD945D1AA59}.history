@@ -13,9 +13,28 @@
     "itemName": "Menu divider",
     "itemPath": "/sitecore/templates/System/Menus/Menu divider",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35753BF3-8A94-4DA6-A5D7-DBD945D1AA59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:27.6494181Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu divider",
+    "itemPath": "/sitecore/templates/System/Menus/Menu divider",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

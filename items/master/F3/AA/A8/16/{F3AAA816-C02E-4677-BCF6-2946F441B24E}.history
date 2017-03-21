@@ -13,9 +13,28 @@
     "itemName": "ValuesBkgrnd_1200x1100",
     "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/ValuesBkgrnd_1200x1100",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3AAA816-C02E-4677-BCF6-2946F441B24E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:09.5211932Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ValuesBkgrnd_1200x1100",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/ValuesBkgrnd_1200x1100",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

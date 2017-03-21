@@ -13,9 +13,28 @@
     "itemName": "Begin Transaction",
     "itemPath": "/sitecore/media library/System/Page Event Images/Begin Transaction",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{831D2FDF-98A9-46AD-AFC8-AF4918213068}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:19.3942028Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Begin Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Begin Transaction",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

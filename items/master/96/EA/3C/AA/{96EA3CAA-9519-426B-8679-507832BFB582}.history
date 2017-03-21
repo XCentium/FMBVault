@@ -13,9 +13,28 @@
     "itemName": "Samoa",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Samoa",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96EA3CAA-9519-426B-8679-507832BFB582}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:43.9126241Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Samoa",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Samoa",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

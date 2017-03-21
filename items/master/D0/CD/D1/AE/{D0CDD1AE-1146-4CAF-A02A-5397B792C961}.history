@@ -13,9 +13,28 @@
     "itemName": "CDs",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/CDs",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0CDD1AE-1146-4CAF-A02A-5397B792C961}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:38.2631302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CDs",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/CDs",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "See all Press Releases",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/See all Press Releases",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C44359CD-4A42-46E0-9176-42E2B8428587}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:25.0611235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "See all Press Releases",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/See all Press Releases",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

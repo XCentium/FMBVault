@@ -13,9 +13,28 @@
     "itemName": "Compatible Renderings",
     "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Compatible Renderings",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E441ABE7-2CA3-4640-AE26-3789967925D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:23.0142401Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compatible Renderings",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Compatible Renderings",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

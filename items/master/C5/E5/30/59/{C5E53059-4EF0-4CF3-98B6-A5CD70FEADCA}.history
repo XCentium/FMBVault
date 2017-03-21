@@ -13,9 +13,28 @@
     "itemName": "AccountFunnel_EndNotes",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Forms/AccountFunnel_EndNotes",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5E53059-4EF0-4CF3-98B6-A5CD70FEADCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:25.7591235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccountFunnel_EndNotes",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Forms/AccountFunnel_EndNotes",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

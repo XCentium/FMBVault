@@ -13,9 +13,28 @@
     "itemName": "Redirect To Url",
     "itemPath": "/sitecore/templates/Redirect Module/Redirect Url/Information/Redirect To Url",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F1695DA-F608-473B-91B0-C4937AEED8A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:52.2026496Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redirect To Url",
+    "itemPath": "/sitecore/templates/Redirect Module/Redirect Url/Information/Redirect To Url",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

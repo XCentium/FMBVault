@@ -13,9 +13,28 @@
     "itemName": "Netherlands",
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/Netherlands",
     "template": "Predefined Filter Value",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44C03A25-9D77-4EED-8F94-16A01BC5A1AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:33.1726175Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Netherlands",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/Netherlands",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Do money market accounts count for the combined balance requirement for waiving the Maintenance Fee",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Personal Checking Accounts/Do money market accounts count for the combined balance requirement for waiving the Maintenance Fee",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EDB78AC-6E0C-4F33-9808-1AAB4E297182}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:36.9821303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Do money market accounts count for the combined balance requirement for waiving the Maintenance Fee",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Personal Checking Accounts/Do money market accounts count for the combined balance requirement for waiving the Maintenance Fee",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

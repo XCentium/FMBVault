@@ -13,9 +13,28 @@
     "itemName": "Call to Action",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Call to Action",
     "template": "Profile Key",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9581F4A4-B83D-4F37-9814-59226398566F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:32.0926178Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call to Action",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Call to Action",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

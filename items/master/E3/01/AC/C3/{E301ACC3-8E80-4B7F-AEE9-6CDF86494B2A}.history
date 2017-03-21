@@ -13,9 +13,28 @@
     "itemName": "Form Rendering Parameters",
     "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E301ACC3-8E80-4B7F-AEE9-6CDF86494B2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.4766418Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Rendering Parameters",
+    "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

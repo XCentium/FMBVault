@@ -13,9 +13,28 @@
     "itemName": "Tidy on save",
     "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on save",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD43A1C4-3ADF-4097-9265-897369A113CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:12.2970231Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tidy on save",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on save",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

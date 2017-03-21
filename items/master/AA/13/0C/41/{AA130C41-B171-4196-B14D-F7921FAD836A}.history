@@ -13,9 +13,28 @@
     "itemName": "LA",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/LA",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA130C41-B171-4196-B14D-F7921FAD836A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:56.2356303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LA",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/LA",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

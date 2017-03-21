@@ -13,9 +13,28 @@
     "itemName": "Allowed Tags",
     "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Tidy/Data/Allowed Tags",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{083EB068-252C-48A6-B4DB-CC13CA21B2C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:13.3700252Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Allowed Tags",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Tidy/Data/Allowed Tags",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

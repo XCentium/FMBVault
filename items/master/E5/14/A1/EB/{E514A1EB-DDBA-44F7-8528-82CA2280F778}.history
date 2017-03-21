@@ -13,9 +13,28 @@
     "itemName": "JavaScript assets",
     "itemPath": "/sitecore/templates/Foundation/Assets/_RenderingAssets/Assets/JavaScript assets",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E514A1EB-DDBA-44F7-8528-82CA2280F778}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:43.9806488Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JavaScript assets",
+    "itemPath": "/sitecore/templates/Foundation/Assets/_RenderingAssets/Assets/JavaScript assets",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "CCRecipients_RLD",
     "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/CCRecipients_RLD",
     "template": "ConfigurationSetting",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7A3726E-5725-4C0A-A8DE-345DEDE9E662}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.6331495Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CCRecipients_RLD",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/CCRecipients_RLD",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

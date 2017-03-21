@@ -13,9 +13,28 @@
     "itemName": "Mobile-Banking-FAQs-FandM",
     "itemPath": "/sitecore/media library/FAQs/Mobile-Banking-FAQs-FandM",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C94653F1-CA97-49D7-AEE2-DF50977F4D58}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:04.0035770Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile-Banking-FAQs-FandM",
+    "itemPath": "/sitecore/media library/FAQs/Mobile-Banking-FAQs-FandM",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

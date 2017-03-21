@@ -13,9 +13,28 @@
     "itemName": "URL string",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Redirect Manager/URL string",
     "template": "Condition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A0A0BE7-4900-438C-A08E-3A141840D1A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:06.8466361Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "URL string",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Redirect Manager/URL string",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

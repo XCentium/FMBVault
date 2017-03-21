@@ -13,9 +13,28 @@
     "itemName": "Package registration",
     "itemPath": "/sitecore/templates/System/Packages/Package registration",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22A11D20-5F1D-4216-BF3F-18C016F1F98E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:28.3974186Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Package registration",
+    "itemPath": "/sitecore/templates/System/Packages/Package registration",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

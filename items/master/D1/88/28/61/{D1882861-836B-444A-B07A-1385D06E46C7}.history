@@ -13,9 +13,28 @@
     "itemName": "How-to Enroll in Online Banking",
     "itemPath": "/sitecore/content/FMBCom/Global/How-Tos/How-to Enroll in Online Banking",
     "template": "How-To",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1882861-836B-444A-B07A-1385D06E46C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:40.9411297Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-to Enroll in Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/How-Tos/How-to Enroll in Online Banking",
+    "template": "How-To",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

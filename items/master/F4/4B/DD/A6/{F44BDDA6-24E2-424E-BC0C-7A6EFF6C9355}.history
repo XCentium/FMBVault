@@ -13,9 +13,28 @@
     "itemName": "Visibility",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Outcomes/Visibility",
     "template": "Visibility",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F44BDDA6-24E2-424E-BC0C-7A6EFF6C9355}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:06.4786363Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Outcomes/Visibility",
+    "template": "Visibility",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

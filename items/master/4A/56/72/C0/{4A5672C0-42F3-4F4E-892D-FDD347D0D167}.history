@@ -13,9 +13,28 @@
     "itemName": "home-hero-default",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/home-hero-default",
     "template": "Carousel",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A5672C0-42F3-4F4E-892D-FDD347D0D167}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:45.3491298Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "home-hero-default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/home-hero-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "ID3",
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA4F6592-596F-42AC-A3D0-7FB7B70D6E00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:27.3284167Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID3",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

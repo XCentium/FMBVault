@@ -13,9 +13,28 @@
     "itemName": "_PagedSearchResultsParameters",
     "itemPath": "/sitecore/templates/Feature/Search/_PagedSearchResultsParameters",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1D3E60F-E571-48D2-84CF-B053EE660C13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:41.1236496Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_PagedSearchResultsParameters",
+    "itemPath": "/sitecore/templates/Feature/Search/_PagedSearchResultsParameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

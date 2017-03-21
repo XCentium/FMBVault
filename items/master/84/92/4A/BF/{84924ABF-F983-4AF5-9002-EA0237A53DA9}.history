@@ -13,9 +13,28 @@
     "itemName": "Child Page List",
     "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Child Page List",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84924ABF-F983-4AF5-9002-EA0237A53DA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.5845777Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Child Page List",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Child Page List",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

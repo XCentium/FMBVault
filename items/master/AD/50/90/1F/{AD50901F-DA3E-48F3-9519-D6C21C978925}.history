@@ -13,9 +13,28 @@
     "itemName": "Sitecore Experience Platform",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Sitecore Experience Platform",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD50901F-DA3E-48F3-9519-D6C21C978925}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.4911295Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Experience Platform",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Sitecore Experience Platform",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "RDC-HowToGuide-FMB",
     "itemPath": "/sitecore/media library/Brochures/RDC-HowToGuide-FMB",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{524EE62D-EA45-4F8A-BD0A-4A32279A0D4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:03.3715767Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RDC-HowToGuide-FMB",
+    "itemPath": "/sitecore/media library/Brochures/RDC-HowToGuide-FMB",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

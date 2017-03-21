@@ -13,9 +13,28 @@
     "itemName": "Workflow",
     "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Workflow",
     "template": "Configuration Setting Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86B8E3B1-EC0A-4B60-AB41-7D34AC838C00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.5631237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Workflow",
+    "template": "Configuration Setting Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Personal Checking Accounts",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Personal Checking Accounts",
     "template": "FAQ Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48F90556-B9DD-43BC-A6E9-F5F196C009C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:37.5101305Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Personal Checking Accounts",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

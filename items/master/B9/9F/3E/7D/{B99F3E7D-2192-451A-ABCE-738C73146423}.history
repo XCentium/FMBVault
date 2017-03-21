@@ -13,9 +13,28 @@
     "itemName": "lightboximage",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/lightboximage",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B99F3E7D-2192-451A-ABCE-738C73146423}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.0561233Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "lightboximage",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/lightboximage",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Recommended Reading",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/Recommended Reading",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E732AB5A-24AE-40D8-8F93-05DAD455E259}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.5861479Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recommended Reading",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/Recommended Reading",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

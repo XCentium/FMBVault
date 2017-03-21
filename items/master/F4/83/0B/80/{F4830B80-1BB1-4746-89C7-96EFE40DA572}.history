@@ -13,9 +13,28 @@
     "itemName": "Close - Cancelled",
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Close - Cancelled",
     "template": "Outcome Definition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4830B80-1BB1-4746-89C7-96EFE40DA572}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:29.5966176Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close - Cancelled",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Close - Cancelled",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

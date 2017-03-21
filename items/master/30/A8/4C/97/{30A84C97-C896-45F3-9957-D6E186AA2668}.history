@@ -13,9 +13,28 @@
     "itemName": "Group",
     "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30A84C97-C896-45F3-9957-D6E186AA2668}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.0606435Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Group",
+    "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

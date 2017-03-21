@@ -13,9 +13,28 @@
     "itemName": "BlaineNelson-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/BlaineNelson-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9695668D-99E1-4D70-95C1-3F7510F4C2EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.4781945Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BlaineNelson-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/BlaineNelson-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

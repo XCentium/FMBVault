@@ -13,9 +13,28 @@
     "itemName": "HTML Size",
     "itemPath": "/sitecore/templates/System/Html editor/HTML Size",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6922F86A-74B1-45D9-9CF5-57C04E72A243}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:11.3490234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Size",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Size",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

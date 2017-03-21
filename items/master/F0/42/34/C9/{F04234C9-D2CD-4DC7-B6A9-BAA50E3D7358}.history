@@ -13,9 +13,28 @@
     "itemName": "Bosnia and Herzegovina",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bosnia and Herzegovina",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F04234C9-D2CD-4DC7-B6A9-BAA50E3D7358}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:39.4996240Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bosnia and Herzegovina",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bosnia and Herzegovina",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

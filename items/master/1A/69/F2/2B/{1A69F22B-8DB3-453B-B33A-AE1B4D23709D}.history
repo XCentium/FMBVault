@@ -13,9 +13,28 @@
     "itemName": "ExcludedSources",
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/ExcludedSources",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A69F22B-8DB3-453B-B33A-AE1B4D23709D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:46.5076498Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExcludedSources",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/ExcludedSources",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

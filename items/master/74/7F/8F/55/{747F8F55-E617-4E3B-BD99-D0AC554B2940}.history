@@ -13,9 +13,28 @@
     "itemName": "Goal",
     "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing/Goal",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{747F8F55-E617-4E3B-BD99-D0AC554B2940}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:42.9274235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing/Goal",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

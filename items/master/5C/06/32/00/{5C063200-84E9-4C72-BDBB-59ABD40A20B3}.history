@@ -13,9 +13,28 @@
     "itemName": "JSpinelli-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/JSpinelli-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C063200-84E9-4C72-BDBB-59ABD40A20B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.9031944Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JSpinelli-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/JSpinelli-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

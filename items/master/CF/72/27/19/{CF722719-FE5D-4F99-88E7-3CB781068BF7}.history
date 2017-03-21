@@ -13,9 +13,28 @@
     "itemName": "ApplePayImages_howtogetstarted-step3",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/ApplePayImages_howtogetstarted-step3",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF722719-FE5D-4F99-88E7-3CB781068BF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:13.4641997Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ApplePayImages_howtogetstarted-step3",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/ApplePayImages_howtogetstarted-step3",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

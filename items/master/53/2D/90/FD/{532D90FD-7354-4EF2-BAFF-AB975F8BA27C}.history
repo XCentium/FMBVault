@@ -13,9 +13,28 @@
     "itemName": "Auto Publish",
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Cancelled/Auto Publish",
     "template": "Action",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{532D90FD-7354-4EF2-BAFF-AB975F8BA27C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:26.3106425Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Publish",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Cancelled/Auto Publish",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Keywords",
     "itemPath": "/sitecore/templates/System/Analytics/Organic Branded Keywords/Data/Keywords",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5B8B8DE-7685-427C-A5D6-7E6DA2DB6EF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:00.2120225Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Keywords",
+    "itemPath": "/sitecore/templates/System/Analytics/Organic Branded Keywords/Data/Keywords",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "LocationDescription",
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/LocationDescription",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8FA62D2-13FC-4C5C-91E5-71D615591420}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:24.4812382Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LocationDescription",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/LocationDescription",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

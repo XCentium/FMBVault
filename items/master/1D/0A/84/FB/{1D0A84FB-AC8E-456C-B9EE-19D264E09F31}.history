@@ -13,9 +13,28 @@
     "itemName": "Section Columns",
     "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D0A84FB-AC8E-456C-B9EE-19D264E09F31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.7885757Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Section Columns",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

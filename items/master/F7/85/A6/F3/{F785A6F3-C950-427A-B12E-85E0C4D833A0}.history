@@ -13,9 +13,28 @@
     "itemName": "cass-1907-time",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/cass-1907-time",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F785A6F3-C950-427A-B12E-85E0C4D833A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:19.2531234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cass-1907-time",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/cass-1907-time",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

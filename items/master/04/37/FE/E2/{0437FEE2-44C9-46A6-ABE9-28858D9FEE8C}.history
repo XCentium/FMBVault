@@ -13,9 +13,28 @@
     "itemName": "Template Folder",
     "itemPath": "/sitecore/templates/System/Templates/Template Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:43.5314249Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template Folder",
+    "itemPath": "/sitecore/templates/System/Templates/Template Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

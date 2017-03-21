@@ -13,9 +13,28 @@
     "itemName": "Publish",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish/Publish",
     "template": "Command",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9002059B-3DF7-4D20-AB13-11AB4F311581}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:27.2326428Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Publish",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish/Publish",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Comment",
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Comment",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C0A47E5-A543-45D0-9CC0-19A367A8C92D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:27.5004158Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Comment",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Menu with links",
     "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Menu with links",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69B9C355-004B-4268-BB1E-2F725B8752B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.1925715Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu with links",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Menu with links",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

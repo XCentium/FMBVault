@@ -13,9 +13,28 @@
     "itemName": "FieldRenderer",
     "itemPath": "/sitecore/layout/Renderings/System/FieldRenderer",
     "template": "Webcontrol",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1AF4AA3-3B5D-4611-8C71-959AD261E5B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:53.0901302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FieldRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/FieldRenderer",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Call To Action Button Text",
     "itemPath": "/sitecore/templates/Feature/Media/_HasMedia/Media/Call To Action Button Text",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55A0106E-0592-4CB9-989E-648DEA273A4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:37.1026434Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call To Action Button Text",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMedia/Media/Call To Action Button Text",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

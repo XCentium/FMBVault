@@ -13,9 +13,28 @@
     "itemName": "FeedTitle",
     "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeed/Twitter Feed/FeedTitle",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{099E4085-150C-4073-88D9-8B159D9A8B01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:41.5976492Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FeedTitle",
+    "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeed/Twitter Feed/FeedTitle",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

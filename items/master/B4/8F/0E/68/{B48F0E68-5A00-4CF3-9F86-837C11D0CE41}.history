@@ -13,9 +13,28 @@
     "itemName": "Sharing",
     "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B48F0E68-5A00-4CF3-9F86-837C11D0CE41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:42.8684238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sharing",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

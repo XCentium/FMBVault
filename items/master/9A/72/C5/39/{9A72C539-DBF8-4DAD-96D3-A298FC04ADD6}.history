@@ -13,9 +13,28 @@
     "itemName": "Element Folder",
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder",
     "template": "Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A72C539-DBF8-4DAD-96D3-A298FC04ADD6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:31.6446428Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Element Folder",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

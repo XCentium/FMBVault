@@ -13,9 +13,28 @@
     "itemName": "Links",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Links",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{366A7C36-122B-4709-B556-38F1F18F3089}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:23.9896432Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Links",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Links",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

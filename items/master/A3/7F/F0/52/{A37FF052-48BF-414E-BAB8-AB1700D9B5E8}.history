@@ -13,9 +13,28 @@
     "itemName": "Email action",
     "itemPath": "/sitecore/templates/System/Workflow/Email action",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A37FF052-48BF-414E-BAB8-AB1700D9B5E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:49.0142527Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email action",
+    "itemPath": "/sitecore/templates/System/Workflow/Email action",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "SignOff-Winspire",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/SignOff-Winspire",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5437BE0C-5227-4356-8CC2-29384ECF6B10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.2581948Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SignOff-Winspire",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/SignOff-Winspire",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

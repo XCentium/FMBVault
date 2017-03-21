@@ -13,9 +13,28 @@
     "itemName": "Theming",
     "itemPath": "/sitecore/templates/Foundation/Theming",
     "template": "Template Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53A22396-4581-459D-80D6-47135E1F6F3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:43.5906497Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Theming",
+    "itemPath": "/sitecore/templates/Foundation/Theming",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

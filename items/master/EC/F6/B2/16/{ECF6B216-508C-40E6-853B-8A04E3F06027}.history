@@ -13,9 +13,28 @@
     "itemName": "All Banking Services",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/All Banking Services",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECF6B216-508C-40E6-853B-8A04E3F06027}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:38.1551303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Banking Services",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/All Banking Services",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

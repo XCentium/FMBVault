@@ -13,9 +13,28 @@
     "itemName": "Comparison Matrix",
     "itemPath": "/sitecore/layout/Renderings/Feature/Products/Comparison Matrix",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97448B3C-0542-4ECF-AA72-0A739306CFEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.0205723Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comparison Matrix",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Products/Comparison Matrix",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

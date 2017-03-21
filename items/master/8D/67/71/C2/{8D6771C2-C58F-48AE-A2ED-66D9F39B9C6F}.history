@@ -13,9 +13,28 @@
     "itemName": "Dominican Republic",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Dominican Republic",
     "template": "Country",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D6771C2-C58F-48AE-A2ED-66D9F39B9C6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:40.5006215Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dominican Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Dominican Republic",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

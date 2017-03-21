@@ -13,9 +13,28 @@
     "itemName": "Gallery",
     "itemPath": "/sitecore/templates/System/Ribbon/Large Combo Button/Data/Gallery",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B269BC4-FE34-4FB6-97A2-2BB02A346BF5}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:32.7374231Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Combo Button/Data/Gallery",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

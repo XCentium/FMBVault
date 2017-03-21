@@ -13,9 +13,28 @@
     "itemName": "Alaska",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Alaska",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F34C7436-B2A3-4C85-87A5-2E08DE7F1320}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:39.7241299Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alaska",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Alaska",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

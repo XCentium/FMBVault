@@ -13,9 +13,28 @@
     "itemName": "Start Test",
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Suspended/Deploy/Start Test",
     "template": "Action",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA23B76F-8071-45AB-886B-6A18551897D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:26.3926431Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Test",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Suspended/Deploy/Start Test",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Main Office",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Main Office",
     "template": "Employee Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09112A5D-E490-4F6F-9454-65EA7F0F5A38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:30.7731238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Office",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Main Office",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

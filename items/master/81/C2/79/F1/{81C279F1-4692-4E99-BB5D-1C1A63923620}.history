@@ -13,9 +13,28 @@
     "itemName": "RossmoorRenovation_web-banner",
     "itemPath": "/sitecore/media library/RossmoorRenovation_web-banner",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81C279F1-4692-4E99-BB5D-1C1A63923620}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:59.2255762Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RossmoorRenovation_web-banner",
+    "itemPath": "/sitecore/media library/RossmoorRenovation_web-banner",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

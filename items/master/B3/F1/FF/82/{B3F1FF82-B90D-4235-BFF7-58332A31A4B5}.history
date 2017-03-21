@@ -13,9 +13,28 @@
     "itemName": "jumbotron-placeholder-1",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Teaser Placeholders/jumbotron-placeholder-1",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3F1FF82-B90D-4235-BFF7-58332A31A4B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:52.4361302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "jumbotron-placeholder-1",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Teaser Placeholders/jumbotron-placeholder-1",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "No Flash Support",
     "itemPath": "/sitecore/layout/Simulators/iPhone/No Flash Support",
     "template": "No Flash Support Trait",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09726803-2905-4F21-AC8A-5D95F904DBC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:58.8715783Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support",
+    "itemPath": "/sitecore/layout/Simulators/iPhone/No Flash Support",
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

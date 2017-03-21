@@ -13,9 +13,28 @@
     "itemName": "Search Box Dropdown",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00E978AE-076D-402F-B540-B1ACA5BC65A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:51.5656304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Box Dropdown",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

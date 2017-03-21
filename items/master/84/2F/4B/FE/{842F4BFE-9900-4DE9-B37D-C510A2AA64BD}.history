@@ -13,9 +13,28 @@
     "itemName": "Headline Carousel",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Carousel",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{842F4BFE-9900-4DE9-B37D-C510A2AA64BD}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.9171302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Carousel",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

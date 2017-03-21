@@ -13,9 +13,28 @@
     "itemName": "Demo Tokens",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Demo Tokens",
     "template": "Template Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32F4012D-FC30-4EFD-AF6C-1D3144B257FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:47.0506491Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Demo Tokens",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Demo Tokens",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

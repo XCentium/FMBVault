@@ -13,9 +13,28 @@
     "itemName": "Goal facet 2",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Goal facet 2",
     "template": "Custom taxonomy",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DE5CC49-D985-49E1-AC61-663A1411AE42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:22.7802007Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal facet 2",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Goal facet 2",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Social",
     "itemPath": "/sitecore/content/FMBCom/Global/Social",
     "template": "Social Feeds Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20507226-1C3B-4D7A-89D4-DE00706E59B6}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:24.2771228Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/content/FMBCom/Global/Social",
+    "template": "Social Feeds Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

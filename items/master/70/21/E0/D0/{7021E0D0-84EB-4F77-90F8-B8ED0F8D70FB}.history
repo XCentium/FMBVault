@@ -13,9 +13,28 @@
     "itemName": "Orientation",
     "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters/Rendering Orientation Parameters/Orientation",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7021E0D0-84EB-4F77-90F8-B8ED0F8D70FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.5576430Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orientation",
+    "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters/Rendering Orientation Parameters/Orientation",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

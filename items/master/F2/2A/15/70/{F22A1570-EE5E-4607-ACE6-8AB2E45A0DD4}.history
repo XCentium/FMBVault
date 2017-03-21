@@ -13,9 +13,28 @@
     "itemName": "Test Candidate Check Action",
     "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Test Candidate Check Action",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F22A1570-EE5E-4607-ACE6-8AB2E45A0DD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:07.6650225Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Candidate Check Action",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Test Candidate Check Action",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

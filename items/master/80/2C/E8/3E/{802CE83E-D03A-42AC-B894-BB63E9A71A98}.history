@@ -13,9 +13,28 @@
     "itemName": "CW_trans",
     "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/CW_trans",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{802CE83E-D03A-42AC-B894-BB63E9A71A98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:11.7151946Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CW_trans",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/CW_trans",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

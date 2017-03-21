@@ -13,9 +13,28 @@
     "itemName": "FM-Bank-Online-Privacy-Statement-Rev12-15",
     "itemPath": "/sitecore/media library/Notices/FM-Bank-Online-Privacy-Statement-Rev12-15",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4EA9F403-CC47-4856-8694-39BE9FA9B076}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:04.3755770Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM-Bank-Online-Privacy-Statement-Rev12-15",
+    "itemPath": "/sitecore/media library/Notices/FM-Bank-Online-Privacy-Statement-Rev12-15",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

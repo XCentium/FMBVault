@@ -13,9 +13,28 @@
     "itemName": "FMB-CREHeader",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-CREHeader",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7DBFB69-BBFF-42BE-A459-23B2540D959F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:14.1561944Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-CREHeader",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-CREHeader",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

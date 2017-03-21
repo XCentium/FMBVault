@@ -13,9 +13,28 @@
     "itemName": "Site map group",
     "itemPath": "/sitecore/templates/System/Path Analyzer/Commands/Site map group",
     "template": "Command Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{761891ED-68CC-4F35-BF4C-C48A0DB328E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:29.1194226Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site map group",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Commands/Site map group",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

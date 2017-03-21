@@ -13,9 +13,28 @@
     "itemName": "21 I already had FM Debit Card Fraud Alerts do I need to enroll again",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/21 I already had FM Debit Card Fraud Alerts do I need to enroll again",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17755EF6-7EDF-4778-9182-9BB80D4D4555}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:32.9711237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "21 I already had FM Debit Card Fraud Alerts do I need to enroll again",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/21 I already had FM Debit Card Fraud Alerts do I need to enroll again",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

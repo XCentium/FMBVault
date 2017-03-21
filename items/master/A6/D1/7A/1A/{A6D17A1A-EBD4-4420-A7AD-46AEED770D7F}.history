@@ -13,9 +13,28 @@
     "itemName": "No Silverlight Support Trait",
     "itemPath": "/sitecore/layout/Simulators/Android Phablet/No Silverlight Support Trait",
     "template": "No Silverlight Support Trait",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6D17A1A-EBD4-4420-A7AD-46AEED770D7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:58.6575784Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/Android Phablet/No Silverlight Support Trait",
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

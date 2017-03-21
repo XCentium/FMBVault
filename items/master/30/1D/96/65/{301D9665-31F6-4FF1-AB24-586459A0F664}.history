@@ -13,9 +13,28 @@
     "itemName": "Visit Detail",
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Visit Detail/Visit Detail",
     "template": "Report",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{301D9665-31F6-4FF1-AB24-586459A0F664}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:50.4026300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Detail",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Visit Detail/Visit Detail",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

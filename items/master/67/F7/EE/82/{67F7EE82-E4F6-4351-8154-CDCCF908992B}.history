@@ -13,9 +13,28 @@
     "itemName": "Auction",
     "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/Auction",
     "template": "Testimonial",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67F7EE82-E4F6-4351-8154-CDCCF908992B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:50.1631296Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auction",
+    "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/Auction",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "layout",
     "itemPath": "/sitecore/layout",
     "template": "Main section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB2E4FFD-2761-4653-B052-26A64D385227}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:17.4531236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "layout",
+    "itemPath": "/sitecore/layout",
+    "template": "Main section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

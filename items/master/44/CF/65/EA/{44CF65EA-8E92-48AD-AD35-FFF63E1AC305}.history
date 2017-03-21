@@ -13,9 +13,28 @@
     "itemName": "Error",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Error",
     "template": "Validation Result",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44CF65EA-8E92-48AD-AD35-FFF63E1AC305}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:18.0936365Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Error",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Error",
+    "template": "Validation Result",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

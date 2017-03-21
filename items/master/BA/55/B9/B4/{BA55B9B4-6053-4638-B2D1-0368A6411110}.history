@@ -13,9 +13,28 @@
     "itemName": "BUSINESS MERCHANT SERVICES",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/BUSINESS MERCHANT SERVICES",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA55B9B4-6053-4638-B2D1-0368A6411110}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:33.4961241Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BUSINESS MERCHANT SERVICES",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/BUSINESS MERCHANT SERVICES",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

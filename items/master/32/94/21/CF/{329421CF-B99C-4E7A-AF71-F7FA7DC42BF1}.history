@@ -13,9 +13,28 @@
     "itemName": "ParametersTemplate_FixedHeight",
     "itemPath": "/sitecore/templates/Foundation/Theming/ParametersTemplate_FixedHeight",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{329421CF-B99C-4E7A-AF71-F7FA7DC42BF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:44.8956492Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ParametersTemplate_FixedHeight",
+    "itemPath": "/sitecore/templates/Foundation/Theming/ParametersTemplate_FixedHeight",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Ratings",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Ratings",
     "template": "Content Module Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E7951C7-F268-4D97-9D3B-845617C045E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:24.8721249Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ratings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Ratings",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

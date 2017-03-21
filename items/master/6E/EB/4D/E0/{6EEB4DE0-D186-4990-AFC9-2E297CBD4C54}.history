@@ -13,9 +13,28 @@
     "itemName": "Language",
     "itemPath": "/sitecore/templates/Branches/System/Globalization/Language",
     "template": "Command Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EEB4DE0-D186-4990-AFC9-2E297CBD4C54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:29.9116432Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Language",
+    "itemPath": "/sitecore/templates/Branches/System/Globalization/Language",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

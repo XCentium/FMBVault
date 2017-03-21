@@ -13,9 +13,28 @@
     "itemName": "Checking Options",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Checking Options",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{550706A9-8AAD-4D3F-A04C-DE225B08D3FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:42.7081389Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking Options",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Checking Options",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Can I use both my new chip card and my old card with only a magnetic stripe",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/Can I use both my new chip card and my old card with only a magnetic stripe",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{656B60A8-61F5-4494-959C-AE1481F82964}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:33.3981231Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Can I use both my new chip card and my old card with only a magnetic stripe",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/Can I use both my new chip card and my old card with only a magnetic stripe",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

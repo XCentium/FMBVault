@@ -13,9 +13,28 @@
     "itemName": "Footer Menus",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44294CD0-073A-4B04-8687-4F1729E252D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:41.0861298Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer Menus",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

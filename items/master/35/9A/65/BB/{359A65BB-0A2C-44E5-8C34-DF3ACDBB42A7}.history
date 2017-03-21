@@ -13,9 +13,28 @@
     "itemName": "Page Image Header",
     "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Page Image Header",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{359A65BB-0A2C-44E5-8C34-DF3ACDBB42A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.7035725Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Image Header",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Page Image Header",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "col-narrow-5",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-narrow-5",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7DBD862-653A-4E80-B9FD-16F79A097032}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:51.9071307Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "col-narrow-5",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-narrow-5",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

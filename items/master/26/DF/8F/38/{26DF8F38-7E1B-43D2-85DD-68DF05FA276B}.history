@@ -13,9 +13,28 @@
     "itemName": "_MailTemplate",
     "itemPath": "/sitecore/templates/Feature/Accounts/_MailTemplate",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26DF8F38-7E1B-43D2-85DD-68DF05FA276B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:33.0026425Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_MailTemplate",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_MailTemplate",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

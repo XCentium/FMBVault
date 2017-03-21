@@ -13,9 +13,28 @@
     "itemName": "Pattern",
     "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Card/Data/Pattern",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6DA71AD3-5849-4482-9317-D21390E5A348}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:01.3100235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pattern",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Card/Data/Pattern",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

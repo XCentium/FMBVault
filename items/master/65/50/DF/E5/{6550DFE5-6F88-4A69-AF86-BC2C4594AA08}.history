@@ -13,9 +13,28 @@
     "itemName": "Droplist",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Droplist",
     "template": "Field Type Validation Rules",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6550DFE5-6F88-4A69-AF86-BC2C4594AA08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:23.5346430Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Droplist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Droplist",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

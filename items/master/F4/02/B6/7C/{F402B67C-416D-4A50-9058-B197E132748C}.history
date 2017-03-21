@@ -13,9 +13,28 @@
     "itemName": "Test",
     "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons/Test",
     "template": "Comparison Matrix",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F402B67C-416D-4A50-9058-B197E132748C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.0471301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test",
+    "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons/Test",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

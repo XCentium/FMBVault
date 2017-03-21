@@ -13,9 +13,28 @@
     "itemName": "Copyright",
     "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Copyright",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED74C2C9-20B3-47A4-B021-A652E1E808AA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:27.1024174Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Copyright",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

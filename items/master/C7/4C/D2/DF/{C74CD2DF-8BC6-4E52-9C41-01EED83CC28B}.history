@@ -13,9 +13,28 @@
     "itemName": "Banking Service Questions",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Banking Service Questions",
     "template": "FAQ Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C74CD2DF-8BC6-4E52-9C41-01EED83CC28B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:37.1031292Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banking Service Questions",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Banking Service Questions",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

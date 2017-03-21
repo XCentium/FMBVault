@@ -13,9 +13,28 @@
     "itemName": "Not Serialized",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Development/Not Serialized",
     "template": "Validation Rule",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2880B71-9F35-4752-BA3A-3A53FAE50331}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:24.1826428Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not Serialized",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Development/Not Serialized",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

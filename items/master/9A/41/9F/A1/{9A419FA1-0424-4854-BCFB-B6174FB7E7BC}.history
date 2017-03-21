@@ -13,9 +13,28 @@
     "itemName": "What is the penalty for early withdrawal",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/CD Rates/What is the penalty for early withdrawal",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A419FA1-0424-4854-BCFB-B6174FB7E7BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:33.2821234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the penalty for early withdrawal",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/CD Rates/What is the penalty for early withdrawal",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

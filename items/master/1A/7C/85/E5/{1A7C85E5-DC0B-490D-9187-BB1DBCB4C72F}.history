@@ -13,9 +13,28 @@
     "itemName": "Datasource Template",
     "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Datasource Template",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:22.9822397Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasource Template",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Datasource Template",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

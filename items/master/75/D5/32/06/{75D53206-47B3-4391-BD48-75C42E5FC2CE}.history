@@ -13,9 +13,28 @@
     "itemName": "Contact Acquisition",
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Contact Acquisition",
     "template": "Outcome Definition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75D53206-47B3-4391-BD48-75C42E5FC2CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:29.6216175Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Acquisition",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Contact Acquisition",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

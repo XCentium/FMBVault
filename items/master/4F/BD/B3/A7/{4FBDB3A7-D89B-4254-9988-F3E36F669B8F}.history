@@ -13,9 +13,28 @@
     "itemName": "Marc Eguchi",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Laguna Hills/Marc Eguchi",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4FBDB3A7-D89B-4254-9988-F3E36F669B8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:31.4621217Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marc Eguchi",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Laguna Hills/Marc Eguchi",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

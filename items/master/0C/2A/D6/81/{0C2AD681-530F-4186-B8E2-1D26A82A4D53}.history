@@ -13,9 +13,28 @@
     "itemName": "Kathy Reed",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Kathy Reed",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C2AD681-530F-4186-B8E2-1D26A82A4D53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:31.9211236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kathy Reed",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Kathy Reed",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

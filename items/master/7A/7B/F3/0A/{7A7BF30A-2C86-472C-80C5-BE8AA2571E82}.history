@@ -13,9 +13,28 @@
     "itemName": "Start Path",
     "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rule/Rule/Start Path",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A7BF30A-2C86-472C-80C5-BE8AA2571E82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:45.8856491Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Path",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rule/Rule/Start Path",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

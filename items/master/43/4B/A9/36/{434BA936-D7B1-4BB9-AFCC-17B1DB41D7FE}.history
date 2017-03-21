@@ -13,9 +13,28 @@
     "itemName": "Device Browser",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Device Browser",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{434BA936-D7B1-4BB9-AFCC-17B1DB41D7FE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:28.9491238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Browser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Device Browser",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

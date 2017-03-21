@@ -13,9 +13,28 @@
     "itemName": "Preview publishing targets",
     "itemPath": "/sitecore/templates/System/Workflow/State/Data/Preview publishing targets",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A438DFD1-154E-4584-B7E3-D1E28315E415}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:50.0382531Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview publishing targets",
+    "itemPath": "/sitecore/templates/System/Workflow/State/Data/Preview publishing targets",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

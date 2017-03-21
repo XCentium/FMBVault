@@ -13,9 +13,28 @@
     "itemName": "RealEstateSeminarForm",
     "itemPath": "/sitecore/layout/Renderings/Feature/Forms/RealEstateSeminarForm",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09D5CE21-B36A-46AC-9E6A-D84F9E083E50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:54.2291288Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RealEstateSeminarForm",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Forms/RealEstateSeminarForm",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

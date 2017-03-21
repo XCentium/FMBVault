@@ -13,9 +13,28 @@
     "itemName": "Office Info",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Office Info",
     "template": "Content Module Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9ABA5A9E-9B79-4FDB-8916-CBBB58CA619F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:24.7891231Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office Info",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Office Info",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

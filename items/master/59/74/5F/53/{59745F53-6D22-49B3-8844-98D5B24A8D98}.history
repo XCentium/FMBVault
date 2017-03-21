@@ -13,9 +13,28 @@
     "itemName": "Habitat Introduction Video",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Habitat/Habitat Introduction Video",
     "template": "Video",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59745F53-6D22-49B3-8844-98D5B24A8D98}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:45.9561300Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Habitat Introduction Video",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Habitat/Habitat Introduction Video",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

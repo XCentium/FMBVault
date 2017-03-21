@@ -13,9 +13,28 @@
     "itemName": "LBFD Apples",
     "itemPath": "/sitecore/media library/Images/Press Release Images/LBFD Apples",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54F9491E-F861-4116-B5D1-511FA1A0423F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:17.7051945Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LBFD Apples",
+    "itemPath": "/sitecore/media library/Images/Press Release Images/LBFD Apples",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

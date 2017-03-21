@@ -13,9 +13,28 @@
     "itemName": "Other - Not Sure",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BusinessBankingProducts/Other - Not Sure",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BA0A649-D2B1-439B-B3A3-45BFF9C5B058}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:38.9081304Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other - Not Sure",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BusinessBankingProducts/Other - Not Sure",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

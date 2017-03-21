@@ -13,9 +13,28 @@
     "itemName": "Album",
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/Properties/Album",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAAF88C7-F6F7-4186-A0A0-7B6E6E76D3F8}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:27.5604169Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Album",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/Properties/Album",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

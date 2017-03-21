@@ -13,9 +13,28 @@
     "itemName": "Merchant Card Services",
     "itemPath": "/sitecore/content/FMBCom/Home/Business/Merchant Card Services",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E1AB026-2490-415E-B978-61144D9B0AE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:21.0461234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Merchant Card Services",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Merchant Card Services",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

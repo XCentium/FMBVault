@@ -13,9 +13,28 @@
     "itemName": "Latest News",
     "itemPath": "/sitecore/layout/Renderings/Feature/News/Latest News",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDD730EB-F808-4C65-B94A-D2F03672EAFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:55.3355721Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest News",
+    "itemPath": "/sitecore/layout/Renderings/Feature/News/Latest News",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

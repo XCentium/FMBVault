@@ -13,9 +13,28 @@
     "itemName": "Image Has Alt Text from Media Library",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Has Alt Text from Media Library",
     "template": "Validation Rule",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E043133-BF5F-4B19-94F5-15F66783EEE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:22.8496426Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image Has Alt Text from Media Library",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Has Alt Text from Media Library",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Auto Submit Action",
     "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26C54307-6D31-46CF-A96B-70678C4FEF7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:48.9492537Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Submit Action",
+    "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

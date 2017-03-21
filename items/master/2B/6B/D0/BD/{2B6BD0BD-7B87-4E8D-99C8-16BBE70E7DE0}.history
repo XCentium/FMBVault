@@ -13,9 +13,28 @@
     "itemName": "Key",
     "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Class Translation/Data/Key",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B6BD0BD-7B87-4E8D-99C8-16BBE70E7DE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:12.8450222Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Key",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Class Translation/Data/Key",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

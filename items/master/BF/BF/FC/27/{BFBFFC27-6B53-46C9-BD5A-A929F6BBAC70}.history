@@ -13,9 +13,28 @@
     "itemName": "Managing editor",
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Managing editor",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFBFFC27-6B53-46C9-BD5A-A929F6BBAC70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:11.1450225Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Managing editor",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Managing editor",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

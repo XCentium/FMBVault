@@ -13,9 +13,28 @@
     "itemName": "Expand Label",
     "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Expand Label",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A3D8DB5-4782-4EC0-8061-C0B08531EB1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.1446432Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Expand Label",
+    "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Expand Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Small Check Button",
     "itemPath": "/sitecore/templates/System/Ribbon/Small Check Button",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABC069D5-3627-4A20-841E-D199B0EB4957}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:31.6384228Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Check Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Check Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Responsibility",
     "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Responsibility",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96F7C728-5E10-448E-ABC3-978D6E522D3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:02.2100218Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Responsibility",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Responsibility",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "View rendering",
     "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:18.8340295Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "View rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

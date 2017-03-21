@@ -13,9 +13,28 @@
     "itemName": "Does FM offer money orders",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Does FM offer money orders",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0FFDA3C-EE4C-44BE-BA6C-9ACF8A88EDE5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:33.8931237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Does FM offer money orders",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Does FM offer money orders",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

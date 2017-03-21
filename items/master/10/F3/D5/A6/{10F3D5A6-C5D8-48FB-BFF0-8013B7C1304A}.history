@@ -13,9 +13,28 @@
     "itemName": "Consolidate",
     "itemPath": "/sitecore/content/FMBCom/Home/Calc/Consolidate",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10F3D5A6-C5D8-48FB-BFF0-8013B7C1304A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:18.6731234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Consolidate",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/Consolidate",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Swiming",
     "itemPath": "/sitecore/content/FMBCom/Global/Interests/Swiming",
     "template": "Interest",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CACEEA0E-5463-4379-8DD5-96A8F5B9EE08}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:41.0621295Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Swiming",
+    "itemPath": "/sitecore/content/FMBCom/Global/Interests/Swiming",
+    "template": "Interest",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

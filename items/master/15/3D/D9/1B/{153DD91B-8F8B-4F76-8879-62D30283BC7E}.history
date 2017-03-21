@@ -13,9 +13,28 @@
     "itemName": "Dependencies",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Dependencies",
     "template": "Carousel",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{153DD91B-8F8B-4F76-8879-62D30283BC7E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:44.4691295Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dependencies",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Dependencies",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

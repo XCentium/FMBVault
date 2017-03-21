@@ -13,9 +13,28 @@
     "itemName": "Surname",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Surname",
     "template": "Condition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AB03E30-2908-4CD7-99E9-B6A2375FFB39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:08.2886368Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Surname",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Surname",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

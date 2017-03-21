@@ -13,9 +13,28 @@
     "itemName": "Validator Bar",
     "itemPath": "/sitecore/templates/System/Templates/Template field/Validation Rules/Validator Bar",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:47.4994293Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validator Bar",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Validation Rules/Validator Bar",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

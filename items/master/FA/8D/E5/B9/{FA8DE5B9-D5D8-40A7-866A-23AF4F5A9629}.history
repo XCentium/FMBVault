@@ -13,9 +13,28 @@
     "itemName": "_Identity",
     "itemPath": "/sitecore/templates/Feature/Identity/_Identity",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA8DE5B9-D5D8-40A7-866A-23AF4F5A9629}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:35.3896419Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_Identity",
+    "itemPath": "/sitecore/templates/Feature/Identity/_Identity",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Belmont Shore",
     "itemPath": "/sitecore/content/FMBCom/Global/Offices/Belmont Shore",
     "template": "Office Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02C9847A-E81F-414E-9211-6C2E8C0C94D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:48.3301328Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belmont Shore",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Belmont Shore",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

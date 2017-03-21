@@ -13,9 +13,28 @@
     "itemName": "Bret Holloway",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Bret Holloway",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC98792E-91D9-4F0A-BFED-3615C607C53B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:31.8291237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bret Holloway",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Bret Holloway",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

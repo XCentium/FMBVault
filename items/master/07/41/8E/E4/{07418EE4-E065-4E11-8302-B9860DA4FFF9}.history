@@ -13,9 +13,28 @@
     "itemName": "Backgrounds",
     "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07418EE4-E065-4E11-8302-B9860DA4FFF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:08.4141949Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Backgrounds",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

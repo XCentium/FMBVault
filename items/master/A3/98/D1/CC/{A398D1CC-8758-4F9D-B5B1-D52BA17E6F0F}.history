@@ -13,9 +13,28 @@
     "itemName": "Orange",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Orange",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A398D1CC-8758-4F9D-B5B1-D52BA17E6F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:08.1321942Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Orange",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

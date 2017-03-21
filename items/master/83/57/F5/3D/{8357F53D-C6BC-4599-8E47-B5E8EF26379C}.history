@@ -13,9 +13,28 @@
     "itemName": "EMV-FAQs",
     "itemPath": "/sitecore/media library/FAQs/EMV-FAQs",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8357F53D-C6BC-4599-8E47-B5E8EF26379C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:03.9435782Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EMV-FAQs",
+    "itemPath": "/sitecore/media library/FAQs/EMV-FAQs",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

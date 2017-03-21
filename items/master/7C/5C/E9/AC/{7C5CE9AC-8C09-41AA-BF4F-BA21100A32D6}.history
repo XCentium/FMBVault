@@ -13,9 +13,28 @@
     "itemName": "Compare-Money-Market-Account Right Header",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Online Account/Compare-Money-Market-Account Right Header",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C5CE9AC-8C09-41AA-BF4F-BA21100A32D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:26.2881235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compare-Money-Market-Account Right Header",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Online Account/Compare-Money-Market-Account Right Header",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

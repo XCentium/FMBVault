@@ -13,9 +13,28 @@
     "itemName": "FMBank110yearbook",
     "itemPath": "/sitecore/media library/Images/FMBank110yearbook",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7D2AD36-6E41-429E-8D3B-FF6D718848A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:17.5891954Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBank110yearbook",
+    "itemPath": "/sitecore/media library/Images/FMBank110yearbook",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

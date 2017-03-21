@@ -13,9 +13,28 @@
     "itemName": "TwitterUrl",
     "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeed/Twitter Account/TwitterUrl",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92EF8986-45E2-42DE-913F-B91FD960297A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:41.5416489Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TwitterUrl",
+    "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeed/Twitter Account/TwitterUrl",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

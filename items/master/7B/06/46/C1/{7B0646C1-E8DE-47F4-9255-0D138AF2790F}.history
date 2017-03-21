@@ -13,9 +13,28 @@
     "itemName": "BusinessBrochureforWeb",
     "itemPath": "/sitecore/media library/Brochures/BusinessBrochureforWeb",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B0646C1-E8DE-47F4-9255-0D138AF2790F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:00.6315765Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BusinessBrochureforWeb",
+    "itemPath": "/sitecore/media library/Brochures/BusinessBrochureforWeb",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

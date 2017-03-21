@@ -13,9 +13,28 @@
     "itemName": "Navigation Link",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Navigation/Navigation Link",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:49.5466493Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation Link",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Navigation/Navigation Link",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

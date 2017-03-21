@@ -13,9 +13,28 @@
     "itemName": "OnlineAccount",
     "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount",
     "template": "Node",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FF2671D-1C23-4E6B-8219-08AAC3355618}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:18.0991234Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OnlineAccount",
+    "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

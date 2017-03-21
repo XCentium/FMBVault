@@ -13,9 +13,28 @@
     "itemName": "Tree",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Tree",
     "template": "Macro",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2929EE16-7657-4CBE-898E-CD142B056D2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:12.2596368Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tree",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Tree",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

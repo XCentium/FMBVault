@@ -13,9 +13,28 @@
     "itemName": "Historical Test Data",
     "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4100BA5-A3CA-440F-BAC2-C0CB325333C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:04.4640225Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Historical Test Data",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

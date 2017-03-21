@@ -13,9 +13,28 @@
     "itemName": "Office Details",
     "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0A68408-E805-4045-AFE3-96C7D8958DDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:39.1596494Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office Details",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

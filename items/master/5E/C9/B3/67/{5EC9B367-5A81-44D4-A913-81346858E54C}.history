@@ -13,9 +13,28 @@
     "itemName": "Left - Half Width",
     "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Layout Types/Left - Half Width",
     "template": "Style",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5EC9B367-5A81-44D4-A913-81346858E54C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:57.5696294Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Left - Half Width",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Layout Types/Left - Half Width",
+    "template": "Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

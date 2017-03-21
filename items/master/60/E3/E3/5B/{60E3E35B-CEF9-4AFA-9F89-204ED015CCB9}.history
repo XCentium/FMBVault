@@ -13,9 +13,28 @@
     "itemName": "Tag",
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag",
     "template": "Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60E3E35B-CEF9-4AFA-9F89-204ED015CCB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:31.7096418Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tag",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

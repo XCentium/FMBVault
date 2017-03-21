@@ -13,9 +13,28 @@
     "itemName": "FAQ - Chip Technology",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/FAQ - Chip Technology",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B45A465E-A133-49E5-B9AA-0EF752F51C02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:24.9661221Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ - Chip Technology",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/FAQ - Chip Technology",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

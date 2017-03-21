@@ -13,9 +13,28 @@
     "itemName": "Large Gallery Button",
     "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19054D88-FED7-48AD-87CD-CF458590C303}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:31.5194237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Gallery Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Associated Sitecore User Profile",
     "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Visitor Information/Associated Sitecore User Profile",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AEA9DEE5-2C3C-4A6F-9DF8-8A11374EEBBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:09.8100223Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Associated Sitecore User Profile",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Visitor Information/Associated Sitecore User Profile",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Content Test Variable",
     "itemPath": "/sitecore/templates/System/Content Testing/Content Test Variable",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61086A4E-EC29-42F4-BA48-6F2ABA7453B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:04.5790222Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Test Variable",
+    "itemPath": "/sitecore/templates/System/Content Testing/Content Test Variable",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

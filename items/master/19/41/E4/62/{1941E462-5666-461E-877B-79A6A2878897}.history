@@ -13,9 +13,28 @@
     "itemName": "How do I change my address",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How do I change my address",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1941E462-5666-461E-877B-79A6A2878897}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:33.9611236Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How do I change my address",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How do I change my address",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

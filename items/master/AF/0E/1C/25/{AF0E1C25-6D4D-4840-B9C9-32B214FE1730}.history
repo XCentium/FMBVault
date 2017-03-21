@@ -13,9 +13,28 @@
     "itemName": "Rules",
     "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Email/Data/Rules",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF0E1C25-6D4D-4840-B9C9-32B214FE1730}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:45.8316491Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Email/Data/Rules",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

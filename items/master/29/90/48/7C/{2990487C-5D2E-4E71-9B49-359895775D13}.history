@@ -13,9 +13,28 @@
     "itemName": "Browser Supports JavaScript",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser Supports JavaScript",
     "template": "Condition",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2990487C-5D2E-4E71-9B49-359895775D13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:02.5806301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Browser Supports JavaScript",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser Supports JavaScript",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

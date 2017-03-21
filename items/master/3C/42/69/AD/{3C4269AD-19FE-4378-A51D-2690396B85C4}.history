@@ -13,9 +13,28 @@
     "itemName": "Android Phablet Landscape",
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phablet Landscape",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C4269AD-19FE-4378-A51D-2690396B85C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:20.3672012Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phablet Landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phablet Landscape",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

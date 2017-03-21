@@ -13,9 +13,28 @@
     "itemName": "Redirect Rule",
     "itemPath": "/sitecore/templates/Redirect Module/Redirect Rule/Information/Redirect Rule",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F32B5C61-7117-4BBF-80B4-C64ABF9EE531}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:52.0646492Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redirect Rule",
+    "itemPath": "/sitecore/templates/Redirect Module/Redirect Rule/Information/Redirect Rule",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

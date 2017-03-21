@@ -13,9 +13,28 @@
     "itemName": "LinkedIn",
     "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{060C8E77-016B-45CC-88F3-5BCD99B59008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:17.8861946Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

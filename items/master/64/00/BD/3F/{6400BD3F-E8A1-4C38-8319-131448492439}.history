@@ -13,9 +13,28 @@
     "itemName": "Tool Button New Line",
     "itemPath": "/sitecore/templates/System/Ribbon/Tool Button New Line",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6400BD3F-E8A1-4C38-8319-131448492439}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:31.8844239Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tool Button New Line",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button New Line",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

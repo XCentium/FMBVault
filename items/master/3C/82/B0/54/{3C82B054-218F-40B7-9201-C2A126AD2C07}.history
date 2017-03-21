@@ -13,9 +13,28 @@
     "itemName": "Define Concept",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Define Concept",
     "template": "Profile Key",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C82B054-218F-40B7-9201-C2A126AD2C07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:32.1446174Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Define Concept",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Define Concept",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Loans-Approval",
     "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Loans-Approval",
     "template": "Disclaimer",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{199422AE-F5A8-44BE-8D5C-5441D7B4B67D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:30.3481237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Loans-Approval",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Loans-Approval",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

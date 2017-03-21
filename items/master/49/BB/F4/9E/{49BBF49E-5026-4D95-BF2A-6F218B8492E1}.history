@@ -13,9 +13,28 @@
     "itemName": "Employees",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49BBF49E-5026-4D95-BF2A-6F218B8492E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:08.4671947Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employees",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

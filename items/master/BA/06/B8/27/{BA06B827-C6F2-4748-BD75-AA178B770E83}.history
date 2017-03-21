@@ -13,9 +13,28 @@
     "itemName": "Function",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
     "template": "Profile",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA06B827-C6F2-4748-BD75-AA178B770E83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:31.8376167Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Function",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
+    "template": "Profile",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

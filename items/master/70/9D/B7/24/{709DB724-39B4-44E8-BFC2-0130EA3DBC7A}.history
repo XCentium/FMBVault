@@ -13,9 +13,28 @@
     "itemName": "Experience",
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Experience",
     "template": "Accordion",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{709DB724-39B4-44E8-BFC2-0130EA3DBC7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:35.7516172Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Experience",
+    "template": "Accordion",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

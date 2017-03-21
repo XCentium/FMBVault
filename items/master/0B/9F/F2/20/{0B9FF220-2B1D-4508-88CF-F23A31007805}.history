@@ -13,9 +13,28 @@
     "itemName": "New Page Visitors",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/New Page Visitors",
     "template": "ReportQuery",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B9FF220-2B1D-4508-88CF-F23A31007805}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:46.8626280Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Page Visitors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/New Page Visitors",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

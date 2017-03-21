@@ -13,9 +13,28 @@
     "itemName": "News List",
     "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/News List",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A99866E5-08E7-44D8-8A52-F8E26BCD3714}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:50.6756493Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News List",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/News List",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

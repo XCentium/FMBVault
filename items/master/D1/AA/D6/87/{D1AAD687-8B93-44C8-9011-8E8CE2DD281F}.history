@@ -13,9 +13,28 @@
     "itemName": "Search Results Header",
     "itemPath": "/sitecore/layout/Renderings/Feature/Search/Search Results Header",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1AAD687-8B93-44C8-9011-8E8CE2DD281F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.1655725Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Results Header",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Search/Search Results Header",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

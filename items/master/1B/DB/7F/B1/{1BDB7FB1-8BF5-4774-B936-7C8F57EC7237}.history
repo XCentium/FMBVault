@@ -13,9 +13,28 @@
     "itemName": "fmb_visa_application",
     "itemPath": "/sitecore/media library/Applications/fmb_visa_application",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BDB7FB1-8BF5-4774-B936-7C8F57EC7237}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:59.7205776Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fmb_visa_application",
+    "itemPath": "/sitecore/media library/Applications/fmb_visa_application",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Facebook Message",
     "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7851F00-E869-4F93-81F5-B5338EFF58A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:41.3244237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

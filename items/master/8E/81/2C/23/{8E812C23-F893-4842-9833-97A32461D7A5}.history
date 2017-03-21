@@ -13,9 +13,28 @@
     "itemName": "Default Expiration Period",
     "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Data/Default Expiration Period",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E812C23-F893-4842-9833-97A32461D7A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:57.9850250Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default Expiration Period",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Data/Default Expiration Period",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

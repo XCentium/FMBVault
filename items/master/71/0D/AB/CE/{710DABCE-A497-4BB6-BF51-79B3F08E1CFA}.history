@@ -13,9 +13,28 @@
     "itemName": "Breadcrumb",
     "itemPath": "/sitecore/media library/Feature/Navigation/Breadcrumb",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{710DABCE-A497-4BB6-BF51-79B3F08E1CFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:05.6831949Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Breadcrumb",
+    "itemPath": "/sitecore/media library/Feature/Navigation/Breadcrumb",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

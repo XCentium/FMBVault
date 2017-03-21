@@ -13,9 +13,28 @@
     "itemName": "Redirect To Item",
     "itemPath": "/sitecore/templates/Redirect Module/Redirect Url/Information/Redirect To Item",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{544E5C57-1626-4972-8535-196F000E4B1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:52.1756495Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redirect To Item",
+    "itemPath": "/sitecore/templates/Redirect Module/Redirect Url/Information/Redirect To Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

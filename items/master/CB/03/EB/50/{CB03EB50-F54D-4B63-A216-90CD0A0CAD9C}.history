@@ -13,9 +13,28 @@
     "itemName": "checkmark",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/cdrates/checkmark",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB03EB50-F54D-4B63-A216-90CD0A0CAD9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:15.6091944Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "checkmark",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/cdrates/checkmark",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

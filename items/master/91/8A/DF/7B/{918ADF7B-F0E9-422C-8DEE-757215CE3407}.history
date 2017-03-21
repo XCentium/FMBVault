@@ -13,9 +13,28 @@
     "itemName": "Person",
     "itemPath": "/sitecore/layout/Renderings/Feature/Person",
     "template": "Rendering Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{918ADF7B-F0E9-422C-8DEE-757215CE3407}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:53.7421296Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Person",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

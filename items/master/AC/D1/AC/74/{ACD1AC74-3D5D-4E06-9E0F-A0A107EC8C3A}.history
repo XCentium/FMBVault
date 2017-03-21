@@ -13,9 +13,28 @@
     "itemName": "FMBankModelPrivacy_Rev12-10",
     "itemPath": "/sitecore/media library/Notices/FMBankModelPrivacy_Rev12-10",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ACD1AC74-3D5D-4E06-9E0F-A0A107EC8C3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:04.3435774Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBankModelPrivacy_Rev12-10",
+    "itemPath": "/sitecore/media library/Notices/FMBankModelPrivacy_Rev12-10",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

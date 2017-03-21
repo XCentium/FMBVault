@@ -13,9 +13,28 @@
     "itemName": "Main Navigation",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Main Navigation",
     "template": "Placeholder Settings Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE965EC7-5A83-453D-B0E6-2BE2820E219B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:51.2581294Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Navigation",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Main Navigation",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

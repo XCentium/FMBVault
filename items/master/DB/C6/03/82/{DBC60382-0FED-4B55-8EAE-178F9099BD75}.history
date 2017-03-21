@@ -13,9 +13,28 @@
     "itemName": "Tool Button",
     "itemPath": "/sitecore/templates/System/Ribbon/Tool Button",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DBC60382-0FED-4B55-8EAE-178F9099BD75}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:31.8194227Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tool Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

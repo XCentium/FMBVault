@@ -13,9 +13,28 @@
     "itemName": "__Masters",
     "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options/Insert Options/__Masters",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1172F251-DAD4-4EFB-A329-0C63500E4F1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:45.0394252Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Masters",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options/Insert Options/__Masters",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

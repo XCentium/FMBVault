@@ -13,9 +13,28 @@
     "itemName": "Remit One",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/Remit One",
     "template": "Modal Link Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E79F9AA0-9698-45D3-BA4D-431B5941DC0C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:42.4631293Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remit One",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/Remit One",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

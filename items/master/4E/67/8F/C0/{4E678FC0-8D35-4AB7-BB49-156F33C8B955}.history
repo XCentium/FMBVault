@@ -13,9 +13,28 @@
     "itemName": "User agent",
     "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Simulator/Data/User agent",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E678FC0-8D35-4AB7-BB49-156F33C8B955}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:17.6390290Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User agent",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Simulator/Data/User agent",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

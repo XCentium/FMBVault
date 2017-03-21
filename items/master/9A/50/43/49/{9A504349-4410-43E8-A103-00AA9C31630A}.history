@@ -13,9 +13,28 @@
     "itemName": "MobileBankingWeGoWhereYouGo",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/MobileBankingWeGoWhereYouGo",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A504349-4410-43E8-A103-00AA9C31630A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.0141943Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MobileBankingWeGoWhereYouGo",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/MobileBankingWeGoWhereYouGo",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Type",
     "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Email/Data/Type",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A8C415A-9082-4CC3-8CB9-75CAE3AF4628}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:45.8056497Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Email/Data/Type",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

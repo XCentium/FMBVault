@@ -13,9 +13,28 @@
     "itemName": "Facebook social community",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social community/Facebook social community",
     "template": "Channel",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9F2D058-95A5-4461-B1E5-8502D2303AF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:24.6226175Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook social community",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social community/Facebook social community",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Main Navigation Activity",
     "itemPath": "/sitecore/layout/Renderings/Project/Common/Main Navigation Activity",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8832BA30-99C3-4D20-9B1C-237D910A153F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.7635757Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Navigation Activity",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Main Navigation Activity",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

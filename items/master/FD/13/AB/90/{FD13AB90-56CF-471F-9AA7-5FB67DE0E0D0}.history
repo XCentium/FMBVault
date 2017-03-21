@@ -13,9 +13,28 @@
     "itemName": "jumbotronteaser",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/jumbotronteaser",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD13AB90-56CF-471F-9AA7-5FB67DE0E0D0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.0311238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "jumbotronteaser",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/jumbotronteaser",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "Form Configurations",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Configurations",
     "template": "Form Configuration Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6198CD02-AB88-4214-B4F0-27129A7FD684}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:37.5571302Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Configurations",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Configurations",
+    "template": "Form Configuration Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

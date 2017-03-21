@@ -13,9 +13,28 @@
     "itemName": "Multilist",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Multilist",
     "template": "Field Type Validation Rules",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69E6848C-AC9D-49A7-960A-7AE4E413EDEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:23.7226431Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multilist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Multilist",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

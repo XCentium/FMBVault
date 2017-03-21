@@ -13,9 +13,28 @@
     "itemName": "Link Token",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Demo Tokens/Link Token",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DEFAA26-ED9D-4495-B5F0-0A7620403842}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:48.4336495Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Token",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Demo Tokens/Link Token",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

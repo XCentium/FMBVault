@@ -13,9 +13,28 @@
     "itemName": "Aquarium of the Pacific",
     "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/Aquarium of the Pacific",
     "template": "Testimonial",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00CAF90D-35A8-4A84-B6B7-2FD45760FE8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:50.1391293Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aquarium of the Pacific",
+    "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/Aquarium of the Pacific",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

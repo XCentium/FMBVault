@@ -13,9 +13,28 @@
     "itemName": "Content Teaser with Summary",
     "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Content Teaser with Summary",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{781C6B36-4B02-46EA-8ADC-B92A11877F10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:56.3725730Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Teaser with Summary",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Content Teaser with Summary",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

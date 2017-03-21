@@ -13,9 +13,28 @@
     "itemName": "Navigation",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/Navigation",
     "template": "Datasource Settings Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18799634-5B04-48BD-9EB7-FB7F47A6DB18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:23.2031238Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/Navigation",
+    "template": "Datasource Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

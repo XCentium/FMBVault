@@ -13,9 +13,28 @@
     "itemName": "FieldOptionGroups",
     "itemPath": "/sitecore/templates/Feature/Forms/_HasFormFields/Form/FieldOptionGroups",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F3E0A45-EBC2-47BF-9C04-0359798DB2CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.8446429Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FieldOptionGroups",
+    "itemPath": "/sitecore/templates/Feature/Forms/_HasFormFields/Form/FieldOptionGroups",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

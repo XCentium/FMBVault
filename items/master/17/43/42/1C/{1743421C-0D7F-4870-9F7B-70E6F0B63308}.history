@@ -13,9 +13,28 @@
     "itemName": "Zip",
     "itemPath": "/sitecore/templates/System/Media/Versioned/Zip",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1743421C-0D7F-4870-9F7B-70E6F0B63308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:25.9404186Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zip",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Zip",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

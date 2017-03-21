@@ -13,9 +13,28 @@
     "itemName": "Our History",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures/Our History",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA70F5C3-E958-4A18-91ED-838540A921C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:43.0651301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Our History",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures/Our History",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

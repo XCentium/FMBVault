@@ -13,9 +13,28 @@
     "itemName": "Check Box",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Check Box",
     "template": "Search Control Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C462EE15-C19E-4EC5-A802-603A1A9C61E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:52.5006305Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Check Box",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Check Box",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

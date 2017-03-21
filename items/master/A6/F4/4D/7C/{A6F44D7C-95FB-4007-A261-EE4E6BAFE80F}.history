@@ -13,9 +13,28 @@
     "itemName": "TrusteerDetailedInstructionsPC",
     "itemPath": "/sitecore/media library/Brochures/TrusteerDetailedInstructionsPC",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6F44D7C-95FB-4007-A261-EE4E6BAFE80F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:03.5855773Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TrusteerDetailedInstructionsPC",
+    "itemPath": "/sitecore/media library/Brochures/TrusteerDetailedInstructionsPC",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

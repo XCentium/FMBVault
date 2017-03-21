@@ -13,9 +13,28 @@
     "itemName": "FMBLANDING-ATM-1920x600",
     "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/FMBLANDING-ATM-1920x600",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF3F7FDD-279D-4EB4-B787-7BE46E07EA8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:08.8931954Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBLANDING-ATM-1920x600",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/FMBLANDING-ATM-1920x600",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

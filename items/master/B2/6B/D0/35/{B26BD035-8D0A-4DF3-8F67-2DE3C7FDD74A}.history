@@ -13,9 +13,28 @@
     "itemName": "Foundation",
     "itemPath": "/sitecore/templates/Foundation",
     "template": "Template Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B26BD035-8D0A-4DF3-8F67-2DE3C7FDD74A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:29.1986417Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Foundation",
+    "itemPath": "/sitecore/templates/Foundation",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

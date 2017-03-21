@@ -13,9 +13,28 @@
     "itemName": "Headline Employee Carousel",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Employee Carousel",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6169D2C5-0C44-42AA-9CA7-DC5AACBF7029}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:49.9411299Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Employee Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Employee Carousel",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

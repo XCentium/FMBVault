@@ -13,9 +13,28 @@
     "itemName": "April 16 - San Juan Capistrano",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/April 16 - San Juan Capistrano",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF62FA65-7A7C-4BDB-A3EC-21F2CA7C071F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:39.4871303Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "April 16 - San Juan Capistrano",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/April 16 - San Juan Capistrano",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

@@ -13,9 +13,28 @@
     "itemName": "_HasFormFields",
     "itemPath": "/sitecore/templates/Feature/Forms/_HasFormFields",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51755668-2A84-4625-9817-F4FF938CC527}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.3316432Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasFormFields",
+    "itemPath": "/sitecore/templates/Feature/Forms/_HasFormFields",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

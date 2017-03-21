@@ -13,9 +13,28 @@
     "itemName": "Content Module",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Content Module",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:46.9966493Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Module",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Content Module",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

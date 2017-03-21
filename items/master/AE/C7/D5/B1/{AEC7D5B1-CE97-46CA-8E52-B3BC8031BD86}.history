@@ -13,9 +13,28 @@
     "itemName": "Clientside Hook",
     "itemPath": "/sitecore/templates/System/Item Buckets/Clientside Hook",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AEC7D5B1-CE97-46CA-8E52-B3BC8031BD86}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:13.6980270Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clientside Hook",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Clientside Hook",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

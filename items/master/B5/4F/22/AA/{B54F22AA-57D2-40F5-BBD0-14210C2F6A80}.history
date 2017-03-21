@@ -13,9 +13,28 @@
     "itemName": "Settings",
     "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Remove Tests Action/Settings",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B54F22AA-57D2-40F5-BBD0-14210C2F6A80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:08.1920222Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Remove Tests Action/Settings",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

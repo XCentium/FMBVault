@@ -13,9 +13,28 @@
     "itemName": "SantaAna",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/SantaAna",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EEF284F3-7AAF-4749-B07C-5B56015531C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:08.3091926Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SantaAna",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/SantaAna",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

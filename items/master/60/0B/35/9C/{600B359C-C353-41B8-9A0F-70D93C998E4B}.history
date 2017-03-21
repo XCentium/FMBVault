@@ -13,9 +13,28 @@
     "itemName": "calc_individual_personal",
     "itemPath": "/sitecore/media library/FMBCom/Images/General/calc_individual_personal",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{600B359C-C353-41B8-9A0F-70D93C998E4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:12.2791953Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "calc_individual_personal",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/calc_individual_personal",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

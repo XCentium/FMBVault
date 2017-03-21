@@ -13,9 +13,28 @@
     "itemName": "Email List",
     "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rule/Rule/Email List",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{255C4C87-E391-43DF-B12D-DF56ABE90797}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:45.9406497Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email List",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rule/Rule/Email List",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

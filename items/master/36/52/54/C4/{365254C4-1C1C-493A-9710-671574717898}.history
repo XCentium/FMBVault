@@ -13,9 +13,28 @@
     "itemName": "Forgot Password Mail Template",
     "itemPath": "/sitecore/templates/Feature/Accounts/_AccountsSettings/Accounts/Forgot Password Mail Template",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{365254C4-1C1C-493A-9710-671574717898}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:33.4666425Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot Password Mail Template",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_AccountsSettings/Accounts/Forgot Password Mail Template",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

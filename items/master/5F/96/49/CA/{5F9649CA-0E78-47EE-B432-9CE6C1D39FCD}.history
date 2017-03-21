@@ -13,9 +13,28 @@
     "itemName": "Sonia Yenche",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Tustin/Sonia Yenche",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F9649CA-0E78-47EE-B432-9CE6C1D39FCD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:32.3071235Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sonia Yenche",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Tustin/Sonia Yenche",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

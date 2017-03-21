@@ -13,9 +13,28 @@
     "itemName": "General FAQs - Mobile",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/General FAQs - Mobile",
     "template": "FAQ Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{494F7EB6-3A97-4A9C-B28D-064EE40ED58D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:37.2991301Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General FAQs - Mobile",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/General FAQs - Mobile",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

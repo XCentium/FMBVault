@@ -13,9 +13,28 @@
     "itemName": "Date Start",
     "itemPath": "/sitecore/templates/Feature/Tools/_HasNotification/Notification/Date Start",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{237FC006-F54D-4F56-93EA-C4B244EB22FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:43.2856498Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date Start",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasNotification/Notification/Date Start",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

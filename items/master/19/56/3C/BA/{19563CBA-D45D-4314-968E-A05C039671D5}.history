@@ -13,9 +13,28 @@
     "itemName": "Google Plus Share Buttons",
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Google Plus/Google Plus Share Buttons",
     "template": "Campaign",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19563CBA-D45D-4314-968E-A05C039671D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:26.7196174Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google Plus Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Google Plus/Google Plus Share Buttons",
+    "template": "Campaign",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

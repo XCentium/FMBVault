@@ -13,9 +13,28 @@
     "itemName": "SuccessPage",
     "itemPath": "/sitecore/templates/Feature/Forms/_HasSuccessPage/Form/SuccessPage",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C22F643-D4E0-481D-B35D-F1C7276E936C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:34.9506430Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SuccessPage",
+    "itemPath": "/sitecore/templates/Feature/Forms/_HasSuccessPage/Form/SuccessPage",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

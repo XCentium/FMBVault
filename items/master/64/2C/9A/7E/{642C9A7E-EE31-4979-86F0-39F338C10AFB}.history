@@ -13,9 +13,28 @@
     "itemName": "User",
     "itemPath": "/sitecore/templates/System/Security/User",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{642C9A7E-EE31-4979-86F0-39F338C10AFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:37.9434274Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User",
+    "itemPath": "/sitecore/templates/System/Security/User",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

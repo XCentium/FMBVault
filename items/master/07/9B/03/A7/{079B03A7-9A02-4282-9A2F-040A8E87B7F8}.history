@@ -13,9 +13,28 @@
     "itemName": "KDavatolhagh",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KDavatolhagh",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{079B03A7-9A02-4282-9A2F-040A8E87B7F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:25:10.9631942Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KDavatolhagh",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KDavatolhagh",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

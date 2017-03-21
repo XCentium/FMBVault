@@ -13,9 +13,28 @@
     "itemName": "HTML Font",
     "itemPath": "/sitecore/templates/System/Html editor/HTML Font",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A87C6D3F-D797-4147-9292-899A9DB561B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:11.3200239Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Font",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Font",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

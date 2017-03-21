@@ -13,9 +13,28 @@
     "itemName": "Show Modal",
     "itemPath": "/sitecore/templates/Feature/Navigation/_HasModalContent/Modal/Show Modal",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF06A0D7-5C1A-423A-86C8-10F4FF20AB5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:38.2366487Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show Modal",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_HasModalContent/Modal/Show Modal",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

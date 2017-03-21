@@ -13,9 +13,28 @@
     "itemName": "Profile Card - Persona",
     "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{448C4D57-F0F1-4278-8AB8-93DB46C94F1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:54.6106560Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Card - Persona",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

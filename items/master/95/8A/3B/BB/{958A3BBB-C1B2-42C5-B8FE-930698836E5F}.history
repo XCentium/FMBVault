@@ -13,9 +13,28 @@
     "itemName": "WebEdit Control",
     "itemPath": "/sitecore/templates/System/Templates/Template field type/Data/WebEdit Control",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{958A3BBB-C1B2-42C5-B8FE-930698836E5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:27:47.7394299Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebEdit Control",
+    "itemPath": "/sitecore/templates/System/Templates/Template field type/Data/WebEdit Control",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

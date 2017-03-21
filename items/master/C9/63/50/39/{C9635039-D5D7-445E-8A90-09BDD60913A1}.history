@@ -13,9 +13,28 @@
     "itemName": "Page Types",
     "itemPath": "/sitecore/templates/Project/Common/Page Types",
     "template": "Template Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9635039-D5D7-445E-8A90-09BDD60913A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:26:46.8336491Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Types",
+    "itemPath": "/sitecore/templates/Project/Common/Page Types",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]

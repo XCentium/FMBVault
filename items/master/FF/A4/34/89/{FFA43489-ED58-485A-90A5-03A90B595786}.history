@@ -13,9 +13,28 @@
     "itemName": "MailChimp",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Forms/MailChimp",
     "template": "Content Module Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cbe878496ee0879d3b4608d814326d76d013afb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFA43489-ED58-485A-90A5-03A90B595786}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T06:24:25.7821237Z",
+    "label": "Snapshot - 20170320_NewBaseline_Master",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MailChimp",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Forms/MailChimp",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.0",
     "deploymentId": null
   }
 ]
