@@ -32,9 +32,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/News List/__Standard Values",
     "template": "News List",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9d6196d13d8ddf35859dfd69613dec45ce4e770a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9ABC1BBC-1506-49E6-890C-82A79C36F246}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-21T18:13:17.6370189Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/News List/__Standard Values",
+    "template": "News List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
