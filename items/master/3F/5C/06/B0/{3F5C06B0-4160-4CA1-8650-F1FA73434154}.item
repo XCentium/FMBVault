@@ -13,15 +13,15 @@ created: 20170211T015604:636223749641270000
 ----version----
 language: en
 version: 1
-revision: de0001fd-587e-4f2b-9cd9-7f08215bd4ce
+revision: 68579b42-3f83-4858-bce9-c718fe7fb9b8
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 329
+content-length: 336
 
-<sup>5</sup>Visa Zero Liability policy covers U.S.&ndash;issued cards only and does not apply to ATM transactions, PIN transactions not processed by Visa, or certain commercial card transactions. Cardholder must notify issuer promptly of any unauthorized use. Consult issuer for additional details or visit www.visa.com/security.
+<p><sup>5</sup>Visa Zero Liability policy covers U.S.&ndash;issued cards only and does not apply to ATM transactions, PIN transactions not processed by Visa, or certain commercial card transactions. Cardholder must notify issuer promptly of any unauthorized use. Consult issuer for additional details or visit www.visa.com/security.</p>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-de0001fd-587e-4f2b-9cd9-7f08215bd4ce
+68579b42-3f83-4858-bce9-c718fe7fb9b8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170211T015840Z
+20170321T031100Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 14
 
-fmb\jbridges
+fmb\mmondragon
