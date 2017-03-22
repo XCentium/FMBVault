@@ -32,9 +32,28 @@
     "itemName": "Redirects",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects",
     "template": "Redirect Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bc181842c60dec659871c8cd9d228f90f8ea79b2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{43A6090D-B80D-4ACF-B293-2691C98D83B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T18:38:13.4647067Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redirects",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects",
+    "template": "Redirect Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
