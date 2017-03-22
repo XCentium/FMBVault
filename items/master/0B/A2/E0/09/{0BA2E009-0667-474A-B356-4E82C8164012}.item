@@ -14,9 +14,9 @@ created: 20170322T225553:636258201536100000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 29
+content-length: 20
 
-/mortgage-rates-fmb/index.php
+/mortgage-rates-fmb/
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: c6549b2d-dad0-42f6-b154-c930c51bdd1f
+revision: 48d5442a-26bb-44db-a7e5-b18286f83a30
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,18 +42,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c6549b2d-dad0-42f6-b154-c930c51bdd1f
+48d5442a-26bb-44db-a7e5-b18286f83a30
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T225612Z
+20170322T230414Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-fmb\sdonatelli
+fmb\jbridges
