@@ -13,7 +13,7 @@ created: 20170309T012333:636246194133130000
 ----version----
 language: en
 version: 1
-revision: 959166a7-cbf1-409a-832a-15db8ad62384
+revision: 2d77c9d3-377a-4b54-8b9e-63bce118e13f
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -42,9 +42,16 @@ Founding Values
 field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
 name: BrowserTitle
 key: browsertitle
-content-length: 15
+content-length: 71
 
-Founding Values
+Founding Values, Our Declaration of Believes | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 131
+
+Find out more about our founding values of Honesty, Dedication, Service Above Self, Humility, Faith, Compassion, and Dependability.
 ----field----
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
@@ -79,14 +86,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-959166a7-cbf1-409a-832a-15db8ad62384
+2d77c9d3-377a-4b54-8b9e-63bce118e13f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170309T173624Z
+20170322T230207Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

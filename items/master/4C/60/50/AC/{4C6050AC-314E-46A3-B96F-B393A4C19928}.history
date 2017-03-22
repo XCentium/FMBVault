@@ -32,9 +32,28 @@
     "itemName": "Founding Values",
     "itemPath": "/sitecore/content/FMBCom/Home/About/Founding Values",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "66c8d8843c7114f224248c47b80f0753a59b30ca",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4C6050AC-314E-46A3-B96F-B393A4C19928}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T23:02:07.8227326Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Founding Values",
+    "itemPath": "/sitecore/content/FMBCom/Home/About/Founding Values",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
