@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B8E8D3E0-EB03-4B79-90FE-80AEF88D7804}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:49:21.7623994Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Business Checking Accounts",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/LP/Business Checking Accounts",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
