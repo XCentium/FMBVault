@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6A89AC3E-7F74-473D-9FB0-BC3C2F586204}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T23:28:14.6701335Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "100 Year Yearbook",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/FAQs/100 Year Yearbook",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
