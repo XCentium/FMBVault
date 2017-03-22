@@ -32,9 +32,28 @@
     "itemName": "Office - Contact - Funnel",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Office Info/Office - Contact - Funnel",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5809bb5037a0f1210eed156471805d75286ba19d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{547152CD-C224-4830-AB49-472D6C68C8CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T00:04:52.8288894Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office - Contact - Funnel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Office Info/Office - Contact - Funnel",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
