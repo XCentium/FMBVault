@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2279CF26-ED77-48F7-8BEA-78BD8C0EE677}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T23:39:00.7761801Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Funnels",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Funnels",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
