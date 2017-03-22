@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F03CF2B4-9C39-41F5-82C7-DF19FDC300B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T19:40:43.4743551Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Privacy",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Privacy",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
