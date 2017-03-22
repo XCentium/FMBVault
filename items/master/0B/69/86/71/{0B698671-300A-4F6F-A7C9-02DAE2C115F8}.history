@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0B698671-300A-4F6F-A7C9-02DAE2C115F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:53:35.5575207Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Checking Accounts",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/LP/Checking Accounts",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
