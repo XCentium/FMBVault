@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{927587B6-70F0-4D60-A4F6-1DC1977B1CB4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:47:55.1837686Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Low Down Payment",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/About/Low Down Payment",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
