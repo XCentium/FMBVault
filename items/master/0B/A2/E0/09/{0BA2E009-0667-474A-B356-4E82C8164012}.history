@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0BA2E009-0667-474A-B356-4E82C8164012}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:55:53.6321707Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Mortgage Rates",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/LP/Mortgage Rates",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
