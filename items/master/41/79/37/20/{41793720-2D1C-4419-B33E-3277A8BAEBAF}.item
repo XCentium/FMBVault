@@ -2,8 +2,8 @@
 version: 1
 id: {41793720-2D1C-4419-B33E-3277A8BAEBAF}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Certificate of Deposit Calculator
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Certificate of Deposit Calculator
+parent: {DE1A9C52-313E-4564-B259-5A768A9EB475}
 name: Certificate of Deposit Calculator
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}

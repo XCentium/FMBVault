@@ -32,9 +32,28 @@
     "itemName": "NonProfit Dir to Business",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/NonProfit Dir to Business",
     "template": "Redirect Pattern",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "68745c08cc15fa238359fc407f74374b2dbc25b2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B9E057F4-6555-4774-9BAD-80FEC6964AB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T23:56:01.0802929Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "NonProfit Dir to Business",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/NonProfit Dir to Business",
+    "template": "Redirect Pattern",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
