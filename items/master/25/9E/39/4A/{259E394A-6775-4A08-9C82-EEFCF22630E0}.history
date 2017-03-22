@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{259E394A-6775-4A08-9C82-EEFCF22630E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:13:44.2316590Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Trusteer Rapport Security Software",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Trusteer Rapport Security Software",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
