@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6FED0294-86CC-488C-8F1F-2A9AB27DD445}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:47:22.2805399Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "LP",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/LP",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
