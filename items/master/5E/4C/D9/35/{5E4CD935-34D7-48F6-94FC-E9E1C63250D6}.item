@@ -2,8 +2,8 @@
 version: 1
 id: {5E4CD935-34D7-48F6-94FC-E9E1C63250D6}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Mobile Banking FAQ/Health Savings Account
-parent: {E45FADF3-8185-426A-BE4C-52723CF293B8}
+path: /Health Savings Account
+parent: {00000000-0000-0000-0000-000000000000}
 name: Health Savings Account
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
@@ -24,36 +24,3 @@ key: redirect to item
 content-length: 38
 
 {13BBCB40-8145-4DA3-90F9-491D361106CD}
-----version----
-language: en
-version: 1
-revision: a08b6439-312a-4cd2-8a66-5d73ac91977f
-
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20170313T193124Z
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-a08b6439-312a-4cd2-8a66-5d73ac91977f
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20170320T235733Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 12
-
-fmb\jbridges
