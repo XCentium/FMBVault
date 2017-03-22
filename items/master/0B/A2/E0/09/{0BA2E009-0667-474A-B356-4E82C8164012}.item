@@ -2,8 +2,8 @@
 version: 1
 id: {0BA2E009-0667-474A-B356-4E82C8164012}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Mortgage Rates
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/LP/Mortgage Rates
+parent: {DD4A3AE8-8D82-422F-9924-FCE3E95F18F2}
 name: Mortgage Rates
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
