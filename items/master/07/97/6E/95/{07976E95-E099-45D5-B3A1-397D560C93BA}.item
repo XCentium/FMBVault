@@ -2,8 +2,8 @@
 version: 1
 id: {07976E95-E099-45D5-B3A1-397D560C93BA}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Compare Personal Checking
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Compare Personal Checking
+parent: {B7719719-D8DA-4204-B604-F998129BD4F2}
 name: Compare Personal Checking
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
