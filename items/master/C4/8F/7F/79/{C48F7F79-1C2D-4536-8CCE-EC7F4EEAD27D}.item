@@ -2,8 +2,8 @@
 version: 1
 id: {C48F7F79-1C2D-4536-8CCE-EC7F4EEAD27D}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Funnels/Online Account Confirmation
-parent: {2279CF26-ED77-48F7-8BEA-78BD8C0EE677}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Online Account Confirmation
+parent: {46208C65-F7D5-4642-9340-175057D80E03}
 name: Online Account Confirmation
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
