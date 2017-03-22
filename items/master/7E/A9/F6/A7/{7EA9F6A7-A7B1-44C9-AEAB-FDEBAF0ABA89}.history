@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7EA9F6A7-A7B1-44C9-AEAB-FDEBAF0ABA89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T23:47:41.0574934Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Mortgage Loan Calculator",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Mortgage Loan Calculator",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
