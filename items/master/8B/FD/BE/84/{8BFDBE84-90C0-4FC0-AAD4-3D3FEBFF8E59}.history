@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8BFDBE84-90C0-4FC0-AAD4-3D3FEBFF8E59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T23:41:15.1860300Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Online Account Products and Services",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Funnels/Online Account Products and Services",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
