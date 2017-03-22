@@ -13,18 +13,26 @@ created: 20170316T222938:636253001786230000
 ----version----
 language: en
 version: 1
-revision: b067dd8f-cb22-40e7-a432-2eb9c4a09539
+revision: d4e21dd4-f662-4f05-9ff6-4fd76a841feb
 
 ----field----
 field: {302C9F8D-F703-4F76-A4AB-73D222648232}
 name: MediaDescription
 key: mediadescription
-content-length: 254
+content-length: 380
 
+<div class="row">
+<div class="col-md-7">
+<!--nothing needed here-->
+</div>
+<div class="col-md-5">
 <h1>Competitive interest rates and low fees</h1>
 <h3>F&amp;M Personal Money Market Account</h3>
 <h2>$100 minimum opening balance</h2>
 <a href="~/link.aspx?_id=6B60FAC862C74CC59E2B42A08A84D6DF&amp;_z=z" class="btn btn-primary">Click here to learn more</a>
+<p>&nbsp;</p>
+</div>
+</div>
 ----field----
 field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
 name: MediaImage
@@ -59,14 +67,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b067dd8f-cb22-40e7-a432-2eb9c4a09539
+d4e21dd4-f662-4f05-9ff6-4fd76a841feb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170317T161441Z
+20170322T234310Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
