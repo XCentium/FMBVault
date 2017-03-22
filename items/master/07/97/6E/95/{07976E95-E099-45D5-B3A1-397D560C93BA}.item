@@ -14,9 +14,9 @@ created: 20170322T213655:636258154153900000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 32
+content-length: 35
 
-/personal-checking-accounts.html
+/compare-personal-checking-accounts
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: f023ff14-beca-4624-bb75-a05f0c837cd1
+revision: cc15eb82-a2d4-431d-acd6-51c99a4c440c
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f023ff14-beca-4624-bb75-a05f0c837cd1
+cc15eb82-a2d4-431d-acd6-51c99a4c440c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T213655Z
+20170322T213807Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
