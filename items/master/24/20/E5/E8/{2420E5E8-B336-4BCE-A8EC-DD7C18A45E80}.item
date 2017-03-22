@@ -14,9 +14,9 @@ created: 20170322T212908:636258149486070000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 43
+content-length: 49
 
-/home/news-and-community/news/articles.html
+/home/news-and-community/news/press-releases.html
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: e95c1031-5396-4fa2-a466-6beb398efbba
+revision: 450ca461-d56d-4a31-97a6-807d0384069f
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e95c1031-5396-4fa2-a466-6beb398efbba
+450ca461-d56d-4a31-97a6-807d0384069f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T212908Z
+20170322T212957Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
