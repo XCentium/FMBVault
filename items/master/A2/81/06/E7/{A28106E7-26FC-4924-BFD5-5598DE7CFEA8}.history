@@ -108,9 +108,28 @@
     "itemName": "Platinum Checking",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Platinum Checking",
     "template": "Redirect Url",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d5ca0bf8a21f252d85ae47219d06e4a164ff8629",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A28106E7-26FC-4924-BFD5-5598DE7CFEA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T21:51:40.7459699Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Platinum Checking",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Platinum Checking",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
