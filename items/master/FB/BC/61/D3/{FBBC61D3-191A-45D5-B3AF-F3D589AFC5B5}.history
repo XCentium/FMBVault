@@ -32,9 +32,28 @@
     "itemName": "Certificates-of-Deposit",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Certificates-of-Deposit",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cdddcaae829ecad0cfa50e9352f0d895f6677981",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{FBBC61D3-191A-45D5-B3AF-F3D589AFC5B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T19:47:38.0468147Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Certificates-of-Deposit",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Certificates-of-Deposit",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

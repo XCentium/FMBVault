@@ -13,7 +13,7 @@ created: 20170120T172950:636205301902900000
 ----version----
 language: en
 version: 1
-revision: c102b01f-3a76-40f4-829b-14f86adcd887
+revision: 3fa7cf85-b3d9-441f-9dd2-6918b62a8b07
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -55,14 +55,21 @@ name: NavigationTitle
 key: navigationtitle
 content-length: 23
 
-Certificates-of-Deposit
+Certificates of Deposit
 ----field----
 field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
 name: BrowserTitle
 key: browsertitle
-content-length: 23
+content-length: 65
 
-Certificates-of-Deposit
+Certificates of Deposit Interest Rates | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 164
+
+See what Farmers & Merchants Bank Certificates of Deposit can do to help you invest in your financial future! Ask about certificate of deposit interest rates today!
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -90,21 +97,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c102b01f-3a76-40f4-829b-14f86adcd887
+3fa7cf85-b3d9-441f-9dd2-6918b62a8b07
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170316T214925Z
+20170322T194738Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 10
+content-length: 12
 
-fmb\jchung
+fmb\jbridges
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
