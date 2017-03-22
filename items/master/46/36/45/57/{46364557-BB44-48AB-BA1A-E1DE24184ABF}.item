@@ -1,14 +1,14 @@
 ----item----
 version: 1
-id: {B780E375-CCFD-414F-9104-8F51EB47F3D0}
+id: {46364557-BB44-48AB-BA1A-E1DE24184ABF}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Business Banking
-parent: {E6707B20-0635-4C12-B7ED-AFE6304D1771}
-name: Business Banking
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Gold Checking HTML
+parent: {B7719719-D8DA-4204-B604-F998129BD4F2}
+name: Gold Checking HTML
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
-created: 20170322T221730:636258178504400000
+created: 20170322T221928:636258179683870000
 
 ----field----
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
@@ -16,18 +16,18 @@ name: Requested Url
 key: requested url
 content-length: 27
 
-/home/business-banking.html
+/gold-checking-account.html
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{B0BE8AE0-7814-4443-88D0-DBD64C12A185}
+{AE04209B-2697-4EE3-A692-5F2353D75544}
 ----version----
 language: en
 version: 1
-revision: 2d0e241e-1079-4be4-a55f-61a7b9e3507c
+revision: f35a2da6-fb81-4354-a8a6-081cae32fd57
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,18 +42,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2d0e241e-1079-4be4-a55f-61a7b9e3507c
+f35a2da6-fb81-4354-a8a6-081cae32fd57
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T221800Z
+20170320T234549Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-fmb\sdonatelli
+fmb\jbridges
