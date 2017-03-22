@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{EACC5EA3-1E94-4246-B61D-BE9D45244103}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:24:36.7296790Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Classic Checking Account HTML",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Classic Checking Account HTML",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
