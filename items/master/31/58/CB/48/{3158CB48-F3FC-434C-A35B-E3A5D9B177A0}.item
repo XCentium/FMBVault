@@ -28,13 +28,13 @@ content-length: 3
 field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
 name: __Security
 key: __security
-content-length: 74
+content-length: 100
 
-au|fmb\sdonatelli|pe|+item:write|+item:rename|pd|+item:write|+item:rename|
+au|fmb\sdonatelli|pe|+item:rename|+item:write|+item:create|pd|+item:rename|+item:write|+item:create|
 ----version----
 language: en
 version: 1
-revision: 1319b3ac-551a-41b0-9c1a-fffab6b8efee
+revision: 41416152-b3a9-4c10-9d56-1afba8177943
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1319b3ac-551a-41b0-9c1a-fffab6b8efee
+41416152-b3a9-4c10-9d56-1afba8177943
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T155642Z
+20170322T155644Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

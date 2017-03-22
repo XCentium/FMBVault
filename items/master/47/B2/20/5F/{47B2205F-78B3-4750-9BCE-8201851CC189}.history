@@ -32,9 +32,28 @@
     "itemName": "Banner Zone - Thin",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Banner/Banner Zone - Thin",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b769bec6a5d0722c617850bb404abb09b04c9e16",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{47B2205F-78B3-4750-9BCE-8201851CC189}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T16:51:53.8864979Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "Banner Zone - Thin",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Banner/Banner Zone - Thin",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

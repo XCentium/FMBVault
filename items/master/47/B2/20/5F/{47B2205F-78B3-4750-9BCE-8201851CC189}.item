@@ -21,13 +21,13 @@ bannerZone-thin
 field: {E391B526-D0C5-439D-803E-17512EAE6222}
 name: Allowed Controls
 key: allowed controls
-content-length: 116
+content-length: 155
 
-{FB0798A3-5823-475B-AB05-FD49DEBF5074}|{88667343-C95C-48AC-8E1F-5C4BF7F84DA7}|{A0AE3949-E0D2-443E-941D-D6B4E6032A98}
+{FB0798A3-5823-475B-AB05-FD49DEBF5074}|{88667343-C95C-48AC-8E1F-5C4BF7F84DA7}|{A0AE3949-E0D2-443E-941D-D6B4E6032A98}|{6D95E1CA-93F5-406A-B5B3-0232D8794E6A}
 ----version----
 language: en
 version: 1
-revision: f1d86bc1-8989-4f73-9c37-0b35af44b042
+revision: d77ed536-7daf-4013-9362-98c65f0ee610
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,18 +42,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f1d86bc1-8989-4f73-9c37-0b35af44b042
+d77ed536-7daf-4013-9362-98c65f0ee610
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170302T062348Z
+20170322T165153Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\mliwanag
