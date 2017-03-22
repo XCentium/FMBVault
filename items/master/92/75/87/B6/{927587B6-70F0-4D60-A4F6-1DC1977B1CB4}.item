@@ -2,8 +2,8 @@
 version: 1
 id: {927587B6-70F0-4D60-A4F6-1DC1977B1CB4}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Low Down Payment
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/LP/Low Down Payment
+parent: {DD4A3AE8-8D82-422F-9924-FCE3E95F18F2}
 name: Low Down Payment
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
