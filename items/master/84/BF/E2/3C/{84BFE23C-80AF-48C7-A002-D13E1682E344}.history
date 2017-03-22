@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{84BFE23C-80AF-48C7-A002-D13E1682E344}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T19:42:58.5884222Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Certificates of Deposit",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Certificates of Deposit",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
