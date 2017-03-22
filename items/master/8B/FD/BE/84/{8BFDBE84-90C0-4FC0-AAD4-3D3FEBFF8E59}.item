@@ -2,8 +2,8 @@
 version: 1
 id: {8BFDBE84-90C0-4FC0-AAD4-3D3FEBFF8E59}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Funnels/Online Account Products and Services
-parent: {2279CF26-ED77-48F7-8BEA-78BD8C0EE677}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Online Account Products and Services
+parent: {46208C65-F7D5-4642-9340-175057D80E03}
 name: Online Account Products and Services
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
