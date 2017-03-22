@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7725D9CB-AE13-4B74-AD61-4CBE03E1D86E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T00:07:59.7108524Z",
+    "label": "Deployed from FMB 183",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "GoogleAPI_Key",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/GoogleAPI_Key",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "5b21e3fd-b23f-455b-9259-fc9c54dd1eec"
+  }
+]
