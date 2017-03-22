@@ -2,8 +2,8 @@
 version: 1
 id: {9EA7F51A-F343-4BD1-8B12-4808ED30F99F}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/About/Founding Values
-parent: {BE3A9CA1-0E33-41C4-ACC0-70840B9202BE}
+path: /Founding Values
+parent: {00000000-0000-0000-0000-000000000000}
 name: Founding Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
@@ -24,36 +24,3 @@ key: redirect to item
 content-length: 38
 
 {4C6050AC-314E-46A3-B96F-B393A4C19928}
-----version----
-language: en
-version: 1
-revision: e7402dff-a23d-4b26-803e-c8639a462a5d
-
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20170313T193124Z
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-e7402dff-a23d-4b26-803e-c8639a462a5d
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20170322T224528Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 14
-
-fmb\sdonatelli
