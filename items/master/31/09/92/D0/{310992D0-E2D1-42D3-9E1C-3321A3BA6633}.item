@@ -2,8 +2,8 @@
 version: 1
 id: {310992D0-E2D1-42D3-9E1C-3321A3BA6633}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Financial Calculators
-parent: {B7719719-D8DA-4204-B604-F998129BD4F2}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Financial Calculators
+parent: {46208C65-F7D5-4642-9340-175057D80E03}
 name: Financial Calculators
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
