@@ -2,8 +2,8 @@
 version: 1
 id: {F8F3EE33-F6F7-4536-B61C-BEC79A0F651F}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Consolidate Calculator
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Consolidate Calculator
+parent: {DE1A9C52-313E-4564-B259-5A768A9EB475}
 name: Consolidate Calculator
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
