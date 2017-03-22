@@ -2,8 +2,8 @@
 version: 1
 id: {389DB0DF-E3EB-493B-96F8-43CFD24AEC97}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Enhanced Online Security FAQ
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/FAQs/Enhanced Online Security FAQ
+parent: {58F9CB8A-C0EB-41FD-81EB-6655F3118573}
 name: Enhanced Online Security FAQ
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
