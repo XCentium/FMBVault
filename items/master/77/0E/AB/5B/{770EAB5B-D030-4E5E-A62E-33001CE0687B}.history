@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{770EAB5B-D030-4E5E-A62E-33001CE0687B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:07:20.0164118Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Compare Personal Checking",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Mobile Banking FAQ/Compare Personal Checking",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

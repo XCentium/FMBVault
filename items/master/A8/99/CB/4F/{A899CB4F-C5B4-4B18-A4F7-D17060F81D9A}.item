@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {A899CB4F-C5B4-4B18-A4F7-D17060F81D9A}
+database: master
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Mobile Banking FAQ/Classic Checking Account
+parent: {E45FADF3-8185-426A-BE4C-52723CF293B8}
+name: Classic Checking Account
+master: {00000000-0000-0000-0000-000000000000}
+template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
+templatekey: Redirect Url
+created: 20170322T220719:636258172398400000
+
+----field----
+field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
+name: Requested Url
+key: requested url
+content-length: 30
+
+/classic-checking-account.html
+----field----
+field: {544E5C57-1626-4972-8535-196F000E4B1F}
+name: Redirect To Item
+key: redirect to item
+content-length: 38
+
+{91DAD8F0-D931-45C6-9091-F175976738AF}
+----version----
+language: en
+version: 1
+revision: b976d9a5-2dee-4512-bca5-7f772e7910fa
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170313T193124Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b976d9a5-2dee-4512-bca5-7f772e7910fa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170322T194511Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

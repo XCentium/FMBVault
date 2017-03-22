@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C5ACE8A1-9578-4D13-92AA-A6633F12CF50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:07:20.0204124Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Online Banking",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Mobile Banking FAQ/Online Banking",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

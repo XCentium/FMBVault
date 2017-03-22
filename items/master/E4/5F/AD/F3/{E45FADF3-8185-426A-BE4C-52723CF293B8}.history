@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E45FADF3-8185-426A-BE4C-52723CF293B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:07:20.0104118Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Mobile Banking FAQ",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Mobile Banking FAQ",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

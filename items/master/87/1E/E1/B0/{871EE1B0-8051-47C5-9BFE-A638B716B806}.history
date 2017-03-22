@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{871EE1B0-8051-47C5-9BFE-A638B716B806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:07:20.0124115Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Certificates of Deposit",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Mobile Banking FAQ/Certificates of Deposit",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
