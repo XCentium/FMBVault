@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{58F9CB8A-C0EB-41FD-81EB-6655F3118573}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T23:27:15.4972186Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "FAQs",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/FAQs",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
