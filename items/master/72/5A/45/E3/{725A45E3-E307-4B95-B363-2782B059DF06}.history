@@ -32,9 +32,28 @@
     "itemName": "FMBCom",
     "itemPath": "/sitecore/content/FMBCom",
     "template": "Site Root",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ccc8354595486fd251c63a1d42fc52678e3864ff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{725A45E3-E307-4B95-B363-2782B059DF06}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-22T19:51:04.7573567Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "FMBCom",
+    "itemPath": "/sitecore/content/FMBCom",
+    "template": "Site Root",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
