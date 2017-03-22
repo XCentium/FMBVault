@@ -32,9 +32,28 @@
     "itemName": "Experience Explorer",
     "itemPath": "/sitecore/system/Modules/Experience Explorer",
     "template": "Standard template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "defb0b7c6c791591addbddb0a2718c26e385a141",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{3158CB48-F3FC-434C-A35B-E3A5D9B177A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T15:56:41.6086280Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Experience Explorer",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

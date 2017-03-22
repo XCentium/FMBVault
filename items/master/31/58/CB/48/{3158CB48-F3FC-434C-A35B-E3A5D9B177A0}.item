@@ -24,10 +24,17 @@ key: __sortorder
 content-length: 3
 
 105
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 48
+
+au|fmb\sdonatelli|pe|+item:write|pd|+item:write|
 ----version----
 language: en
 version: 1
-revision: cf786885-4210-4da6-9023-8a32b111768f
+revision: a9a5e3e4-5c7a-4025-857b-bf8807fb7124
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -56,18 +63,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cf786885-4210-4da6-9023-8a32b111768f
+a9a5e3e4-5c7a-4025-857b-bf8807fb7124
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 35
+content-length: 16
 
-20141209T120644:635537236049412445Z
+20170322T155641Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\jbridges
