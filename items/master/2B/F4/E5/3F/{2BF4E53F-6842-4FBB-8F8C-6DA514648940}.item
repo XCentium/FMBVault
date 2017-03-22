@@ -14,20 +14,20 @@ created: 20170322T214444:636258158843100000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 32
+content-length: 81
 
-/business-checking-accounts.html
+/home/business-banking/business-credit-loans/commercial-loans-for-businesses.html
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{CF156BCA-B633-4B79-89FE-2B29B40D7E79}
+{7AD599A2-E809-4DEF-9DB2-3FC692BF32A1}
 ----version----
 language: en
 version: 1
-revision: 53f64d01-3c0f-4802-8aba-57dda5bb57b2
+revision: 6c7cc489-95af-423b-97a1-8a3988639ac2
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-53f64d01-3c0f-4802-8aba-57dda5bb57b2
+6c7cc489-95af-423b-97a1-8a3988639ac2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T214444Z
+20170322T214534Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
