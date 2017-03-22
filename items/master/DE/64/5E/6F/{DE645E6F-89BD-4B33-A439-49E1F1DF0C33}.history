@@ -32,9 +32,28 @@
     "itemName": "Approve",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Approve",
     "template": "Command",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da5d6fed58bbfdc61722f848f12ec7049f266c44",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{DE645E6F-89BD-4B33-A439-49E1F1DF0C33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T17:55:18.9825345Z",
+    "label": "Renamed Approve to Send to Compliance",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Send to Compliance",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Send to Compliance",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
