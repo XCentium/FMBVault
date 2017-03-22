@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C87E5175-EDFF-464C-9407-D8379ED968FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T22:41:57.4909493Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Founding Values",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/About/Founding Values",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
