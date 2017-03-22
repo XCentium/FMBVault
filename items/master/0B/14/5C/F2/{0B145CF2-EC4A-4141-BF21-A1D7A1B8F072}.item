@@ -13,18 +13,17 @@ created: 20170224T181209:636235567294430000
 ----version----
 language: en
 version: 1
-revision: 1a836b25-3edc-42ab-a307-3ebd8dac67bc
+revision: 148c0cc3-13a1-488a-ad50-4ebc1a1afcab
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 206
+content-length: 172
 
-<div style="float: right;">
 <h2 style="text-align: right;">Questions? Call Us: (888) 406-8811</h2>
 <h2 style="text-align: right; margin-top: 5px;">Mon-Fri: 7am-9pm; Sat: 8am-9pm; Sun: 8am-5pm PT</h2>
-</div>
+
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -45,14 +44,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1a836b25-3edc-42ab-a307-3ebd8dac67bc
+148c0cc3-13a1-488a-ad50-4ebc1a1afcab
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T000131Z
+20170322T000248Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
