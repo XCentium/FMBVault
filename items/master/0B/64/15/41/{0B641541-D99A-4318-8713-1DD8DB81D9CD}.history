@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{0B641541-D99A-4318-8713-1DD8DB81D9CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T01:01:42.5603345Z",
+    "label": "Deployed from FMB 23",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "HideBackground",
+    "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters/Background Parameters/HideBackground",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "618a4cc5-27dc-43ce-b85a-5ff905123682"
+  }
+]
