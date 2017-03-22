@@ -2,9 +2,9 @@
 version: 1
 id: {07976E95-E099-45D5-B3A1-397D560C93BA}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Personal Checking
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Compare Personal Checking
 parent: {46208C65-F7D5-4642-9340-175057D80E03}
-name: Personal Checking
+name: Compare Personal Checking
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: cc15eb82-a2d4-431d-acd6-51c99a4c440c
+revision: 9672cee8-9539-408b-977b-ad9f1b45d008
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cc15eb82-a2d4-431d-acd6-51c99a4c440c
+9672cee8-9539-408b-977b-ad9f1b45d008
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T213807Z
+20170322T213819Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
