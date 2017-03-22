@@ -14,20 +14,20 @@ created: 20170322T232814:636258220946430000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 50
+content-length: 32
 
-home/tools-support/frequently-asked-questions.html
+otp/otp-wire-transfers-FAQs.html
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{E1A98D32-F527-41EE-8C35-A5FD7605B955}
+{A5D3E479-6E33-443D-A5EA-206606E59416}
 ----version----
 language: en
 version: 1
-revision: 63a2dd9e-1b1a-4cc1-8ee2-62147c3e3358
+revision: 30dfa02f-42d8-46b5-9eea-4326cf6fe086
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-63a2dd9e-1b1a-4cc1-8ee2-62147c3e3358
+30dfa02f-42d8-46b5-9eea-4326cf6fe086
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T233029Z
+20170322T233051Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
