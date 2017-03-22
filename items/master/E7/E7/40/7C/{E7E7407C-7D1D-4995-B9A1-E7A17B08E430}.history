@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E7E7407C-7D1D-4995-B9A1-E7A17B08E430}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T21:12:07.9504041Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Visa Card",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Personal Banking/Visa Card",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
