@@ -32,9 +32,28 @@
     "itemName": "Response Status Codes",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Response Status Codes",
     "template": "Response Status Code Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d631344c89d9a7350b524bb8c8cbba51bb55bf46",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{38D38E3B-0A34-4F16-A91F-967F8519E14A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-22T18:38:28.0762014Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Response Status Codes",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Response Status Codes",
+    "template": "Response Status Code Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

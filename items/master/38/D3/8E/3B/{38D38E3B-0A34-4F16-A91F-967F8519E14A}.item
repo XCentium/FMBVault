@@ -17,10 +17,17 @@ key: __sortorder
 content-length: 2
 
 50
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 53
+
+ar|fmb\FMB Moderator|pe|+item:create|pd|+item:create|
 ----version----
 language: en
 version: 1
-revision: 69c4c0e5-2c61-4d0e-ad4f-223777280ecb
+revision: a7d07632-e2d4-4956-bf7e-0393309846c2
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -49,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-69c4c0e5-2c61-4d0e-ad4f-223777280ecb
+a7d07632-e2d4-4956-bf7e-0393309846c2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20150824T152847:635760269272634714
+20170322T183828Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
