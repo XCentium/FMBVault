@@ -32,9 +32,28 @@
     "itemName": "fandm-savings-accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/fandm-savings-accounts",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d83f35d21fff74c1ff562fd5cf92a95e07e6acb8",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{FA7CF7EC-C786-40EE-8B70-0B7BDC403D4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T18:25:06.7021560Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "fandm-savings-accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/fandm-savings-accounts",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
