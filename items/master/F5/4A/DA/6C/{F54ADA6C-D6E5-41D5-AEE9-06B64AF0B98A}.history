@@ -32,9 +32,28 @@
     "itemName": "Lake Forest",
     "itemPath": "/sitecore/content/FMBCom/Global/Offices/Lake Forest",
     "template": "Office Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a96fa67df067162d74be58ad5086e517cb6a59c6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F54ADA6C-D6E5-41D5-AEE9-06B64AF0B98A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T23:33:05.7469765Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Lake Forest",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Lake Forest",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
