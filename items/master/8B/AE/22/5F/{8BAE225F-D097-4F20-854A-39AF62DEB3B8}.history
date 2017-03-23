@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8BAE225F-D097-4F20-854A-39AF62DEB3B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T15:50:59.2252856Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Should I Refi Calculator",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Should I Refi Calculator",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
