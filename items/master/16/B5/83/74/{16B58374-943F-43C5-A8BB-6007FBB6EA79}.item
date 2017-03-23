@@ -1,0 +1,193 @@
+----item----
+version: 1
+id: {16B58374-943F-43C5-A8BB-6007FBB6EA79}
+database: master
+path: /sitecore/media library/Feature/Maps/ZipSearchForm
+parent: {AF1FFED1-2D18-4950-B25C-92482F86C1A4}
+name: ZipSearchForm
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20170323T205106:636258990667730000
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 6116
+
+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
+/wPMoU8nBFVo5QAAAABJRU5ErkJggg==
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 3
+
+377
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 3
+
+126
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+4468
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 9
+
+377 x 126
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/16b58374943f43c5a8bb6007fbb6ea79.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: d4303075-27e5-42a9-9767-f4434fe02765
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 13
+
+fmb\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T204157Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 13
+
+fmb\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d4303075-27e5-42a9-9767-f4434fe02765
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170323T205106Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 13
+
+fmb\Anonymous

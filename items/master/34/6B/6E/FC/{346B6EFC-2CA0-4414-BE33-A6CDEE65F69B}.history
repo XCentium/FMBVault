@@ -32,9 +32,28 @@
     "itemName": "Forms",
     "itemPath": "/sitecore/media library/Feature/Forms",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "44b70679ac398831b4be934594271a4a74d1356b",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{346B6EFC-2CA0-4414-BE33-A6CDEE65F69B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:51:05.9992743Z",
+    "label": "Deployed from FMB 127",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "Forms",
+    "itemPath": "/sitecore/media library/Feature/Forms",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "237dbde5-23a4-4992-b365-6188f5eb2481"
   }
 ]

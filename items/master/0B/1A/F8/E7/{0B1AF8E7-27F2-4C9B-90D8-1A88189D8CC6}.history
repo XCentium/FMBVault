@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{0B1AF8E7-27F2-4C9B-90D8-1A88189D8CC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:51:06.6732724Z",
+    "label": "Deployed from FMB 127",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "HowToGrid",
+    "itemPath": "/sitecore/media library/Feature/HowTo/HowToGrid",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "237dbde5-23a4-4992-b365-6188f5eb2481"
+  }
+]

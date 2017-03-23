@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{48A176EC-7540-475C-A20C-D7F685EDCD17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:51:06.7712740Z",
+    "label": "Deployed from FMB 127",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "MoreHowTos",
+    "itemPath": "/sitecore/media library/Feature/HowTo/MoreHowTos",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "237dbde5-23a4-4992-b365-6188f5eb2481"
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "Office",
     "itemPath": "/sitecore/media library/Feature/Office",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "44b70679ac398831b4be934594271a4a74d1356b",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7D87F635-3EF9-426D-996C-79525BA21218}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:51:07.2642740Z",
+    "label": "Deployed from FMB 127",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "Office",
+    "itemPath": "/sitecore/media library/Feature/Office",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "237dbde5-23a4-4992-b365-6188f5eb2481"
   }
 ]
