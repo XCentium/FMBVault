@@ -32,9 +32,28 @@
     "itemName": "Office Banner",
     "itemPath": "/sitecore/layout/Renderings/Feature/Office/Office Banner",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f4c22caed87def5be904bb89eab467b89aaa05d1",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{88667343-C95C-48AC-8E1F-5C4BF7F84DA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:02:05.1976007Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office Banner",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Office/Office Banner",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
