@@ -32,9 +32,28 @@
     "itemName": "MMA_Q1",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/MMA_Q1",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1f2d51cf1a68a184a3a0ff26fd1d5e027d9b81af",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{C5B324CF-3124-4414-AE63-B65800C2EFDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T15:32:09.0110607Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "MMA_Q1",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/MMA_Q1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": "1f2d51cf1a68a184a3a0ff26fd1d5e027d9b81af",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
