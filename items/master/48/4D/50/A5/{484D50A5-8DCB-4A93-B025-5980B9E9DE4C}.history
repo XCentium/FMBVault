@@ -32,9 +32,28 @@
     "itemName": "Chip",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Chip",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "69d95f46da00bbaa2579cee3c59fba3771fb0239",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{484D50A5-8DCB-4A93-B025-5980B9E9DE4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T15:29:07.7089296Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "Chip",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Chip",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
