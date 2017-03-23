@@ -32,9 +32,28 @@
     "itemName": "ATM",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/ATM",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "814ca3c22dc8ded22ae89c1312bb920cede8fe1d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{C1A0535E-01C7-4AA4-B5DA-38AB510C3097}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T15:27:55.7361257Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "ATM",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/ATM",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

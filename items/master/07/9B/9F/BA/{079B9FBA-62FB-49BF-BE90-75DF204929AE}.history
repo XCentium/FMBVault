@@ -32,9 +32,28 @@
     "itemName": "ATMSlider",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/ATMSlider",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "814ca3c22dc8ded22ae89c1312bb920cede8fe1d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{079B9FBA-62FB-49BF-BE90-75DF204929AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T15:27:57.1501242Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "ATMSlider",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/ATMSlider",
+    "template": "Jpeg",
+    "sourceControlRevisionId": "814ca3c22dc8ded22ae89c1312bb920cede8fe1d",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
