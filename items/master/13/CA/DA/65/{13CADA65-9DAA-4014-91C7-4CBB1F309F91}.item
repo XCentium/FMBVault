@@ -11,12 +11,33 @@ templatekey: News Article
 created: 20170323T000112:636258240727070000
 
 ----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 0
+
+
+----field----
 field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
 name: NewsDate
 key: newsdate
 content-length: 16
 
 20170323T000112Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
 ----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
@@ -27,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: f65899dc-689b-427c-80d2-51975798d3a0
+revision: f5fc63ce-807a-4009-ab8e-d2adec120f96
 
 ----field----
 field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
@@ -63,14 +84,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f65899dc-689b-427c-80d2-51975798d3a0
+f5fc63ce-807a-4009-ab8e-d2adec120f96
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T000112Z
+20170323T000118Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
