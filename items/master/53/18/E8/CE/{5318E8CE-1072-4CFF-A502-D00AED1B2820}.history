@@ -32,9 +32,28 @@
     "itemName": "Disclaimers",
     "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Disclaimers",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "11b7ca403916ff48d2eb4b38a7d5724f32b3ab6b",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5318E8CE-1072-4CFF-A502-D00AED1B2820}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:03:02.6015130Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disclaimers",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Disclaimers",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
