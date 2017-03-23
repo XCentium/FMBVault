@@ -32,9 +32,28 @@
     "itemName": "compare-non-analyzed-business-checking",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/compare-non-analyzed-business-checking",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a723b3f741b5a4bc31bb0df3dbcfd89cba16afe6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{884BCF08-B5EB-404B-B3FA-EE9EC558DA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T16:20:44.7599931Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "compare-non-analyzed-business-checking",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/compare-non-analyzed-business-checking",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -213,7 +213,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 3090e572-7a89-4364-89f7-abc2a02de91e
+revision: 5a16e146-584f-4df1-bab2-645719ede38f
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -233,9 +233,9 @@ Compare a Gold Checking Account with 10x Annual Percentage Yield | F&M
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 6844
+content-length: 6784
 
-<img class="img-responsive" style="width: 700px;" alt="Business Checking Header" src="-/media/88250632D60847539D10ABBC210CF761.ashx?h=250&amp;w=700&amp;hash=F43E5B6E84B95594377C9005A6FB7A067C3AA789&amp;hash=F43E5B6E84B95594377C9005A6FB7A067C3AA789">
+<img class="img-responsive" style="width: 700px;" alt="Business Checking Header" src="-/media/88250632D60847539D10ABBC210CF761.ashx?w=700&amp;hash=F43E5B6E84B95594377C9005A6FB7A067C3AA789">
 <div id="no-more-tables" style="background-color: #005334;">
 <table class="col-md-12 table-bordered table-condensed cf" style="color: #ffffff; width: 100%; padding-right: 15px; padding-left: 15px; border-spacing: 0px;">
     <tbody>
@@ -331,7 +331,7 @@ content-length: 6844
 <div class="row" style="background-color: #005334; margin-right: -15px; margin-left: -15px;">
 <div class="col-md-12" style="width: 659.156px; padding-right: 15px; padding-left: 15px;">
 <p class="landingpagetext-disclosures" style="color: #ffffff; margin-top: 50px; margin-bottom: 10px;"><small>1. For account details, please visit fmb.com/fees, ask our office staff, or refer to the account agreement and disclosures provided at time of opening. Terms and conditions apply.&nbsp;<br>
-2. Checking account fee and feature information for each institution is provided by Informa Research Services, Calabasas, CA, www.informars.com. Although the information has been obtained from the various institutions themselves, the accuracy cannot be guaranteed by Informa Research Services or Farmers &amp; Merchants Bank. Data provided as of 02/10/2017 and may change at any time.&nbsp;<br>
+2. Checking account fee and feature information for each institution is provided by Informa Research Services, Calabasas, CA, www.informars.com. Although the information has been obtained from the various institutions themselves, the accuracy cannot be guaranteed by Informa Research Services or Farmers &amp; Merchants Bank. Data provided as of 03/10/2017 and may change at any time.&nbsp;<br>
 3. $5.00 per month for customers with e-statements.</small></p>
 </div>
 </div>
@@ -376,21 +376,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3090e572-7a89-4364-89f7-abc2a02de91e
+5a16e146-584f-4df1-bab2-645719ede38f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170311T000848Z
+20170323T162044Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
