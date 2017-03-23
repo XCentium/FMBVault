@@ -2,9 +2,9 @@
 version: 1
 id: {6EDF3D14-84DB-4343-B9B9-7E2EB271FAF6}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Mortgage Adjustable Calculators Home
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Adjustable Mortgage Calculator
 parent: {DE1A9C52-313E-4564-B259-5A768A9EB475}
-name: Mortgage Adjustable Calculators Home
+name: Adjustable Mortgage Calculator
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: cb23feff-1a35-42fb-b6ce-56142456ed35
+revision: 9685f5b7-16eb-4ec0-8613-bf026e9296d4
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cb23feff-1a35-42fb-b6ce-56142456ed35
+9685f5b7-16eb-4ec0-8613-bf026e9296d4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T152509Z
+20170323T152537Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
