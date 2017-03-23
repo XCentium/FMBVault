@@ -14,9 +14,9 @@ created: 20170323T000112:636258240727070000
 field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
 name: IncludeInSearchResults
 key: includeinsearchresults
-content-length: 0
+content-length: 1
 
-
+1
 ----field----
 field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
 name: NewsDate
@@ -48,8 +48,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 83bc8513-9c2e-4227-9647-a1ec3cbb9739
+revision: 71668117-b0a9-4473-bf6c-ef0465c2e768
 
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
 ----field----
 field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
 name: NewsTitle
@@ -57,6 +64,13 @@ key: newstitle
 content-length: 69
 
 Farmers & Merchants Bank Completes Branch Transformation in Fullerton
+----field----
+field: {3437EAAC-6EE8-460B-A33D-DA1F714B5A93}
+name: NewsImage
+key: newsimage
+content-length: 58
+
+<image mediaid="{59FEF6BC-06A9-4C64-964A-CBD4D4977F39}" />
 ----field----
 field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
 name: NewsSummary
@@ -123,14 +137,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-83bc8513-9c2e-4227-9647-a1ec3cbb9739
+71668117-b0a9-4473-bf6c-ef0465c2e768
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T001100Z
+20170323T002618Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
