@@ -32,9 +32,28 @@
     "itemName": "Commercial Loans",
     "itemPath": "/sitecore/content/FMBCom/Home/Business/Commercial Loans",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "64a082d50049ffaf8a7fa052bac238eda29e8361",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{7AD599A2-E809-4DEF-9DB2-3FC692BF32A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T23:45:43.4494171Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Commercial Loans",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Commercial Loans",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
