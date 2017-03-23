@@ -32,9 +32,28 @@
     "itemName": "AccountFunnel",
     "itemPath": "/sitecore/layout/Renderings/Feature/Forms/AccountFunnel",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2be3978447a9641f12506e0107e69289e7b854c2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{DDD4525B-C674-4C1C-94A5-26AE61364BD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:53:47.3791009Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccountFunnel",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Forms/AccountFunnel",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
