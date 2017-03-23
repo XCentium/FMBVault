@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6AA59232-A869-4D70-BB09-A67170C9E63B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T15:13:26.2530719Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Business Consolidate Calculator",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Business Consolidate Calculator",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
