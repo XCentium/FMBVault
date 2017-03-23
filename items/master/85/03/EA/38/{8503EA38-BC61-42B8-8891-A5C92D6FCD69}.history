@@ -32,9 +32,28 @@
     "itemName": "Link Drop Menu",
     "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Link Drop Menu",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "65a80e3b6e8a1d104a74ce43008e92195f99b35f",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{8503EA38-BC61-42B8-8891-A5C92D6FCD69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:00:49.5219593Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Drop Menu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Link Drop Menu",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
