@@ -32,9 +32,28 @@
     "itemName": "Employee Contact Tile",
     "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Contact Tile",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "24d0fe9761623e94cefff435a00f5ab9180ea833",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5CC844A6-8C83-4650-863F-D21191906479}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:04:09.3628260Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Contact Tile",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Contact Tile",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
