@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D57B341E-B612-4B70-8EA2-0C9D254037EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T17:26:20.0871535Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "Rates",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Rates",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

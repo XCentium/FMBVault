@@ -9593,6 +9593,28 @@
               "toolTip": "",
               "validation": "",
               "validationText": ""
+            },
+            {
+              "name": "Call To Action Buttom URL",
+              "id": "{F94EC6A8-BF67-4D5B-B163-EA753F134A51}",
+              "defaultValue": null,
+              "type": "link",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 600,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
             }
           ]
         }

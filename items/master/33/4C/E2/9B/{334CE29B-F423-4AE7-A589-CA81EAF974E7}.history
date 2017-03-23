@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{334CE29B-F423-4AE7-A589-CA81EAF974E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T17:26:20.1141529Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "Mortgage Rates",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Rates/Mortgage Rates",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

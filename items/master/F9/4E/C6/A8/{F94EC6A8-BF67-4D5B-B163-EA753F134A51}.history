@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F94EC6A8-BF67-4D5B-B163-EA753F134A51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T17:26:19.9821543Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "Call To Action Buttom URL",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMedia/Media/Call To Action Buttom URL",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
