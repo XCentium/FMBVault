@@ -32,9 +32,28 @@
     "itemName": "Office Locations",
     "itemPath": "/sitecore/layout/Renderings/Feature/Office/Office Locations",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "62fc6afcee51af25be93961e30b64b8bb3034869",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{1D452BEC-0D49-41E6-BF0B-A4BC3B77E520}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:02:22.5851097Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office Locations",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Office/Office Locations",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
