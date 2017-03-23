@@ -32,9 +32,28 @@
     "itemName": "Payroll Services",
     "itemPath": "/sitecore/content/FMBCom/Home/Business/Payroll Services",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f802d64f57c834a09e0d0c2dce31a87d30f1185b",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9B3B85E0-44F4-4B8B-9A7B-7355AB495547}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T23:55:52.9084402Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Payroll Services",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Payroll Services",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
