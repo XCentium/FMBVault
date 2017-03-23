@@ -32,9 +32,28 @@
     "itemName": "Testimonial Grid",
     "itemPath": "/sitecore/layout/Renderings/Feature/Testimonial/Testimonial Grid",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8526413ab9f15156dfd995e077d61b07d2eeda19",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4E8B9B29-3643-4752-AA0D-F4A2F3123BB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:05:18.3538689Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testimonial Grid",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Testimonial/Testimonial Grid",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
