@@ -28,13 +28,13 @@ content-length: 38
 field: {FB68F214-543C-48FB-856E-B96C4C8796C8}
 name: Source Item
 key: source item
-content-length: 85
+content-length: 92
 
-/sitecore/content/FMBCom/Home/news-and-community/press-releases${OptionalQueryString}
+/sitecore/content/FMBCom/Home/news-and-community/press-releases${Path}${OptionalQueryString}
 ----version----
 language: en
 version: 1
-revision: 494aeec8-8347-411e-bb1a-9c90d2bce0cc
+revision: 41d64653-94b2-4ded-a630-aaaa58afc4d9
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-494aeec8-8347-411e-bb1a-9c90d2bce0cc
+41d64653-94b2-4ded-a630-aaaa58afc4d9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T193218Z
+20170323T212016Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 14
 
-fmb\jbridges
+sitecore\admin
