@@ -13,15 +13,15 @@ created: 20170320T182216:636256309368830000
 ----version----
 language: en
 version: 1
-revision: bd7d8a79-3694-472e-882a-f742affd6bbe
+revision: a379fbab-b163-4205-9950-0dc2c2c2f4e2
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
 name: Title
 key: title
-content-length: 9
+content-length: 144
 
-Thank you
+<div>Thank you for reserving your spot for our upcoming webinar:</div><div>The Top 5 Things You Need to Know Before Buying Your First Home</div>
 ----field----
 field: {AC3FD4DB-8266-476D-9635-67814D91E901}
 name: Summary
@@ -33,21 +33,8 @@ content-length: 0
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 668
+content-length: 19
 
-Thank you for reserving your spot for our upcoming webinar<br>
-The Top 5 Things You Need to Know Before Buying Your First Home &nbsp;
-<p>What you’ll learn:</p>
-<div>
-<ul>
-    <li>How to determine if this is the market for you to make your first purchase</li>
-    <li>Beyond mortgage calculators, determine how much home you can afford</li>
-    <li>5 questions to ask to help you identify the agent that will get you the best deal</li>
-    <li>3 loan programs for first-time homebuyers to give you the edge in any market</li>
-    <li>A step-by-step guide to give you confidence until you turn the key to your new home</li>
-</ul>
-</div>
-<p>&nbsp;</p>
 <br>
 <br>
 <br>
@@ -56,9 +43,9 @@ The Top 5 Things You Need to Know Before Buying Your First Home &nbsp;
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 1226
+content-length: 2177
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{36B3A589-2967-4738-A664-FA354BF63D90}" p:before="*" s:ds="" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:par="" s:ph="/bannerZone/bannerZone-thin" /><r uid="{C6A7ACB0-63A7-4624-9257-953606956221}" p:after="r[@uid='{36B3A589-2967-4738-A664-FA354BF63D90}']" s:id="{4B912A12-E167-4B3D-A8CC-0A969FFF6120}" s:ph="bannerZone" /><r uid="{82461B24-AA95-47F2-A516-FC1357280709}" p:after="r[@uid='{C6A7ACB0-63A7-4624-9257-953606956221}']" s:ds="{3F11D0A1-6674-409F-8EE5-90C4A5C0BE5F}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/headerZone/header-login/section_6ee389df-ff15-4dc6-8776-306ffda7036e/col-huge_72b42a1f-329d-4c26-a948-d88f160d9e25" /><r uid="{72B42A1F-329D-4C26-A948-D88F160D9E25}" p:after="r[@uid='{82461B24-AA95-47F2-A516-FC1357280709}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/headerZone/header-login/section_6ee389df-ff15-4dc6-8776-306ffda7036e" /><r uid="{6EE389DF-FF15-4DC6-8776-306FFDA7036E}" p:after="r[@uid='{72B42A1F-329D-4C26-A948-D88F160D9E25}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="/headerZone/header-login" /><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{581ED441-0393-4A3D-BC76-15F2902B6343}" p:before="*" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section/col-huge_5c6903df-cb1b-4393-af3f-e02622073f7b" /><r uid="{1B96939B-BD16-4C99-8CE2-6B6A4F13FCFD}" p:after="r[@uid='{581ED441-0393-4A3D-BC76-15F2902B6343}']" s:id="{695CEE74-D8F4-481D-B813-237050809290}" s:ph="/layoutZone/section/col-huge" /><r uid="{AD9195C2-10BA-44E4-937E-423B1B4A4546}" p:after="r[@uid='{1B96939B-BD16-4C99-8CE2-6B6A4F13FCFD}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section" /><r uid="{36B3A589-2967-4738-A664-FA354BF63D90}" p:after="r[@uid='{AD9195C2-10BA-44E4-937E-423B1B4A4546}']" s:ds="" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:par="" s:ph="/bannerZone/bannerZone-thin" /><r uid="{C6A7ACB0-63A7-4624-9257-953606956221}" p:after="r[@uid='{36B3A589-2967-4738-A664-FA354BF63D90}']" s:id="{4B912A12-E167-4B3D-A8CC-0A969FFF6120}" s:ph="bannerZone" /><r uid="{82461B24-AA95-47F2-A516-FC1357280709}" p:after="r[@uid='{C6A7ACB0-63A7-4624-9257-953606956221}']" s:ds="{3F11D0A1-6674-409F-8EE5-90C4A5C0BE5F}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/headerZone/header-login/section_6ee389df-ff15-4dc6-8776-306ffda7036e/col-huge_72b42a1f-329d-4c26-a948-d88f160d9e25" /><r uid="{72B42A1F-329D-4C26-A948-D88F160D9E25}" p:after="r[@uid='{82461B24-AA95-47F2-A516-FC1357280709}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/headerZone/header-login/section_6ee389df-ff15-4dc6-8776-306ffda7036e" /><r uid="{6EE389DF-FF15-4DC6-8776-306FFDA7036E}" p:after="r[@uid='{72B42A1F-329D-4C26-A948-D88F160D9E25}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="/headerZone/header-login" /><r uid="{5C6903DF-CB1B-4393-AF3F-E02622073F7B}" p:after="r[@uid='{9D7A1F75-73CB-49A0-9C6B-24442980DF0C}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section" /><r uid="{C8F02082-3A13-4313-811B-C61A0CA5A98A}"><p:d /></r><r uid="{2F6D3762-5C98-44F2-8496-A042FBA2A85B}" p:after="r[@uid='{2176CAB4-0700-4A6D-B8BF-3F2BE6884462}']" /><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r></d></r>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -86,14 +73,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bd7d8a79-3694-472e-882a-f742affd6bbe
+a379fbab-b163-4205-9950-0dc2c2c2f4e2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170320T233425Z
+20170323T164514Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
