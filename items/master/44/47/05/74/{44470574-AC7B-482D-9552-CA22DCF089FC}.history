@@ -32,9 +32,28 @@
     "itemName": "mortgage-rates-500",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/mortgage-rates-500",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7ccfc63f76a0075a902e6cdf5a24d7cb649410d2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{44470574-AC7B-482D-9552-CA22DCF089FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T18:25:53.8035934Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "mortgage-rates-500",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/mortgage-rates-500",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
