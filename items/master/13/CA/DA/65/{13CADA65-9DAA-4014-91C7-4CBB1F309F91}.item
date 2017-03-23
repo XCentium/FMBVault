@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 892b0d20-328a-4793-b92c-5c9672e945c3
+revision: 84638c14-901d-434f-a16f-55d6d5dcd373
 
 ----field----
 field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
@@ -68,7 +68,7 @@ Neighborhood Icon Since 1985 Plans Grand Re-Opening Event&nbsp;
 field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
 name: NewsBody
 key: newsbody
-content-length: 4083
+content-length: 4025
 
 Farmers &amp; Merchants Bank (F&amp;M), one of the strongest commercial and retail banks in California celebrating its 110 year anniversary, announced the Grand Re-Opening of its Fullerton Office following a branch transformation project.&nbsp;<br>
 <br>
@@ -86,9 +86,9 @@ The completion of the Fullerton renovation marks the second in a series of ventu
 <br>
 Guests can enjoy breakfast and take tours of the newly renovated office at the Grand Re-Opening Open House on Wednesday, March 29, 2017. For the Fullerton Office address and contact information, please see&nbsp;<a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">Locations</a>&nbsp;<br>
 &nbsp;<br>
-About Farmers &amp; Merchants Bank<br>
+<strong>About Farmers &amp; Merchants Bank</strong><br>
 <br>
-Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has almost $7 Billion in assets, and 24 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products, including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender. For more information about F&amp;M, please visit the website, www.fmb.com.<br>
+Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has almost $7 Billion in assets, and 24 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products, including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender.<br>
 ----field----
 field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
 name: BrowserTitle
@@ -123,14 +123,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-892b0d20-328a-4793-b92c-5c9672e945c3
+84638c14-901d-434f-a16f-55d6d5dcd373
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T000716Z
+20170323T001041Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
