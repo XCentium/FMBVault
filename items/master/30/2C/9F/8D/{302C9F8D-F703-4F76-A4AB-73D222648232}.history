@@ -32,9 +32,28 @@
     "itemName": "MediaDescription",
     "itemPath": "/sitecore/templates/Feature/Media/_HasMedia/Media/MediaDescription",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7e82f48e0faa89a7fbfc4e205e1411b796212676",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{302C9F8D-F703-4F76-A4AB-73D222648232}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T17:26:20.3431545Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "MediaDescription",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMedia/Media/MediaDescription",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

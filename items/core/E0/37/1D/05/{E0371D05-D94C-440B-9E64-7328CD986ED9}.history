@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{E0371D05-D94C-440B-9E64-7328CD986ED9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T17:26:20.4121543Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "20170323_FMB-201FMB-199_LocalToDev",
+    "itemPath": "/sitecore/system/Packages/Installation history/20170323_FMB-201FMB-199_LocalToDev",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
