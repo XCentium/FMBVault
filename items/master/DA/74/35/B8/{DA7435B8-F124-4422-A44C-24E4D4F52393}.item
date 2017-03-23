@@ -24,10 +24,17 @@ key: controller action
 content-length: 13
 
 DownloadLinks
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{89EA7888-6828-4C9F-855A-BEFDD9E884AC}" />
 ----version----
 language: en
 version: 1
-revision: 4e589415-3cde-4e0e-9edc-9c879fcdcff9
+revision: e34beb5d-ee11-4ab9-82f5-f315f26e1c7b
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4e589415-3cde-4e0e-9edc-9c879fcdcff9
+e34beb5d-ee11-4ab9-82f5-f315f26e1c7b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170214T040535Z
+20170323T210013Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 16
+content-length: 14
 
-sitecore\unicorn
+sitecore\admin
