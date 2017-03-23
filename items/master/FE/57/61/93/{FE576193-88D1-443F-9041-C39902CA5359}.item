@@ -2,9 +2,9 @@
 version: 1
 id: {FE576193-88D1-443F-9041-C39902CA5359}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Points Calculator
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Mortgage Points Calculator
 parent: {DE1A9C52-313E-4564-B259-5A768A9EB475}
-name: Points Calculator
+name: Mortgage Points Calculator
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: ca694207-0141-4d30-ac06-f49ac5736c33
+revision: 742d80bd-29d3-493e-a991-9c051c8497c3
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ca694207-0141-4d30-ac06-f49ac5736c33
+742d80bd-29d3-493e-a991-9c051c8497c3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T153647Z
+20170323T153712Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
