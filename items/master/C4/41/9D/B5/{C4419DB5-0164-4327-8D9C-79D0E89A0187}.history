@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C4419DB5-0164-4327-8D9C-79D0E89A0187}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T15:37:49.2644445Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Mortgage Qualifier Calculator",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Mortgage Qualifier Calculator",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
