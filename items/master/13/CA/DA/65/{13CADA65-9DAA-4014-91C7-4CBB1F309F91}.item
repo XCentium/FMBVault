@@ -48,8 +48,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: f5fc63ce-807a-4009-ab8e-d2adec120f96
+revision: c551ba21-16cf-45ff-ba27-c2774f0387d2
 
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 63
+
+NEIGHBORHOOD ICON SINCE 1985 PLANS GRAND RE-OPENING EVENT&nbsp;
 ----field----
 field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
 name: BrowserTitle
@@ -84,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f5fc63ce-807a-4009-ab8e-d2adec120f96
+c551ba21-16cf-45ff-ba27-c2774f0387d2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T000118Z
+20170323T000215Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
