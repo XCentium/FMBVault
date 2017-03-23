@@ -10,10 +10,17 @@ template: {22A11D20-5F1D-4216-BF3F-18C016F1F98E}
 templatekey: Package registration
 created: 20170323T172620:636258867804270000
 
+----field----
+field: {D79648F3-1351-4A3C-822E-86809DB16479}
+name: Package name
+key: package name
+content-length: 34
+
+20170323_FMB-201FMB-199_LocalToDev
 ----version----
 language: en
 version: 1
-revision: fc812e50-dbd0-4dd1-a180-b677905b1a27
+revision: 12156633-3e59-41fb-83e6-9c78c2e1c9b6
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fc812e50-dbd0-4dd1-a180-b677905b1a27
+12156633-3e59-41fb-83e6-9c78c2e1c9b6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
