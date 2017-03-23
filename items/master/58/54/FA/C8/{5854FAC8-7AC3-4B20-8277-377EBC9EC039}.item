@@ -10,10 +10,21 @@ template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
 templatekey: Landing Page
 created: 20170306T200253:636244273739230000
 
+----field----
+field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
+name: CssCode
+key: csscode
+content-length: 50
+
+<style>
+.mobile-nav {
+display:none;
+}
+</style>
 ----version----
 language: en
 version: 1
-revision: 1ede53d7-c6d1-4fbd-99c4-e6d6a72fbc94
+revision: e13aab1c-eef0-473b-bdc8-3a5a8c7ecb1e
 
 ----field----
 field: {AC3FD4DB-8266-476D-9635-67814D91E901}
@@ -71,21 +82,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1ede53d7-c6d1-4fbd-99c4-e6d6a72fbc94
+e13aab1c-eef0-473b-bdc8-3a5a8c7ecb1e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170306T201555Z
+20170323T182245Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 11
+content-length: 12
 
-fmb\hahmady
+fmb\mliwanag
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
