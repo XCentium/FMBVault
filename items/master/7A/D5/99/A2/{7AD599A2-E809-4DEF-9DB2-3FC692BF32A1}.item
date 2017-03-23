@@ -13,7 +13,7 @@ created: 20170210T231330:636223652108670000
 ----version----
 language: en
 version: 1
-revision: dfedd61d-e61f-4203-ac1a-26509830dabc
+revision: 886aaed8-4c43-4bef-87cc-4958dfd1a533
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,9 +26,9 @@ Commercial Loans
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 1112
+content-length: 1223
 
-<p>F&amp;M has a number of bank loans available to meet your needs. Are you a business owner in need of an innovative credit solution?  An F&amp;M commercial loan may be the answer for you! Farmers &amp; Merchants’ experienced Lending Officers can provide both secured and unsecured business loans as well as Letters of Credit<sup>1</sup>. Our conservative commercial lending practices have kept F&amp;M strong for more than 100 years. Let one of our expert Lending Officers customize a commercial loan to meet your current needs. You can rest assured that you are making the right move with one of California’s strongest banks.</p>
+<p>F&amp;M has a number of bank loans available to meet your needs. Are you a business owner in need of an innovative credit solution?  An F&amp;M commercial loan may be the answer for you! Farmers &amp; Merchants&rsquo; experienced Lending Officers can provide both secured and unsecured business loans as well as Letters of Credit<sup>1</sup>. Our conservative commercial lending practices have kept F&amp;M strong for more than 100 years. Let one of our expert Lending Officers customize a commercial loan to meet your current needs. You can rest assured that you are making the right move with one of California&rsquo;s strongest banks.</p>
 <ul>
     <li>Accounts Receivable Line of Credit</li>
     <li>Inventory Line of Credit</li>
@@ -37,7 +37,7 @@ content-length: 1112
     <li>Commercial Real Estate Loan</li>
 </ul>
 <p><strong>Contact your <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">local commercial Lending Officer</a> today!</strong></p>
-<p><img height="90" alt="Business Calculators" width="400" src="-/media/07C82FB67432451EBC6FD4CBF7D95413.ashx"></p>
+<p><a href="~/link.aspx?_id=AB4BAC5A4010405DAAB556FF12D6CE95&amp;_z=z"><img alt="Business Calculators" src="-/media/07C82FB67432451EBC6FD4CBF7D95413.ashx?h=90&amp;w=400" style="height: 90px; width: 400px;"></a></p>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -93,14 +93,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-dfedd61d-e61f-4203-ac1a-26509830dabc
+886aaed8-4c43-4bef-87cc-4958dfd1a533
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T234543Z
+20170323T234638Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
