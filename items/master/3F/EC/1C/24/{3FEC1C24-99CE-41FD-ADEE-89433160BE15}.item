@@ -28,11 +28,14 @@ content-length: 0
 field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
 name: CssCode
 key: csscode
-content-length: 6105
+content-length: 6142
 
 <style>
   footer{
    margin-top: 0px !important;
+}
+.mobile-nav {
+    display:none;
 }
 
 footer .association-icons {
@@ -410,7 +413,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: cb444e9d-6513-40e7-bf34-7432aee7dd6a
+revision: 811bcdf1-050e-40ee-91bb-3c18282a1bf4
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -536,14 +539,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cb444e9d-6513-40e7-bf34-7432aee7dd6a
+811bcdf1-050e-40ee-91bb-3c18282a1bf4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170309T161331Z
+20170323T182536Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

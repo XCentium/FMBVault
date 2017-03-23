@@ -32,9 +32,28 @@
     "itemName": "low-down-payment",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/low-down-payment",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "501194fd4c043b184f7118153b69b34d64983f15",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{3FEC1C24-99CE-41FD-ADEE-89433160BE15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T18:25:36.4698681Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "low-down-payment",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/low-down-payment",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
