@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{84B8B089-65B2-4095-A543-7474DFAEFCA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T17:57:19.0604368Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Press Release PDF to New Press Releases Page",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/Press Release PDF to New Press Releases Page",
+    "template": "Redirect Pattern",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
