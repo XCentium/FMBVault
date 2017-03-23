@@ -14,17 +14,13 @@ created: 20170306T200253:636244273739230000
 field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
 name: CssCode
 key: csscode
-content-length: 50
+content-length: 0
 
-<style>
-.mobile-nav {
-display:none;
-}
-</style>
+
 ----version----
 language: en
 version: 1
-revision: e13aab1c-eef0-473b-bdc8-3a5a8c7ecb1e
+revision: 372a2263-0678-44df-ab6d-fe680591d011
 
 ----field----
 field: {AC3FD4DB-8266-476D-9635-67814D91E901}
@@ -82,14 +78,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e13aab1c-eef0-473b-bdc8-3a5a8c7ecb1e
+372a2263-0678-44df-ab6d-fe680591d011
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T182245Z
+20170323T182251Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
