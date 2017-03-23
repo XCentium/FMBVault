@@ -2,9 +2,9 @@
 version: 1
 id: {BDD75DE7-A340-440A-BB9A-AC5CC7D288DF}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/NonProfit Banking Services Dir to Business
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/NonProfit Banking Dir to Business Dir
 parent: {46CE2092-FF8D-454E-B826-A2ADDB7E0BA3}
-name: NonProfit Banking Services Dir to Business
+name: NonProfit Banking Dir to Business Dir
 master: {00000000-0000-0000-0000-000000000000}
 template: {94AC4F3A-E888-4557-9504-4AD2560ACC12}
 templatekey: Redirect Pattern
@@ -34,7 +34,7 @@ content-length: 60
 ----version----
 language: en
 version: 1
-revision: f5354d4d-9874-4283-ae0c-170a8b297a85
+revision: 78e648dc-d387-427c-83cb-86232de35784
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f5354d4d-9874-4283-ae0c-170a8b297a85
+78e648dc-d387-427c-83cb-86232de35784
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T173814Z
+20170323T174540Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\jbridges
