@@ -14,12 +14,14 @@ created: 20170224T225510:636235737105200000
 field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
 name: CssCode
 key: csscode
-content-length: 2423
+content-length: 2454
 
 <style>
 #AFForm { color: #000; }
 .parallaxContent {     text-shadow: 1px 1px 1px #000;}
-
+.mobile-nav {
+display:none;
+}
 .Contact-header-top {
 display: none; }
 footer {
@@ -215,7 +217,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 90bfdfbd-ea81-456d-9495-622b52d2e9ee
+revision: bf17b187-8b0c-409f-8805-00e6d2f2abe3
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -383,21 +385,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-90bfdfbd-ea81-456d-9495-622b52d2e9ee
+bf17b187-8b0c-409f-8805-00e6d2f2abe3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T162020Z
+20170323T182435Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mlangdon
+fmb\mliwanag
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
