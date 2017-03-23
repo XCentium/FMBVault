@@ -14,9 +14,9 @@ created: 20170323T175719:636258886390300000
 field: {C7A2362D-35F5-4735-9366-59838AA20E2F}
 name: Requested Expression
 key: requested expression
-content-length: 81
+content-length: 89
 
-^(.*)/home/non-profit-banking(?<Path>/.*?)?(.html)?(?<OptionalQueryString>\?.*)?$
+^(.*)/assets/files/news/press_releases(?<Path>/.*?)?(.pdf)?(?<OptionalQueryString>\?.*)?$
 ----field----
 field: {B0AA4048-823B-4466-83C5-6B920B3CFC36}
 name: Response Status Code
@@ -28,13 +28,13 @@ content-length: 38
 field: {FB68F214-543C-48FB-856E-B96C4C8796C8}
 name: Source Item
 key: source item
-content-length: 60
+content-length: 85
 
-/sitecore/content/FMBCom/Home/Business${OptionalQueryString}
+/sitecore/content/FMBCom/Home/News and Community/Press-Releases${OptionalQueryString}
 ----version----
 language: en
 version: 1
-revision: 78e648dc-d387-427c-83cb-86232de35784
+revision: d71d45ec-dbe4-4458-94d1-a24d5099b0d4
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-78e648dc-d387-427c-83cb-86232de35784
+d71d45ec-dbe4-4458-94d1-a24d5099b0d4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T174540Z
+20170323T175741Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
