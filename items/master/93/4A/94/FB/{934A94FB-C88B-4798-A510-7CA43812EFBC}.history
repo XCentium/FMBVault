@@ -32,9 +32,28 @@
     "itemName": "Testimonial",
     "itemPath": "/sitecore/layout/Renderings/Feature/Testimonial/Testimonial",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "64866e7ece8bb11f6d49ff3afd609d00a297ed9a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{934A94FB-C88B-4798-A510-7CA43812EFBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:04:53.8358272Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testimonial",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Testimonial/Testimonial",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
