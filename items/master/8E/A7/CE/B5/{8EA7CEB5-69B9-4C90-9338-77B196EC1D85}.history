@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8EA7CEB5-69B9-4C90-9338-77B196EC1D85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T15:29:32.3210365Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Mortgage Compare Calculator",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Calculators/Mortgage Compare Calculator",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
