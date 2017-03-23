@@ -32,9 +32,28 @@
     "itemName": "gold-checking-comparison",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/gold-checking-comparison",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "241fd43e782ba2569556835873bea0d3bc115d43",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{46170837-3423-4803-A296-E127F72DA094}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T16:21:17.7035776Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "gold-checking-comparison",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/gold-checking-comparison",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
