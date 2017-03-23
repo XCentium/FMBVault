@@ -32,9 +32,28 @@
     "itemName": "Testimonial",
     "itemPath": "/sitecore/media library/Feature/Testimonial",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f84feafa5ee9c829132ce39d4548bca4ea87a6db",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{26E4D1DC-34FF-4017-A0E0-3E5A0E94CF23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:51:07.7952742Z",
+    "label": "Deployed from FMB 127",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "Testimonial",
+    "itemPath": "/sitecore/media library/Feature/Testimonial",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "237dbde5-23a4-4992-b365-6188f5eb2481"
   }
 ]

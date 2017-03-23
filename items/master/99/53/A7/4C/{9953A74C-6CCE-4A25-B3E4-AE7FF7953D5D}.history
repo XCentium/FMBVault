@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9953A74C-6CCE-4A25-B3E4-AE7FF7953D5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:51:07.3822720Z",
+    "label": "Deployed from FMB 127",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "OfficeBanner",
+    "itemPath": "/sitecore/media library/Feature/Office/OfficeBanner",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "237dbde5-23a4-4992-b365-6188f5eb2481"
+  }
+]

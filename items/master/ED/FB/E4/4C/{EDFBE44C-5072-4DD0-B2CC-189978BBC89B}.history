@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{EDFBE44C-5072-4DD0-B2CC-189978BBC89B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:51:07.4952738Z",
+    "label": "Deployed from FMB 127",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "LOCAL\\sitecore\\admin",
+    "itemName": "OfficeLocations",
+    "itemPath": "/sitecore/media library/Feature/Office/OfficeLocations",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "237dbde5-23a4-4992-b365-6188f5eb2481"
+  }
+]

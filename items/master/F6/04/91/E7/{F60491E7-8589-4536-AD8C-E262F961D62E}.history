@@ -32,9 +32,28 @@
     "itemName": "FAQ",
     "itemPath": "/sitecore/layout/Renderings/Feature/FAQ/FAQ",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f84feafa5ee9c829132ce39d4548bca4ea87a6db",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F60491E7-8589-4536-AD8C-E262F961D62E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:52:14.4560929Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ",
+    "itemPath": "/sitecore/layout/Renderings/Feature/FAQ/FAQ",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
