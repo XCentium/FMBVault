@@ -10,18 +10,32 @@ template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
 templatekey: Landing Page
 created: 20170320T182216:636256309368830000
 
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: a379fbab-b163-4205-9950-0dc2c2c2f4e2
+revision: ac6d7f40-3095-41e6-a8b6-6fb6d43b0f8d
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
 name: Title
 key: title
-content-length: 144
+content-length: 9
 
-<div>Thank you for reserving your spot for our upcoming webinar:</div><div>The Top 5 Things You Need to Know Before Buying Your First Home</div>
+Thank you
 ----field----
 field: {AC3FD4DB-8266-476D-9635-67814D91E901}
 name: Summary
@@ -33,8 +47,21 @@ content-length: 0
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 19
+content-length: 668
 
+Thank you for reserving your spot for our upcoming webinar<br>
+The Top 5 Things You Need to Know Before Buying Your First Home &nbsp;
+<p>What you’ll learn:</p>
+<div>
+<ul>
+    <li>How to determine if this is the market for you to make your first purchase</li>
+    <li>Beyond mortgage calculators, determine how much home you can afford</li>
+    <li>5 questions to ask to help you identify the agent that will get you the best deal</li>
+    <li>3 loan programs for first-time homebuyers to give you the edge in any market</li>
+    <li>A step-by-step guide to give you confidence until you turn the key to your new home</li>
+</ul>
+</div>
+<p>&nbsp;</p>
 <br>
 <br>
 <br>
@@ -73,14 +100,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a379fbab-b163-4205-9950-0dc2c2c2f4e2
+ac6d7f40-3095-41e6-a8b6-6fb6d43b0f8d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T164514Z
+20170323T164818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
