@@ -32,9 +32,28 @@
     "itemName": "cre",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/cre",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "537fba3b96cab99a4a55d30c328e842866aa1700",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{1AA73D36-5F50-4AE6-8F5B-4EAAE75E7F0E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T18:24:53.1418063Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "cre",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/cre",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

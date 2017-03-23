@@ -32,9 +32,28 @@
     "itemName": "fandm-checking",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/fandm-checking",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "537fba3b96cab99a4a55d30c328e842866aa1700",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A5893C6D-3FA0-4733-BE3D-5E01604FC6F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T18:25:00.3361465Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "fandm-checking",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/fandm-checking",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
