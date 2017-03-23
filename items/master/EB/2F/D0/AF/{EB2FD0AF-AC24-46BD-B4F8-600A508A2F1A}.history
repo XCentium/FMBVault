@@ -32,9 +32,28 @@
     "itemName": "Content Module",
     "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Content Module",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "389cd027f8a599c20b3c4b7d9c88a880eaa958d3",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:02:43.4695716Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Module",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Content Module",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
