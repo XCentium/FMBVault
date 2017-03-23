@@ -32,9 +32,28 @@
     "itemName": "CalcDefinitions",
     "itemPath": "/sitecore/layout/Renderings/Feature/Tools/CalcDefinitions",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2bac25750e6b0f6e9c4f1f2385054e22e5c35d16",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{0476343E-939C-4504-B1EB-35EB361DBEEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:06:09.4482525Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CalcDefinitions",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Tools/CalcDefinitions",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
