@@ -32,9 +32,28 @@
     "itemName": "Huntington Beach",
     "itemPath": "/sitecore/content/FMBCom/Global/Offices/Huntington Beach",
     "template": "Office Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1045b16f781c331300ce6bcb276aec128ee979dc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{63A4279E-7C75-4294-A853-EF874D9A247A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T23:33:53.6753475Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Huntington Beach",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Huntington Beach",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
