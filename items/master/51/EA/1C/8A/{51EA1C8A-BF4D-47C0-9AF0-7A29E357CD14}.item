@@ -31,10 +31,17 @@ key: parameters template
 content-length: 38
 
 {CF15F80C-2CD9-4631-8B3F-8B89674FA8D8}
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{0B1AF8E7-27F2-4C9B-90D8-1A88189D8CC6}" />
 ----version----
 language: en
 version: 1
-revision: 63d66473-35b4-4111-9e27-bb41425cee27
+revision: 0ccbe47e-d898-40e6-83e1-05ac35b6d92c
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -63,18 +70,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-63d66473-35b4-4111-9e27-bb41425cee27
+0ccbe47e-d898-40e6-83e1-05ac35b6d92c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170310T080410Z
+20170323T205518Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-fmb\Anonymous
+sitecore\admin
