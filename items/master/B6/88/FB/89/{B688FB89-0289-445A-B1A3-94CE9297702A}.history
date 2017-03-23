@@ -32,9 +32,28 @@
     "itemName": "More How-Tos",
     "itemPath": "/sitecore/layout/Renderings/Feature/HowTo/More How-Tos",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3bbf909417a057826712b3aa54335459a889e601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B688FB89-0289-445A-B1A3-94CE9297702A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T20:55:33.0963201Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "More How-Tos",
+    "itemPath": "/sitecore/layout/Renderings/Feature/HowTo/More How-Tos",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
