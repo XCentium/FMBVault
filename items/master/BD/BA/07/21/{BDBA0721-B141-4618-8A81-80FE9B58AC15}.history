@@ -32,9 +32,28 @@
     "itemName": "More Testimonials",
     "itemPath": "/sitecore/layout/Renderings/Feature/Testimonial/More Testimonials",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6ed3e2773cc259ce9383764ed483c2ef884e13c4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{BDBA0721-B141-4618-8A81-80FE9B58AC15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:04:37.7541742Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "More Testimonials",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Testimonial/More Testimonials",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
