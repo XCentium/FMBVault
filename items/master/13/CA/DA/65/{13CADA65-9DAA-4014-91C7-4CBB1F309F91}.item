@@ -23,7 +23,7 @@ name: NewsDate
 key: newsdate
 content-length: 16
 
-20170323T000112Z
+20170315T150000Z
 ----field----
 field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
 name: CanIndex
@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 84638c14-901d-434f-a16f-55d6d5dcd373
+revision: 83bc8513-9c2e-4227-9647-a1ec3cbb9739
 
 ----field----
 field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
@@ -123,14 +123,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-84638c14-901d-434f-a16f-55d6d5dcd373
+83bc8513-9c2e-4227-9647-a1ec3cbb9739
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T001041Z
+20170323T001100Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
