@@ -32,9 +32,28 @@
     "itemName": "Notifications",
     "itemPath": "/sitecore/layout/Renderings/Feature/Tools/Notifications",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "93607e414be8077c2fe26c1d5ae95b2be6bc59dc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{E2C54644-3BEA-421F-BA73-8C8F88D93522}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:06:26.1906976Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notifications",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Tools/Notifications",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

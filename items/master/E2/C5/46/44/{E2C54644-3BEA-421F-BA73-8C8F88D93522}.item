@@ -24,10 +24,17 @@ key: controller action
 content-length: 12
 
 Notification
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{7453F97F-6F85-4E1A-9CDA-146390978F7D}" />
 ----version----
 language: en
 version: 1
-revision: ac8127d5-c9c3-4d48-ab01-91ed47ebd6ed
+revision: 5f00a4be-9b8a-4697-ae75-34b7966463bf
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ac8127d5-c9c3-4d48-ab01-91ed47ebd6ed
+5f00a4be-9b8a-4697-ae75-34b7966463bf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170304T011619Z
+20170323T210626Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
