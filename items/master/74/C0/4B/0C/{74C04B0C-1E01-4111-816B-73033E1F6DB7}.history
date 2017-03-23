@@ -51,9 +51,28 @@
     "itemName": "Don Williams",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Bixby Knolls/Don Williams",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "be9304dcaec219e9481066c6f14c208bc0ab5a84",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{74C04B0C-1E01-4111-816B-73033E1F6DB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T23:37:54.7032673Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Don Williams",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Bixby Knolls/Don Williams",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
