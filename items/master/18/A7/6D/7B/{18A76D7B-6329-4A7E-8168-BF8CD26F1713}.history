@@ -32,9 +32,28 @@
     "itemName": "Header Menu",
     "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Header Menu",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "88ae879f52da72cb5ddc752dd15778d463a69a11",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{18A76D7B-6329-4A7E-8168-BF8CD26F1713}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T21:00:32.0820261Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header Menu",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Navigation/Header Menu",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

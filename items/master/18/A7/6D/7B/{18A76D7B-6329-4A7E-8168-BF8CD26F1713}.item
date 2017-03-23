@@ -24,10 +24,17 @@ key: controller action
 content-length: 10
 
 HeaderMenu
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{F74AC1B1-C0BB-4D41-A0FA-67DA127F6A70}" />
 ----version----
 language: en
 version: 1
-revision: 98c4369c-7e2b-462a-aac3-aa2f06ce5bac
+revision: 1ce74cd2-0535-45b6-b897-5b8131b4638f
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-98c4369c-7e2b-462a-aac3-aa2f06ce5bac
+1ce74cd2-0535-45b6-b897-5b8131b4638f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170120T172644Z
+20170323T210032Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 16
+content-length: 14
 
-sitecore\unicorn
+sitecore\admin
