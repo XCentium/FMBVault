@@ -38,10 +38,17 @@ key: datasource location
 content-length: 57
 
 /sitecore/content/FMBCom/Global/Forms/Form Configurations
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{D7073F61-0872-4699-9E5A-62AF20F216D1}" />
 ----version----
 language: en
 version: 1
-revision: c8e512cb-5d65-4df5-8c49-9b3e6a8c29ea
+revision: 4693e6a2-6ddd-4b22-ac08-0723d0235061
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -70,18 +77,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c8e512cb-5d65-4df5-8c49-9b3e6a8c29ea
+4693e6a2-6ddd-4b22-ac08-0723d0235061
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170308T072418Z
+20170323T205401Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-fmb\Anonymous
+sitecore\admin
