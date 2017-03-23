@@ -32,9 +32,28 @@
     "itemName": "col-wide-1",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-wide-1",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "732ec565febe51c15231cffd41100c097b19f952",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{75827361-CE80-4019-B96F-DD5D1CF83F9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-23T18:15:10.2892194Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "col-wide-1",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-wide-1",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
