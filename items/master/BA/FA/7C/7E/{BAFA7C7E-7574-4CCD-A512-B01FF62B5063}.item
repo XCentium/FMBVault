@@ -14,20 +14,20 @@ created: 20170324T162122:636259692821870000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 50
+content-length: 52
 
-/assets/files/brochures/BusinessBrochureforWeb.pdf
+/assets/files/brochures/Apple_Pay_TC_ Disclosure.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{7B0646C1-E8DE-47F4-9255-0D138AF2790F}
+{054420FD-A74F-4381-AED4-3864111B3FAE}
 ----version----
 language: en
 version: 1
-revision: 3a306710-af3f-4828-a39a-3e3a0e25a596
+revision: 0ad46145-3ef9-489f-9f69-20ddf0f2f884
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3a306710-af3f-4828-a39a-3e3a0e25a596
+0ad46145-3ef9-489f-9f69-20ddf0f2f884
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T162122Z
+20170324T162217Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
