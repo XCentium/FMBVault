@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{A521940A-9824-46C5-A0BD-43129CDA19ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:21:51.3676505Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "20170324T172151Z",
+    "itemPath": "/sitecore/system/Packages/Installation history/FMB-184/20170324T172151Z",
+    "template": "Package registration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
