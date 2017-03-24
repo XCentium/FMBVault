@@ -10,10 +10,31 @@ template: {22A11D20-5F1D-4216-BF3F-18C016F1F98E}
 templatekey: Package registration
 created: 20170324T172151:636259729113430000
 
+----field----
+field: {D79648F3-1351-4A3C-822E-86809DB16479}
+name: Package name
+key: package name
+content-length: 7
+
+FMB-184
+----field----
+field: {5322A457-A605-4A38-A0D1-F944B7F781D9}
+name: Package version
+key: package version
+content-length: 3
+
+1.0
+----field----
+field: {5E6442EC-78CE-4D20-8673-3670222E404D}
+name: Package author
+key: package author
+content-length: 15
+
+Federico Mujica
 ----version----
 language: en
 version: 1
-revision: f2c1a5e7-eee3-4b7b-8aeb-40ae8e5eb4a7
+revision: 1d376750-42bb-4ab1-a2f6-ee6cc70b9fef
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +63,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f2c1a5e7-eee3-4b7b-8aeb-40ae8e5eb4a7
+1d376750-42bb-4ab1-a2f6-ee6cc70b9fef
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
