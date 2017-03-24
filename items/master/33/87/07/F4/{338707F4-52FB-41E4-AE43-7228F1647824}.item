@@ -2,9 +2,9 @@
 version: 1
 id: {338707F4-52FB-41E4-AE43-7228F1647824}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/How to Enroll
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/How to Guide
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
-name: How to Enroll
+name: How to Guide
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 3289197c-4bf4-4166-bfcd-4f9d4acab211
+revision: c569736e-5b48-4931-aba7-3f542eda36e1
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3289197c-4bf4-4166-bfcd-4f9d4acab211
+c569736e-5b48-4931-aba7-3f542eda36e1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T204608Z
+20170324T204626Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
