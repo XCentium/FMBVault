@@ -58,11 +58,11 @@ name: __Thumbnail
 key: __thumbnail
 content-length: 58
 
-<image mediaid="{8B61B675-16AB-43B0-8C32-3EE1C91E2C17}" />
+<image mediaid="{D0DC67D5-3F46-4B37-855C-92FD13B8F49E}" />
 ----version----
 language: en
 version: 1
-revision: 24ee6bcf-58c8-46ad-bec0-4d230598431f
+revision: 1305b75a-0f1e-4806-833c-514cc8116768
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -77,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-24ee6bcf-58c8-46ad-bec0-4d230598431f
+1305b75a-0f1e-4806-833c-514cc8116768
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170315T174240Z
+20170324T221608Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
