@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{51383CC1-93C4-425C-AA2A-8F80F285BC62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T00:04:47.9223208Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Savings Accounts Limited",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Savings Accounts Limited",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
