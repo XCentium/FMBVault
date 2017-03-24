@@ -20,7 +20,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: 7939b987-6197-46f3-8b58-606bafb07ac2
+revision: 06ad29f7-98f5-41a8-a359-ca36c61c5bd5
 
 ----field----
 field: {140BE8D6-70D3-4D9A-BA77-85EBF748C55B}
@@ -29,6 +29,13 @@ key: name
 content-length: 8
 
 Triangle
+----field----
+field: {7B3EA776-0907-4E21-90A6-6C6B94444115}
+name: CSS Class
+key: css class
+content-length: 26
+
+fa fa-exclamation-triangle
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -56,18 +63,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7939b987-6197-46f3-8b58-606bafb07ac2
+06ad29f7-98f5-41a8-a359-ca36c61c5bd5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170307T060444Z
+20170324T172821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-fmb\Anonymous
+sitecore\admin
