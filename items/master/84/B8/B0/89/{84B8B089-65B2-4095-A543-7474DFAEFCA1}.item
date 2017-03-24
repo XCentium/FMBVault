@@ -14,9 +14,9 @@ created: 20170323T175719:636258886390300000
 field: {C7A2362D-35F5-4735-9366-59838AA20E2F}
 name: Requested Expression
 key: requested expression
-content-length: 41
+content-length: 42
 
-^/assets/files/news/press_releases/.*.pdf
+^/assets/files/news/press_releases/.*\.pdf
 ----field----
 field: {B0AA4048-823B-4466-83C5-6B920B3CFC36}
 name: Response Status Code
@@ -34,7 +34,7 @@ content-length: 85
 ----version----
 language: en
 version: 1
-revision: 05488ba1-c030-46a6-bb21-5f1ae1f7bc0b
+revision: 0b15b046-bc4a-4d70-824c-793d79add80b
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-05488ba1-c030-46a6-bb21-5f1ae1f7bc0b
+0b15b046-bc4a-4d70-824c-793d79add80b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T211550Z
+20170324T211657Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
