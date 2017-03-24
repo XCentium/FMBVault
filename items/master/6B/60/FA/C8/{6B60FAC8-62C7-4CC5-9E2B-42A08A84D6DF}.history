@@ -32,9 +32,28 @@
     "itemName": "Money Market Account",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Money Market Account",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "802326f067a75625b4cbb9fab7068b9f3d186d4a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{6B60FAC8-62C7-4CC5-9E2B-42A08A84D6DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T23:23:16.8209745Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Money Market Account",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Money Market Account",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
