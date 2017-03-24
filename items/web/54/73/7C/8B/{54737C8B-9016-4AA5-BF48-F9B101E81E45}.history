@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{54737C8B-9016-4AA5-BF48-F9B101E81E45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:20.3767713Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "2015",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

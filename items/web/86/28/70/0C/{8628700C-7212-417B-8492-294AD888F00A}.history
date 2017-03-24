@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{8628700C-7212-417B-8492-294AD888F00A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:20.9027691Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "External Article Example",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2017/01/External Article Example",
+    "template": "News Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

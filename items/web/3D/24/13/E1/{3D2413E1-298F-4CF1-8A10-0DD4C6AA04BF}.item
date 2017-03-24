@@ -1,0 +1,103 @@
+----item----
+version: 1
+id: {3D2413E1-298F-4CF1-8A10-0DD4C6AA04BF}
+database: web
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/12/News Article 3
+parent: {86707C39-9D6B-4FB2-89AE-1FC394161486}
+name: News Article 3
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170126T040255:636210001758930000
+
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20170126T015400Z
+----version----
+language: en
+version: 1
+revision: 4f9c741d-9a52-4986-b079-149115aef182
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 134
+
+FARMERS & MERCHANTS BANK HONORS 77-YEAR OLD CHRISTMAS TRADITION DELIVERING OVER 1,500 APPLES TO LONG BEACH FIRE AND POLICE DEPARTMENTS
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 198
+
+For the 77th consecutive year, Farmers &amp; Merchants Bank (F&amp;M Bank), delivered over 1,500 apples to the Long Beach Police and Fire Departments, as part of a long-standing Christmas tradition.
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 3872
+
+<p>LONG BEACH, CA  &ndash; For the 77th consecutive year, Farmers &amp; Merchants Bank (F&amp;M Bank), delivered over 1,500 apples to the Long Beach Police and Fire Departments, as part of a long-standing Christmas tradition. </p>
+<p>The gifting of apples at Christmastime started in 1938 shortly after Gus Walker became President of F&amp;M Bank. Since fire and police personnel are not allowed to receive monetary gifts, Gus chose Washington Apples. At the time, Washington Apples were nearly twice the size of an average apple and were the highest quality Gus could find on the West Coast. </p>
+<p>&ldquo;Our local first responders work tirelessly to protect our city year-round,&rdquo; said F&amp;M Bank Chairman of the Board and CEO, Daniel K. Walker. &ldquo;My grandfather&rsquo;s tradition of gifting apples is simply our way of saying Merry Christmas and thank you for your service.&rdquo; </p>
+<p>Walker personally delivered apples to Deputy Fire Chief David Segura and his firefighters, as well as Police Chief Robert Luna and his police officers at their respective stations. </p>
+<p>&ldquo;F&amp;M&rsquo;s apples are part of the Long Beach Fire Department Christmas tradition every year and one that, we are extremely grateful for,&rdquo; said Segura. &ldquo;The apples are distributed amongst all our shifts. Some members of our department enjoy them right away while others incorporate them into their menu for the day, including using the apples for baking, making pies, or dicing apples up for a nice fresh salad.&rdquo; </p>
+<p>&ldquo;We are thankful F&amp;M Bank and the Walker Family take a moment each Christmas to recognize the men and women of the Long Beach Police Department. The gift of apples is truly a holiday treat that our employees look forward to each year,&rdquo; said Luna. </p>
+<p>In addition to the annual apple delivery, F&amp;M also participates in local toy drives and serves warm Wassail and Gingerbread to all clients that visit the bank&rsquo;s 24 Southern California branches between December 17th and 24th. </p>
+<p>About Farmers &amp; Merchants Bank Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has over $5B in assets and 24 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender. For more information about F&amp;M, please call the media contacts listed above or visit the website, www.fmb.com. </p>
+<p>IN THIS PHOTO OFFERED BY FARMERS &amp; MERCHANTS BANK Daniel K. Walker, F&amp;M Bank Chairman and CEO, center right, shows a sign of gratitude to Long Beach Fire Department Deputy Fire Chief David Segura after delivering several cases of apples for firefighters Thursday, Dec. 10, 2015, in Long Beach, Calif. Delivering apples to local fire and police stations is a 77-year tradition with F&amp;M dating back to 1938 when Daniel Walker's grandfather, then president of the bank, wanted to show a way to thank the civil servants for their service. (AP Photo/F&amp;M Bank) </p>
+<p>IN THIS PHOTO OFFERED BY FARMERS &amp; MERCHANTS BANK Long Beach Police Chief Robert Luna examines an apple after Daniel K. Walker, F&amp;M Bank Chairman and CEO, delivered several cases of apples for police Thursday, Dec. 10, 2015, in Long Beach, Calif. Delivering apples to local fire and police stations is a 77-year tradition with F&amp;M dating back to 1938 when Daniel Walker's grandfather, then president of the bank, wanted to show a way to thank the civil servants for their service. (AP Photo/F&amp;M Bank)</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 134
+
+FARMERS & MERCHANTS BANK HONORS 77-YEAR OLD CHRISTMAS TRADITION DELIVERING OVER 1,500 APPLES TO LONG BEACH FIRE AND POLICE DEPARTMENTS
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170126T015356Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4f9c741d-9a52-4986-b079-149115aef182
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170201T024247Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

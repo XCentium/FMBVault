@@ -1,0 +1,24 @@
+----item----
+version: 1
+id: {DAEB01D7-D61D-4AC4-974E-9A67A4D396D7}
+database: web
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/04
+parent: {54737C8B-9016-4AA5-BF48-F9B101E81E45}
+name: 04
+master: {00000000-0000-0000-0000-000000000000}
+template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
+templatekey: Bucket
+created: 20170217T081937:636229163773100000
+
+----version----
+language: en
+version: 1
+revision: 
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20170217T081937:636229163773256775Z

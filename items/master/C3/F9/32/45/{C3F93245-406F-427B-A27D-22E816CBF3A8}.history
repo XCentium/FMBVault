@@ -32,9 +32,28 @@
     "itemName": "Long Beach Kirk Van Atta Appointment",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/03/Long Beach Kirk Van Atta Appointment",
     "template": "News Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "70c6cbc626aef8e2d4d2b356c4617f9f3183aed9",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C3F93245-406F-427B-A27D-22E816CBF3A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:20.3587718Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Beach Kirk Van Atta Appointment",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/03/Long Beach Kirk Van Atta Appointment",
+    "template": "News Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

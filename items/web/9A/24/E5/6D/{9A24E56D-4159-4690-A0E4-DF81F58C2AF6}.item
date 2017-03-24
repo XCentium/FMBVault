@@ -1,0 +1,138 @@
+----item----
+version: 1
+id: {9A24E56D-4159-4690-A0E4-DF81F58C2AF6}
+database: web
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/04/Long Beach Kathy Reed Appointment
+parent: {8B499E8F-A58A-4C18-87D6-7C12FCC95159}
+name: Long Beach Kathy Reed Appointment
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170216T200222:636228721429230000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 1
+
+1
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20160401T150000Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: d6c31f6d-db65-4ff3-b72d-9511a4e22309
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 100
+
+Farmers & Merchants Bank Appoints Kathy Reed as Senior Vice President, Regional Relationship Manager
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 3220
+
+<p>Farmers &amp; Merchants Bank (F&amp;M), a specialist in commercial banking and small business lending, has named Kathy Reed the new Senior Vice President, Regional Relationship<br>
+Manager of the Newport Beach and Corona del Mar branches. Reed brings with her more than 25 years of banking experience.</p>
+<p>Prior to joining F&amp;M, Reed served as Director and Commercial Mortgage Operations Portfolio Manager for MUFG Union Bank, N.A, where she served as a sales manager for the organization&rsquo;s refinance division, with a focus on loan retention and relationship expansion. She was also responsible for asset management of the division&rsquo;s portfolio of multifamily and commercial real estate loans. Additionally, Reed is the former owner of Apex Financial, a consulting firm that she founded and operated; Director of Business Process for The Situs Companies; Vice President of Commercial Real Estate for Fremont Investment and Loan; and Commissioned Bank Examiner for the Federal Deposit Insurance Corporation (FDIC).</p>
+<p>&ldquo;Kathy is a highly accomplished banking professional with a great deal of real estate knowledge in the Bank&rsquo;s target markets,&rdquo; said Phil Bond, Executive Vice President, Chief Credit Officer. &ldquo;She has the proven ability to work with clients on complex deals under demanding timelines and will be a valuable asset for our team.&rdquo;</p>
+<p>In her new position, Reed will oversee lending and relationship management for both the Corona del Mar and Newport Beach branches. She will also be responsible for overall growth, quality of the loan portfolio and related deposits. Her goal is to ensure all customers and prospects receive service levels that exceed expectations by providing onsite decision making for fast answers.</p>
+<p>&ldquo;F&amp;M has a strong history of capitalization, flexible lending programs and giving back to the community it serves,&rdquo; said Reed. &ldquo;Focus on building a relationship with the client is a lost art in this transactional world and it is a pleasure to be part of an organization whose core values align with my own belief in the importance of integrity and giving back.&rdquo;</p>
+<p>The University of Wisconsin alumni, currently resides in Laguna Beach with her husband of 23 years, Roderick, and two boys, Mason (18) and Jack (15). She has been active in Boy Scouts for 12 years, most recently serving as Chairwoman of Troop 35, Laguna Beach. Both of her sons are Eagle Scouts. Reed is a volunteer for local charities and school causes. She is an active member of National Association of Women Business Owners (NAWBO) and The Urban Land Institute (ULI) where she sits on the Office and Commercial Initiative Council.</p>
+<p><strong>About Farmers &amp; Merchants Bank</strong><br>
+Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has 24 branches in Los Angeles and Orange Counties. The Bank specializes in commercial and small business banking along with business loan programs. Farmers &amp; Merchants Bank of Long Beach is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender. </p>
+<p>###</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 38
+
+Long Beach F and M Appoints Kathy Reed
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 33
+
+Long Beach Kathy Reed Appointment
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160401T190200Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d6c31f6d-db65-4ff3-b72d-9511a4e22309
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T181331Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

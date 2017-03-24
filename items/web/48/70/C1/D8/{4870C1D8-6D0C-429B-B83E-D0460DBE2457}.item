@@ -1,0 +1,143 @@
+----item----
+version: 1
+id: {4870C1D8-6D0C-429B-B83E-D0460DBE2457}
+database: web
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/04/Long Beach Camp Fire Urban Forest Project
+parent: {DAEB01D7-D61D-4AC4-974E-9A67A4D396D7}
+name: Long Beach Camp Fire Urban Forest Project
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170216T231645:636228838052630000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 1
+
+1
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20150429T150000Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 94785f0d-e1e9-43fd-922c-4826b49af919
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 73
+
+Farmers & Merchants Bank Supports Local Non-Profit’s Urban Forest Project
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 75
+
+Camp Fire Long Beach hosts ribbon cutting for redevelopment of Camp Shiwaka
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 1887
+
+<p>Farmers &amp; Merchants Bank (F&amp;M Bank) announced today its continuing commitment to the Long Beach community through their monetary support for Camp Fire USA Greater Long Beach&rsquo;s urban forest upgrade.</p>
+<p>The five acre day camp&rsquo;s Urban Forest redevelopment project includes upgrades such as a &frac34; mile discovery trail through the property, mature trees and other native plants added, and an extension of pipes to allow a new irrigation system that uses recycled water instead of precious potable water. Camp Fire&rsquo;s Executive Director, Shirlee Jackert said &ldquo;the fresh smell of the new trees and shrubs at the camp really elevate the overall nature experience.&rdquo;</p>
+<p>With the current phase of the project complete, Camp Fire celebrated with a ribbon cutting event last Saturday at 2:00pm at Camp Fire&rsquo;s Camp Shiwaka at 7070 East Carson Street, Long Beach, CA 90808.</p>
+<p>Farmers &amp; Merchants Bank, along with other contributors, has been a supporter of the redevelopment project since its inception in 2013.</p>
+<p>To find out more about Camp Fire&rsquo;s programs or to participate in the rebuild project, <a href="www.campfirelb.org" target="_blank">go to www.campfirelb.org</a> or call (562) 421-2725.</p>
+<p><strong>About Farmers &amp; Merchants Bank</strong><br>
+Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has over $5B in assets and 23 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender. </p>
+<p>###</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 53
+
+Long Beach F and M Bank Supports Camp Fire Long Beach
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 41
+
+Long Beach Camp Fire Urban Forest Project
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150429T221600Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+94785f0d-e1e9-43fd-922c-4826b49af919
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T180408Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

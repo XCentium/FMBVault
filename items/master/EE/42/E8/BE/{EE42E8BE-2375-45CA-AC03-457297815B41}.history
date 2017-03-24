@@ -32,9 +32,28 @@
     "itemName": "Long Beach Friends of Pathways 19th Annual Fundraiser",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/09/Long Beach Friends of Pathways 19th Annual Fundraiser",
     "template": "News Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "70c6cbc626aef8e2d4d2b356c4617f9f3183aed9",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{EE42E8BE-2375-45CA-AC03-457297815B41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:20.5047721Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Beach Friends of Pathways 19th Annual Fundraiser",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2015/09/Long Beach Friends of Pathways 19th Annual Fundraiser",
+    "template": "News Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

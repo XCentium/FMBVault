@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {8628700C-7212-417B-8492-294AD888F00A}
+database: web
+path: /External Article Example
+parent: {00000000-0000-0000-0000-000000000000}
+name: External Article Example
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170126T040255:636210001759170000
+
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20170104T025700Z

@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {8CB23EF3-0987-4529-BC8E-93916790E978}
+database: web
+path: /Press Release 1
+parent: {00000000-0000-0000-0000-000000000000}
+name: Press Release 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170126T040255:636210001758170000
+
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20161208T005700Z
