@@ -32,9 +32,28 @@
     "itemName": "Image",
     "itemPath": "/sitecore/layout/Renderings/Feature/Media/Image",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1229d423ee063bc4b05c9845a4e163ee21717f66",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F81355DC-CF26-4AE8-9486-FFCC4E8A09D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T22:22:35.4393324Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Media/Image",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
