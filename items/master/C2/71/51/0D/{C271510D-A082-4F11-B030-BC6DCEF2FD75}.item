@@ -10,10 +10,17 @@ template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
 created: 20170324T223320:636259916004370000
 
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
 ----version----
 language: en
 version: 1
-revision: 2b43257a-832d-4e48-b767-20fa3ae3f896
+revision: 38bed255-d243-480a-b2ee-1dde33d4a5e2
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,7 +35,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2b43257a-832d-4e48-b767-20fa3ae3f896
+38bed255-d243-480a-b2ee-1dde33d4a5e2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
