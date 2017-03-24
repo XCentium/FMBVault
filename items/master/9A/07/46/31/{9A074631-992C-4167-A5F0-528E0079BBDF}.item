@@ -13,15 +13,15 @@ created: 20170316T061121:636252414811830000
 ----version----
 language: en
 version: 1
-revision: 87e33d6b-6f23-4884-9d5e-64dc082352ec
+revision: b67d10de-d3c3-45fa-b96b-ef8665101930
 
 ----field----
 field: {2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}
 name: Body
 key: body
-content-length: 195
+content-length: 183
 
-<sup>2</sup>Apple, the Apple logo, iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Pay, Passbook, iSight, and Touch ID are trademarks of Apple Inc.
+Apple, the Apple logo, iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Pay, Passbook, iSight, and Touch ID are trademarks of Apple Inc.
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-87e33d6b-6f23-4884-9d5e-64dc082352ec
+b67d10de-d3c3-45fa-b96b-ef8665101930
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170316T061121Z
+20170324T233513Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-fmb\Anonymous
+fmb\sdonatelli

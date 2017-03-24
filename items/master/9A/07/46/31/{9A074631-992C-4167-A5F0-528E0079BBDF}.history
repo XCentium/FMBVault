@@ -32,9 +32,28 @@
     "itemName": "Credit-Cards-Apple-Pay",
     "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Credit-Cards-Apple-Pay",
     "template": "Disclaimer",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "232db226a3d87565ab38d4bbb72322d24801df0d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9A074631-992C-4167-A5F0-528E0079BBDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T23:35:13.3027800Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Credit-Cards-Apple-Pay",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Credit-Cards-Apple-Pay",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
