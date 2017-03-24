@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2A853693-2387-4DC3-9FEE-07B5DD250FFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T15:49:05.7340739Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "EMV Fraud Liability Shift Protection Promise",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/EMV Fraud Liability Shift Protection Promise",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
