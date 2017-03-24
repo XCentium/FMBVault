@@ -13,7 +13,7 @@ created: 20170307T055644:636244630048930000
 ----version----
 language: en
 version: 1
-revision: 01366cea-4934-4bdd-8d88-2f928d68aeb1
+revision: cbb74ce2-75b1-4b8c-813c-a653cd390d7c
 
 ----field----
 field: {140BE8D6-70D3-4D9A-BA77-85EBF748C55B}
@@ -22,6 +22,13 @@ key: name
 content-length: 6
 
 Circle
+----field----
+field: {7B3EA776-0907-4E21-90A6-6C6B94444115}
+name: CSS Class
+key: css class
+content-length: 21
+
+fa-exclamation-circle
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,18 +56,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-01366cea-4934-4bdd-8d88-2f928d68aeb1
+cbb74ce2-75b1-4b8c-813c-a653cd390d7c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170307T060444Z
+20170324T172851Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-fmb\Anonymous
+sitecore\admin
