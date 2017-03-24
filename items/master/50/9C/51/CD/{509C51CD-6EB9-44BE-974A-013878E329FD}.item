@@ -1,33 +1,33 @@
 ----item----
 version: 1
-id: {A4123A8C-C617-4291-B7DE-0368BDA5A499}
+id: {509C51CD-6EB9-44BE-974A-013878E329FD}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Debit Card Fraud Alerts Terms
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Check FM
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
-name: Debit Card Fraud Alerts Terms
+name: Check FM
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
-created: 20170324T182114:636259764744070000
+created: 20170324T183122:636259770829100000
 
 ----field----
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 46
+content-length: 39
 
-/assets/docs/Debit_Card_Fraud_Alerts_Terms.pdf
+/assets/files/brochures/100YearBook.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{B3992C35-A1B7-4B00-885D-7A3A778BB4C8}
+{8C606DAC-1E0F-4F0E-8417-6868753B9A5F}
 ----version----
 language: en
 version: 1
-revision: 25a8488b-7171-4652-812b-6b0f87ea79b6
+revision: da2b5b11-b3bb-4192-b527-7eda0c1872b6
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-25a8488b-7171-4652-812b-6b0f87ea79b6
+da2b5b11-b3bb-4192-b527-7eda0c1872b6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T182315Z
+20170324T154733Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
