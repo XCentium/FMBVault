@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D4B9A793-C29C-49F1-8FCA-9AF8676DD725}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:46:31.0367141Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Overdraft Protection Program",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Overdraft Protection Program",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
