@@ -2,8 +2,8 @@
 version: 1
 id: {D48B424C-3521-4A1F-B599-DF4365F2C4F1}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Phishing and Smishing
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Security/Phishing and Smishing
+parent: {4639D176-D66B-4E47-82E1-C8C9079B6096}
 name: Phishing and Smishing
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
