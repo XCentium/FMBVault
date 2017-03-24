@@ -2,8 +2,8 @@
 version: 1
 id: {BBF23DCF-6F02-4ACC-ABF0-3E5F29BA8F47}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Rossmoor Renovation Flyer
-parent: {B9B0BD69-0DC2-43E0-9464-8039E56F6FF9}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Rossmoor Renovation Flyer
+parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
 name: Rossmoor Renovation Flyer
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: a4d74701-7aa9-4961-9e52-1659a33ff606
+revision: 5e3b661b-f896-4464-a694-b01834108c8b
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a4d74701-7aa9-4961-9e52-1659a33ff606
+5e3b661b-f896-4464-a694-b01834108c8b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T180758Z
+20170324T181012Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
