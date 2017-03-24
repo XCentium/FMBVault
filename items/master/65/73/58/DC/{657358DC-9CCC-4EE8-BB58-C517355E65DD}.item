@@ -2479,10 +2479,31 @@ key: extension
 content-length: 3
 
 png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 6
+
+139981
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/657358dc9ccc4ee8bb58c517355e65dd.ashx?h=16&thn=1&w=16
 ----version----
 language: en
 version: 1
-revision: fa5dccf9-0ed8-4dc2-b3d0-1fc7c4fc3abf
+revision: 223c3498-9ac7-4d2f-af21-e83613adbc40
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -2497,7 +2518,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fa5dccf9-0ed8-4dc2-b3d0-1fc7c4fc3abf
+223c3498-9ac7-4d2f-af21-e83613adbc40
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
