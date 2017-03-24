@@ -13,8 +13,15 @@ created: 20170324T000447:636259106878800000
 ----version----
 language: en
 version: 1
-revision: 23e4819f-6d82-4b00-b2f7-0e4823953b41
+revision: 29ae52b1-ff5b-4ea3-9e78-a70fde9f7729
 
+----field----
+field: {2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}
+name: Body
+key: body
+content-length: 183
+
+Savings accounts are limited to six pre-arranged withdrawals per statement cycle. Other transaction limitations or account fees may apply. Refer to the account agreements for details.
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-23e4819f-6d82-4b00-b2f7-0e4823953b41
+29ae52b1-ff5b-4ea3-9e78-a70fde9f7729
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T000447Z
+20170324T000459Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

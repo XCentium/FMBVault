@@ -32,9 +32,28 @@
     "itemName": "Business Savings Accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Savings Accounts",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4bd338574f3b0e72d2d23ce3276bb3993dc8095d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{0DD88AA9-16AE-4994-B4D7-431411743229}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T00:07:19.2607491Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Business Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Savings Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
