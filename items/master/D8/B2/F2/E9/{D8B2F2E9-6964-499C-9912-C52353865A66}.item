@@ -1,0 +1,24 @@
+----item----
+version: 1
+id: {D8B2F2E9-6964-499C-9912-C52353865A66}
+database: master
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom home news-and-community press-releases 2017 01 news-article-3
+parent: {46208C65-F7D5-4642-9340-175057D80E03}
+name: sitecore content fmbcom home news-and-community press-releases 2017 01 news-article-3
+master: {00000000-0000-0000-0000-000000000000}
+template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
+templatekey: Redirect Url
+created: 20170324T213919:636259883599930000
+
+----version----
+language: en
+version: 1
+revision: 
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170324T213920Z

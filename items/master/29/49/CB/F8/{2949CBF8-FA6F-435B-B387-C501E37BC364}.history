@@ -32,9 +32,28 @@
     "itemName": "Footer",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Footer",
     "template": "Content Module Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "17ce1538bc711eaa64bd06e1c8539cb671449771",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2949CBF8-FA6F-435B-B387-C501E37BC364}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:19.1327712Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Footer",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

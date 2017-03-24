@@ -32,9 +32,28 @@
     "itemName": "FMB Standard Workflow",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow",
     "template": "Workflow",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "17ce1538bc711eaa64bd06e1c8539cb671449771",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:19.3337712Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB Standard Workflow",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow",
+    "template": "Workflow",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
