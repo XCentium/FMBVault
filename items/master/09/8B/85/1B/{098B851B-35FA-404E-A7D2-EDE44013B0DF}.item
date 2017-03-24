@@ -13,7 +13,7 @@ created: 20170324T155733:636259678539000000
 ----version----
 language: en
 version: 1
-revision: 955f63a5-5e35-47b2-9472-3953f984690b
+revision: f4ba3dd5-62ed-4187-9686-f7551ac3a0a9
 
 ----field----
 field: {4B06EFED-2D08-4F2A-94E2-5ED9E77528BC}
@@ -28,21 +28,21 @@ name: Date Start
 key: date start
 content-length: 16
 
-20170308T083000Z
+20170325T073000Z
 ----field----
 field: {7EB8A69F-DEEA-46F0-B2AB-E4FBCCD89892}
 name: Date End
 key: date end
 content-length: 16
 
-20170320T080000Z
+20170326T080000Z
 ----field----
 field: {5683309D-1890-4FF6-8134-0BF80E6C60B1}
 name: Message
 key: message
-content-length: 54
+content-length: 22
 
-The Bank recognizes Saint Patrick's day on March 17th.
+Test Notification Icon
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -70,18 +70,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-955f63a5-5e35-47b2-9472-3953f984690b
+f4ba3dd5-62ed-4187-9686-f7551ac3a0a9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170308T174420Z
+20170324T160014Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 14
 
-fmb\jbridges
+sitecore\admin
