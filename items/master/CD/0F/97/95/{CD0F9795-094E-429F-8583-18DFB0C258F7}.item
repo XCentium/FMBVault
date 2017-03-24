@@ -14,20 +14,20 @@ created: 20170324T162409:636259694497430000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 81
+content-length: 54
 
-/home/business-banking/business-credit-loans/commercial-loans-for-businesses.html
+/assets/files/brochures/VisaTravelTipsBrochure_Web.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{7AD599A2-E809-4DEF-9DB2-3FC692BF32A1}
+{D2003A97-6115-4C5C-9715-206BAD121BE4}
 ----version----
 language: en
 version: 1
-revision: e5712a11-496a-4ec2-be39-18b86666c0b9
+revision: 215cf226-581c-4551-a825-8c3220745c1a
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e5712a11-496a-4ec2-be39-18b86666c0b9
+215cf226-581c-4551-a825-8c3220745c1a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T162409Z
+20170324T162518Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
