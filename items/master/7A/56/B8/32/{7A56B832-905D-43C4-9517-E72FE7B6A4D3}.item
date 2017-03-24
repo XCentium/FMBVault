@@ -13,15 +13,15 @@ created: 20170316T061122:636252414827200000
 ----version----
 language: en
 version: 1
-revision: b839827f-be30-488a-b437-c76f5d7ac140
+revision: c2bb4409-c7f8-4f46-80c6-c003954b3e44
 
 ----field----
 field: {2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}
 name: Body
 key: body
-content-length: 602
+content-length: 590
 
-<sup>1</sup>Money Market accounts are limited to six withdrawals or transfers to another account of yours or to a third party by means of a preauthorized or automatic transfer or telephone order or instruction, computer transfer, or by check, draft, debit card or similar order to a third party. Exceeding these limitations may result in transfer of your account to one that pays no interest. A separate application and agreement are required for an ATM card, Online Banking, and Bill Pay privileges. Other transaction limitations or account fees may apply. Refer to the account agreements for details.
+Money Market accounts are limited to six withdrawals or transfers to another account of yours or to a third party by means of a preauthorized or automatic transfer or telephone order or instruction, computer transfer, or by check, draft, debit card or similar order to a third party. Exceeding these limitations may result in transfer of your account to one that pays no interest. A separate application and agreement are required for an ATM card, Online Banking, and Bill Pay privileges. Other transaction limitations or account fees may apply. Refer to the account agreements for details.
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b839827f-be30-488a-b437-c76f5d7ac140
+c2bb4409-c7f8-4f46-80c6-c003954b3e44
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170316T061122Z
+20170324T231959Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-fmb\Anonymous
+fmb\sdonatelli
