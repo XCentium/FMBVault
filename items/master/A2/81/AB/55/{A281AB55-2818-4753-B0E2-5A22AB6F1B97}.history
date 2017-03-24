@@ -70,9 +70,28 @@
     "itemName": "Deposit Services",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Deposit Services",
     "template": "Redirect Url",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9ee8950014a4424b4996a09d3c7eb009174662e3",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A281AB55-2818-4753-B0E2-5A22AB6F1B97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T23:00:40.6922729Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Deposit Services",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Deposit Services",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
