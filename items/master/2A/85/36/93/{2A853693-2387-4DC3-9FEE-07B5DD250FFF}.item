@@ -14,20 +14,20 @@ created: 20170324T154905:636259673457070000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 62
+content-length: 72
 
-/assets/files/brochures/Affidavit_Unauthorized_Transaction.pdf
+/assets/files/brochures/EMV-Fraud-Liability-Shift-Protection-Promise.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{6BF9A762-A6C5-48DD-A01D-87B1CD80C580}
+{B516B2F7-4166-49A3-96C9-D2236441BBF5}
 ----version----
 language: en
 version: 1
-revision: 978a24b3-4724-4bac-9771-91806e1adbe7
+revision: 27548430-e2c2-4c84-8aa0-d8b3d739fe17
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-978a24b3-4724-4bac-9771-91806e1adbe7
+27548430-e2c2-4c84-8aa0-d8b3d739fe17
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T154905Z
+20170324T155110Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
