@@ -32,9 +32,28 @@
     "itemName": "Header Menus",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2b635ce93915de10d68e8f7bab5323d0cb7e41f2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{9CD736A6-38C0-4B64-A1F5-177DE9429060}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:18.9857693Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header Menus",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

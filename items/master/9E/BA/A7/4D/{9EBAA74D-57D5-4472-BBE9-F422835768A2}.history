@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9EBAA74D-57D5-4472-BBE9-F422835768A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:19.0237714Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sitecore content fmbcom global links header-menu",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom global links header-menu",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
