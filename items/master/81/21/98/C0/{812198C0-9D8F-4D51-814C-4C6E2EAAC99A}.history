@@ -127,9 +127,28 @@
     "itemName": "test pattern",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/test pattern",
     "template": "Redirect Pattern",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4763aff470cdf6d8546b62661fb353f98224ef75",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{812198C0-9D8F-4D51-814C-4C6E2EAAC99A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:10:33.3017691Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "test pattern",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/test pattern",
+    "template": "Redirect Pattern",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
