@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FA104A77-663C-44C3-91FE-1130E85B931E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T15:30:07.9214848Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Business Brochure for Web",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/Business Brochure for Web",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
