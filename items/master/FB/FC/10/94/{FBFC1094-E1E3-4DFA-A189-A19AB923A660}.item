@@ -28,9 +28,9 @@ content-length: 0
 field: {C06867FE-9A43-4C7D-B739-48780492D06F}
 name: Extension
 key: extension
-content-length: 0
+content-length: 3
 
-
+png
 ----field----
 field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
 name: Mime Type
@@ -62,7 +62,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: f4e7b6de-cf4d-4580-ab24-94be7344d0e9
+revision: 979f10f3-d856-4fe9-b17a-2198db5154dd
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -77,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f4e7b6de-cf4d-4580-ab24-94be7344d0e9
+979f10f3-d856-4fe9-b17a-2198db5154dd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T221838Z
+20170324T221847Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
