@@ -32,9 +32,28 @@
     "itemName": "Child Page List",
     "itemPath": "/sitecore/media library/Feature/PageContent/Child Page List",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7d620415a5c64041cab8c8e6237a4075dd93c5f5",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{CBA9AFCB-5E6B-459C-9E1E-066E0E9D1C85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T22:20:15.8251904Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Child Page List",
+    "itemPath": "/sitecore/media library/Feature/PageContent/Child Page List",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
