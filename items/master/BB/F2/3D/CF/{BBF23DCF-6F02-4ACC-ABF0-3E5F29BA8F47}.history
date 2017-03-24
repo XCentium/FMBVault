@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BBF23DCF-6F02-4ACC-ABF0-3E5F29BA8F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T18:06:00.9517363Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Fullerton Renovation Flyer",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Fullerton Renovation Flyer",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
