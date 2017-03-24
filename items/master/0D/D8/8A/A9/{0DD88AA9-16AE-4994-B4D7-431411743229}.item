@@ -13,7 +13,7 @@ created: 20170211T005001:636223710012030000
 ----version----
 language: en
 version: 1
-revision: 156ba047-24d9-47f3-a20e-d7ceef26c971
+revision: 408caca6-5ea9-4678-a2a6-36fe9040c462
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,9 +26,9 @@ Business Savings Accounts
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 947
+content-length: 941
 
-<p>Our competitive&nbsp;<strong>business savings&nbsp;</strong><em>account rates</em>&nbsp;and personal service make a&nbsp;<strong>savings account&nbsp;</strong><em>for your business</em>&nbsp;the perfect companion to your&nbsp;<span style="text-decoration: underline;">business checking account</span>. And, you will be able to transfer funds between checking and savings accounts as needed while earning interest on savings.&nbsp;<sup>1</sup></p>
+<p>Our competitive&nbsp;<strong>business savings&nbsp;</strong><em>account rates</em>&nbsp;and personal service make a&nbsp;<strong>savings account&nbsp;</strong><em>for your business</em>&nbsp;the perfect companion to your&nbsp;<span style="text-decoration: underline;">business checking account</span>. And, you will be able to transfer funds between checking and savings accounts as needed while earning interest on savings.<sup>1</sup></p>
 <p>Backed by the strength of F&amp;M, and FDIC insured, our&nbsp;<strong>business savings</strong>&nbsp;offers a reliable and steady method of making the most from every dollar.<br>
 <br>
 <strong><a href="~/link.aspx?_id=67B5E959E0FF4B7498FF5764CD8FF541&amp;_z=z">Click Here to See Our Interest Rates</a></strong></p>
@@ -88,14 +88,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-156ba047-24d9-47f3-a20e-d7ceef26c971
+408caca6-5ea9-4678-a2a6-36fe9040c462
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T000719Z
+20170324T001124Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
