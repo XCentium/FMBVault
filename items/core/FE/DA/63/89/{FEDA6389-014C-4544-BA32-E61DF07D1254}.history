@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{FEDA6389-014C-4544-BA32-E61DF07D1254}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:02:05.0486978Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-184",
+    "itemPath": "/sitecore/system/Packages/Installation history/FMB-184",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

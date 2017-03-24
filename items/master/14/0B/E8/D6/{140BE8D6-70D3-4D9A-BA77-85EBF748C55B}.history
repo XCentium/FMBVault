@@ -32,9 +32,28 @@
     "itemName": "Name",
     "itemPath": "/sitecore/templates/Feature/Tools/_IconType/Icon Type/Name",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ae81a612eb7a8b1dbfa3ec4041cd553bb889e3e3",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{140BE8D6-70D3-4D9A-BA77-85EBF748C55B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:02:04.9056987Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/Feature/Tools/_IconType/Icon Type/Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
