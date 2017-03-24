@@ -13,7 +13,7 @@ created: 20170307T055644:636244630048930000
 ----version----
 language: en
 version: 1
-revision: cbb74ce2-75b1-4b8c-813c-a653cd390d7c
+revision: 3b73e809-8336-40c9-bc2d-a144fe43b721
 
 ----field----
 field: {140BE8D6-70D3-4D9A-BA77-85EBF748C55B}
@@ -26,9 +26,9 @@ Circle
 field: {7B3EA776-0907-4E21-90A6-6C6B94444115}
 name: CSS Class
 key: css class
-content-length: 21
+content-length: 24
 
-fa-exclamation-circle
+fa fa-exclamation-circle
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cbb74ce2-75b1-4b8c-813c-a653cd390d7c
+3b73e809-8336-40c9-bc2d-a144fe43b721
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T172851Z
+20170324T172929Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
