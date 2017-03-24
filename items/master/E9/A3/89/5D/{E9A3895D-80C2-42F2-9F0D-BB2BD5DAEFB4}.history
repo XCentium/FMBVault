@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E9A3895D-80C2-42F2-9F0D-BB2BD5DAEFB4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T15:47:20.9550751Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Affidavit Unauthorized Transaction",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/Affidavit Unauthorized Transaction",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
