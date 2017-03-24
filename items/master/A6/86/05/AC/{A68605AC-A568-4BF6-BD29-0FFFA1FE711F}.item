@@ -2,8 +2,8 @@
 version: 1
 id: {A68605AC-A568-4BF6-BD29-0FFFA1FE711F}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/FMB Application/Business Brochure for Web
-parent: {F46BF26C-E380-43EA-9960-11B1A26AB991}
+path: /Business Brochure for Web
+parent: {00000000-0000-0000-0000-000000000000}
 name: Business Brochure for Web
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
@@ -24,36 +24,3 @@ key: redirect to item
 content-length: 38
 
 {7B0646C1-E8DE-47F4-9255-0D138AF2790F}
-----version----
-language: en
-version: 1
-revision: 356c82cb-9289-4a0d-b689-e99651ca3122
-
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20170313T193124Z
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-356c82cb-9289-4a0d-b689-e99651ca3122
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20170324T153058Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 14
-
-fmb\sdonatelli
