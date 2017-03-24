@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4639D176-D66B-4E47-82E1-C8C9079B6096}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T14:48:14.5160990Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Security",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Security",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
