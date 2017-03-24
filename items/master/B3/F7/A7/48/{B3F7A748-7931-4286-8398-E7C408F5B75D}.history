@@ -32,9 +32,28 @@
     "itemName": "Login Menus",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fe43c481060c055129af85516253d19c015be681",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B3F7A748-7931-4286-8398-E7C408F5B75D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:18.7317707Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Menus",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

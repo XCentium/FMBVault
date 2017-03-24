@@ -10,6 +10,20 @@ template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
 created: 20170324T213918:636259883585330000
 
+----field----
+field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
+name: Requested Url
+key: requested url
+content-length: 38
+
+/sitecore/media-library/project/fmbcom
+----field----
+field: {544E5C57-1626-4972-8535-196F000E4B1F}
+name: Redirect To Item
+key: redirect to item
+content-length: 38
+
+{CAF7A99F-7A89-49FC-9F11-CFAA1C673776}
 ----version----
 language: en
 version: 1

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Moved",
+    "database": "web",
+    "itemId": "{CAF7A99F-7A89-49FC-9F11-CFAA1C673776}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:18.6187710Z",
+    "label": "Moved from Project to Media Library",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBCom",
+    "itemPath": "/sitecore/media library/FMBCom",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

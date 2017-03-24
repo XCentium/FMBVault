@@ -32,9 +32,28 @@
     "itemName": "fmb-logo",
     "itemPath": "/sitecore/media library/FMBCom/Images/Logos/fmb-logo",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fe43c481060c055129af85516253d19c015be681",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E1CB8D62-9A64-448E-A366-A13F1C68C1C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:18.6757710Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fmb-logo",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Logos/fmb-logo",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
