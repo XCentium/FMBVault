@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D419E337-0F39-4ADF-954A-CD15082F4324}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T15:43:38.3627351Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Online Security FAQs",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/Online Security FAQs",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
