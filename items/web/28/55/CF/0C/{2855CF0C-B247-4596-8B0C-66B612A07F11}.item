@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {2855CF0C-B247-4596-8B0C-66B612A07F11}
+database: web
+path: /sitecore/content/FMBCom/Global/Forms/Form Configurations/Request Appointment Form
+parent: {6198CD02-AB88-4214-B4F0-27129A7FD684}
+name: Request Appointment Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {6C2B616E-EC60-4FC6-856C-24A54D9B4F8C}
+templatekey: Form Configuration
+created: 20170214T040851:636226421310900000
+
+----version----
+language: en
+version: 1
+revision: 4d0474bc-0daf-42cf-8eb6-44d5049f974e
+
+----field----
+field: {BC20CAA7-150F-4B76-8C79-6E1A11C9C159}
+name: EmailRecipients
+key: emailrecipients
+content-length: 61
+
+/sitecore/content/FMBCom/Global/Forms/Form Recipients/default
+----field----
+field: {7F3E0A45-EBC2-47BF-9C04-0359798DB2CE}
+name: FieldOptionGroups
+key: fieldoptiongroups
+content-length: 77
+
+{06096599-83CC-4CAF-826C-AC3610554B4B}|{4C54AF53-F327-4649-8A3A-A69CB16120BC}
+----field----
+field: {D71E6464-9F06-4532-8C08-6840E225E885}
+name: FormID
+key: formid
+content-length: 22
+
+RequestAppointmentForm
+----field----
+field: {2C22F643-D4E0-481D-B35D-F1C7276E936C}
+name: SuccessPage
+key: successpage
+content-length: 132
+
+<link text="" linktype="internal" class="" title="Thank You" target="" querystring="" id="{5F6285CE-B76C-4F2B-B7ED-88E5DBCFD703}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170208T203129Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4d0474bc-0daf-42cf-8eb6-44d5049f974e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T172822Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

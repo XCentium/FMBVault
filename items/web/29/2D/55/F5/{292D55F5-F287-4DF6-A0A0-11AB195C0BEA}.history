@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Moved",
+    "database": "web",
+    "itemId": "{292D55F5-F287-4DF6-A0A0-11AB195C0BEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:17.7677700Z",
+    "label": "Moved from Home to Community",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Press-Releases",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases",
+    "template": "News List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

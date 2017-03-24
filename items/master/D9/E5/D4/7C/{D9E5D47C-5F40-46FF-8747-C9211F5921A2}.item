@@ -1,0 +1,24 @@
+----item----
+version: 1
+id: {D9E5D47C-5F40-46FF-8747-C9211F5921A2}
+database: master
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore media-library project fmbcom
+parent: {46208C65-F7D5-4642-9340-175057D80E03}
+name: sitecore media-library project fmbcom
+master: {00000000-0000-0000-0000-000000000000}
+template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
+templatekey: Redirect Url
+created: 20170324T213918:636259883585330000
+
+----version----
+language: en
+version: 1
+revision: 
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170324T213918Z

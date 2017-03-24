@@ -32,9 +32,28 @@
     "itemName": "Forms",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "68854e1fe08deb0ab0dad2c34f4f46f8f3291314",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{A1E05BC1-0621-4256-856C-3106281E2267}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:18.3617707Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forms",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
