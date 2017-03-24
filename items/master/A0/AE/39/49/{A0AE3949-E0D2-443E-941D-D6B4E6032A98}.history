@@ -32,9 +32,28 @@
     "itemName": "Banner Section",
     "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Banner Section",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ac3152de886eec23a60dccc270f8fc92e3e736d7",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A0AE3949-E0D2-443E-941D-D6B4E6032A98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T22:33:49.5752922Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banner Section",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Banner Section",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -2,8 +2,8 @@
 version: 1
 id: {196255B3-6A67-479B-BAA3-FA8E4F0BD6C4}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/EBS St Pauls
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /EBS St Pauls
+parent: {00000000-0000-0000-0000-000000000000}
 name: EBS St Pauls
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
@@ -24,36 +24,3 @@ key: redirect to item
 content-length: 38
 
 {9BFE9A38-4A05-4BB6-8468-FDF4A293FA52}
-----version----
-language: en
-version: 1
-revision: c2736c1b-c8fa-472d-82d2-191c73ace019
-
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20170313T193124Z
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-c2736c1b-c8fa-472d-82d2-191c73ace019
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20170324T163208Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 14
-
-fmb\sdonatelli

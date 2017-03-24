@@ -32,9 +32,28 @@
     "itemName": "Banner Title",
     "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Banner Title",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ac3152de886eec23a60dccc270f8fc92e3e736d7",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{FB0798A3-5823-475B-AB05-FD49DEBF5074}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T22:34:11.5241139Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banner Title",
+    "itemPath": "/sitecore/layout/Renderings/Feature/PageContent/Banner Title",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

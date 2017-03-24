@@ -17,10 +17,17 @@ key: path
 content-length: 39
 
 /Views/PageContent/BannerSection.cshtml
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{C271510D-A082-4F11-B030-BC6DCEF2FD75}" />
 ----version----
 language: en
 version: 1
-revision: fa1f6a41-d131-42ef-a3bf-b05df31e3fb1
+revision: 6830c6b6-eab8-4bd7-8aa7-06e776a98cea
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fa1f6a41-d131-42ef-a3bf-b05df31e3fb1
+6830c6b6-eab8-4bd7-8aa7-06e776a98cea
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170302T062324Z
+20170324T223349Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

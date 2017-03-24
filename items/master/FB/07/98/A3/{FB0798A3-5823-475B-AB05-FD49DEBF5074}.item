@@ -17,10 +17,17 @@ key: path
 content-length: 37
 
 /Views/PageContent/BannerTitle.cshtml
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{657358DC-9CCC-4EE8-BB58-C517355E65DD}" />
 ----version----
 language: en
 version: 1
-revision: 3c08986d-02b4-4ea4-ab62-25af6ec92bb3
+revision: 78275695-71d4-4ff2-8b21-d2a97f9873e4
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,18 +42,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3c08986d-02b4-4ea4-ab62-25af6ec92bb3
+78275695-71d4-4ff2-8b21-d2a97f9873e4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170125T204418Z
+20170324T223411Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 16
+content-length: 14
 
-sitecore\unicorn
+sitecore\admin
