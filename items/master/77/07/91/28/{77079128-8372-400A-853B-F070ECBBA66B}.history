@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{77079128-8372-400A-853B-F070ECBBA66B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T15:09:11.3019739Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Personal Brochure for Web",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Business/Personal Brochure for Web",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
