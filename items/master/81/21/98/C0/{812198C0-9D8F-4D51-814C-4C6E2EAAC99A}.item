@@ -28,13 +28,13 @@ content-length: 38
 field: {FB68F214-543C-48FB-856E-B96C4C8796C8}
 name: Source Item
 key: source item
-content-length: 85
+content-length: 63
 
-/sitecore/content/FMBCom/Home/News and Community/Press-Releases${OptionalQueryString}
+/sitecore/content/FMBCom/Home/News and Community/Press-Releases
 ----version----
 language: en
 version: 1
-revision: 69dee04b-1a9d-4dff-89a6-d45cdf15f9b2
+revision: 61bfe848-0eb2-4645-a660-9f1bf4ee6c5c
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-69dee04b-1a9d-4dff-89a6-d45cdf15f9b2
+61bfe848-0eb2-4645-a660-9f1bf4ee6c5c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T211157Z
+20170324T211205Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
