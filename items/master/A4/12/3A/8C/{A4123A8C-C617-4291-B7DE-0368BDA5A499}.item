@@ -14,20 +14,20 @@ created: 20170324T182114:636259764744070000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 52
+content-length: 46
 
-/assets/files/brochures/Apple_Pay_TC_ Disclosure.pdf
+/assets/docs/Debit_Card_Fraud_Alerts_Terms.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{054420FD-A74F-4381-AED4-3864111B3FAE}
+{B3992C35-A1B7-4B00-885D-7A3A778BB4C8}
 ----version----
 language: en
 version: 1
-revision: f059ba58-4cdb-4320-b35a-eead42dc272e
+revision: ec3b7025-b633-42a2-9d78-df5ff022a91a
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f059ba58-4cdb-4320-b35a-eead42dc272e
+ec3b7025-b633-42a2-9d78-df5ff022a91a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T182114Z
+20170324T182126Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
