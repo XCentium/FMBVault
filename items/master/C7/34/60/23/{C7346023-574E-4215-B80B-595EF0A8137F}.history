@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C7346023-574E-4215-B80B-595EF0A8137F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:58:13.4192466Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Switch Kit Checklist",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Switch Kit Checklist",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

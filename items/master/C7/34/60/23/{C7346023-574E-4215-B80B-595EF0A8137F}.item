@@ -1,33 +1,33 @@
 ----item----
 version: 1
-id: {7E316BF9-AD65-48C4-B55F-723FB3981015}
+id: {C7346023-574E-4215-B80B-595EF0A8137F}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Services and Fees
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Switch Kit Checklist
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
-name: Services and Fees
+name: Switch Kit Checklist
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
-created: 20170324T175645:636259750053730000
+created: 20170324T175813:636259750934030000
 
 ----field----
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 20
+content-length: 39
 
-/ServicesAndFees.pdf
+/assets/files/brochures/100YearBook.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{453BFF11-F801-48FC-B802-EAB20F6DD733}
+{8C606DAC-1E0F-4F0E-8417-6868753B9A5F}
 ----version----
 language: en
 version: 1
-revision: 0e60729a-235a-4642-a28b-c19f17565798
+revision: da2b5b11-b3bb-4192-b527-7eda0c1872b6
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0e60729a-235a-4642-a28b-c19f17565798
+da2b5b11-b3bb-4192-b527-7eda0c1872b6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T175715Z
+20170324T154733Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
