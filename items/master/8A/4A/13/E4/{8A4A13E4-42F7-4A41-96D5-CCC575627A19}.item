@@ -14,20 +14,20 @@ created: 20170324T181426:636259760667870000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 39
+content-length: 25
 
-/assets/files/brochures/100YearBook.pdf
+/assets/docs/EMV-FAQs.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{8C606DAC-1E0F-4F0E-8417-6868753B9A5F}
+{8357F53D-C6BC-4599-8E47-B5E8EF26379C}
 ----version----
 language: en
 version: 1
-revision: 389ee64d-2b90-448b-b0b4-6e9e80855082
+revision: bb3be777-8e5b-46f1-9147-0f41e00ab9e3
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-389ee64d-2b90-448b-b0b4-6e9e80855082
+bb3be777-8e5b-46f1-9147-0f41e00ab9e3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T181426Z
+20170324T181441Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
