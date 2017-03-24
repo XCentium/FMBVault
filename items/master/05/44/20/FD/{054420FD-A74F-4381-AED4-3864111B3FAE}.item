@@ -2,9 +2,9 @@
 version: 1
 id: {054420FD-A74F-4381-AED4-3864111B3FAE}
 database: master
-path: /sitecore/media library/Terms and Conditions/Apple_Pay_TC_ Disclosure
+path: /sitecore/media library/Terms and Conditions/Apple_Pay_TC_Disclosure
 parent: {26310209-449C-4848-8EB1-E37482EBC5D3}
-name: Apple_Pay_TC_ Disclosure
+name: Apple_Pay_TC_Disclosure
 master: {00000000-0000-0000-0000-000000000000}
 template: {0603F166-35B8-469F-8123-E8D87BEDC171}
 templatekey: Pdf
@@ -15567,7 +15567,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: 5cbc0b8c-af5f-4885-a99e-dec33bea5ca4
+revision: c3db8e72-482e-4f8a-ba5d-88d6e4c5235c
 
 ----field----
 field: {3F4B20E9-36E6-4D45-A423-C86567373F82}
@@ -15603,14 +15603,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5cbc0b8c-af5f-4885-a99e-dec33bea5ca4
+c3db8e72-482e-4f8a-ba5d-88d6e4c5235c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170216T172215Z
+20170324T200247Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

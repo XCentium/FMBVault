@@ -32,9 +32,28 @@
     "itemName": "Apple_Pay_TC_ Disclosure",
     "itemPath": "/sitecore/media library/Terms and Conditions/Apple_Pay_TC_ Disclosure",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6183f744f4be40d49ab0def008bded3ebd59cb88",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{054420FD-A74F-4381-AED4-3864111B3FAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T20:02:47.5267726Z",
+    "label": "Renamed Apple_Pay_TC_ Disclosure to Apple_Pay_TC_Disclosure",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Apple_Pay_TC_Disclosure",
+    "itemPath": "/sitecore/media library/Terms and Conditions/Apple_Pay_TC_Disclosure",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
