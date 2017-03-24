@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B35E3E12-4BE1-4402-9089-EB6CF0D813F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T21:39:17.6887714Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sitecore content fmbcom home press-releases",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom home press-releases",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
