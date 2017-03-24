@@ -32,9 +32,28 @@
     "itemName": "Apple Pay",
     "itemPath": "/sitecore/content/FMBCom/Home/Apple Pay",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "025892c1e16336fa1607675e660e0162b866e9d6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{BCB3F457-0F95-4A5C-9C6A-6A9F140D5B8A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T23:39:25.2193901Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Apple Pay",
+    "itemPath": "/sitecore/content/FMBCom/Home/Apple Pay",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

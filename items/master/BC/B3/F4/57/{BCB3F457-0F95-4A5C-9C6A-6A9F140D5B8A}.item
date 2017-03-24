@@ -13,7 +13,7 @@ created: 20170211T020154:636223753140000000
 ----version----
 language: en
 version: 1
-revision: 3fb22f4b-0e73-464c-aa66-fd402aea641d
+revision: 3874cfd2-e646-4fee-a469-a67164774471
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,13 +26,13 @@ Apple Pay ™
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 3237
+content-length: 3331
 
 <h2><img height="230" alt="Apple Pay" width="790" src="-/media/0F4140C8C87A43A6B80C2DC8DF94421F.ashx">&nbsp;</h2>
-<h2>Apple Pay&trade; Now Available for all of your F&amp;M Visa&reg; Credit Cards... F&amp;M Business Visa&reg; Credit Cards, too.</h2>
+<h2>Apple Pay&trade;&nbsp;Now Available for all of your F&amp;M Visa<sup>&reg;</sup> Credit Cards... F&amp;M Business Visa<sup>&reg;</sup> Credit Cards, too.</h2>
 <br>
 <br>
-Now you can use your F&amp;M Personal Visa&reg; Credit Card and F&amp;M Business Visa&reg; Credit Card with Apple Pay. Use your iPhone&reg; 6 and other compatible devices in participating stores without swiping your credit card and in apps without entering your payment and contact information.  Just pay with a single touch of your finger using Touch ID&trade;.<br>
+Now you can use your F&amp;M Personal Visa&reg; Credit Card and F&amp;M Business Visa<sup>&reg;</sup> Credit Card with Apple Pay<sup>1</sup>. Use your iPhone&reg; 6 and other compatible devices in participating stores without swiping your credit card and in apps without entering your payment and contact information.  Just pay with a single touch of your finger using Touch ID&trade;.<br>
 <h3>Easy. Secure. Private.</h3>
 <h3>How Apple Pay Works</h3>
 <ul>
@@ -54,14 +54,14 @@ Take a picture of your F&amp;M Personal Visa Card with the camera icon to automa
 </div>
 <div class="col-md-4">&nbsp;<img height="200" alt="Apple Pay Step 3" width="250" src="-/media/CF722719FE5D4F9988E73CB781068BF7.ashx">
 <p><strong>Step 3</strong><br>
-Verify the card to confirm your identify by calling (877) 739-6244. When the card is successfully verified, your F&amp;M Personal Visa&reg; Credit Card is ready for Apple Pay.
+Verify the card to confirm your identify by calling (877) 739-6244. When the card is successfully verified, your F&amp;M Personal Visa<sup>&reg; </sup>Credit Card is ready for Apple Pay.
 </p>
 </div>
 </div>
 <h2>How to Use Apple Pay</h2>
 <div class="row">
 <div class="col-md-4"><img height="200" alt="Apple Pay How to Use Step 1" width="250" src="-/media/C7F97AB523224168B8AC1D628D683CE6.ashx">
-<p>Add your F&amp;M Personal Visa&reg; Credit Card to Apple Pay.</p>
+<p>Add your F&amp;M Personal Visa<sup>&reg;</sup> Credit Card to Apple Pay.</p>
 </div>
 <div class="col-md-4"><img height="200" alt="Apple Pay How to Use Step 2" width="250" src="-/media/E8F99CF2AE504F1D9385F0C8159A417E.ashx">
 <p>Hold your iPhone 6 near a merchant's reader. Authorize your payment with your finger on Touch ID.</p>
@@ -71,7 +71,7 @@ Verify the card to confirm your identify by calling (877) 739-6244. When the car
 </div>
 </div>
 <p>&nbsp;</p>
-<p><strong>For more information or for help setting up your F&amp;M Personal Visa&reg; Credit Card or F&amp;M Business Visa&reg; Credit Card in Apple Pay, please visit your local F&amp;M office or contact our Bankcard Department at (877) 739-6244, Monday &ndash; Friday 7:00 am &ndash; 9:00 pm, and Saturday 8:00 am &ndash; 5:00 pm PST.</strong></p>
+<p><strong>For more information or for help setting up your F&amp;M Personal Visa<sup>&reg;</sup> Credit Card or F&amp;M Business Visa<sup>&reg;</sup> Credit Card in Apple Pay, please visit your local F&amp;M office or contact our Bankcard Department at (877) 739-6244, Monday &ndash; Friday 7:00 am &ndash; 9:00 pm, and Saturday 8:00 am &ndash; 5:00 pm PST.</strong></p>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -90,9 +90,9 @@ Apple Pay
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 3137
+content-length: 3188
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{8D3D1915-C04F-4982-A5EF-9E092840F229}" p:before="*" s:ds="{1CBD574E-6F54-4A9D-AF9A-9A80BB6ACE3E}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section-narrow/col-wide-1_93a11026-bbd2-4317-b159-a4707fe3e7c3" /><r uid="{93A11026-BBD2-4317-B159-A4707FE3E7C3}" p:after="r[@uid='{8D3D1915-C04F-4982-A5EF-9E092840F229}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{3D67D07B-136E-46E1-A6F6-E5BC241A51E8}" p:after="r[@uid='{93A11026-BBD2-4317-B159-A4707FE3E7C3}']" s:ds="{1CBD574E-6F54-4A9D-AF9A-9A80BB6ACE3E}" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_c58fb3bf-5fa8-4467-8d51-2c02cdfaeb89" /><r uid="{2D85461D-7573-4DCB-9465-893F28D99979}" p:after="r[@uid='{3D67D07B-136E-46E1-A6F6-E5BC241A51E8}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/col-wide-1/section_4134fc64-1f7b-4f59-8d7e-6d856e4d127e" /><r uid="{C7052BF0-99DB-4FAE-B49E-1E25AA0312F3}" p:after="r[@uid='{2D85461D-7573-4DCB-9465-893F28D99979}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/col-wide-1/section_4134fc64-1f7b-4f59-8d7e-6d856e4d127e" /><r uid="{DC25705D-8ED0-414B-BF26-EA602333CBD0}" p:after="r[@uid='{C7052BF0-99DB-4FAE-B49E-1E25AA0312F3}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/col-wide-1/section_4134fc64-1f7b-4f59-8d7e-6d856e4d127e" /><r uid="{CEAC00FF-070F-46B4-A5CE-05B2C935AB84}" p:after="r[@uid='{DC25705D-8ED0-414B-BF26-EA602333CBD0}']" s:ds="{0F016B3A-534F-4F60-9ABD-4AE29B60C14C}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section-narrow/col-wide-1_881586da-e3a3-46c3-8681-17aa02ec48e2" /><r uid="{A75A0C59-A753-4302-BCF1-05311F29037D}" p:after="r[@uid='{CEAC00FF-070F-46B4-A5CE-05B2C935AB84}']" s:ds="{1CBD574E-6F54-4A9D-AF9A-9A80BB6ACE3E}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_881586da-e3a3-46c3-8681-17aa02ec48e2" /><r uid="{5B82408F-0111-4D00-A744-E5500EE4733C}" p:after="r[@uid='{A75A0C59-A753-4302-BCF1-05311F29037D}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{06E44FBC-5C86-430D-BD96-939AB25D9059}" p:after="r[@uid='{5B82408F-0111-4D00-A744-E5500EE4733C}']" s:ds="{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{6174CE13-AC42-4223-A8E5-0B478A6EF59F}" p:after="r[@uid='{06E44FBC-5C86-430D-BD96-939AB25D9059}']" s:ds="{95104B87-0EC0-4FEC-8F0C-FF89B9E7198B}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r><r uid="{C58FB3BF-5FA8-4467-8D51-2C02CDFAEB89}" p:after="r[@uid='{B8E3B083-B9EE-4542-8ECF-F17149F6958F}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{4134FC64-1F7B-4F59-8D7E-6D856E4D127E}" p:after="r[@uid='{C274AAA2-DA9E-43B1-BE22-840854C67296}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="/layoutZone/col-wide-1" /></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{DD691D91-3A53-4DAA-8B47-87E490198FC7}" p:before="*" s:ds="" s:id="{5318E8CE-1072-4CFF-A502-D00AED1B2820}" s:par="UseStaticPlaceholderNames&amp;Disclaimers={9A074631-992C-4167-A5F0-528E0079BBDF}" s:ph="/layoutZone/section-narrow/col-wide-1_93a11026-bbd2-4317-b159-a4707fe3e7c3" /><r uid="{93A11026-BBD2-4317-B159-A4707FE3E7C3}" p:after="r[@uid='{DD691D91-3A53-4DAA-8B47-87E490198FC7}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{3D67D07B-136E-46E1-A6F6-E5BC241A51E8}" p:after="r[@uid='{93A11026-BBD2-4317-B159-A4707FE3E7C3}']" s:ds="{1CBD574E-6F54-4A9D-AF9A-9A80BB6ACE3E}" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_c58fb3bf-5fa8-4467-8d51-2c02cdfaeb89" /><r uid="{2D85461D-7573-4DCB-9465-893F28D99979}" p:after="r[@uid='{3D67D07B-136E-46E1-A6F6-E5BC241A51E8}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/col-wide-1/section_4134fc64-1f7b-4f59-8d7e-6d856e4d127e" /><r uid="{C7052BF0-99DB-4FAE-B49E-1E25AA0312F3}" p:after="r[@uid='{2D85461D-7573-4DCB-9465-893F28D99979}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/col-wide-1/section_4134fc64-1f7b-4f59-8d7e-6d856e4d127e" /><r uid="{DC25705D-8ED0-414B-BF26-EA602333CBD0}" p:after="r[@uid='{C7052BF0-99DB-4FAE-B49E-1E25AA0312F3}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/col-wide-1/section_4134fc64-1f7b-4f59-8d7e-6d856e4d127e" /><r uid="{CEAC00FF-070F-46B4-A5CE-05B2C935AB84}" p:after="r[@uid='{DC25705D-8ED0-414B-BF26-EA602333CBD0}']" s:ds="{0F016B3A-534F-4F60-9ABD-4AE29B60C14C}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section-narrow/col-wide-1_881586da-e3a3-46c3-8681-17aa02ec48e2" /><r uid="{A75A0C59-A753-4302-BCF1-05311F29037D}" p:after="r[@uid='{CEAC00FF-070F-46B4-A5CE-05B2C935AB84}']" s:ds="{1CBD574E-6F54-4A9D-AF9A-9A80BB6ACE3E}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_881586da-e3a3-46c3-8681-17aa02ec48e2" /><r uid="{5B82408F-0111-4D00-A744-E5500EE4733C}" p:after="r[@uid='{A75A0C59-A753-4302-BCF1-05311F29037D}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{06E44FBC-5C86-430D-BD96-939AB25D9059}" p:after="r[@uid='{5B82408F-0111-4D00-A744-E5500EE4733C}']" s:ds="{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{6174CE13-AC42-4223-A8E5-0B478A6EF59F}" p:after="r[@uid='{06E44FBC-5C86-430D-BD96-939AB25D9059}']" s:ds="{95104B87-0EC0-4FEC-8F0C-FF89B9E7198B}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r><r uid="{C58FB3BF-5FA8-4467-8D51-2C02CDFAEB89}" p:after="r[@uid='{B8E3B083-B9EE-4542-8ECF-F17149F6958F}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{4134FC64-1F7B-4F59-8D7E-6D856E4D127E}" p:after="r[@uid='{C274AAA2-DA9E-43B1-BE22-840854C67296}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="/layoutZone/col-wide-1" /></d></r>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -120,21 +120,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3fb22f4b-0e73-464c-aa66-fd402aea641d
+3874cfd2-e646-4fee-a469-a67164774471
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170222T203747Z
+20170324T233925Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 14
 
-fmb\jbridges
+fmb\sdonatelli
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
