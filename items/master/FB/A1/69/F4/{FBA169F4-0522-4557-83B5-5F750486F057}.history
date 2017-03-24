@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FBA169F4-0522-4557-83B5-5F750486F057}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T15:53:37.5361423Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "mede Solutions Fee Sheet",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/mede Solutions Fee Sheet",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
