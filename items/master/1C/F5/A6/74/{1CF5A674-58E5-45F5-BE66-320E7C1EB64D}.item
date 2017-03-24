@@ -1,33 +1,33 @@
 ----item----
 version: 1
-id: {504C6169-6E0F-4D2E-95D6-0C31BBE8EFE0}
+id: {1CF5A674-58E5-45F5-BE66-320E7C1EB64D}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/OLB Access Agreement Enrollment
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/OLB Access Agreement Enrollment
+parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
 name: OLB Access Agreement Enrollment
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
-created: 20170324T180206:636259753266270000
+created: 20170324T180433:636259754738200000
 
 ----field----
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 50
+content-length: 72
 
-/assets/files/brochures/BusinessBrochureforWeb.pdf
+/assets/files/brochures/EMV-Fraud-Liability-Shift-Protection-Promise.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{EBF4F12D-0278-4874-A658-5A92C911C6DA}
+{B516B2F7-4166-49A3-96C9-D2236441BBF5}
 ----version----
 language: en
 version: 1
-revision: 9e259cd9-5eb7-48b7-a1f8-ab98ba2ead94
+revision: 4b4c1de7-893c-4324-aba9-0606b1b1166a
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9e259cd9-5eb7-48b7-a1f8-ab98ba2ead94
+4b4c1de7-893c-4324-aba9-0606b1b1166a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T180218Z
+20170324T155314Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
