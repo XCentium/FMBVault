@@ -32,9 +32,28 @@
     "itemName": "Notification",
     "itemPath": "/sitecore/templates/Feature/Tools/_HasNotification/Notification",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e092d4707488f11809cfd5b6ef58e91d6796111",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C4AD9313-449E-4D71-BE90-53366477A72C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:02:04.9016986Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notification",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasNotification/Notification",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
