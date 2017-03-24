@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6C36E69A-FEB4-42B7-B303-AC567053AB26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:44:42.8131377Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Online Solutions Web",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/FMB Application/Online Solutions Web",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

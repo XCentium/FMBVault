@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A68605AC-A568-4BF6-BD29-0FFFA1FE711F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:44:42.8011380Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Business Brochure for Web",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/FMB Application/Business Brochure for Web",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

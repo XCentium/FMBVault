@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{369D1ED9-A907-4E39-9CA2-6893FEA76CC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T17:44:42.8171543Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Personal Visa Application",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/FMB Application/Personal Visa Application",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
