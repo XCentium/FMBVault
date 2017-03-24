@@ -1,33 +1,33 @@
 ----item----
 version: 1
-id: {338707F4-52FB-41E4-AE43-7228F1647824}
+id: {49279122-4000-4487-9692-4F5AE2AC8139}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/How to Enroll
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/Business Application
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
-name: How to Enroll
+name: Business Application
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
-created: 20170324T153623:636259665838630000
+created: 20170324T153806:636259666866900000
 
 ----field----
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 41
+content-length: 50
 
-/assets/files/brochures/How-to-Enroll.pdf
+/assets/files/brochures/BusinessBrochureforWeb.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{9D2AF393-6B1F-41D2-A6A7-B9A80F777151}
+{7B0646C1-E8DE-47F4-9255-0D138AF2790F}
 ----version----
 language: en
 version: 1
-revision: ddfba4c3-ca34-4a3e-9062-212dfca32b26
+revision: 356c82cb-9289-4a0d-b689-e99651ca3122
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ddfba4c3-ca34-4a3e-9062-212dfca32b26
+356c82cb-9289-4a0d-b689-e99651ca3122
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T153708Z
+20170324T153058Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
