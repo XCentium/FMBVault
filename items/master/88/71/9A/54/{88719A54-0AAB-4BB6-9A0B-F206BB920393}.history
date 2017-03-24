@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{88719A54-0AAB-4BB6-9A0B-F206BB920393}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-24T14:47:18.3707617Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Community",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Community",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
