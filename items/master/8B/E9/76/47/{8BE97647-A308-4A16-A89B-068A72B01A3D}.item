@@ -1,33 +1,33 @@
 ----item----
 version: 1
-id: {7D13D51F-00E7-41C2-B280-DACA21F757CF}
+id: {8BE97647-A308-4A16-A89B-068A72B01A3D}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/Mobile Banking FAQs
-parent: {46208C65-F7D5-4642-9340-175057D80E03}
-name: Mobile Banking FAQs
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Fullerton Renovation
+parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
+name: Fullerton Renovation
 master: {00000000-0000-0000-0000-000000000000}
 template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
-created: 20170324T183217:636259771371330000
+created: 20170324T183958:636259775983870000
 
 ----field----
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 37
+content-length: 43
 
-/mobile/Mobile-Banking-FAQs-FandM.pdf
+/assets/files/brochures/FMB_Application.pdf
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
 content-length: 38
 
-{C94653F1-CA97-49D7-AEE2-DF50977F4D58}
+{F80FF35A-DC6C-4141-8CBE-87E73ED25949}
 ----version----
 language: en
 version: 1
-revision: 52eb2c3e-a75a-477e-91b9-e70f7f032da2
+revision: 769ef32b-3633-44aa-8ca1-304dbe755190
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-52eb2c3e-a75a-477e-91b9-e70f7f032da2
+769ef32b-3633-44aa-8ca1-304dbe755190
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T183232Z
+20170324T174532Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
