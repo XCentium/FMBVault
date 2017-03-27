@@ -32,9 +32,28 @@
     "itemName": "Retirement Plans",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Retirement Plans",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a3759c88e96e8ae3286f736d9f590592661cf475",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{C46F7519-A496-4553-88CB-3705307E2389}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-27T21:30:06.8363820Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Retirement Plans",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Retirement Plans",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

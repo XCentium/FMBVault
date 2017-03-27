@@ -48,7 +48,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: 476bf3dd-1de5-42cf-857d-f1413193324f
+revision: 10d531fa-af9f-432c-9f6c-7d84f18b87a6
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -61,7 +61,7 @@ Retirement Plans
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 1307
+content-length: 1256
 
 <p><strong>Why plan for retirement?</strong> Whether retirement is a distant goal or right around the corner, let one of our <em>F&amp;M financial services</em> specialists help you prepare for your future! Our experienced representatives will help customize an <em>IRA retirement plan</em> that meets your specific needs and goals and affords you the safety of an FDIC-insured account. Talk to our New Account Specialists about selecting a Traditional IRA, Roth IRA, or SEP-IRA.&nbsp; </p>
 <ul>
@@ -76,9 +76,6 @@ content-length: 1307
 <p><strong><a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">See All Services and Fees</a></strong></p>
 <p>
 <a href="~/link.aspx?_id=AB4BAC5A4010405DAAB556FF12D6CE95&amp;_z=z"><img class="img-responsive" style="margin: 8px auto;" alt="Try our Personal Calculators!" src="-/media/600B359CC35341B89A0F70D93C998E4B.ashx"></a></p>
-<ol>
-    <li>Some exclusions may apply.</li>
-</ol>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -97,9 +94,9 @@ Retirement-Plans
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 856
+content-length: 1379
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{7A0D082A-6E0A-4FD6-9C7E-42A7D7E9D4E7}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{180DC2E6-A932-4F46-89D6-FE60DC6A4AA4}" p:after="r[@uid='{7A0D082A-6E0A-4FD6-9C7E-42A7D7E9D4E7}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{269F34EB-E800-4F60-A736-921F52461028}" p:after="r[@uid='{180DC2E6-A932-4F46-89D6-FE60DC6A4AA4}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{24F2F429-44E1-4CBA-BA41-D0C2A8D05E4B}"><p:d /></r><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{4D658B03-D012-4CAF-96E4-08778263906B}" p:before="*" s:ds="" s:id="{5318E8CE-1072-4CFF-A502-D00AED1B2820}" s:par="UseStaticPlaceholderNames&amp;Disclaimers={58EBB4F2-F5E8-4FFE-8C20-FF6B772880B2}" s:ph="/layoutZone/section-narrow/col-wide-1_68ac58f8-b610-427a-b8bb-b0e9fc33bbd4" /><r uid="{68AC58F8-B610-427A-B8BB-B0E9FC33BBD4}" p:after="r[@uid='{4D658B03-D012-4CAF-96E4-08778263906B}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{7A0D082A-6E0A-4FD6-9C7E-42A7D7E9D4E7}" p:after="r[@uid='{68AC58F8-B610-427A-B8BB-B0E9FC33BBD4}']" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{180DC2E6-A932-4F46-89D6-FE60DC6A4AA4}" p:after="r[@uid='{7A0D082A-6E0A-4FD6-9C7E-42A7D7E9D4E7}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{269F34EB-E800-4F60-A736-921F52461028}" p:after="r[@uid='{180DC2E6-A932-4F46-89D6-FE60DC6A4AA4}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{24F2F429-44E1-4CBA-BA41-D0C2A8D05E4B}"><p:d /></r><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -113,21 +110,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-476bf3dd-1de5-42cf-857d-f1413193324f
+10d531fa-af9f-432c-9f6c-7d84f18b87a6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170313T212406Z
+20170327T213006Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 14
 
-fmb\jbridges
+fmb\sdonatelli
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
