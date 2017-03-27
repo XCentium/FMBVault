@@ -32,9 +32,28 @@
     "itemName": "Remote Deposit Capture",
     "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Remote Deposit Capture",
     "template": "Disclaimer",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "66dc49c5338acd47056dcff225d48c35d738ad1d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{ECAA535C-99D7-477F-B42F-52A4AD1E64A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-27T21:29:18.1715773Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Remote Deposit Capture",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Remote Deposit Capture",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
