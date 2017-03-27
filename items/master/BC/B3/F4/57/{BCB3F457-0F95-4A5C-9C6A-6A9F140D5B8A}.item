@@ -13,7 +13,7 @@ created: 20170211T020154:636223753140000000
 ----version----
 language: en
 version: 1
-revision: 3874cfd2-e646-4fee-a469-a67164774471
+revision: 37a1662b-4bd1-4b31-b1d1-5761b2c7a6d6
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,13 +26,13 @@ Apple Pay ™
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 3331
+content-length: 3538
 
-<h2><img height="230" alt="Apple Pay" width="790" src="-/media/0F4140C8C87A43A6B80C2DC8DF94421F.ashx">&nbsp;</h2>
+<h2><img alt="Apple Pay" src="-/media/0F4140C8C87A43A6B80C2DC8DF94421F.ashx?h=230&amp;w=790" style="height: 230px; width: 790px;">&nbsp;</h2>
 <h2>Apple Pay&trade;&nbsp;Now Available for all of your F&amp;M Visa<sup>&reg;</sup> Credit Cards... F&amp;M Business Visa<sup>&reg;</sup> Credit Cards, too.</h2>
 <br>
 <br>
-Now you can use your F&amp;M Personal Visa&reg; Credit Card and F&amp;M Business Visa<sup>&reg;</sup> Credit Card with Apple Pay<sup>1</sup>. Use your iPhone&reg; 6 and other compatible devices in participating stores without swiping your credit card and in apps without entering your payment and contact information.  Just pay with a single touch of your finger using Touch ID&trade;.<br>
+Now you can use your F&amp;M Personal Visa&reg; Credit Card and F&amp;M Business Visa<sup>&reg;</sup> Credit Card with Apple Pay<sup>1</sup>. Use your iPhone<sup>&reg; </sup>6 and other compatible devices in participating stores without swiping your credit card and in apps without entering your payment and contact information.  Just pay with a single touch of your finger using Touch ID&trade;.<br>
 <h3>Easy. Secure. Private.</h3>
 <h3>How Apple Pay Works</h3>
 <ul>
@@ -42,17 +42,17 @@ Now you can use your F&amp;M Personal Visa&reg; Credit Card and F&amp;M Business
 </ul>
 <h2>How to Get Started</h2>
 <div class="row">
-<div class="col-md-4">&nbsp;<img height="200" alt="Apple Pay Step 1" width="250" src="-/media/2DA151B1940D402E9DD35F018CA35EFF.ashx">
+<div class="col-md-4">&nbsp;<img alt="Apple Pay Step 1" src="-/media/2DA151B1940D402E9DD35F018CA35EFF.ashx?h=200&amp;w=250" style="height: 200px; width: 250px;">
 <p><strong>Step 1</strong><br>
 Open your Passbook app and select Add Credit or Debit Card.
 </p>
 </div>
-<div class="col-md-4">&nbsp;<img height="200" alt="Apple Pay Step 2" width="250" src="-/media/9FAB589BBA2D4411B95A01F1F1E7ADA2.ashx">
+<div class="col-md-4">&nbsp;<img alt="Apple Pay Step 2" src="-/media/9FAB589BBA2D4411B95A01F1F1E7ADA2.ashx?h=200&amp;w=250" style="height: 200px; width: 250px;">
 <p><strong>Step 2</strong><br>
 Take a picture of your F&amp;M Personal Visa Card with the camera icon to automatically enter your card information. Enter your secure code found on the back of your card.
 </p>
 </div>
-<div class="col-md-4">&nbsp;<img height="200" alt="Apple Pay Step 3" width="250" src="-/media/CF722719FE5D4F9988E73CB781068BF7.ashx">
+<div class="col-md-4">&nbsp;<img alt="Apple Pay Step 3" src="-/media/CF722719FE5D4F9988E73CB781068BF7.ashx?h=200&amp;w=250" style="height: 200px; width: 250px;">
 <p><strong>Step 3</strong><br>
 Verify the card to confirm your identify by calling (877) 739-6244. When the card is successfully verified, your F&amp;M Personal Visa<sup>&reg; </sup>Credit Card is ready for Apple Pay.
 </p>
@@ -60,13 +60,13 @@ Verify the card to confirm your identify by calling (877) 739-6244. When the car
 </div>
 <h2>How to Use Apple Pay</h2>
 <div class="row">
-<div class="col-md-4"><img height="200" alt="Apple Pay How to Use Step 1" width="250" src="-/media/C7F97AB523224168B8AC1D628D683CE6.ashx">
+<div class="col-md-4"><img alt="Apple Pay How to Use Step 1" src="-/media/C7F97AB523224168B8AC1D628D683CE6.ashx?h=200&amp;w=250" style="height: 200px; width: 250px;">
 <p>Add your F&amp;M Personal Visa<sup>&reg;</sup> Credit Card to Apple Pay.</p>
 </div>
-<div class="col-md-4"><img height="200" alt="Apple Pay How to Use Step 2" width="250" src="-/media/E8F99CF2AE504F1D9385F0C8159A417E.ashx">
+<div class="col-md-4"><img alt="Apple Pay How to Use Step 2" src="-/media/E8F99CF2AE504F1D9385F0C8159A417E.ashx?h=200&amp;w=250" style="height: 200px; width: 250px;">
 <p>Hold your iPhone 6 near a merchant's reader. Authorize your payment with your finger on Touch ID.</p>
 </div>
-<div class="col-md-4"><img height="200" alt="Apple Pay How to Use Step 3" width="250" src="-/media/617D9F525970468191C3468E68C61C28.ashx">
+<div class="col-md-4"><img alt="Apple Pay How to Use Step 3" src="-/media/617D9F525970468191C3468E68C61C28.ashx?h=200&amp;w=250" style="height: 200px; width: 250px;">
 <p>Or pay with your fingerprint in a merchant's app.</p>
 </div>
 </div>
@@ -120,14 +120,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3874cfd2-e646-4fee-a469-a67164774471
+37a1662b-4bd1-4b31-b1d1-5761b2c7a6d6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T233925Z
+20170327T214933Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
