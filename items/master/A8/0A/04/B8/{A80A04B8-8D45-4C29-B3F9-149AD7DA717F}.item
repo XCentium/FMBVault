@@ -13,7 +13,7 @@ created: 20170202T231825:636216743057600000
 ----version----
 language: en
 version: 1
-revision: 78855666-7b7e-42ed-80f8-6da833f33839
+revision: 6dc64853-5b10-4429-9451-df59e32de13f
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,9 +26,9 @@ Personal Credit Card
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 5586
+content-length: 5608
 
-<p>Get more with a Personal <strong>F&amp;M Visa&reg; Credit Card</strong> backed by a community bank you can trust. <strong>As one of California&rsquo;s strongest banks for 110 years,</strong> F&amp;M helps you increase your buying power with our F&amp;M rewards option, and gives you peace-of-mind with an array of security enhancements. F&amp;M Credit Cards are accepted worldwide. <sup>[1]</sup></p>
+<p>Get more with a Personal <strong>F&amp;M Visa<sup>&reg;</sup> Credit Card</strong> backed by a community bank you can trust. <strong>As one of California&rsquo;s strongest banks for 110 years,</strong> F&amp;M helps you increase your buying power with our F&amp;M rewards option, and gives you peace-of-mind with an array of security enhancements. F&amp;M Credit Cards are accepted worldwide. <sup>[1]</sup></p>
 <p>Now you can use your F&amp;M Visa credit card with Apple Pay&trade;. Click here to learn more about how Apple Pay works and how to get started today.<sup>[2]</sup>&nbsp;</p>
 <h2>F&amp;M Cash Rewards</h2>
 <a href="-/media/1BDB7FB18BF54774B9367C8F57EC7237.ashx"><img alt="F&amp;M Credit Card Application" src="-/media/3B623467303E4469A16B8E22F3674D0F.ashx?h=351&amp;w=156&amp;hash=87A9ED53CBEF2DA4178D7683E1F0D1FE9F38D7F3&amp;hash=87A9ED53CBEF2DA4178D7683E1F0D1FE9F38D7F3" style="height: 351px; width: 156px; float: right; margin: 5px;"> </a>
@@ -72,7 +72,7 @@ content-length: 5586
 <p><sup>3</sup> F&amp;M Bank does not charge you a fee for using the F&amp;M Credit Card Alerts service. However, your wireless carrier may charge you for receiving a text message or phone call from us related to this service.</p>
 <p><sup>4</sup> Visa Zero Liability policy covers U.S.&ndash;issued cards only and does not apply to ATM transactions, PIN transactions not processed by Visa, or certain commercial card transactions. Cardholder must notify issuer promptly of any unauthorized use. Consult issuer for additional details or visit www.visa.com/security.</p>
 <p><sup>5</sup> Coverage is underwritten and administered by companies affiliated with Visa USA Inc. Certain coverage conditions, restrictions, limitations and exclusions apply.</p>
-<p><sup>6</sup> Coverage available for F&amp;M Visa Platinum&reg; Credit Card.</p>
+<p><sup>6</sup> Coverage available for F&amp;M Visa Platinum<sup>&reg; </sup>Credit Card.</p>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -128,21 +128,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-78855666-7b7e-42ed-80f8-6da833f33839
+6dc64853-5b10-4429-9451-df59e32de13f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170222T203643Z
+20170327T214649Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 14
 
-fmb\mlangdon
+fmb\sdonatelli
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
