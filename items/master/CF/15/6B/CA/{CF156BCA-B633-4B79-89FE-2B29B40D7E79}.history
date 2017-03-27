@@ -51,9 +51,28 @@
     "itemName": "Business Checking Accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Checking Accounts",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5f1e23351982d8d4465216d9f0725d1757f21871",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{CF156BCA-B633-4B79-89FE-2B29B40D7E79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-27T22:26:10.5285446Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Business Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Checking Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

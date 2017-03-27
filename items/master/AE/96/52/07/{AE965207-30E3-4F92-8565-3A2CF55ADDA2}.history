@@ -32,9 +32,28 @@
     "itemName": "Business-Checking-Non-Analyzed",
     "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Business-Checking-Non-Analyzed",
     "template": "Disclaimer",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5f1e23351982d8d4465216d9f0725d1757f21871",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{AE965207-30E3-4F92-8565-3A2CF55ADDA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-27T22:26:10.3975444Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Business-Checking-Non-Analyzed",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Business-Checking-Non-Analyzed",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
