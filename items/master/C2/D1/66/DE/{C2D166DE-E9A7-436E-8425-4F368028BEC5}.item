@@ -13,15 +13,16 @@ created: 20170327T212336:636262466167330000
 ----version----
 language: en
 version: 1
-revision: f1aa0e32-8300-4ccf-a5f6-c84cad382b52
+revision: 623270c8-cc62-47bc-897e-a3b9e2d6d77e
 
 ----field----
 field: {2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}
 name: Body
 key: body
-content-length: 149
+content-length: 90
 
-<sup>1</sup>An account originally opened as non-analyzed may be subsequently analyzed at the Bank&rsquo;s discretion and service charged accordingly.
+<span style="background-color: #ffffff;">Some exclusions may apply.</span><sup><br>
+</sup>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,18 +50,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f1aa0e32-8300-4ccf-a5f6-c84cad382b52
+623270c8-cc62-47bc-897e-a3b9e2d6d77e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170316T061120Z
+20170327T212614Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-fmb\Anonymous
+fmb\sdonatelli
