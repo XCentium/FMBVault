@@ -2,9 +2,9 @@
 version: 1
 id: {58EBB4F2-F5E8-4FFE-8C20-FF6B772880B2}
 database: master
-path: /sitecore/content/FMBCom/Global/Disclaimers/Some Exclusions
+path: /sitecore/content/FMBCom/Global/Disclaimers/Some Exclusions May Apply
 parent: {7A9C974C-F6CF-4D03-939D-E53A9A8495A2}
-name: Some Exclusions
+name: Some Exclusions May Apply
 master: {00000000-0000-0000-0000-000000000000}
 template: {39F86F7B-647E-4194-9F12-43705C0EDB45}
 templatekey: Disclaimer
@@ -13,7 +13,7 @@ created: 20170316T061123:636252414832430000
 ----version----
 language: en
 version: 1
-revision: 617e62df-bfa3-4386-b31d-2af841bbba8a
+revision: e36f4bc1-98d0-429b-989c-3d8395ec9d22
 
 ----field----
 field: {2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-617e62df-bfa3-4386-b31d-2af841bbba8a
+e36f4bc1-98d0-429b-989c-3d8395ec9d22
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170327T212654Z
+20170327T212852Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
