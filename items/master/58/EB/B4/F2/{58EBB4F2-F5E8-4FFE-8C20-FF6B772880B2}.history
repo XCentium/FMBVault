@@ -32,9 +32,28 @@
     "itemName": "Some Exclusions",
     "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Some Exclusions",
     "template": "Disclaimer",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b4cd57d807f4cfd9d67af106117c46be503856c1",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{58EBB4F2-F5E8-4FFE-8C20-FF6B772880B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-27T21:26:54.9243956Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Some Exclusions",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Some Exclusions",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
