@@ -13,15 +13,15 @@ created: 20170316T061120:636252414807030000
 ----version----
 language: en
 version: 1
-revision: 98a35665-7f37-450c-a9de-99f70312272f
+revision: 6ef4d478-0b6d-4add-ab7c-d1a1cecb85e5
 
 ----field----
 field: {2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}
 name: Body
 key: body
-content-length: 137
+content-length: 131
 
-An account originally opened as non-analyzed may be subsequently analyzed at the Bank&rsquo;s discretion and service charged accordingly.
+An account originally opened as non-analyzed may be subsequently analyzed at the Bank’s discretion and service charged accordingly.
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-98a35665-7f37-450c-a9de-99f70312272f
+6ef4d478-0b6d-4add-ab7c-d1a1cecb85e5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170327T222610Z
+20170327T222745Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
