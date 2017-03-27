@@ -32,9 +32,28 @@
     "itemName": "Online Account - Personal",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Online Account - Personal",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "02036a3e2c20008997224110de0d0dc68c8b11d8",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F66DB238-D2EA-46FF-8716-BA98B3E8F832}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-27T21:00:04.2318558Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "Online Account - Personal",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Online Account - Personal",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
