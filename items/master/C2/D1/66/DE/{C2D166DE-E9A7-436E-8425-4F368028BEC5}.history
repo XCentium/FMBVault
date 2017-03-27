@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C2D166DE-E9A7-436E-8425-4F368028BEC5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-27T21:23:36.8338887Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\sdonatelli",
+    "itemName": "Exclusions May Apply",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Exclusions May Apply",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
