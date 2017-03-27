@@ -13,22 +13,22 @@ created: 20170317T164340:636253658204200000
 ----version----
 language: en
 version: 1
-revision: 26385a5a-f4b6-4829-b7ba-d5efa6ce318a
+revision: a6915249-21f4-4dae-86db-0334f69ac8ee
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 324
+content-length: 340
 
-<div class="cta-bar">
+<div class="cta-bar green">
 <div class="row">
 <div class="col-lg-12">
 <div class="wrap">
 <div class="clearfix">
-<p class="pull-left text">Open an account today.
-<a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-lg pull-right">Get started now</a>
-</p>
+<p class="pull-left text">Open an account today.</p>
+<a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-gold btn-lg pull-right">Get started now</a>
+<p>&nbsp;</p>
 </div>
 </div>
 </div>
@@ -61,14 +61,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-26385a5a-f4b6-4829-b7ba-d5efa6ce318a
+a6915249-21f4-4dae-86db-0334f69ac8ee
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170327T210004Z
+20170327T210155Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
