@@ -10,10 +10,21 @@ template: {832D5183-326A-4373-AD35-3334994FC3CA}
 templatekey: Article
 created: 20170328T174730:636263200501970000
 
+----field----
+field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
+name: CssCode
+key: csscode
+content-length: 56
+
+<style>
+#KJECalculatorTable {
+width:100%;
+}
+</style>
 ----version----
 language: en
 version: 1
-revision: 04e6bb5f-195f-4507-b556-caf46fe276be
+revision: 57b49a81-c84c-4183-844b-d0ad4e8fe94d
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -76,14 +87,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-04e6bb5f-195f-4507-b556-caf46fe276be
+57b49a81-c84c-4183-844b-d0ad4e8fe94d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170328T180601Z
+20170328T180821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
