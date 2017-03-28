@@ -10,6 +10,13 @@ template: {832D5183-326A-4373-AD35-3334994FC3CA}
 templatekey: Article
 created: 20170309T012732:636246196529870000
 
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
 ----version----
 language: en
 version: 1
@@ -120,7 +127,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: b3e158f4-86e1-43fa-af59-2a196e2b8ace
+revision: 595df261-c8ee-42a3-86ea-d17a339815b3
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -209,7 +216,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b3e158f4-86e1-43fa-af59-2a196e2b8ace
+595df261-c8ee-42a3-86ea-d17a339815b3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -224,6 +231,13 @@ key: __updated by
 content-length: 15
 
 fmb\Test_Author
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
