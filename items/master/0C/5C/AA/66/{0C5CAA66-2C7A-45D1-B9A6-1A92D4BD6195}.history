@@ -32,9 +32,28 @@
     "itemName": "Mortgage Rates FMB Phone Number",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Phone Numbers/Mortgage Rates FMB Phone Number",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0C5CAA66-2C7A-45D1-B9A6-1A92D4BD6195}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.8149797Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mortgage Rates FMB Phone Number",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Phone Numbers/Mortgage Rates FMB Phone Number",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

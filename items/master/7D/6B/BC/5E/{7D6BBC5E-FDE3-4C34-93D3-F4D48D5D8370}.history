@@ -32,9 +32,28 @@
     "itemName": "Brochures_History_Web",
     "itemPath": "/sitecore/media library/Brochures/Brochures_History_Web",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{7D6BBC5E-FDE3-4C34-93D3-F4D48D5D8370}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:45.2028811Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brochures_History_Web",
+    "itemPath": "/sitecore/media library/Brochures/Brochures_History_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

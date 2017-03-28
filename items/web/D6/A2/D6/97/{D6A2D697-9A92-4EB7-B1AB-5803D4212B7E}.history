@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D6A2D697-9A92-4EB7-B1AB-5803D4212B7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.6289504Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Founding-Values",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B45A465E-A133-49E5-B9AA-0EF752F51C02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.9679793Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ - Chip Technology",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/FAQ - Chip Technology",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

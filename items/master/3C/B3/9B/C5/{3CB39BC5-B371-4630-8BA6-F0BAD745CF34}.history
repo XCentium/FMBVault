@@ -32,9 +32,28 @@
     "itemName": "CongressionalCup2017",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/CongressionalCup2017",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{3CB39BC5-B371-4630-8BA6-F0BAD745CF34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.2789847Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CongressionalCup2017",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/CongressionalCup2017",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

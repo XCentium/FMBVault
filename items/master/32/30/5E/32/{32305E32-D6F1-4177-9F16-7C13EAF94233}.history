@@ -32,9 +32,28 @@
     "itemName": "Layout Zone",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Layout/Layout Zone",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{32305E32-D6F1-4177-9F16-7C13EAF94233}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.4309805Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout Zone",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Layout/Layout Zone",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

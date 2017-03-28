@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{21EB8CFC-2503-47EC-B5F9-BF6B53297D17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.2979799Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Locations Brochures/Business Banking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

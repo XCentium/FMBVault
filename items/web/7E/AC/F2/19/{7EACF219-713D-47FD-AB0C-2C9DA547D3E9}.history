@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7EACF219-713D-47FD-AB0C-2C9DA547D3E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.5079792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Layout",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Page Layout",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

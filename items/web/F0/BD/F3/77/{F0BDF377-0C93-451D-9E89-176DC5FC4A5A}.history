@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F0BDF377-0C93-451D-9E89-176DC5FC4A5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.1589902Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LakeForest",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/LakeForest",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

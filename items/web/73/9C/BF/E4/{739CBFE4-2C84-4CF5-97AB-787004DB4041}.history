@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{739CBFE4-2C84-4CF5-97AB-787004DB4041}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:41.0419087Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "medeSolutions_feesheet_",
+    "itemPath": "/sitecore/media library/Brochures/RDC-HowToGuide-FMB/medeSolutions_feesheet_",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{820835CE-C70D-4F08-A92C-C728A5E353CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.4089850Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SanClemente",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/SanClemente",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

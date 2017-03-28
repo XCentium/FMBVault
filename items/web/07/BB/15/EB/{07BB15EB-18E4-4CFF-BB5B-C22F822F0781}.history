@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{07BB15EB-18E4-4CFF-BB5B-C22F822F0781}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:39.9509140Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE_FMBWebBanner_Q1",
+    "itemPath": "/sitecore/media library/CRE_FMBWebBanner_Q1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E4816D20-F499-417C-9D60-BB2C9C265107}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.1069899Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LagunaHills",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/LagunaHills",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "Lakewood",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Lakewood",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{AF1D7029-E22E-4F1A-80AE-89B2B72E5DE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.9919896Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lakewood",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Lakewood",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

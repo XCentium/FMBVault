@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{1D309989-B629-462C-A5E9-669CDA1F65E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.8629903Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TestArticle",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/TestArticle",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

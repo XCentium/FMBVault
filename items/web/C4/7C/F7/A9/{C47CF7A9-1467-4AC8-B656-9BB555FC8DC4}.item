@@ -1,0 +1,84 @@
+----item----
+version: 1
+id: {C47CF7A9-1467-4AC8-B656-9BB555FC8DC4}
+database: web
+path: /sitecore/content/FMBCom/Global/Media/Banners/Personal MMA
+parent: {9856A806-5AD4-4CE0-8FE3-2B949C28D0C5}
+name: Personal MMA
+master: {00000000-0000-0000-0000-000000000000}
+template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
+templatekey: Image
+created: 20170316T222938:636253001786230000
+
+----version----
+language: en
+version: 1
+revision: d5175d31-5fee-48a3-8db0-401e86e0b524
+
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 380
+
+<div class="row">
+<div class="col-md-7">
+<!--nothing needed here-->
+</div>
+<div class="col-md-5">
+<h1>Competitive interest rates and low fees</h1>
+<h3>F&amp;M Personal Money Market Account</h3>
+<h2>$100 minimum opening balance</h2>
+<a href="~/link.aspx?_id=6B60FAC862C74CC59E2B42A08A84D6DF&amp;_z=z" class="btn btn-primary">Click here to learn more</a>
+<p>&nbsp;</p>
+</div>
+</div>
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 58
+
+<image mediaid="{12F9F566-EE73-4B6D-B102-01C3AB2EEA89}" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170316T222938Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d5175d31-5fee-48a3-8db0-401e86e0b524
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170323T153208Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

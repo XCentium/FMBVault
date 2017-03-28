@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{CF722719-FE5D-4F99-88E7-3CB781068BF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:00.3339526Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ApplePayImages_howtogetstarted-step3",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/ApplePayImages_howtogetstarted-step3",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

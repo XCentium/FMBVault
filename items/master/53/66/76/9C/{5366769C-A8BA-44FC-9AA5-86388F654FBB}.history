@@ -32,9 +32,28 @@
     "itemName": "OnlineSolutions_Web",
     "itemPath": "/sitecore/media library/Brochures/OnlineSolutions_Web",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5366769C-A8BA-44FC-9AA5-86388F654FBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:40.2849121Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OnlineSolutions_Web",
+    "itemPath": "/sitecore/media library/Brochures/OnlineSolutions_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

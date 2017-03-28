@@ -32,9 +32,28 @@
     "itemName": "Secure Access text",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Mobile Banking/Secure Access text",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{04FBAC97-6560-4B5A-A0B0-EF5B39F05730}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.8689780Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secure Access text",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Mobile Banking/Secure Access text",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

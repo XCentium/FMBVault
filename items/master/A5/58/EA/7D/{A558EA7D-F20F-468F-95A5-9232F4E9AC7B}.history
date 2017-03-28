@@ -32,9 +32,28 @@
     "itemName": "Youth Savings",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Savings/Youth Savings",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{A558EA7D-F20F-468F-95A5-9232F4E9AC7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.4849789Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Youth Savings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Savings/Youth Savings",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

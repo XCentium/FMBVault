@@ -32,9 +32,28 @@
     "itemName": "Orange",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Orange",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1BE9DBF4-9692-4986-BAC0-5E0C6357CA0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:27.6599801Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Orange",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

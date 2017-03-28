@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{F4477B0F-B874-4385-A3D7-ED1C1A868DB0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.9439897Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sydney Beaches",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/Sydney Beaches",
+    "template": "Map Points Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

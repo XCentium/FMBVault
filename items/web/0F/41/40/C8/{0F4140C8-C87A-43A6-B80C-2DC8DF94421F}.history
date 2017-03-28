@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{0F4140C8-C87A-43A6-B80C-2DC8DF94421F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.8009742Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ApplePay_LandingPageBanner",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/ApplePay_LandingPageBanner",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

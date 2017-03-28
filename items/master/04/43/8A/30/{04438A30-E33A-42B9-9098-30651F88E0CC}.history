@@ -32,9 +32,28 @@
     "itemName": "VCards",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{04438A30-E33A-42B9-9098-30651F88E0CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.3529845Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VCards",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

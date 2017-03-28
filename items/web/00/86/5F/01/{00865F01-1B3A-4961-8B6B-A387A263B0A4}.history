@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{00865F01-1B3A-4961-8B6B-A387A263B0A4}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.9279907Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bondi",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/Sydney Beaches/Bondi",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

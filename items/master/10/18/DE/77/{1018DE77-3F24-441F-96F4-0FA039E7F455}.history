@@ -32,9 +32,28 @@
     "itemName": "Bixby Knolls",
     "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County/Bixby Knolls",
     "template": "Map Point",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1018DE77-3F24-441F-96F4-0FA039E7F455}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.9649788Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bixby Knolls",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County/Bixby Knolls",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

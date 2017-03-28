@@ -32,9 +32,28 @@
     "itemName": "Retirement Planner",
     "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Retirement Planner",
     "template": "Calculator",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C9B7AA8D-4AB1-48F3-BE2B-1D51D2D0519C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.1499745Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Retirement Planner",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Retirement Planner",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

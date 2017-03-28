@@ -32,9 +32,28 @@
     "itemName": "Log-in",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/CD Rates Header Menu/Log-in",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5FB6B443-F61F-467D-8E18-D02965528EA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:27.4899794Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Log-in",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/CD Rates Header Menu/Log-in",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

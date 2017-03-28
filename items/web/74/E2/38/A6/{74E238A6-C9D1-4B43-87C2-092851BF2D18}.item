@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {74E238A6-C9D1-4B43-87C2-092851BF2D18}
+database: web
+path: /sitecore/content/FMBCom/Global/Content Modules/Landing Pages/CRE
+parent: {D66A3CF1-77B8-427A-B299-3EE52149B7FC}
+name: CRE
+master: {00000000-0000-0000-0000-000000000000}
+template: {76B4820A-D005-4EFC-B99A-FD4F1936B98A}
+templatekey: Content Module Folder
+created: 20170306T190908:636244241483600000
+
+----version----
+language: en
+version: 1
+revision: 2b284c09-95d7-4040-928e-88885372c4f6
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170306T190908Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2b284c09-95d7-4040-928e-88885372c4f6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170306T190908Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

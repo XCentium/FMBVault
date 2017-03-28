@@ -32,9 +32,28 @@
     "itemName": "jcasillas-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/jcasillas-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{CD548FCB-7B8D-4D81-B541-8B2DE7371EE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:56.5619524Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "jcasillas-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/jcasillas-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

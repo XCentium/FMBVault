@@ -32,9 +32,28 @@
     "itemName": "Online Banking",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Banking Services/Online Banking",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C063DC39-D588-4302-B3F0-AC4769429D6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.0389803Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Banking Services/Online Banking",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

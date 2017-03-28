@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B956C0A3-1A8A-4FB7-802B-C440BDEA8F0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.7809843Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SignOff-DiscoveryCube",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/SignOff-DiscoveryCube",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

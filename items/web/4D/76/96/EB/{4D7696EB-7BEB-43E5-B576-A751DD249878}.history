@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4D7696EB-7BEB-43E5-B576-A751DD249878}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.5609799Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Credit-Cards-Alerts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

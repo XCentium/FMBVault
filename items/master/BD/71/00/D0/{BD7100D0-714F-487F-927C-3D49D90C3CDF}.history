@@ -32,9 +32,28 @@
     "itemName": "Low Down Payment Phone Number",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Phone Numbers/Low Down Payment Phone Number",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{BD7100D0-714F-487F-927C-3D49D90C3CDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.8779792Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Low Down Payment Phone Number",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Phone Numbers/Low Down Payment Phone Number",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Is it possible to have insurance at more than one bank",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Is it possible to have insurance at more than one bank",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{3ECDFD2E-6ED0-437F-BA39-8840A5D395E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.7579732Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is it possible to have insurance at more than one bank",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Is it possible to have insurance at more than one bank",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

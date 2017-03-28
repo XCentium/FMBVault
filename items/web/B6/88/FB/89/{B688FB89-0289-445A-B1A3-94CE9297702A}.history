@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B688FB89-0289-445A-B1A3-94CE9297702A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:30.7589778Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "More How-Tos",
+    "itemPath": "/sitecore/layout/Renderings/Feature/HowTo/More How-Tos",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

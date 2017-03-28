@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{24E8D328-BFAC-4663-BE7C-213E6FF72EBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:51.7489502Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SwitchKitChecklist",
+    "itemPath": "/sitecore/media library/Applications/SwitchKitChecklist",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

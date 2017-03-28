@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{13D087CE-D0D0-4C85-B939-57AB9736092C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:48.5499469Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Check-FM",
+    "itemPath": "/sitecore/media library/Brochures/Check-FM",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

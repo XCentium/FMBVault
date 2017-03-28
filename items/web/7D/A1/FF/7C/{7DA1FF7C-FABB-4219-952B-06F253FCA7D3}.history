@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{7DA1FF7C-FABB-4219-952B-06F253FCA7D3}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.0039893Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Documentation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menu/Left/Documentation",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

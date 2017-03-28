@@ -70,9 +70,28 @@
     "itemName": "Testimonial 3",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/signoff/Testimonial 3",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{D84C8C5C-3EC1-440A-BAC9-9F8FC5A316A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.4279787Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testimonial 3",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/signoff/Testimonial 3",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

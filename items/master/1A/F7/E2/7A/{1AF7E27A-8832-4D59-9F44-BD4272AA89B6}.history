@@ -89,9 +89,28 @@
     "itemName": "hero-Welcome-Login-Enabled",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousel Slides/Hero Banner/hero-Welcome-Login-Enabled",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1AF7E27A-8832-4D59-9F44-BD4272AA89B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:23.9929777Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "hero-Welcome-Login-Enabled",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousel Slides/Hero Banner/hero-Welcome-Login-Enabled",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

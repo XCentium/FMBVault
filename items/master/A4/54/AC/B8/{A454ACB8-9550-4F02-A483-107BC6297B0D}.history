@@ -32,9 +32,28 @@
     "itemName": "How many offices does FM have",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How many offices does FM have",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{A454ACB8-9550-4F02-A483-107BC6297B0D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.6589733Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How many offices does FM have",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How many offices does FM have",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

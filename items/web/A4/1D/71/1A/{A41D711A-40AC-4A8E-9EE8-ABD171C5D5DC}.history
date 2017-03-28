@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A41D711A-40AC-4A8E-9EE8-ABD171C5D5DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.7429520Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PhilBond_CutOut",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/PhilBond_CutOut",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

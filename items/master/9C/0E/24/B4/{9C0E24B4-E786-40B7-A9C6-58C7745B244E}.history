@@ -32,9 +32,28 @@
     "itemName": "kwalker-sig",
     "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/kwalker-sig",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{9C0E24B4-E786-40B7-A9C6-58C7745B244E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.6709503Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "kwalker-sig",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/kwalker-sig",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

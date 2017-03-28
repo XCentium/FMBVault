@@ -32,9 +32,28 @@
     "itemName": "Definitions - Anchor Link",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Definitions - Anchor Link",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{02D2EE4B-C9D4-4A55-8C13-AD2C8755A826}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.1489800Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Definitions - Anchor Link",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Definitions - Anchor Link",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{0C5FF506-066D-4945-9A99-B672DDC0B69C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:23.1729799Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Discovery Cube Orange County",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Testimonials/Discovery Cube Orange County",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

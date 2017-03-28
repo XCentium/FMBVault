@@ -32,9 +32,28 @@
     "itemName": "CallCenter",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/CallCenter",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{36D29A97-F2DC-4B5F-BC13-49D04F00069D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.9269892Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CallCenter",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/CallCenter",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

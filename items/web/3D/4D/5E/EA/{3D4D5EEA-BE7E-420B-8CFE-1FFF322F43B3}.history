@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3D4D5EEA-BE7E-420B-8CFE-1FFF322F43B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.1089818Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-BBBIconWhite",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/FMB-BBBIconWhite",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

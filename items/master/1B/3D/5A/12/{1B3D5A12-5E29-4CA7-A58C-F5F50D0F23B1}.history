@@ -32,9 +32,28 @@
     "itemName": "HenrySigweb",
     "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/HenrySigweb",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1B3D5A12-5E29-4CA7-A58C-F5F50D0F23B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.8059510Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HenrySigweb",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/HenrySigweb",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

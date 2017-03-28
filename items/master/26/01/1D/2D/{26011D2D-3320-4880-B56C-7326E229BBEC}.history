@@ -32,9 +32,28 @@
     "itemName": "SymphonicSpectacularVideo_1680",
     "itemPath": "/sitecore/media library/FMBCom/Videos/SymphonicSpectacularVideo_1680",
     "template": "Movie",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{26011D2D-3320-4880-B56C-7326E229BBEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:52.5889515Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SymphonicSpectacularVideo_1680",
+    "itemPath": "/sitecore/media library/FMBCom/Videos/SymphonicSpectacularVideo_1680",
+    "template": "Movie",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

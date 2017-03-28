@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{07B06C05-1CC9-4C9D-81DE-1F249B30CFC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.2069840Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BusinessMMA-Q1",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/BusinessMMA-Q1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

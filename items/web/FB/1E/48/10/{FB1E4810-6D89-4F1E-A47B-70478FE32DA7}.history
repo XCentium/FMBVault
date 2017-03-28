@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{FB1E4810-6D89-4F1E-A47B-70478FE32DA7}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.0459909Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Left",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menu/Left",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

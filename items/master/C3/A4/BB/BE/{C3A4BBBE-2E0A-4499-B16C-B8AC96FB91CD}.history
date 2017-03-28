@@ -32,9 +32,28 @@
     "itemName": "YelpStars",
     "itemPath": "/sitecore/media library/FMBCom/Images/General/YelpStars",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C3A4BBBE-2E0A-4499-B16C-B8AC96FB91CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.4969655Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "YelpStars",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/YelpStars",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

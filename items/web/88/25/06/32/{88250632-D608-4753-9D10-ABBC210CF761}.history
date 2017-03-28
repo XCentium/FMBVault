@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{88250632-D608-4753-9D10-ABBC210CF761}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:01.3979533Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-BizCheckingHeader",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-BizCheckingHeader",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

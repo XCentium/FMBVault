@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Moved",
+    "database": "web",
+    "itemId": "{EBC4157B-EA4F-4A23-863F-D9EB15F4E4E6}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.4309734Z",
+    "label": "Moved from FAQ to General Questions",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is FAQ",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What is FAQ",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

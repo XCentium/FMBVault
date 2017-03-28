@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{66567573-8F71-4D6E-AD4A-36D904B693E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.5169794Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "top banner - get a great rate",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/signoff/top banner - get a great rate",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

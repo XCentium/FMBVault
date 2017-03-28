@@ -32,9 +32,28 @@
     "itemName": "ApplePayImages_howtouseapplepay-step2",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/ApplePayImages_howtouseapplepay-step2",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E8F99CF2-AE50-4F1D-9385-F0C8159A417E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:00.9099528Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ApplePayImages_howtouseapplepay-step2",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/ApplePayImages_howtouseapplepay-step2",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

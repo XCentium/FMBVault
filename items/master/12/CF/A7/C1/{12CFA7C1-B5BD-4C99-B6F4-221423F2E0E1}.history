@@ -32,9 +32,28 @@
     "itemName": "Simplicity",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Simplicity",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{12CFA7C1-B5BD-4C99-B6F4-221423F2E0E1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:22.8590058Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simplicity",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Simplicity",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

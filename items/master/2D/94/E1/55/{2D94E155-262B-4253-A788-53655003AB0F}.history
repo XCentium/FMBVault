@@ -32,9 +32,28 @@
     "itemName": "Credit_Report_Dispute_Submission_Requirements",
     "itemPath": "/sitecore/media library/Applications/Credit_Report_Dispute_Submission_Requirements",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2D94E155-262B-4253-A788-53655003AB0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:51.8179517Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit_Report_Dispute_Submission_Requirements",
+    "itemPath": "/sitecore/media library/Applications/Credit_Report_Dispute_Submission_Requirements",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

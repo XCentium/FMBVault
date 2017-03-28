@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2C90A477-95E7-408D-B410-B7FD6FDA03F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.7329726Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Communication-Lockdown",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Communication-Lockdown",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

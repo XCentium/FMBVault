@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A48B54AA-A98D-484D-8E72-C41DEE075FEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.7649786Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CTA Buttons",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

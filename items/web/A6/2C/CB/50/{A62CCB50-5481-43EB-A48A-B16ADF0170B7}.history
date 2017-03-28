@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A62CCB50-5481-43EB-A48A-B16ADF0170B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:02.6929587Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chip",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/Chip",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

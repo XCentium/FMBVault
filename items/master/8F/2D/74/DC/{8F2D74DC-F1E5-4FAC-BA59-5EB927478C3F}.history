@@ -32,9 +32,28 @@
     "itemName": "Henry_Walker",
     "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/Henry_Walker",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{8F2D74DC-F1E5-4FAC-BA59-5EB927478C3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.9899508Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Henry_Walker",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/Henry_Walker",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

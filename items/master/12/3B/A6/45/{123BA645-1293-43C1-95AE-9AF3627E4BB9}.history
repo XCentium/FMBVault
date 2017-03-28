@@ -32,9 +32,28 @@
     "itemName": "FAQs",
     "itemPath": "/sitecore/media library/FAQs",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{123BA645-1293-43C1-95AE-9AF3627E4BB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:36.1219380Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQs",
+    "itemPath": "/sitecore/media library/FAQs",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Main Navigation",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Main Navigation",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C2865235-9FD5-4335-9389-2A351891E9CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.6559780Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Navigation",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Main Navigation",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

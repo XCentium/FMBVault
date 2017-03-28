@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{C66CD473-6892-4650-8804-302842EDE3B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:39.0599198Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Beach Christmas Tree",
+    "itemPath": "/sitecore/media library/Images/Press Release Images/Long Beach Christmas Tree",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

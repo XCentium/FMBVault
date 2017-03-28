@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D75175EF-F393-4883-B136-6D28BE002264}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:00.1349517Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "arrowbox-right",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/arrowbox-right",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

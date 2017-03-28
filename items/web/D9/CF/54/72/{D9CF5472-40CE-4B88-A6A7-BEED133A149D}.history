@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D9CF5472-40CE-4B88-A6A7-BEED133A149D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.7459792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commercial Loans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Credits and Loans/Commercial Loans",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

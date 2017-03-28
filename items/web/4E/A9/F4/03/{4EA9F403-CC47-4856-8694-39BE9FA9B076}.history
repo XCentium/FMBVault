@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4EA9F403-CC47-4856-8694-39BE9FA9B076}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.5809887Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM-Bank-Online-Privacy-Statement-Rev12-15",
+    "itemPath": "/sitecore/media library/Notices/FM-Bank-Online-Privacy-Statement-Rev12-15",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

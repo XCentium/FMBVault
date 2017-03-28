@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{1139990D-143D-4F24-A4A6-E56DF1BB7461}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.0899913Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Blogs",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menu/Right/Business Blogs",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

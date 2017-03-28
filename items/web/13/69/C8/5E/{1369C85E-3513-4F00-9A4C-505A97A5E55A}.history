@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{1369C85E-3513-4F00-9A4C-505A97A5E55A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.0829911Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Best Practice Blogs",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menu/Right/Best Practice Blogs",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

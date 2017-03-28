@@ -32,9 +32,28 @@
     "itemName": "FMB-GoldCheckingHeader",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-GoldCheckingHeader",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{DE403FAE-49B5-4C54-935C-519AAABA9674}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:01.5839549Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-GoldCheckingHeader",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-GoldCheckingHeader",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

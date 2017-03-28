@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3520D845-D62E-4792-8013-802B4BE324BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.1489786Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Checking - Premium",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Checking Options/Personal Checking - Premium",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

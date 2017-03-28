@@ -32,9 +32,28 @@
     "itemName": "Banners",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners",
     "template": "Media Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{9856A806-5AD4-4CE0-8FE3-2B949C28D0C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:23.4039799Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banners",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners",
+    "template": "Media Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

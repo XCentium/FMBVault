@@ -32,9 +32,28 @@
     "itemName": "ClassicDebitCard",
     "itemPath": "/sitecore/media library/FMBCom/Images/Products/ClassicDebitCard",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2490CD43-B01D-4DFF-8A53-EE64D600DAA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:59.6459502Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ClassicDebitCard",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Products/ClassicDebitCard",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

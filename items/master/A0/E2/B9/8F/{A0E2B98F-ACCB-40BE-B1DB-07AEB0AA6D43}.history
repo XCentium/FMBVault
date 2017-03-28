@@ -32,9 +32,28 @@
     "itemName": "Icons",
     "itemPath": "/sitecore/media library/FMBCom/Images/Icons",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{A0E2B98F-ACCB-40BE-B1DB-07AEB0AA6D43}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.9129770Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icons",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

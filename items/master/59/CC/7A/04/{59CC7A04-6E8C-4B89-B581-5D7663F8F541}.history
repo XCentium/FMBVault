@@ -70,9 +70,28 @@
     "itemName": "Commuity - Newsletter Signup Form",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Forms/MailChimp/Commuity - Newsletter Signup Form",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{59CC7A04-6E8C-4B89-B581-5D7663F8F541}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.5889780Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commuity - Newsletter Signup Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Forms/MailChimp/Commuity - Newsletter Signup Form",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

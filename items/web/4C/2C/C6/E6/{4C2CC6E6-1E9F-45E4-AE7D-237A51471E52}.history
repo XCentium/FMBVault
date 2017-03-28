@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4C2CC6E6-1E9F-45E4-AE7D-237A51471E52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:38.7449224Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MainOffice",
+    "itemPath": "/sitecore/media library/Images/MainOffice",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

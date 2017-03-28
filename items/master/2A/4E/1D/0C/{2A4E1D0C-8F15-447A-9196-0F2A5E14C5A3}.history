@@ -32,9 +32,28 @@
     "itemName": "Terms and Conditions - Alerts",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Terms and Conditions - Alerts",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2A4E1D0C-8F15-447A-9196-0F2A5E14C5A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.8829802Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Terms and Conditions - Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Terms and Conditions - Alerts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

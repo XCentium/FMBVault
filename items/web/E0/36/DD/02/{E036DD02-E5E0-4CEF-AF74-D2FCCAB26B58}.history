@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E036DD02-E5E0-4CEF-AF74-D2FCCAB26B58}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.2239799Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rates - Valid Date",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Rates - Valid Date",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

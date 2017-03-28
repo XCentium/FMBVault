@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{85939EF9-ED81-4F9E-B8B1-3E42006CEE4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.2749779Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Credit Card Application",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Locations Brochures/FM Credit Card Application",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

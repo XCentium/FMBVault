@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{3757EED1-A44C-4969-8CCE-2BD1554E4B58}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.1469883Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GitHub Repository",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/GitHub/GitHub Repository",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

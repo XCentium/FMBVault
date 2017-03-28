@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{225F3F59-B48B-4236-B07F-BEAE20AABC24}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.8469894Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Retirement Plan",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/Retirement Plan",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

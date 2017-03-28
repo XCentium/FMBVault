@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6789F4A5-E7DC-481E-A7D3-4BE10B46011B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.3489792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD-Low-Down-Payment",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/RLD-Low-Down-Payment",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

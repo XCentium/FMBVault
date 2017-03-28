@@ -70,9 +70,28 @@
     "itemName": "Business MMA",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Business MMA",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B4CA9621-BBA3-4869-9973-CAF05BFC4D55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:23.7509798Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business MMA",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Business MMA",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

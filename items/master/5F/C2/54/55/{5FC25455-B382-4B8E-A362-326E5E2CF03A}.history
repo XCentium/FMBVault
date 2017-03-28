@@ -32,9 +32,28 @@
     "itemName": "Business Banking Services",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Banking Services",
     "template": "Navigation Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5FC25455-B382-4B8E-A362-326E5E2CF03A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.3459801Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Banking Services",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Banking Services",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

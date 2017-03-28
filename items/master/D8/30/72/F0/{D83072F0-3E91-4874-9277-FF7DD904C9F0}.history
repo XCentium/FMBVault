@@ -32,9 +32,28 @@
     "itemName": "Services and Fees",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/About FM/Services and Fees",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{D83072F0-3E91-4874-9277-FF7DD904C9F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.8419793Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Services and Fees",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/About FM/Services and Fees",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

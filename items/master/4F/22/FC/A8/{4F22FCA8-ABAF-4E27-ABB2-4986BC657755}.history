@@ -32,9 +32,28 @@
     "itemName": "FMB-ArchitectureBG",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-ArchitectureBG",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{4F22FCA8-ABAF-4E27-ABB2-4986BC657755}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:01.0839525Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-ArchitectureBG",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-ArchitectureBG",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

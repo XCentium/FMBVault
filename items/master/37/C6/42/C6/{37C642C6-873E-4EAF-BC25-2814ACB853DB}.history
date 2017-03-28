@@ -32,9 +32,28 @@
     "itemName": "DonWilliams-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/DonWilliams-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{37C642C6-873E-4EAF-BC25-2814ACB853DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:57.4939527Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DonWilliams-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/DonWilliams-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

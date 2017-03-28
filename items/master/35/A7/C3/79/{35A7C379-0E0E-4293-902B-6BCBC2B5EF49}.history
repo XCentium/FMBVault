@@ -32,9 +32,28 @@
     "itemName": "Homefront_Thumbnail",
     "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/Thumbnails/Homefront_Thumbnail",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{35A7C379-0E0E-4293-902B-6BCBC2B5EF49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:57.8739506Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Homefront_Thumbnail",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/Thumbnails/Homefront_Thumbnail",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

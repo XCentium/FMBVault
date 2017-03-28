@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{EDFBE44C-5072-4DD0-B2CC-189978BBC89B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:37.7259280Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OfficeLocations",
+    "itemPath": "/sitecore/media library/Feature/Office/OfficeLocations",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

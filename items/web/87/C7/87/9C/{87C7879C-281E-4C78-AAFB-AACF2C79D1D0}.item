@@ -1,0 +1,122 @@
+----item----
+version: 1
+id: {87C7879C-281E-4C78-AAFB-AACF2C79D1D0}
+database: web
+path: /sitecore/media library/FMBCom/Images/LandingPages/cdrates/goldarrow
+parent: {52C347E3-32DF-40DE-9B9A-1C4D1AA67BAB}
+name: goldarrow
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20170224T181438:636235568782730000
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1694
+
+iVBORw0KGgoAAAANSUhEUgAAAH0AAAAWCAYAAADts5O8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
+NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFu
+Y2VJRD0ieG1wLmlpZDowMjBEOUZGRDYzQTExMUU1ODk2NTg3RkQwOTBFNUFGOCIgeG1wTU06RG9j
+dW1lbnRJRD0ieG1wLmRpZDowMjBEOUZGRTYzQTExMUU1ODk2NTg3RkQwOTBFNUFGOCI+IDx4bXBN
+TTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjAyMEQ5RkZCNjNBMTExRTU4
+OTY1ODdGRDA5MEU1QUY4IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjAyMEQ5RkZDNjNBMTEx
+RTU4OTY1ODdGRDA5MEU1QUY4Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4
+bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+4XMQRwAAAUlJREFUeNrsmjsKwkAURRUEsbOydQ+u
+wGVYuQU3YOFC/KMiaOmnlGCvC/CDNmLnHy2UeAdeoWARI5oxcy9cXkImBN55L5lJErRtO0CZpSBT
+oIdG1dQUoQiXE+nmitD9DzyMcJHdG9yD8yqiAK6E7k/oUYTNi0Nr1flwAfCnhG4G9EdZCj7cQgFc
+CP3/occRFg6H7+CadP/YFXRcMMe0ey7V6Rk39SLd30ABbN+BzjXb/+sMt2XyN0QB2IRulibS/RXA
+XxO6WVJLva50fx8FcCN0s6Re9pTgIuDPCd0sKdbZEPNgXqcTur+f6R2Z1D090wndwNm7gr5knjxX
+BI79bJ3OfHsvTKaTCAM3p0pX1wF65/Qk3t710PGNsR+/eyd0PXRyMMaS23f7069shK439K98Tyd0
+PbR/2P76nzOErocO8Czwo3/k7gIMAC/4hTV4gQZaAAAAAElFTkSuQmCC
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 3
+
+125
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+22
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+1239
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 8
+
+125 x 22
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/87C7879C281E4C78AAFBAACF2C79D1D0.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 8a290df5-f875-413b-ba46-49858ebd76a5
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170221T203056Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8a290df5-f875-413b-ba46-49858ebd76a5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170223T200447Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

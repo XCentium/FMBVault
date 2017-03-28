@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {4AF5860E-8340-41A8-80C0-94ABCB83EB63}
+database: web
+path: /Home Equity Line
+parent: {00000000-0000-0000-0000-000000000000}
+name: Home Equity Line
+master: {00000000-0000-0000-0000-000000000000}
+template: {E6794246-1889-473B-AA89-899EC2604D7F}
+templatekey: Navigation Menu Item
+created: 20170120T172959:636205301993200000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+250

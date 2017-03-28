@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3D848FB2-72F2-4E5A-81EF-656B23595252}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:30.9879783Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "2 Column 7-5",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns/2 Column 7-5",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

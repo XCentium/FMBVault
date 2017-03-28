@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2CEF34AE-7DA8-4069-8B5B-2468325E9F0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.9279797Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Get Started with Account",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Get Started with Account",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

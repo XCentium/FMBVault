@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3CD5B528-C109-4847-A216-014E3D899A33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:45.8628762Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visa_Protect_Your_Identity",
+    "itemPath": "/sitecore/media library/Brochures/Visa_Protect_Your_Identity",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

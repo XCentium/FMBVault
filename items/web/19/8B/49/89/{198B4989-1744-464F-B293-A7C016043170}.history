@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{198B4989-1744-464F-B293-A7C016043170}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.6049795Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Header",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Site Header",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

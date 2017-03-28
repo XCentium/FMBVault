@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {3ECDFD2E-6ED0-437F-BA39-8840A5D395E0}
+database: web
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Is it possible to have insurance at more than one bank
+parent: {354B5B8E-667E-4927-B7E9-DEC8C1BDA30F}
+name: Is it possible to have insurance at more than one bank
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170221T221257:636233119770500000
+
+----version----
+language: en
+version: 1
+revision: f1f5c8fc-906b-4483-bb66-b5c8e525eedb
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 93
+
+Is it possible to have more than $250,000.00 at one insured bank and still be fully covered? 
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 335
+
+You may qualify for more than $250,000.00 in coverage at one insured bank or savings association if you own deposit accounts in different ownership categories. The most common account ownership categories for individual and family deposits are single accounts, joint accounts, revocable trust accounts, and certain retirement accounts.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 93
+
+Is it possible to have more than $250,000.00 at one insured bank and still be fully covered? 
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170221T221257Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f1f5c8fc-906b-4483-bb66-b5c8e525eedb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T172521Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{FCDB44C9-7892-4CC2-98FE-E8777ABA0AB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.0479834Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD-Q1",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/RLD-Q1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

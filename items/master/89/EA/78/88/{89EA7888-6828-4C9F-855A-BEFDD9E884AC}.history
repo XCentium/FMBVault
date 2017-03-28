@@ -13,9 +13,28 @@
     "itemName": "DownloadLinks",
     "itemPath": "/sitecore/media library/Feature/Navigation/DownloadLinks",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "237dbde5-23a4-4992-b365-6188f5eb2481"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{89EA7888-6828-4C9F-855A-BEFDD9E884AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:37.2789320Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DownloadLinks",
+    "itemPath": "/sitecore/media library/Feature/Navigation/DownloadLinks",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]

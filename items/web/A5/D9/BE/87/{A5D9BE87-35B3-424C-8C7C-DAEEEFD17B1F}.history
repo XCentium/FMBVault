@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A5D9BE87-35B3-424C-8C7C-DAEEEFD17B1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.0359794Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Newsletter Sign-up",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/News and Community/Newsletter Sign-up",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

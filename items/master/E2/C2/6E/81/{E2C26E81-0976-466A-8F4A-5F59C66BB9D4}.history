@@ -32,9 +32,28 @@
     "itemName": "FMB-CSS1907Header",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-CSS1907Header",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E2C26E81-0976-466A-8F4A-5F59C66BB9D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:01.0359525Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-CSS1907Header",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-CSS1907Header",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

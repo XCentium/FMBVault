@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{C72BDE29-0844-46CB-BE63-F9411FB45CBD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.9659833Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomeLoans_ExitAd",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/HomeLoans_ExitAd",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

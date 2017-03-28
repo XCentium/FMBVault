@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{5012ECB2-B022-4C56-B178-E08197FA6D41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.8989516Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dan-Walker",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/Dan-Walker",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

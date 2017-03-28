@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{D39034D9-DB91-4296-8429-D1F48900520A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.1079910Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Sitecore",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menu/Right/Contact Sitecore",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

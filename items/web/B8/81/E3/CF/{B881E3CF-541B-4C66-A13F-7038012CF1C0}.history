@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B881E3CF-541B-4C66-A13F-7038012CF1C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.9839810Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download-vCard",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/Download-vCard",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

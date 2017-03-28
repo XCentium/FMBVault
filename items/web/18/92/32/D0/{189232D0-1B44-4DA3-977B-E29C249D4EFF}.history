@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{189232D0-1B44-4DA3-977B-E29C249D4EFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.6069695Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Yelp Logo",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Yelp Logo/Yelp Logo",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

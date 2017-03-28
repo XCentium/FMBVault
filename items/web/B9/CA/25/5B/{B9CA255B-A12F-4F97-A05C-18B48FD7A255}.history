@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B9CA255B-A12F-4F97-A05C-18B48FD7A255}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:59.9659518Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "APYpercentage",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/cdrates/APYpercentage",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

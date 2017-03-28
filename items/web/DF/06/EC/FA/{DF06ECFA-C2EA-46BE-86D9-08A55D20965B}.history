@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{DF06ECFA-C2EA-46BE-86D9-08A55D20965B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.2459780Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Low-Down-Payment Above Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD/Low-Down-Payment Above Form",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

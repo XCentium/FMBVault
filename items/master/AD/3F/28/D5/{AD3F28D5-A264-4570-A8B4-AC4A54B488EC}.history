@@ -32,9 +32,28 @@
     "itemName": "Business Checking",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Banking Services/Business Checking",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{AD3F28D5-A264-4570-A8B4-AC4A54B488EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.3709781Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Checking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Banking Services/Business Checking",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

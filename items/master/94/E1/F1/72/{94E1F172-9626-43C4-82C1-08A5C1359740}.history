@@ -32,9 +32,28 @@
     "itemName": "Main",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Main",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{94E1F172-9626-43C4-82C1-08A5C1359740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.0529885Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Main",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

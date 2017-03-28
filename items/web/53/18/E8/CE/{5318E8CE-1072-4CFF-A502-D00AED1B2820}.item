@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {5318E8CE-1072-4CFF-A502-D00AED1B2820}
+database: web
+path: /sitecore/layout/Renderings/Feature/PageContent/Disclaimers
+parent: {D5D2AB0A-3909-4E22-AF15-3BEF1E97A0C0}
+name: Disclaimers
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20170316T061123:636252414835830000
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 82
+
+FMB.Feature.PageContent.Controllers.PageContentController, FMB.Feature.PageContent
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 14
+
+GetDisclaimers
+----field----
+field: {13F89250-AD6B-4548-882E-118A12C18094}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{4BF7EAB7-2677-4E5B-AE21-F229B8A8B501}
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{636E6A6C-8AEB-42C3-9457-5A3EC4803F0E}" />
+----version----
+language: en
+version: 1
+revision: 341ed5c7-6a6b-46e1-ad13-25faa602d6ee
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 13
+
+fmb\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170316T013019Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 13
+
+fmb\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+341ed5c7-6a6b-46e1-ad13-25faa602d6ee
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170323T210302Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

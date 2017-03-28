@@ -32,9 +32,28 @@
     "itemName": "Laguna Hills",
     "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Laguna Hills",
     "template": "Map Point",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{105E19C3-AF80-48A1-81F2-F7A5C0B9F81F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.7329795Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Laguna Hills",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Laguna Hills",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

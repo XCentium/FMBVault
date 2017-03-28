@@ -32,9 +32,28 @@
     "itemName": "Fullerton",
     "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Fullerton",
     "template": "Map Point",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E0173FBC-8AA4-44B9-A5FE-320B225B0BE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.6379801Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fullerton",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Fullerton",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

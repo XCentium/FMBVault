@@ -32,9 +32,28 @@
     "itemName": "Fullerton",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Fullerton",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C58773BC-1C38-4701-8CE2-184A37E50479}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:27.8699782Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fullerton",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Fullerton",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

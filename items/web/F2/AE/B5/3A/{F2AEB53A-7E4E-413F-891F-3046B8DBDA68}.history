@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F2AEB53A-7E4E-413F-891F-3046B8DBDA68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:01.8449553Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-DebitCards",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-DebitCards",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

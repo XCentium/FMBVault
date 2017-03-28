@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{94BC23F6-0089-4B36-895C-0906CD2E2799}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.4029642Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StrengthSecurity",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/StrengthSecurity",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

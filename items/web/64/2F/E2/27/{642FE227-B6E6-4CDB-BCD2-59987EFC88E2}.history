@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{642FE227-B6E6-4CDB-BCD2-59987EFC88E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:59.2229520Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GoldDebitCard",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Products/GoldDebitCard",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

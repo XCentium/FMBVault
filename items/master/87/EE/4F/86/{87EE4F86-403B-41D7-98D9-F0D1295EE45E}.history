@@ -32,9 +32,28 @@
     "itemName": "Main Office",
     "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County/Main Office",
     "template": "Map Point",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{87EE4F86-403B-41D7-98D9-F0D1295EE45E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.8589803Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Office",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County/Main Office",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

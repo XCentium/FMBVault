@@ -32,9 +32,28 @@
     "itemName": "HuntingtonBeach",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/HuntingtonBeach",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5873DD02-5CEE-46F9-9CDA-55384E5132A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.7030099Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HuntingtonBeach",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/HuntingtonBeach",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

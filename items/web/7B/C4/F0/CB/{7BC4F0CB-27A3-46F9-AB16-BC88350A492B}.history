@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7BC4F0CB-27A3-46F9-AB16-BC88350A492B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:38.3769239Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HowTo",
+    "itemPath": "/sitecore/media library/Feature/HowTo",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

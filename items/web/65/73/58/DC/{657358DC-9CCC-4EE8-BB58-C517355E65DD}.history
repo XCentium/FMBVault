@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{657358DC-9CCC-4EE8-BB58-C517355E65DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:36.8949331Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BannerTitle",
+    "itemPath": "/sitecore/media library/Feature/PageContent/BannerTitle",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

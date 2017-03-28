@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{497DC43B-F157-48A2-BB83-5F2FCA3EFE92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.9259521Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DanSig",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/DanSig",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

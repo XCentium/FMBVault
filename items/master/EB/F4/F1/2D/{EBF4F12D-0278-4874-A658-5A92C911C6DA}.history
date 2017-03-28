@@ -32,9 +32,28 @@
     "itemName": "FM_299_OLB_AccessAgreementEnrollment",
     "itemPath": "/sitecore/media library/Applications/FM_299_OLB_AccessAgreementEnrollment",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{EBF4F12D-0278-4874-A658-5A92C911C6DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:52.2119513Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM_299_OLB_AccessAgreementEnrollment",
+    "itemPath": "/sitecore/media library/Applications/FM_299_OLB_AccessAgreementEnrollment",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {4D7724EE-A49C-4475-B7C3-FB6D41B6B0F5}
+database: web
+path: /sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Garden Grove
+parent: {A6102784-F10F-4B8D-A47A-2DAEC44E80E0}
+name: Garden Grove
+master: {00000000-0000-0000-0000-000000000000}
+template: {390333C8-751B-4332-84A3-6360B969A19F}
+templatekey: Link Menu Item
+created: 20170224T181834:636235571145830000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+700
+----version----
+language: en
+version: 1
+revision: 8d91df48-fbb2-4581-97a5-283d7faee5a2
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 123
+
+<link text="" linktype="internal" class="" title="" target="" querystring="" id="{5F0468BA-2A9F-4EA8-A30F-CB6EC72B11D6}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 12
+
+Garden Grove
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170221T214654Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8d91df48-fbb2-4581-97a5-283d7faee5a2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T221455Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

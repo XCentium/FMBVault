@@ -51,9 +51,28 @@
     "itemName": "Checking Options - Teen College Senior",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Checking Options - Teen College Senior",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{9F87F26C-8D1F-4D18-8143-FB70307CEB2B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.3269799Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking Options - Teen College Senior",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Checking Options - Teen College Senior",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

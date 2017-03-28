@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3AE6FB6D-BDC2-450B-9FB4-8880EA41F143}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.3889830Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBLANDING-RLD-1920x600",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/FMBLANDING-RLD-1920x600",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

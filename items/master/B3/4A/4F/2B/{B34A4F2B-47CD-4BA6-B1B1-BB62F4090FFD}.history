@@ -32,9 +32,28 @@
     "itemName": "col-narrow-3",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-narrow-3",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B34A4F2B-47CD-4BA6-B1B1-BB62F4090FFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.3879777Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "col-narrow-3",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-narrow-3",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

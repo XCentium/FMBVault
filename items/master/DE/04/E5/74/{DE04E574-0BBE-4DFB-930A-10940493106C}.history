@@ -32,9 +32,28 @@
     "itemName": "ApplePay_LandingPageBanner",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/ApplePay_LandingPageBanner",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{DE04E574-0BBE-4DFB-930A-10940493106C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.4889856Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ApplePay_LandingPageBanner",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/ApplePay_LandingPageBanner",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

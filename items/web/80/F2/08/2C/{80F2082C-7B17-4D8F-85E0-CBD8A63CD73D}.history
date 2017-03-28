@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{80F2082C-7B17-4D8F-85E0-CBD8A63CD73D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.9349903Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Manly",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/Sydney Beaches/Manly",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

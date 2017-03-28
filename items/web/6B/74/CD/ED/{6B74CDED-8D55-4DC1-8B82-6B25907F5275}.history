@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6B74CDED-8D55-4DC1-8B82-6B25907F5275}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.7029716Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Browser-Lockdown",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Browser-Lockdown",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

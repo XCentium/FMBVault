@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A558EA7D-F20F-468F-95A5-9232F4E9AC7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.4799787Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Youth Savings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Savings/Youth Savings",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

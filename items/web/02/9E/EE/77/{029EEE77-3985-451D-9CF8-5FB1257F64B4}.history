@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{029EEE77-3985-451D-9CF8-5FB1257F64B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.4309644Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Textcommands",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Textcommands",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

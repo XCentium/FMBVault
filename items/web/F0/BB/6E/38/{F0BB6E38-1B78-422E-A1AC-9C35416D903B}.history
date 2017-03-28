@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F0BB6E38-1B78-422E-A1AC-9C35416D903B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.0729749Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "External Links Modal",
+    "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/External Links Modal",
+    "template": "External Links Modal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

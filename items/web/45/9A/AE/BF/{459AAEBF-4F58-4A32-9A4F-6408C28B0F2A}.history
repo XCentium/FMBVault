@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{459AAEBF-4F58-4A32-9A4F-6408C28B0F2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.3749618Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phone_Tablet",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Phone_Tablet",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

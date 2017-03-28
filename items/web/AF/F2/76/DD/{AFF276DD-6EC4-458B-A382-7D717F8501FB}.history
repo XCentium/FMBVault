@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{AFF276DD-6EC4-458B-A382-7D717F8501FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.8759732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Should I respond to an e-mail from FM",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Should I respond to an e-mail from FM",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "How-to Videos",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Tools and Support/How-to Videos",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{CBA0DF04-3CCF-4580-B953-DFBEC1AA1E98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.2669793Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-to Videos",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Tools and Support/How-to Videos",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

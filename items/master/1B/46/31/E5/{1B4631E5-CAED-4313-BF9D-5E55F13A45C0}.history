@@ -32,9 +32,28 @@
     "itemName": "Mortgage-Rates-FMB Above Form",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD/Mortgage-Rates-FMB Above Form",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1B4631E5-CAED-4313-BF9D-5E55F13A45C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.2769790Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mortgage-Rates-FMB Above Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD/Mortgage-Rates-FMB Above Form",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

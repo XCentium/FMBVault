@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BD4DFFFF-B468-4CCE-9EA5-F38C622168E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:00.9829493Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-Twenty",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-Twenty",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

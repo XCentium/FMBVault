@@ -32,9 +32,28 @@
     "itemName": "Project",
     "itemPath": "/sitecore/media library/Project",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E39630B2-2328-4E73-BEE8-9EE7D5B85CF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:35.8939416Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Project",
+    "itemPath": "/sitecore/media library/Project",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

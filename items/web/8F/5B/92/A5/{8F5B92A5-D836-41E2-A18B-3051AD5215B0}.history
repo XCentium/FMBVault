@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{8F5B92A5-D836-41E2-A18B-3051AD5215B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:27.7239799Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "View All Locations",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/View All Locations",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{427511B0-88E9-4A32-9921-9CBC8FC87FB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:51.3629499Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PersonalFinancialStatementFM122",
+    "itemPath": "/sitecore/media library/Applications/PersonalFinancialStatementFM122",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

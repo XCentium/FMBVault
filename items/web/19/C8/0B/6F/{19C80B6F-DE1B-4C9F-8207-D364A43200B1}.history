@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{19C80B6F-DE1B-4C9F-8207-D364A43200B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:36.2649383Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Debit_Card_Fraud_Alerts_FAQ",
+    "itemPath": "/sitecore/media library/FAQs/Debit_Card_Fraud_Alerts_FAQ",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

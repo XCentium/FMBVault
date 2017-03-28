@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B462F88E-0C68-41FF-8C57-6FC48ED6332A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:23.7719785Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mobile-banking-main-banner",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/mobile-banking-main-banner",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

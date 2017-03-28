@@ -32,9 +32,28 @@
     "itemName": "KingArthur2017",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/KingArthur2017",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{ECCD9182-E915-413D-941F-7E13A2FAFD1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.3119844Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KingArthur2017",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/KingArthur2017",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

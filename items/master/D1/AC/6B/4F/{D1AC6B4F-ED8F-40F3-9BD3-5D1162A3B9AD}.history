@@ -70,9 +70,28 @@
     "itemName": "Online Account",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Online Account",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{D1AC6B4F-ED8F-40F3-9BD3-5D1162A3B9AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.9049794Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Account",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Online Account",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

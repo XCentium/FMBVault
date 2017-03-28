@@ -32,9 +32,28 @@
     "itemName": "Los Angeles County",
     "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County",
     "template": "Map Points Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{90DA4D29-63B4-4B27-8162-41E9E63FEBA0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.8019798Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Los Angeles County",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County",
+    "template": "Map Points Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

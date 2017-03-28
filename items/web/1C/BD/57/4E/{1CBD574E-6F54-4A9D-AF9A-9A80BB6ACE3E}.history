@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1CBD574E-6F54-4A9D-AF9A-9A80BB6ACE3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.6609793Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Apple-Pay",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Credit-Cards-Apple-Pay",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

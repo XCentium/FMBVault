@@ -32,9 +32,28 @@
     "itemName": "col-wide-2",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-wide-2",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{42332C9E-A35C-43F3-BC15-29F6F28BEBEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.3019793Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "col-wide-2",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-wide-2",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

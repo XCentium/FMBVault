@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{C84254BC-1F16-4F9A-AD3D-AB2A9730D3B0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.0359912Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Partner Network",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menu/Left/Partner Network",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

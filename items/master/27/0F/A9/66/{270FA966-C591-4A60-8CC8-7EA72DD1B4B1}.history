@@ -32,9 +32,28 @@
     "itemName": "BobMartinez-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/BobMartinez-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{270FA966-C591-4A60-8CC8-7EA72DD1B4B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:54.2909519Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BobMartinez-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/BobMartinez-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

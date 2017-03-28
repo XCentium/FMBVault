@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E40A8D0F-3C54-46FD-83C9-3447EF4335A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.4369861Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SanJuanCapistrano",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/SanJuanCapistrano",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{26310209-449C-4848-8EB1-E37482EBC5D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:50.0679509Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Terms and Conditions",
+    "itemPath": "/sitecore/media library/Terms and Conditions",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

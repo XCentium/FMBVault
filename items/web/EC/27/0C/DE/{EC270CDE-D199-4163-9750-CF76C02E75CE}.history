@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{EC270CDE-D199-4163-9750-CF76C02E75CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.8649763Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Trusteer-Logo",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Trusteer-Logo",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

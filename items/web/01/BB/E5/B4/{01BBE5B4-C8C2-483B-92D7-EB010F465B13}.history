@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{01BBE5B4-C8C2-483B-92D7-EB010F465B13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.6529780Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Headers",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {83F8989A-FE16-4FD5-AF9A-A55C9E1E1995}
+database: web
+path: /sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Mobile Banking/Security with FM banking text
+parent: {3AAB715C-13ED-451C-851F-E7606F31A6A4}
+name: Security with FM banking text
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170224T172019:636235536199400000
+
+----version----
+language: en
+version: 1
+revision: cf58fc2a-db16-42e5-b601-4bdcc4c138f9
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 939
+
+<h2 class="section-heading" style="font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 500; color: rgb(51, 51, 51); margin-bottom: 30px; font-size: 30px; text-transform: none;">Security with F&amp;M Mobile Banking.</h2><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">F&amp;M Mobile Banking utilizes best practice security services such as HTTPS, 128-bit SSL encryption, PIN or password access, and application time-out when your mobile phone or device is not in use. &nbsp;Only the phones that you personally enroll in the service can access your accounts. &nbsp;No account data is ever stored on your phone, including check images for Mobile Check Deposit. &nbsp;If your mobile phone or device is lost or stolen, you can disable the service immediately through Online Banking or by calling us at <br>(866) 437-0011.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170224T172020Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cf58fc2a-db16-42e5-b601-4bdcc4c138f9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T193644Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -32,9 +32,28 @@
     "itemName": "FM 693_Business Application",
     "itemPath": "/sitecore/media library/Applications/FM 693_Business Application",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{7771FDB9-3DC0-44B9-BF13-A03AC4FB853A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:51.9089505Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM 693_Business Application",
+    "itemPath": "/sitecore/media library/Applications/FM 693_Business Application",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

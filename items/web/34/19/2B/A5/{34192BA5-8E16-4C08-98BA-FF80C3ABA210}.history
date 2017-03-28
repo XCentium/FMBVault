@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{34192BA5-8E16-4C08-98BA-FF80C3ABA210}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.7739505Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JH",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/JH",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

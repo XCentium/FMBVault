@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2C9A142F-D825-48A7-8B5D-0D5C48FF01F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:54.4899531Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JAnderson-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/JAnderson-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

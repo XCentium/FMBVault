@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{524EE62D-EA45-4F8A-BD0A-4A32279A0D4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:40.9919078Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RDC-HowToGuide-FMB",
+    "itemPath": "/sitecore/media library/Brochures/RDC-HowToGuide-FMB",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

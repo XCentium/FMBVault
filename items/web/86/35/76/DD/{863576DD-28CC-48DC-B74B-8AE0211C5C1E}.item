@@ -1,0 +1,12 @@
+----item----
+version: 1
+id: {863576DD-28CC-48DC-B74B-8AE0211C5C1E}
+database: web
+path: /Online-Banking
+parent: {00000000-0000-0000-0000-000000000000}
+name: Online-Banking
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170120T172950:636205301903230000
+

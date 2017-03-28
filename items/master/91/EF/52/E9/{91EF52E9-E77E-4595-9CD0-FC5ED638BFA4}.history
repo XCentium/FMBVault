@@ -32,9 +32,28 @@
     "itemName": "Mortgage-Rates-500 Above Form",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD/Mortgage-Rates-500 Above Form",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{91EF52E9-E77E-4595-9CD0-FC5ED638BFA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.3019801Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mortgage-Rates-500 Above Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD/Mortgage-Rates-500 Above Form",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "HowToVideos_LandingPage_Thumbnails-BillPay",
     "itemPath": "/sitecore/media library/FMBCom/Images/How-To/Thumbnails/HowToVideos_LandingPage_Thumbnails-BillPay",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{6C4E7293-3994-47E0-AE8B-F101C705E94C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.5219525Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HowToVideos_LandingPage_Thumbnails-BillPay",
+    "itemPath": "/sitecore/media library/FMBCom/Images/How-To/Thumbnails/HowToVideos_LandingPage_Thumbnails-BillPay",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{C98E3247-2538-497D-AD61-F1EE6EF5492F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.0859813Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fm-pin-hover",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/fm-pin-hover",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

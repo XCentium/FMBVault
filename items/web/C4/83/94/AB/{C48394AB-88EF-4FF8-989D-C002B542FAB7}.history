@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{C48394AB-88EF-4FF8-989D-C002B542FAB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.2299590Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PictureThis",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/PictureThis",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1FD7B4AB-F1A6-4579-97CC-F1CBBE95E445}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:01.2149510Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-CSS1907Divider",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-CSS1907Divider",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

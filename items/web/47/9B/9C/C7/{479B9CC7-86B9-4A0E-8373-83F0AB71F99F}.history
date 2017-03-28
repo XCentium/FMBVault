@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{479B9CC7-86B9-4A0E-8373-83F0AB71F99F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:02.5699581Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-RLD500Header",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-RLD500Header",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

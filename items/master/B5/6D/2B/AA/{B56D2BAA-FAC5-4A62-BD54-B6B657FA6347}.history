@@ -32,9 +32,28 @@
     "itemName": "What are FMs banking hours",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What are FMs banking hours",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B56D2BAA-FAC5-4A62-BD54-B6B657FA6347}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.0369730Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What are FMs banking hours",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What are FMs banking hours",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

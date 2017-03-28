@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D03FDDE5-115B-46CB-8888-FA6B46EB1B45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.7949733Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the FDIC",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What is the FDIC",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{0565EA36-B64B-4398-8AF4-96A43F64F21C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.1319809Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-CheckWhite",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/FMB-CheckWhite",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

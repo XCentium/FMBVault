@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7190BA19-C4D2-410C-90ED-232AE549B7E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.6449685Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "medeSolutions_feesheet_Thumbnail",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/medeSolutions_feesheet_Thumbnail",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

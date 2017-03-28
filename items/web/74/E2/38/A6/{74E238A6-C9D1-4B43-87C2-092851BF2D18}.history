@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{74E238A6-C9D1-4B43-87C2-092851BF2D18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.5699794Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/CRE",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

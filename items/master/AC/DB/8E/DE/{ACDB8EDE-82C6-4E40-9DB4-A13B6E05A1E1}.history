@@ -32,9 +32,28 @@
     "itemName": "Commercial Loan",
     "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Commercial Loan",
     "template": "Calculator",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{ACDB8EDE-82C6-4E40-9DB4-A13B6E05A1E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.3289751Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commercial Loan",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Commercial Loan",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

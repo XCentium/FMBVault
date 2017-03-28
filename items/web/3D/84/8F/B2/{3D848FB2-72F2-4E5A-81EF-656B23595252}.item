@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {3D848FB2-72F2-4E5A-81EF-656B23595252}
+database: web
+path: /sitecore/layout/Renderings/Project/Common/Section Columns/2 Column 7-5
+parent: {1D0A84FB-AC8E-456C-B9EE-19D264E09F31}
+name: 2 Column 7-5
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+created: 20170224T181222:636235567426930000
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 44
+
+/Views/Common/Sublayouts/2 Column 7-5.cshtml
+----field----
+field: {EF7C5528-7307-4E19-863B-DA19EED6A9ED}
+name: Open Properties after Add
+key: open properties after add
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: b546accf-7fae-42d3-a315-1d046c89331d
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170214T164052Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b546accf-7fae-42d3-a315-1d046c89331d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T225817Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{EEF284F3-7AAF-4749-B07C-5B56015531C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.5549844Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SantaAna",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/SantaAna",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "FM Credit Card",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans/FM Credit Card",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{D95BB553-9DB6-4F40-9199-2BE7539F22F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:24.8729799Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans/FM Credit Card",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

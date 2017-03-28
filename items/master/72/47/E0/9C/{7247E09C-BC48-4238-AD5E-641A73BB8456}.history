@@ -32,9 +32,28 @@
     "itemName": "Protecting Home Ownership",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans/Protecting Home Ownership",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{7247E09C-BC48-4238-AD5E-641A73BB8456}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:24.8559787Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Protecting Home Ownership",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans/Protecting Home Ownership",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

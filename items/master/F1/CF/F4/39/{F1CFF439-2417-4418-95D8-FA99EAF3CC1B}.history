@@ -32,9 +32,28 @@
     "itemName": "Products",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{F1CFF439-2417-4418-95D8-FA99EAF3CC1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.1419802Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Products",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

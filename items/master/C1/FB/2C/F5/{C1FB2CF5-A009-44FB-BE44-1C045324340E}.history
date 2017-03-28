@@ -32,9 +32,28 @@
     "itemName": "HomeLoanCenter",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/HomeLoanCenter",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C1FB2CF5-A009-44FB-BE44-1C045324340E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.6659879Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomeLoanCenter",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/HomeLoanCenter",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

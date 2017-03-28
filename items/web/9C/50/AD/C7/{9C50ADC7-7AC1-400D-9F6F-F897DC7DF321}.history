@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9C50ADC7-7AC1-400D-9F6F-F897DC7DF321}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:35.8709395Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MattGreville-sm",
+    "itemPath": "/sitecore/media library/MattGreville-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

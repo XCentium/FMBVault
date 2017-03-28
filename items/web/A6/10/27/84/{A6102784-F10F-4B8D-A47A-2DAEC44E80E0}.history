@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A6102784-F10F-4B8D-A47A-2DAEC44E80E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:27.5199783Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Branches Menu",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

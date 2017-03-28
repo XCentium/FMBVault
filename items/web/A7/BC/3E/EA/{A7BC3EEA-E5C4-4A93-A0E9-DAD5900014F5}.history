@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A7BC3EEA-E5C4-4A93-A0E9-DAD5900014F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:27.1909796Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Login",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Modal Whitelist/Mobile Login",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

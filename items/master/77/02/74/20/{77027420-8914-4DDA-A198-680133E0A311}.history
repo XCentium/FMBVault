@@ -32,9 +32,28 @@
     "itemName": "Rossmoor",
     "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Rossmoor",
     "template": "Map Point",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{77027420-8914-4DDA-A198-680133E0A311}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.4839795Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rossmoor",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Rossmoor",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{CB980357-B05A-49E8-8685-8238CC8C0864}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.4139752Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "California Closets",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Testimonials/California Closets",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

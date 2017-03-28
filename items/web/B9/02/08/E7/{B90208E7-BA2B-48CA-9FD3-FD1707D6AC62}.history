@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B90208E7-BA2B-48CA-9FD3-FD1707D6AC62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:38.1829246Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccountFunnelFirstStep",
+    "itemPath": "/sitecore/media library/Feature/Forms/AccountFunnelFirstStep",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B712BBFA-63F2-4A47-908D-8D99B594C828}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.1769833Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-EHLIconWhite",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/FMB-EHLIconWhite",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

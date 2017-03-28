@@ -32,9 +32,28 @@
     "itemName": "CRE Above Form",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/CRE/CRE Above Form",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{DB644DB9-C516-4004-AD8D-CC7AEB17CC50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.6029794Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE Above Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/CRE/CRE Above Form",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

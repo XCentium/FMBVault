@@ -32,9 +32,28 @@
     "itemName": "Ratings-Home",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Ratings/Ratings-Home",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B94E406E-1517-4032-9C7D-B61FDC70B651}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.7039786Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ratings-Home",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Ratings/Ratings-Home",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

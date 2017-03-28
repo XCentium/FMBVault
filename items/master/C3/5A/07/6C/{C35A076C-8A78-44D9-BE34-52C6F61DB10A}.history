@@ -32,9 +32,28 @@
     "itemName": "HEligio",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/HEligio",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C35A076C-8A78-44D9-BE34-52C6F61DB10A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:57.2959508Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HEligio",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/HEligio",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

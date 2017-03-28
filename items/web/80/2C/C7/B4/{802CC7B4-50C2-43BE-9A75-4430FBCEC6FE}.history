@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{802CC7B4-50C2-43BE-9A75-4430FBCEC6FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.8969797Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Box Options",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Feature/Accounts/Login Box Options",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D411D80B-B007-4952-A763-FC4E0ED5BDB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.3769792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rates Disclosure",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Rates Disclosure",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

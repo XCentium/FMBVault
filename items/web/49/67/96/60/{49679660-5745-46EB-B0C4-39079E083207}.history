@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{49679660-5745-46EB-B0C4-39079E083207}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:49.1159499Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomeLoans_Web",
+    "itemPath": "/sitecore/media library/Brochures/HomeLoans_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

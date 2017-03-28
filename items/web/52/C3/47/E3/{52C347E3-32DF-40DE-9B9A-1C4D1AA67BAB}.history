@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{52C347E3-32DF-40DE-9B9A-1C4D1AA67BAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:59.7879510Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cdrates",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/cdrates",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

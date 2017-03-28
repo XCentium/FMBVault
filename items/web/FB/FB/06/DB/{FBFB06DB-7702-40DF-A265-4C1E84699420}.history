@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{FBFB06DB-7702-40DF-A265-4C1E84699420}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.1799897Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brochures",
+    "itemPath": "/sitecore/media library/FMBCom/Files/Brochures",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

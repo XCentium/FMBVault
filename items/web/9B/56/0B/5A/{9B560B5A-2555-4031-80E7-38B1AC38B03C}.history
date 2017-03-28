@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9B560B5A-2555-4031-80E7-38B1AC38B03C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:37.6159289Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MoreTestimonials",
+    "itemPath": "/sitecore/media library/Feature/Testimonial/MoreTestimonials",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

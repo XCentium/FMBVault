@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9E4218B0-0793-4FAC-B4AF-115BD0658D6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.3669792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "College Checking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Checking Options - Teen College Senior/College Checking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

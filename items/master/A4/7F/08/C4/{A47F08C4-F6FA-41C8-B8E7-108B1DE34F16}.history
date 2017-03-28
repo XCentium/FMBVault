@@ -32,9 +32,28 @@
     "itemName": "Memorial Hospital",
     "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County/Memorial Hospital",
     "template": "Map Point",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{A47F08C4-F6FA-41C8-B8E7-108B1DE34F16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.8339795Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Memorial Hospital",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/FM Locations/Los Angeles County/Memorial Hospital",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

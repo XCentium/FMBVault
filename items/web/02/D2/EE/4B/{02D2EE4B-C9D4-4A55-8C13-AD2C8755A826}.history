@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{02D2EE4B-C9D4-4A55-8C13-AD2C8755A826}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.1439795Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Definitions - Anchor Link",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Definitions - Anchor Link",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

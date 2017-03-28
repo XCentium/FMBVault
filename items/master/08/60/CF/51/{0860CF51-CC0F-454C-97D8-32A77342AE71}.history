@@ -32,9 +32,28 @@
     "itemName": "GardenGrove",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/GardenGrove",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0860CF51-CC0F-454C-97D8-32A77342AE71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.0789898Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GardenGrove",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/GardenGrove",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

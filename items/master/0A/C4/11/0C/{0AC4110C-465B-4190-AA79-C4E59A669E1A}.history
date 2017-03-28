@@ -32,9 +32,28 @@
     "itemName": "KTiber",
     "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/KTiber",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0AC4110C-465B-4190-AA79-C4E59A669E1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:59.0309517Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KTiber",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/KTiber",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

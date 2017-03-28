@@ -32,9 +32,28 @@
     "itemName": "Experience Explorer",
     "itemPath": "/sitecore/media library/Experience Explorer",
     "template": "Node",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{55CDBC4D-38B0-4DB8-8A6E-0C9FBBE8F3A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:39.7489161Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Explorer",
+    "itemPath": "/sitecore/media library/Experience Explorer",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

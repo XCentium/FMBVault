@@ -32,9 +32,28 @@
     "itemName": "Cash Flow",
     "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Cash Flow",
     "template": "Calculator",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5D760641-862A-4BD3-857E-8AC1115537E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.3129760Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cash Flow",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Cash Flow",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

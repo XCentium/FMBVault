@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{59FEF6BC-06A9-4C64-964A-CBD4D4977F39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:53.3809517Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-Fullerton",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Press Releases/FMB-Fullerton",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

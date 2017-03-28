@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3BB8DD31-EBCC-4ED2-BFC2-1265ED5785B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.2439842Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBLANDING-Iowa-1920x600",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/FMBLANDING-Iowa-1920x600",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

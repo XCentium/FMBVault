@@ -32,9 +32,28 @@
     "itemName": "RLD",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD",
     "template": "Content Module Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{DD8813E7-0644-47F4-8CC4-6C23B7FAFCEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.2039783Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/RLD",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

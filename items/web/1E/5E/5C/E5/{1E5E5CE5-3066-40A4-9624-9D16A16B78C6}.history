@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1E5E5CE5-3066-40A4-9624-9D16A16B78C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:36.0829403Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download-vCard",
+    "itemPath": "/sitecore/media library/Project/Common/Files/Download-vCard",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A6FAFF92-5E8B-446B-8F38-193949BB1613}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:38.1069265Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLDForm",
+    "itemPath": "/sitecore/media library/Feature/Forms/RLDForm",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

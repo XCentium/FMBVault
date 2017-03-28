@@ -32,9 +32,28 @@
     "itemName": "Landing Pages",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages",
     "template": "Content Module Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{D66A3CF1-77B8-427A-B299-3EE52149B7FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.7329799Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Landing Pages",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

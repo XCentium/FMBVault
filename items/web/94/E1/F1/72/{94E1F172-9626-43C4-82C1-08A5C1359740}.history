@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{94E1F172-9626-43C4-82C1-08A5C1359740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.0469895Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Main",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

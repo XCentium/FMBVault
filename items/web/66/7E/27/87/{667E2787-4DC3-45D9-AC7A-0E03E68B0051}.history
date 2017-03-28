@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{667E2787-4DC3-45D9-AC7A-0E03E68B0051}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.9469792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Enroll in Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Enroll in Online Banking",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

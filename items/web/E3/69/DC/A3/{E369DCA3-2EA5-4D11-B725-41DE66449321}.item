@@ -1,0 +1,82 @@
+----item----
+version: 1
+id: {E369DCA3-2EA5-4D11-B725-41DE66449321}
+database: web
+path: /sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Landing Page Footer - Black
+parent: {D66A3CF1-77B8-427A-B299-3EE52149B7FC}
+name: Landing Page Footer - Black
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170224T181209:636235567295970000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 12506026-b21e-4b79-aee5-e12e435ce9b5
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 472
+
+<div id="landingPageFooter">
+<img src="-/media/B4F695EC73504E488E7317097060156A.ashx" alt="Strength Security, Member FDIC, and Equal Housing Lender"><br><br>
+<a href="https://www.fmb.com/privacy">Privacy Policy</a> | <a href="https://www.fmb.com/terms">Terms &amp; Conditions</a><br>
+© 2017 Farmers &amp; Merchants Bank.  All rights reserved. NMLS #537388
+</div>
+
+<style>
+#landingPageFooter { text-align: center; color: #000; }
+#landingPageFooter a {color: #000;}
+</style>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T232554Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+12506026-b21e-4b79-aee5-e12e435ce9b5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T153728Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

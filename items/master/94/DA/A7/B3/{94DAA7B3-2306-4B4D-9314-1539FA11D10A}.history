@@ -32,9 +32,28 @@
     "itemName": "Downey",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Downey",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{94DAA7B3-2306-4B4D-9314-1539FA11D10A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.7889885Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Downey",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Downey",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

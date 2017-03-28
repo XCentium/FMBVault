@@ -32,9 +32,28 @@
     "itemName": "Customer Support",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Tools and Support/Customer Support",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{46A13229-BBF3-4E34-A80E-8619D27BF453}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.2879794Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Customer Support",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Tools and Support/Customer Support",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

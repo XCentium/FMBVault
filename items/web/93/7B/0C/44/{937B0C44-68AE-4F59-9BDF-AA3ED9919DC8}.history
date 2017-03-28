@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{937B0C44-68AE-4F59-9BDF-AA3ED9919DC8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:37.9709270Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EmployeeContactTile",
+    "itemPath": "/sitecore/media library/Feature/Person/EmployeeContactTile",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "Lines of Credit",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Credits and Loans/Lines of Credit",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{F6B67385-F206-4D7A-B848-38B8ABF6DAD8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.7279803Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lines of Credit",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Credits and Loans/Lines of Credit",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "SoundFriendlyBankingSvcLogo",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/SoundFriendlyBankingSvcLogo",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{85082DD9-C917-4093-98F7-CA232C3FB858}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:01.7269542Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SoundFriendlyBankingSvcLogo",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/SoundFriendlyBankingSvcLogo",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

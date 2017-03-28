@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{185D3CFC-D524-4CA5-995D-F7BF00B3F167}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.7149792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How to Enroll",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Brochures/How to Enroll",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

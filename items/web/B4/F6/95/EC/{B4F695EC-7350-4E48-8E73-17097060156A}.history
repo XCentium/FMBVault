@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B4F695EC-7350-4E48-8E73-17097060156A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:00.0539523Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "footer-icons",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/footer-icons",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "SThomas-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/SThomas-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{3E50B556-07FD-460F-8A3A-8ADA838D2F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:56.8649515Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SThomas-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/SThomas-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

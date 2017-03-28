@@ -32,9 +32,28 @@
     "itemName": "Download-vCard",
     "itemPath": "/sitecore/media library/Project/Common/Files/Download-vCard",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1E5E5CE5-3066-40A4-9624-9D16A16B78C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:36.0909405Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download-vCard",
+    "itemPath": "/sitecore/media library/Project/Common/Files/Download-vCard",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

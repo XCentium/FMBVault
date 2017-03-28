@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{18354A7E-F9ED-4FB6-A54F-5FEEAA690BE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:56.9889522Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ComingSoonBox",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/ComingSoonBox",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "BBeloussow",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/BBeloussow",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5CE48B77-DF48-4AAF-944D-372DA716A1FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:56.4129509Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BBeloussow",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/BBeloussow",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

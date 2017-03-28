@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{8527ECDE-7A0F-45CB-99AA-9A2F418B5C88}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.9959905Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Community",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menu/Left/Community",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

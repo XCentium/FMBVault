@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{0D84CB80-C256-413F-9109-A3325DE71CCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.7269874Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RollingHills",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/RollingHills",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

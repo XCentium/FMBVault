@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{0818BF37-FF4B-471F-99EB-7C5D37DFBB91}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.0289910Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Knowledge Base",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menu/Left/Knowledge Base",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

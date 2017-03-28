@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BC88762B-49F2-4F45-A63D-D96337A75CEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.9509790Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News and Community",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/News and Community",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{8C606DAC-1E0F-4F0E-8417-6868753B9A5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:43.2408927Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB - 110 Years",
+    "itemPath": "/sitecore/media library/Brochures/FMB - 110 Years",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

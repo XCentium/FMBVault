@@ -32,9 +32,28 @@
     "itemName": "Return to Fmb button",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Return to Fmb button",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{3F11D0A1-6674-409F-8EE5-90C4A5C0BE5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:21.1819786Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Return to Fmb button",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Return to Fmb button",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

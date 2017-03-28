@@ -32,9 +32,28 @@
     "itemName": "CLe-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/CLe-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{BF5B0C75-A6C4-494D-AD20-119F0E45F989}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:56.8369521Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CLe-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/CLe-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

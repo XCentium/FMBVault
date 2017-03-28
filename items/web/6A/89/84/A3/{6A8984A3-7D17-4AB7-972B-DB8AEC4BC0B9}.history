@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6A8984A3-7D17-4AB7-972B-DB8AEC4BC0B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.8269780Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OfficeBannerMap",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Feature/Office/OfficeBannerMap",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

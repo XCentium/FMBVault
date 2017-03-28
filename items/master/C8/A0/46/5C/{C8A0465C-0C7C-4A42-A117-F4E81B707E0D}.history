@@ -32,9 +32,28 @@
     "itemName": "AOTPFeature",
     "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/AOTPFeature",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C8A0465C-0C7C-4A42-A117-F4E81B707E0D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.1649510Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AOTPFeature",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/AOTPFeature",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

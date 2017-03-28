@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{863576DD-28CC-48DC-B74B-8AE0211C5C1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.8749908Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online-Banking",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Online-Banking",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

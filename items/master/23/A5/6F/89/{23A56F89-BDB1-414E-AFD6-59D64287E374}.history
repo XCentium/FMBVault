@@ -32,9 +32,28 @@
     "itemName": "mobile-banking-landing-page-banner",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/mobile-banking-landing-page-banner",
     "template": "Carousel",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{23A56F89-BDB1-414E-AFD6-59D64287E374}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:24.7049789Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mobile-banking-landing-page-banner",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/mobile-banking-landing-page-banner",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Working Capital Needs",
     "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Working Capital Needs",
     "template": "Calculator",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{BA6BDF69-CB8E-4EE7-B1D0-B22F5B531629}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:19.1669749Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Working Capital Needs",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Working Capital Needs",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{378DF86C-B159-49D1-B4E6-72A3AA9F2C11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:47.4558880Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BusinessSolutions_Web",
+    "itemPath": "/sitecore/media library/Brochures/BusinessSolutions_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

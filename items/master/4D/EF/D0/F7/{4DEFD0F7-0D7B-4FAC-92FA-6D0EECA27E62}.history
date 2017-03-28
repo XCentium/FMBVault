@@ -32,9 +32,28 @@
     "itemName": "What is FM routing number",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What is FM routing number",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{4DEFD0F7-0D7B-4FAC-92FA-6D0EECA27E62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.9609736Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is FM routing number",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What is FM routing number",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{94A4FEEF-5A85-47ED-95BE-D4761A5595D2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.9689956Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sydney",
+    "itemPath": "/sitecore/content/FMBCom/Global/Map Points/Sitecore Offices/Sydney",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

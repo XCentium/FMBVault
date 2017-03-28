@@ -70,9 +70,28 @@
     "itemName": "business-banner-default",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/business-banner-default",
     "template": "Carousel",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5E9B6A17-00DE-493F-A914-569838129F9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:24.7449793Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "business-banner-default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/business-banner-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BB5730AC-9F63-459E-9240-022CCFA877AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.7019797Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Real Estate and Construction",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Credits and Loans/Real Estate and Construction",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

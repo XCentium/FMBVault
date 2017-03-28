@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B7D2AD36-6E41-429E-8D3B-FF6D718848A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:38.7819236Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBank110yearbook",
+    "itemPath": "/sitecore/media library/Images/FMBank110yearbook",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

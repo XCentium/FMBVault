@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3CB39BC5-B371-4630-8BA6-F0BAD745CF34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.2719846Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CongressionalCup2017",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/CongressionalCup2017",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

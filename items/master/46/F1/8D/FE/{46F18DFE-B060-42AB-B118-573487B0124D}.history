@@ -32,9 +32,28 @@
     "itemName": "SignOff-USSIowa",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/SignOff-USSIowa",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{46F18DFE-B060-42AB-B118-573487B0124D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.8239824Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SignOff-USSIowa",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/Signoff/SignOff-USSIowa",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{8F6BD5A0-76B1-4492-B5B5-BEA96EA390E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.9519885Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fullerton",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Fullerton",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

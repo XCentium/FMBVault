@@ -1,0 +1,70 @@
+----item----
+version: 1
+id: {B4A3E8F5-A8A1-4308-9C68-EE0CB707BCE4}
+database: web
+path: /sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Savings Account - Limitations
+parent: {6E2AEAD8-CBC5-45F5-9D4B-6BBAC520E8E6}
+name: Savings Account - Limitations
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170313T180527:636250251271670000
+
+----version----
+language: en
+version: 1
+revision: b279297f-ebf6-4031-82a8-3eb17e3d156d
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 754
+
+<ol>
+    <li>Up to six transfers or withdrawals are allowed per month for savings accounts and per monthly statement cycle for money market accounts to another account of the depositor or to a third party by means of a pre-authorized, automatic or telephonic transfer, or by check, draft, debit card, ATM card or similar order payable to third parties. Exceeding these limitations may result in the closure of your account or the transfer of funds to another qualified account type.</li>
+    <li>Other financial institutions and ATM operators may charge an additional surcharge fee for use of their ATM, which is disclosed and debited at the time of your transaction.</li>
+    <li>Online Banking is available for clients 13 years old and over.</li>
+</ol>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170313T180527Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b279297f-ebf6-4031-82a8-3eb17e3d156d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T180613Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{59EF850F-CEC6-461F-A98C-595678ECE412}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:37.3339310Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NewsArticle",
+    "itemPath": "/sitecore/media library/Feature/News/NewsArticle",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

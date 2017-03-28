@@ -32,9 +32,28 @@
     "itemName": "Rolling Hills Estates",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Rolling Hills Estates",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1EDA68D4-C026-4E2F-B68D-9F303A52A5E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:27.5679809Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rolling Hills Estates",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Branches Menu/Rolling Hills Estates",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Site Footer",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Site Footer",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{DB1E4482-165A-428A-8845-AA159993CEE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.5339796Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Footer",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Site Footer",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

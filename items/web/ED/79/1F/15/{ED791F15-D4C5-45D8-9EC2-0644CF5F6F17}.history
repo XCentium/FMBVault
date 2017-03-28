@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{ED791F15-D4C5-45D8-9EC2-0644CF5F6F17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.0145289Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winspire_Thumbnail",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/Thumbnails/Winspire_Thumbnail",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

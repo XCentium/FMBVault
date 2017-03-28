@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{FF4CA14C-6F85-46D7-A947-5EB62BBF678E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:26.0609794Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Press Releases",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/News and Community/Press Releases",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

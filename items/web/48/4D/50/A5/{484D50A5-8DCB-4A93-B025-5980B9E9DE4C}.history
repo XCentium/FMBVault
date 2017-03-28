@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{484D50A5-8DCB-4A93-B025-5980B9E9DE4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:23.7059793Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chip",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Chip",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

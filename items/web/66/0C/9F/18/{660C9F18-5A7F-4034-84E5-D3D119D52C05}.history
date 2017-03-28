@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{660C9F18-5A7F-4034-84E5-D3D119D52C05}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:39.8759154Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NatKing",
+    "itemPath": "/sitecore/media library/NatKing",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

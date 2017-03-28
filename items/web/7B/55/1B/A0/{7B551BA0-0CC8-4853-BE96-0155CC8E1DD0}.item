@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {7B551BA0-0CC8-4853-BE96-0155CC8E1DD0}
+database: web
+path: /sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Mobile Banking/Questions and Footnotes
+parent: {3AAB715C-13ED-451C-851F-E7606F31A6A4}
+name: Questions and Footnotes
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170224T191219:636235603396670000
+
+----version----
+language: en
+version: 1
+revision: 537aca08-2b3c-4c9f-b1a7-137945a602ab
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 1483
+
+<div id="Questions text" style="color: #333333; font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; width: 300px; float: left; padding-top: 20px; margin-left: 10px; line-height: 11px;">
+<p><span style="font-weight: 700;">Questions?</span></p>
+<p>Call us at (866) 437-0011</p>
+<p>Monday-Friday 7:00 am-9:00 pm</p>
+<p>Saturday 8:00 am-9:00 pm</p>
+<p>Sunday 8:00 am-5:00 pm PT</p>
+<br>
+<a href="~/link.aspx?_id=6088E9FDF87F43E5863352CCADF3682C&amp;_z=z">Frequently Asked Questions</a></div>
+<span id="disclosures" style="float: left; margin-left: 10px; padding-top: 20px; font-size: xx-small; font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333;"></span>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<small>You must be enrolled in F&amp;M Online Banking to enroll in Mobile Banking.<br>
+F&amp;M Bank does not charge for these services, however, your wireless carrier may charge you for fees related to these services.<br>
+*Certain eligibility requirements, limitations and restrictions may apply. &nbsp;Availability of your deposited funds is based on F&amp;M's hold policies, are subject to verification and are not available for immediate withdrawal.<br>
+Apple, the Apple logo, iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries.&nbsp;<br>
+App Store is a service mark of Apple Inc.<br>
+Android is a trademark of Google Inc.</small>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170224T191219Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+537aca08-2b3c-4c9f-b1a7-137945a602ab
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170227T172518Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

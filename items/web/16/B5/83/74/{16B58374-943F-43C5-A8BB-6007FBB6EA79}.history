@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{16B58374-943F-43C5-A8BB-6007FBB6EA79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:37.9109285Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ZipSearchForm",
+    "itemPath": "/sitecore/media library/Feature/Maps/ZipSearchForm",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

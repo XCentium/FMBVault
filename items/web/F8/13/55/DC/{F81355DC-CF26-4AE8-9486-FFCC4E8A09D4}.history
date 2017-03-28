@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F81355DC-CF26-4AE8-9486-FFCC4E8A09D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:30.1849811Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Media/Image",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

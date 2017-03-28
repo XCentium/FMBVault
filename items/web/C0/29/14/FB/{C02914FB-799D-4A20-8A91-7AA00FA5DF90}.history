@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{C02914FB-799D-4A20-8A91-7AA00FA5DF90}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.1319900Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Wiki",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/GitHub/Wiki",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

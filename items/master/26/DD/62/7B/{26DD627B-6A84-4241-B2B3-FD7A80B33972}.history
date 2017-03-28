@@ -32,9 +32,28 @@
     "itemName": "BBB-Rating",
     "itemPath": "/sitecore/media library/FMBCom/Images/General/BBB-Rating",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{26DD627B-6A84-4241-B2B3-FD7A80B33972}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:03.3549612Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BBB-Rating",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/BBB-Rating",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

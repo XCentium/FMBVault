@@ -32,9 +32,28 @@
     "itemName": "2 Column 7-5",
     "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns/2 Column 7-5",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{3D848FB2-72F2-4E5A-81EF-656B23595252}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:30.9939775Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "2 Column 7-5",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns/2 Column 7-5",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "YouthAccounts_Web",
     "itemPath": "/sitecore/media library/Brochures/YouthAccounts_Web",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C6519B17-04D8-4BBE-BF2C-FF3ED765BD8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:45.7298765Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "YouthAccounts_Web",
+    "itemPath": "/sitecore/media library/Brochures/YouthAccounts_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

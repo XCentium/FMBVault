@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1281F12D-EEB1-41E1-B9A8-84F6FA61B83F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:20.5199792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subject to Credit Approval",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Subject to Credit Approval",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

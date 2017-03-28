@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{36D29A97-F2DC-4B5F-BC13-49D04F00069D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.9109882Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CallCenter",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/CallCenter",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

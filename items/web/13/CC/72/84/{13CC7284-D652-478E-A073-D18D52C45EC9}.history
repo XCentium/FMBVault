@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{13CC7284-D652-478E-A073-D18D52C45EC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:56.2659522Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DWhite-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/DWhite-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

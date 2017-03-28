@@ -32,9 +32,28 @@
     "itemName": "Symphony",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Symphony",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{3CF7C2E0-9540-424A-BB5F-9381D272266E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:23.4339785Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Symphony",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Symphony",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

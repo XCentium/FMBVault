@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{0B6D2B4C-5006-48B5-9B6F-5E321A195735}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:23.0219797Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To Enroll in Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/How To/How-To Enroll in Online Banking",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

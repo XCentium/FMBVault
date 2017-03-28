@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F80FF35A-DC6C-4141-8CBE-87E73ED25949}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:48.9039494Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB_Application",
+    "itemPath": "/sitecore/media library/Brochures/FMB_Application",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

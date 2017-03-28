@@ -32,9 +32,28 @@
     "itemName": "PhilBond-sig",
     "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/PhilBond-sig",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{65CA1237-C518-4555-846B-4AC75338A01D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.8389600Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PhilBond-sig",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/PhilBond-sig",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

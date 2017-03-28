@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D0C46A6F-0E7C-4DB9-BF97-88A4AE520FE5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:25.7939789Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Business Loans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Business Credits and Loans/Small Business Loans",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{9964A6A2-D6D0-4D7F-8F48-8296B6B0BC2D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.1389887Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How to Contribute",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/GitHub/How to Contribute",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E2A76370-D495-4DF2-802D-19EA7FD01FB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.4999862Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NewportBeach",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/NewportBeach",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

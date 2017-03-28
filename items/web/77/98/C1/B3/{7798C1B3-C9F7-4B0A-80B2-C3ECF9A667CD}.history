@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7798C1B3-C9F7-4B0A-80B2-C3ECF9A667CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:04.0609806Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-CheckGreen",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/FMB-CheckGreen",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

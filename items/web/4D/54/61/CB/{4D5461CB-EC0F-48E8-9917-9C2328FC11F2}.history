@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4D5461CB-EC0F-48E8-9917-9C2328FC11F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.7579878Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CoronaDelMar",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/CoronaDelMar",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

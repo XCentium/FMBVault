@@ -32,9 +32,28 @@
     "itemName": "Contact",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Header Menu/Contact",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{4B9C1296-96C4-4F54-8554-CCE2B97622F2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:28.1059783Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Header Menu/Contact",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

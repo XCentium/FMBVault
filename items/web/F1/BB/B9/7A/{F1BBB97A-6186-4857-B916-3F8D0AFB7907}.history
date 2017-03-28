@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F1BBB97A-6186-4857-B916-3F8D0AFB7907}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:36.9739341Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ContentModule",
+    "itemPath": "/sitecore/media library/Feature/PageContent/ContentModule",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

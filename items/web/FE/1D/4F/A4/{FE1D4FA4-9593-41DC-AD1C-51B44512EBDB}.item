@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {FE1D4FA4-9593-41DC-AD1C-51B44512EBDB}
+database: web
+path: /sitecore/content/FMBCom/Global/Content Modules/Landing Pages/Mobile Banking/Picture This Text
+parent: {3AAB715C-13ED-451C-851F-E7606F31A6A4}
+name: Picture This Text
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170224T170931:636235529719100000
+
+----version----
+language: en
+version: 1
+revision: 1311848e-1d1f-4db0-9c72-2d4ca7cd0394
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 668
+
+<h2 class="section-heading" style="font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 500; color: rgb(51, 51, 51); margin-bottom: 30px; font-size: 30px; text-transform: none;">Picture this:<br>Deposit Checks on your schedule.</h2><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">Mobile Check Deposit* is an easy and convenient way to deposit checks into your accounts from your mobile phone or device. &nbsp;Take a photo of your check, enter the check information and securely submit your deposit for processing. &nbsp;View your deposit history.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170224T170931Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1311848e-1d1f-4db0-9c72-2d4ca7cd0394
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T171619Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

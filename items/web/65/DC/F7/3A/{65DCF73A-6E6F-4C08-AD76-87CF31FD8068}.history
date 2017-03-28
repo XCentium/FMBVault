@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{65DCF73A-6E6F-4C08-AD76-87CF31FD8068}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.1299800Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Classic Checking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Checking Options/Classic Checking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

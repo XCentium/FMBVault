@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{39591CC8-6863-4675-BB09-64B545514719}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:30.8249800Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HowTo",
+    "itemPath": "/sitecore/layout/Renderings/Feature/HowTo/HowTo",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

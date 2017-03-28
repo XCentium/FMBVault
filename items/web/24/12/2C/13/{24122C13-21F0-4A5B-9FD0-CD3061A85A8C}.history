@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{24122C13-21F0-4A5B-9FD0-CD3061A85A8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:36.4459364Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online-Security-FAQs",
+    "itemPath": "/sitecore/media library/FAQs/Online-Security-FAQs",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "Torrance",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Torrance",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C90D0727-166C-4E71-893C-4E8A45E2D4DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.6129856Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Torrance",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/Torrance",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

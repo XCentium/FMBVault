@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7B75D1B6-56BC-4B3F-B99E-576A93E2B634}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:02.2849572Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB-MainBGImage",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-MainBGImage",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

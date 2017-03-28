@@ -1,0 +1,164 @@
+----item----
+version: 1
+id: {60AFE5BB-D84F-4212-8E91-58FDBB6DC21A}
+database: web
+path: /sitecore/media library/FMBCom/Images/Icons/PhoneIcon
+parent: {A0E2B98F-ACCB-40BE-B1DB-07AEB0AA6D43}
+name: PhoneIcon
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20170301T204934:636239981744900000
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 3336
+
+iVBORw0KGgoAAAANSUhEUgAAAFcAAABaCAYAAADNVsqyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
+NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFu
+Y2VJRD0ieG1wLmlpZDpCNUFGQ0Y3OUJCREUxMUU1OTJENThGMTk4QjYzRjk2NiIgeG1wTU06RG9j
+dW1lbnRJRD0ieG1wLmRpZDpCNUFGQ0Y3QUJCREUxMUU1OTJENThGMTk4QjYzRjk2NiI+IDx4bXBN
+TTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkI1QUZDRjc3QkJERTExRTU5
+MkQ1OEYxOThCNjNGOTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkI1QUZDRjc4QkJERTEx
+RTU5MkQ1OEYxOThCNjNGOTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4
+bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+5wbZ4QAABflJREFUeNrsnWtsVEUYhqeL1lqI2NB6
+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
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+87
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+90
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+2439
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+87 x 90
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/60AFE5BBD84F42128E9158FDBB6DC21A.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 77d61ced-2dbb-4929-a95c-4ca5c41d3772
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 5
+
+phone
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170301T204934Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+77d61ced-2dbb-4929-a95c-4ca5c41d3772
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170301T204951Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

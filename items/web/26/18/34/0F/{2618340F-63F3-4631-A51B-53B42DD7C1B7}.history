@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{2618340F-63F3-4631-A51B-53B42DD7C1B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:07.1599888Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Branch Details",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Maps/Branch Details",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

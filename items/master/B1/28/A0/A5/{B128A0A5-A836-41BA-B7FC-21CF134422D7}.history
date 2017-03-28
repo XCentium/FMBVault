@@ -32,9 +32,28 @@
     "itemName": "PSblendorio-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/PSblendorio-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B128A0A5-A836-41BA-B7FC-21CF134422D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:56.9549511Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PSblendorio-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/PSblendorio-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

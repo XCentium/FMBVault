@@ -32,9 +32,28 @@
     "itemName": "Architecture Introduction",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Architecture Introduction",
     "template": "Video",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "84e6dfb2236de0f28abb58b43e05d7ef01d08601",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{435EC034-EF69-446F-8EE5-B589FAD3519B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:24.1019791Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Architecture Introduction",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Architecture Introduction",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

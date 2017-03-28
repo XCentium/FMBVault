@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{70A2C000-2DEE-4CCF-B69C-FA2C3533EF1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:06.0129895Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LosAltos",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/LosAltos",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

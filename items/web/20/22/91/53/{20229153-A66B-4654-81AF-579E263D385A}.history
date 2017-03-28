@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "web",
+    "itemId": "{20229153-A66B-4654-81AF-579E263D385A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:27.4429793Z",
+    "label": "Version 1 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Electronic Lockbox",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/Electronic Lockbox",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

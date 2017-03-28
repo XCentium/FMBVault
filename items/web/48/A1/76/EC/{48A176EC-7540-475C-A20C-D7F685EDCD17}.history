@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{48A176EC-7540-475C-A20C-D7F685EDCD17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:38.4559252Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MoreHowTos",
+    "itemPath": "/sitecore/media library/Feature/HowTo/MoreHowTos",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F21D5CCD-B3A8-47A1-B11C-F32EE4375FD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:29.7389792Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Navigation Right",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/TEMP/Main Navigation Right",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
