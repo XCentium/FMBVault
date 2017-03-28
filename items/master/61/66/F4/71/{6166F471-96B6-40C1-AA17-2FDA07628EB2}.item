@@ -10,6 +10,13 @@ template: {8EE208F9-A6A6-41E2-88A0-C188737A178C}
 templatekey: Section
 created: 20170120T172947:636205301877770000
 
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
 ----version----
 language: en
 version: 1
@@ -81,7 +88,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: f39ff52a-5c48-4ccc-be78-7d825e8dee81
+revision: adb3dff6-4371-4322-a3d2-9fa23c3f8b5a
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -145,7 +152,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f39ff52a-5c48-4ccc-be78-7d825e8dee81
+adb3dff6-4371-4322-a3d2-9fa23c3f8b5a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -160,6 +167,13 @@ key: __updated by
 content-length: 20
 
 sitecore\Test_Author
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
