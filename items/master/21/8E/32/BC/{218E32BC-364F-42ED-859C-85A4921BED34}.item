@@ -350,7 +350,7 @@ content-length: 5
 ----version----
 language: en
 version: 4
-revision: 60321a33-9ea0-42cb-a43a-7e94f6fbfa61
+revision: b364cd68-85e0-4f56-bb33-a79a916b37c7
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -435,7 +435,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-60321a33-9ea0-42cb-a43a-7e94f6fbfa61
+b364cd68-85e0-4f56-bb33-a79a916b37c7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -461,6 +461,6 @@ content-length: 38
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
 key: __lock
-content-length: 5
+content-length: 58
 
-<r />
+<r owner="sitecore\Test_Author" date="20170328T222507Z" />
