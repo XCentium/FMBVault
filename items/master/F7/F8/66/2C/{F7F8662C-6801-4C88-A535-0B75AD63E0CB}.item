@@ -13,7 +13,7 @@ created: 20170310T080410:636247298501230000
 ----version----
 language: en
 version: 1
-revision: ebea15ae-4ff3-4e0c-b388-0d00c369b63c
+revision: 8c71b410-2f38-44b1-a356-3deea0c7f850
 
 ----field----
 field: {74F96C6E-6B9A-4866-B7CE-FB327CC647FA}
@@ -33,9 +33,9 @@ Workflow
 field: {87693673-6246-43E6-BF58-A29510239A38}
 name: Value
 key: value
-content-length: 75
+content-length: 121
 
-jim.chou@xcentium.com;jeff.chung@xcentium.com;chris.schurfranz@xcentium.com
+jim.chou@xcentium.com;jeff.chung@xcentium.com;chris.schurfranz@xcentium.com;james.bridges@fmb.com;merilee.langdon@fmb.com
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -63,18 +63,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ebea15ae-4ff3-4e0c-b388-0d00c369b63c
+8c71b410-2f38-44b1-a356-3deea0c7f850
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170311T022651Z
+20170328T190741Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\mlangdon
