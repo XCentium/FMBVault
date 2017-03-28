@@ -106,3 +106,113 @@ key: __lock
 content-length: 5
 
 <r />
+----version----
+language: en
+version: 2
+revision: e1f893ef-69a3-4b3a-8709-4b2a5d70de09
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 18
+
+News and Community
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 910
+
+<span style="font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquet orci ut lacus ullamcorper tempus. Aenean arcu orci, scelerisque a felis et, aliquet mattis elit. Proin ligula massa, ultrices quis mattis ac, eleifend tincidunt lacus. Nulla tincidunt, sapien convallis tempor varius, metus justo hendrerit arcu, sed finibus nisl eros vitae ipsum. Duis pretium turpis vel augue gravida, ac posuere odio convallis. Proin faucibus ac lorem id lacinia. In dictum varius dui, vitae ullamcorper felis egestas vitae. Sed aliquam consequat tellus sit amet ultrices. Phasellus dictum, odio a volutpat interdum, felis ligula interdum nunc, in lobortis odio purus eu massa. Nam vulputate dolor id tristique bibendum. Quisque purus libero, egestas eget magna in, tristique ornare felis.</span>[No text in field]
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 18
+
+News and Community
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 51
+
+Farmers & Merchants Bank's News & Community Updates
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 110
+
+Learn about how Farmers & Merchants Bank's involvement in the community helps local Symphony's to non-profits.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 9
+
+Community
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 3188
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{3D85ED43-8AC2-4CDC-8E60-2A2957537F6D}" p:before="*" s:ds="{85684875-D289-49CB-8AC0-31FCE2E86DA7}" s:id="{4E8B9B29-3643-4752-AA0D-F4A2F3123BB5}" s:par="UseStaticPlaceholderNames&amp;Testimonials={00CAF90D-35A8-4A84-B6B7-2FD45760FE8E}|{7DDF4C39-3BCF-495E-BB5A-202A0F5C344B}|{1FDC1AD8-3063-45E1-902E-327E74E42C56}" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9/col-huge_79cc75e8-7443-4dc5-95e4-ea2778183eb8" /><r uid="{76328EF8-43D3-4281-8D42-F33A15E49687}" p:after="r[@uid='{3D85ED43-8AC2-4CDC-8E60-2A2957537F6D}']" s:ds="{B94E406E-1517-4032-9C7D-B61FDC70B651}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9/col-huge_79cc75e8-7443-4dc5-95e4-ea2778183eb8" /><r uid="{7C702EEF-CD05-4EDA-83D6-D5E4CB6D063F}" p:after="r[@uid='{76328EF8-43D3-4281-8D42-F33A15E49687}']" s:ds="{EC0E6DDF-3A4D-42B9-9AC9-E653CA6D860C}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9/col-wide-2_ea5b0c04-2b46-4a41-8c43-42ef66df78ba" /><r uid="{C300615D-6CD8-474F-97BD-181404035BD8}" p:after="r[@uid='{7C702EEF-CD05-4EDA-83D6-D5E4CB6D063F}']" s:ds="{9ABEED2A-90D1-473C-98F3-B4A45B199C75}" s:id="{1C7CF514-B0CF-4F70-BABC-891846AB4AF1}" s:par="" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9/col-wide-1_ea5b0c04-2b46-4a41-8c43-42ef66df78ba" /><r uid="{EA5B0C04-2B46-4A41-8C43-42EF66DF78BA}" p:after="r[@uid='{C300615D-6CD8-474F-97BD-181404035BD8}']" s:id="{1B92270B-EC01-4939-B579-0ADFEB758A95}" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9" /><r uid="{79CC75E8-7443-4DC5-95E4-EA2778183EB8}" p:after="r[@uid='{EA5B0C04-2B46-4A41-8C43-42EF66DF78BA}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_53aadd93-e494-454e-9ff5-c47e84a170e9" /><r uid="{43D3C88F-6AA0-4E35-9707-18A6E4544694}" p:after="r[@uid='{79CC75E8-7443-4DC5-95E4-EA2778183EB8}']" s:ds="{7A973517-E01E-4635-8171-E21E8EC303A9}" s:id="{F6A129D3-512C-4F38-9BDD-A356F43DC1A1}" s:ph="/bannerZone/bannerZone-hero" /><r uid="{6104EB32-DB5E-4765-9A44-95B36F45AD43}" p:after="r[@uid='{43D3C88F-6AA0-4E35-9707-18A6E4544694}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section-narrow/col-wide-1_b8b42785-d2a0-48c5-91ae-8b73a5fce92a" /><r uid="{A9FE0ED2-A0C6-4EC6-8267-37326F5C7B19}" p:after="r[@uid='{6104EB32-DB5E-4765-9A44-95B36F45AD43}']" s:ds="{A04FE1E5-DA48-42BC-B310-D32103C653E1}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-narrow-1_b8b42785-d2a0-48c5-91ae-8b73a5fce92a" /><r uid="{2781B618-9B65-4C20-84AA-53242C064F25}" p:after="r[@uid='{A9FE0ED2-A0C6-4EC6-8267-37326F5C7B19}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{B8B42785-D2A0-48C5-91AE-8B73A5FCE92A}" p:after="r[@uid='{2781B618-9B65-4C20-84AA-53242C064F25}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/layoutZone/section-narrow" /><r uid="{62587891-3114-49E9-9590-293A7135E7CE}"><p:d /></r><r uid="{F7976111-4722-4E64-8FC3-EF3C7D3A3D95}"><p:d /></r></d></r>
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20170328T190928Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 20
+
+sitecore\Test_Author
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170328T190928Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 20
+
+sitecore\Test_Author
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e1f893ef-69a3-4b3a-8709-4b2a5d70de09
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170328T190928Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 20
+
+sitecore\Test_Author
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
