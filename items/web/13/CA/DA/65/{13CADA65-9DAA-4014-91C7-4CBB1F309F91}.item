@@ -1,0 +1,168 @@
+----item----
+version: 1
+id: {13CADA65-9DAA-4014-91C7-4CBB1F309F91}
+database: web
+path: /sitecore/content/FMBCom/Home/News and Community/Press-Releases/2017/03/Fullerton Grand Reopening
+parent: {80366000-CCA5-4B1A-B763-3D8E7441B9BE}
+name: Fullerton Grand Reopening
+master: {00000000-0000-0000-0000-000000000000}
+template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
+templatekey: News Article
+created: 20170323T000112:636258240727070000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 1
+
+1
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20170315T150000Z
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
+----version----
+language: en
+version: 1
+revision: 5f775820-db1c-47cc-a8bd-703915c8a0d5
+
+----field----
+field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
+name: Featured
+key: featured
+content-length: 1
+
+1
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 69
+
+Farmers & Merchants Bank Completes Branch Transformation in Fullerton
+----field----
+field: {3437EAAC-6EE8-460B-A33D-DA1F714B5A93}
+name: NewsImage
+key: newsimage
+content-length: 123
+
+<image mediaid="{59FEF6BC-06A9-4C64-964A-CBD4D4977F39}" alt="Fullerton Reopening" height="" width="" hspace="" vspace="" />
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 63
+
+Neighborhood Icon Since 1985 Plans Grand Re-Opening Event&nbsp;
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 4025
+
+Farmers &amp; Merchants Bank (F&amp;M), one of the strongest commercial and retail banks in California celebrating its 110 year anniversary, announced the Grand Re-Opening of its Fullerton Office following a branch transformation project.&nbsp;<br>
+<br>
+Throughout the facility, clients will now find an open layout with a redesigned teller line, allowing employees to promptly greet them upon arrival. &nbsp;The optimized utilization of square footage now offers clients immediate contact with the banking staff, while the new design streamlines banking services, allowing clients to open accounts or make deposits all with the same teller. The Branch Manager station has been relocated to the lobby for convenient access, a tradition which dates back to 1907 when F&amp;M founder C.J. Walker was seated on the front line at the Main Office in Long Beach. &nbsp;This new layout benefits the bank in their effort to foster a relationship with every client. &nbsp;<br>
+<br>
+The exterior of the building features two iconic columns in both the front and the back to emulate F&amp;M&rsquo;s first office, at 302 Pine Avenue in Long Beach, representing F&amp;M&rsquo;s historic values of Strong, Conservative, and Friendly. &nbsp;Two new ATMs were added at the front and back of the building for those clients who need service outside of traditional banking hours, and F&amp;M is still the only bank in Fullerton with drive-up teller service. &nbsp;They started drive-up teller service with the 1941 remodel of their Long Beach Boulevard Office, and may have been the first bank in California to do so.&nbsp;<br>
+<br>
+Beyond the remodel of the building&rsquo;s appearance, the branch has also upgraded its technology. &nbsp;New digital signage offers product recommendations and F&amp;M History facts. Upgrades to the mobile app provide access to remote bill pay functions and internal transfers.&nbsp;<br>
+<br>
+&ldquo;We were excited to see the bank&rsquo;s investment in Downtown Fullerton, in 1998 when we purchased the building, and again now with this latest remodel,&rdquo; said Scott R. Dowds, Senior Vice President and Regional Manager at Fullerton. &nbsp;&ldquo;This new design will allow us to provide enhanced levels of customer service and provide an environment where staff can grow and expand their skills.&rdquo;<br>
+<br>
+The completion of the Fullerton renovation marks the second in a series of ventures F&amp;M has to transform existing offices. The bank completed renovations at their Rolling Hills Estates Office last year and hopes to implement the open layout in other offices.&nbsp;<br>
+<br>
+&ldquo;The Fullerton location has a dedicated staff of on-site decision makers to help provide our clients with a trusted brand of handshake service that is consistent from branch-to-branch,&rdquo; said Daniel Walker, Chairman of the Board and CEO of F&amp;M. &ldquo;North Orange County residents can expect the same level of expert service, customizable solutions, and strong values, that have been in place at Farmers &amp; Merchants Bank for 110 years.&rdquo;&nbsp;<br>
+<br>
+Guests can enjoy breakfast and take tours of the newly renovated office at the Grand Re-Opening Open House on Wednesday, March 29, 2017. For the Fullerton Office address and contact information, please see&nbsp;<a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">Locations</a>&nbsp;<br>
+&nbsp;<br>
+<strong>About Farmers &amp; Merchants Bank</strong><br>
+<br>
+Founded in Long Beach in 1907 by C.J. Walker, Farmers &amp; Merchants Bank has almost $7 Billion in assets, and 24 branches across Orange County, Long Beach and the South Bay. The Bank specializes in commercial and small business banking, business loan programs, home loans, and a robust offering of consumer retail banking products, including checking, savings and youth accounts. Farmers &amp; Merchants Bank is a California state chartered bank with deposits insured by the Federal Deposit Insurance Corporation (Member FDIC) and an Equal Housing Lender.<br>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 25
+
+Fullerton Grand Reopening
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T000112Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5f775820-db1c-47cc-a8bd-703915c8a0d5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170328T222441Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{63304E12-1D78-4148-813E-BE163866B27C}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
