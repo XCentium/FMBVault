@@ -13,7 +13,7 @@ created: 20170310T215738:636247798586870000
 ----version----
 language: en
 version: 1
-revision: 466f9433-eeac-4178-b02b-cad853c0ec58
+revision: 100f5168-bf3c-494b-b9aa-88088469b00e
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -34,7 +34,7 @@ content-length: 2141
 <p><a href="~/link.aspx?_id=13CADA659DAA401491C74CBB1F309F91&amp;_z=z"><strong>March 15, 2017 - Farmers &amp; Merchants Bank Completes Branch Transformation in Fullerton</strong></a><br>
 Neighborhood Icon Since 1985 Plans Grand Re-Opening Event&nbsp;
 </p>
-<p><a href="~/link.aspx?_id=3D2413E1298F4CF18A100DD4C6AA04BF&amp;_z=z"><strong>December 07, 2016 - Farmers &amp; Merchants Bank CEO Hand-Delivers 1,600 Apples to Long Beach Police snd Fire Departments</strong></a><br>
+<p><a href="~/link.aspx?_id=3D2413E1298F4CF18A100DD4C6AA04BF&amp;_z=z"><strong>December 07, 2016 - Farmers &amp; Merchants Bank CEO Hand-Delivers 1,600 Apples to Long Beach Police and Fire Departments</strong></a><br>
 This Tradition of Gifting Apples at Christmastime Dates Back 78 Years and 3 Generations</p>
 <p><a href="~/link.aspx?_id=F526A24CD7474CADAB19A425D31E9D1C&amp;_z=z"><strong>December 02, 2016 - Farmers &amp; Merchants Bank Raises Hefty Noble Fir in Lobby with Help of Long Beach State Rugby Team&nbsp;</strong></a><br>
 The Tradition of an Enormous Christmas Tree in the Lobby Dates Back Over 100 Years<a href="~/link.aspx?_id=3D2413E1298F4CF18A100DD4C6AA04BF&amp;_z=z"></a></p>
@@ -74,21 +74,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-466f9433-eeac-4178-b02b-cad853c0ec58
+100f5168-bf3c-494b-b9aa-88088469b00e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170328T211002Z
+20170328T221200Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 20
 
-fmb\mlangdon
+sitecore\Test_Author
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
