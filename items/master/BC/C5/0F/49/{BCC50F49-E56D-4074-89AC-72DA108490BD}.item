@@ -13,7 +13,7 @@ created: 20170310T080409:636247298499900000
 ----version----
 language: en
 version: 1
-revision: bc3ecb7e-a05b-420f-99cc-4579f0ab4b83
+revision: 84282f01-c965-4f5e-a695-67f726a85009
 
 ----field----
 field: {74F96C6E-6B9A-4866-B7CE-FB327CC647FA}
@@ -36,6 +36,13 @@ key: value
 content-length: 75
 
 jim.chou@xcentium.com;jeff.chung@xcentium.com;chris.schurfranz@xcentium.com
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+Moderators
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -63,18 +70,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bc3ecb7e-a05b-420f-99cc-4579f0ab4b83
+84282f01-c965-4f5e-a695-67f726a85009
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170311T022655Z
+20170328T190606Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\mlangdon
