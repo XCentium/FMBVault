@@ -10,10 +10,17 @@ template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
 templatekey: Content Module
 created: 20170328T231734:636263398545830000
 
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
 ----version----
 language: en
 version: 1
-revision: 5960fd74-ae24-4883-9864-bedbc7e720a5
+revision: 9b93689e-4f25-4595-b763-525a08438bfc
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5960fd74-ae24-4883-9864-bedbc7e720a5
+9b93689e-4f25-4595-b763-525a08438bfc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170328T231734Z
+20170328T231747Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
