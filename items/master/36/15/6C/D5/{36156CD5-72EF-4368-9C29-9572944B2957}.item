@@ -14,18 +14,22 @@ created: 20170328T174730:636263200501970000
 field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
 name: CssCode
 key: csscode
-content-length: 99
+content-length: 145
 
 <style>
 #KJECalculatorTable {
 width:100% !important;
 position: relative !important;
 }
+
+aside {
+position:relative !important; 
+}
 </style>
 ----version----
 language: en
 version: 1
-revision: 78009231-b7b0-4b7d-96c6-52eec0fd248d
+revision: 38d350e6-eab0-4715-83ce-31c01f554f9b
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -88,14 +92,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-78009231-b7b0-4b7d-96c6-52eec0fd248d
+38d350e6-eab0-4715-83ce-31c01f554f9b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170328T184017Z
+20170328T184057Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
