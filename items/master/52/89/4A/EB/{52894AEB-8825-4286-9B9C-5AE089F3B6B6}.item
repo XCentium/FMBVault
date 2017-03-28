@@ -13,7 +13,7 @@ created: 20170203T214953:636217553934330000
 ----version----
 language: en
 version: 1
-revision: cc146534-3fdb-4dd9-a1f8-7c31a591d8ea
+revision: 36f7262e-b666-473a-b5e5-86750dccc185
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,9 +26,9 @@ Christmas Club Savings Account
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 1331
+content-length: 1403
 
-<p>Looking for a better way to save for Christmas? Let us help! Just like wassail and gingerbread, <strong>Christmas Club savings accounts</strong> are still a tradition at F&amp;M Bank. A Christmas savings account is a simple and automatic way to save. Sign up today and get started!</p>
+<p>Looking for a better way to save for Christmas? Let us help! Just like wassail and gingerbread, <strong>Christmas Club savings accounts</strong> are still a tradition at F&amp;M Bank. A Christmas savings account is a simple and automatic way to save. <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z">Sign up today</a> and get started!</p>
 <p><strong>Automatic Deposits:</strong></p>
 <ul>
     <li>Automatic deposits will be made from your F&amp;M checking account.</li>
@@ -101,21 +101,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cc146534-3fdb-4dd9-a1f8-7c31a591d8ea
+36f7262e-b666-473a-b5e5-86750dccc185
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170301T231219Z
+20170328T165106Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mlangdon
+fmb\jbridges
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
