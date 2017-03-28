@@ -32,9 +32,28 @@
     "itemName": "Biography",
     "itemPath": "/sitecore/templates/Feature/Person/_Employee/Details/Biography",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0CC9785E-54FE-4FAE-93E4-D0D2AE75F339}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:32.5659306Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Biography",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Details/Biography",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

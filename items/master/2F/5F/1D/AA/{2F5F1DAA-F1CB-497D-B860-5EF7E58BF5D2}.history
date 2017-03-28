@@ -32,9 +32,28 @@
     "itemName": "Displayed Disclaimers",
     "itemPath": "/sitecore/templates/Feature/PageContent/ParametersTemplates/ParametersTemplate_DisplayedDisclaimers/Displayed Disclaimers",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2F5F1DAA-F1CB-497D-B860-5EF7E58BF5D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:33.0899304Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Displayed Disclaimers",
+    "itemPath": "/sitecore/templates/Feature/PageContent/ParametersTemplates/ParametersTemplate_DisplayedDisclaimers/Displayed Disclaimers",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

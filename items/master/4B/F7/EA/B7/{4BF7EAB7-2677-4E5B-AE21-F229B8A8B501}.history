@@ -32,9 +32,28 @@
     "itemName": "ParametersTemplate_DisplayedDisclaimers",
     "itemPath": "/sitecore/templates/Feature/PageContent/ParametersTemplates/ParametersTemplate_DisplayedDisclaimers",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{4BF7EAB7-2677-4E5B-AE21-F229B8A8B501}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:33.0539303Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ParametersTemplate_DisplayedDisclaimers",
+    "itemPath": "/sitecore/templates/Feature/PageContent/ParametersTemplates/ParametersTemplate_DisplayedDisclaimers",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

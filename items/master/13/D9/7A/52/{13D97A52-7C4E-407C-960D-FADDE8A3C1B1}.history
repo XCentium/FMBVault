@@ -32,9 +32,28 @@
     "itemName": "TeaserSummary",
     "itemPath": "/sitecore/templates/Feature/Teasers/_TeaserContent/Content/TeaserSummary",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{13D97A52-7C4E-407C-960D-FADDE8A3C1B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:50.7979361Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TeaserSummary",
+    "itemPath": "/sitecore/templates/Feature/Teasers/_TeaserContent/Content/TeaserSummary",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

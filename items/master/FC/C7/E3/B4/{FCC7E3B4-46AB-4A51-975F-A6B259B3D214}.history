@@ -32,9 +32,28 @@
     "itemName": "ResultsOnPage",
     "itemPath": "/sitecore/templates/Feature/Search/_PagedSearchResultsParameters/Paging/ResultsOnPage",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{FCC7E3B4-46AB-4A51-975F-A6B259B3D214}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:33.6559302Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ResultsOnPage",
+    "itemPath": "/sitecore/templates/Feature/Search/_PagedSearchResultsParameters/Paging/ResultsOnPage",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

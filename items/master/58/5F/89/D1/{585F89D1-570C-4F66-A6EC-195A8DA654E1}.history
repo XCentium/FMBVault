@@ -32,9 +32,28 @@
     "itemName": "CssClass",
     "itemPath": "/sitecore/templates/Feature/Teasers/Icon/Content/CssClass",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{585F89D1-570C-4F66-A6EC-195A8DA654E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:51.6229348Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CssClass",
+    "itemPath": "/sitecore/templates/Feature/Teasers/Icon/Content/CssClass",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

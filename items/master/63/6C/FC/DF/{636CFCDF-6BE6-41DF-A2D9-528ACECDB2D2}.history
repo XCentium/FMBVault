@@ -32,9 +32,28 @@
     "itemName": "Social",
     "itemPath": "/sitecore/templates/Feature/Person/_Employee/Social",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{636CFCDF-6BE6-41DF-A2D9-528ACECDB2D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:32.3899304Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Social",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

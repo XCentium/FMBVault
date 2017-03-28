@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2F5F1DAA-F1CB-497D-B860-5EF7E58BF5D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:33.0839298Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Displayed Disclaimers",
+    "itemPath": "/sitecore/templates/Feature/PageContent/ParametersTemplates/ParametersTemplate_DisplayedDisclaimers/Displayed Disclaimers",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

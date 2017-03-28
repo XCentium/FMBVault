@@ -32,9 +32,28 @@
     "itemName": "Twitter Feed",
     "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeed/Twitter Feed",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E18A334C-6C3A-480F-9FE7-F33F6AD59F6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:31.8809284Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Feed",
+    "itemPath": "/sitecore/templates/Feature/Social/_TwitterFeed/Twitter Feed",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

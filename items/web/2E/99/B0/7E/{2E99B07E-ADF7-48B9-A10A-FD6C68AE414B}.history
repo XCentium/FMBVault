@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:32.7989294Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Body",
+    "itemPath": "/sitecore/templates/Feature/PageContent/_HasDisclaimer/Disclaimer/Body",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

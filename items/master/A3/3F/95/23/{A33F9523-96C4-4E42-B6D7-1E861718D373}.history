@@ -32,9 +32,28 @@
     "itemName": "Count",
     "itemPath": "/sitecore/templates/Feature/Teasers/_DynamicTeaser/Content/Count",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{A33F9523-96C4-4E42-B6D7-1E861718D373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:51.8389346Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Count",
+    "itemPath": "/sitecore/templates/Feature/Teasers/_DynamicTeaser/Content/Count",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

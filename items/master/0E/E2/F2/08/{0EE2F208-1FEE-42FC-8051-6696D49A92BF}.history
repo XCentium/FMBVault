@@ -32,9 +32,28 @@
     "itemName": "OpenGraphTitle",
     "itemPath": "/sitecore/templates/Feature/Social/_OpenGraph/Facebook Open Graph/OpenGraphTitle",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9c67d246073ec021fbdc6ac3d410f68450fdaff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0EE2F208-1FEE-42FC-8051-6696D49A92BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:23:32.0759304Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OpenGraphTitle",
+    "itemPath": "/sitecore/templates/Feature/Social/_OpenGraph/Facebook Open Graph/OpenGraphTitle",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
