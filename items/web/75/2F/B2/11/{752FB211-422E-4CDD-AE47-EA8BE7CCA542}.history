@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{752FB211-422E-4CDD-AE47-EA8BE7CCA542}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:09.0669730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nebraska",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Nebraska",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

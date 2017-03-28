@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BF82CBA8-EB9F-4A47-8276-5B2637B0D900}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.0699731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dave Sakamoto",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Belmont Shore/Dave Sakamoto",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

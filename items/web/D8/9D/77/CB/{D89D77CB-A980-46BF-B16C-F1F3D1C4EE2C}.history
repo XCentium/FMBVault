@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D89D77CB-A980-46BF-B16C-F1F3D1C4EE2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:17.4059555Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CC",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Email/Data/CC",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

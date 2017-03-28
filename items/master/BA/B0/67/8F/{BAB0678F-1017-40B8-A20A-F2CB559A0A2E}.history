@@ -32,9 +32,28 @@
     "itemName": "Kim Searles",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Bixby Knolls/Kim Searles",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{BAB0678F-1017-40B8-A20A-F2CB559A0A2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.1589732Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kim Searles",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Bixby Knolls/Kim Searles",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

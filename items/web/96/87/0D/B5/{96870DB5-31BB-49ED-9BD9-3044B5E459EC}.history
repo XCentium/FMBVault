@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{96870DB5-31BB-49ED-9BD9-3044B5E459EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.2559730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dee White",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Juan Capistrano/Dee White",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

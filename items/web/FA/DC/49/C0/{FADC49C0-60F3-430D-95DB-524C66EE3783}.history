@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{FADC49C0-60F3-430D-95DB-524C66EE3783}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.5949724Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Iowa",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Iowa",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

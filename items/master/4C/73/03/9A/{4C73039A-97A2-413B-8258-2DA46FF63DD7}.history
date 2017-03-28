@@ -32,9 +32,28 @@
     "itemName": "RealEstateSeminars",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars",
     "template": "FieldOptionGroup",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{4C73039A-97A2-413B-8258-2DA46FF63DD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:09.4759732Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RealEstateSeminars",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

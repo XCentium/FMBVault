@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D311CD30-74A7-43C5-A570-E9F79ED7C564}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:10.4469730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Visa Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/FM Visa Card",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

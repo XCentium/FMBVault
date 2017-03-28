@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9ABEED2A-90D1-473C-98F3-B4A45B199C75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:11.3989725Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mailing List Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Configurations/Mailing List Form",
+    "template": "Form Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

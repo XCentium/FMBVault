@@ -1,0 +1,331 @@
+----item----
+version: 1
+id: {A3A77047-FA1A-4A3E-8F7C-AB6BB34372D7}
+database: web
+path: /sitecore/content/FMBCom/Home/LP/cass-1907
+parent: {941F0951-E65E-447B-B485-8E2A61B3957F}
+name: cass-1907
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170224T212937:636235685775570000
+
+----field----
+field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
+name: CssCode
+key: csscode
+content-length: 2468
+
+<style>
+#AFForm { color: #000; }
+
+@media (min-width: 992px) {
+  .col-md-5 { padding-left: 75px;}
+}
+.mobile-nav {
+display:none;
+}
+.Contact-header-top {
+display: none; }
+footer {
+margin-top:0 !important;
+border-top: 0px !important;
+background-color: #fff;
+}
+.parallax {
+background-color: #005334;
+}
+
+.checkmark {
+font-size: 30px;
+}
+
+.red-x {
+height:30px; 
+}
+
+.img-header {
+width: 100%;
+}
+.auto-style2 {
+width: 32px;
+height: 31px;
+}
+td {
+font-size: 12px;
+height: 35px;
+text-align: center;
+}
+
+.rates-table {
+width: 100%;
+color: #fff;
+border: 1px solid #fff;
+}
+
+.rates-table th {
+text-align: center;
+border: 1px solid #fff;
+}
+
+.rates-table td {
+padding: 5px;
+text-align: center;
+border: solid 1px #fff;
+}
+
+.cf {
+color: #fff;
+font-weight: 600;
+}
+
+.column-headers {
+text-align: left;
+width: 135px;
+font-size: 13px;
+}
+
+.top-Header {
+text-align: center;
+}
+
+.auto-style3 {
+width: 31px;
+height: 31px;
+}
+
+.goldSection {
+background-color: #cca44a;
+color: #005334;
+text-align: center;
+font-weight: bold;
+width: 190px;
+}
+
+.goldSection #logo {
+width: 40%;
+min-width: 40px;
+margin: 5px;
+}
+
+.cta-table {
+text-align: center;
+color: #fff;
+padding: 5px;
+}
+
+#topheader {
+font-size: 2.5em;
+color: #fff;
+font-family: sans-serif;
+text-shadow: black 3px 1px 7px;
+margin-top: 50px;
+}
+
+.landingpagetext {
+color: #fff;
+font-size: 15px;
+font-weight: 600;
+line-height: 20px;
+}
+
+.landingpagetext-small {
+color: #fff;
+font-size: 13px;
+font-weight: 600;
+}
+
+.landingpagetext-disclosures {
+color: #fff;
+font-size: 13px;
+font-weight: 600;
+margin-top: 50px;
+}
+
+
+.text-box {
+width: 100%;
+}
+
+.featured-text {
+font-size: 24px;
+font-weight: bold;
+}
+
+.CJquote {
+color: #fff;
+font-size: 26px;
+font-family: -webkit-body;
+}
+
+.auto-style4 {
+width: 86px;
+height: 86px;
+}
+
+.auto-style5 {
+width: 28px;
+height: 28px;
+}
+
+@media (max-width: 1105px) {
+#topheader {
+font-size: 1.8em;
+color: #fff;
+font-family: sans-serif;
+text-shadow: black 3px 1px 7px;
+margin-top: 20px;
+}
+
+}
+
+@media (max-width: 420px) {
+.col-md-7 {
+margin-top: 130px !important;
+}
+
+.col-md-12 {
+padding: 0px !important;
+}
+
+.goldSection #logo {
+margin: 0px;
+}
+
+#topheader {
+font-size: 1.5em;
+}
+}
+
+@media (max-width: 380px) {
+.goldSection #logo {
+margin: 0px !important;
+}
+
+.col-md-7 {
+padding: 0px !important;
+}
+}
+
+.association-icons { display: none; }
+</style>
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: en
+version: 1
+revision: 394e0bf4-a97b-4c4d-8e2f-0f912249bc42
+
+----field----
+field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
+name: ParallaxBackgroundImage
+key: parallaxbackgroundimage
+content-length: 58
+
+<image mediaid="{7B75D1B6-56BC-4B3F-B99E-576A93E2B634}" />
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 41
+
+California’s Strongest, Since 1907  | F&M
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 5379
+
+<p id="topheader" style="font-size: 2.4em;">Now is the time to join F&amp;M Bank, California’s Strongest, since 1907.</p>
+<br style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<p class="landingpagetext" style="font-weight: 500; font-family: sans-serif;">Now more than ever, you need a bank you can trust. We grew from humble beginnings 110 years ago to now over&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">$6.5 billion</span>&nbsp;in assets, making F&amp;M one of the top 150 banks in the nation.<span style="position: relative; font-size: 11.25px; line-height: 0; vertical-align: baseline; top: -0.5em;">1</span>But also, and perhaps more importantly for you, did you know that:</p>
+<br style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<ul class="landingpagetext" style="font-weight: 500; font-family: sans-serif;">
+    <li style="margin-bottom: 15px; margin-right: 15px;">F&amp;M was founded on the values of&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">Honesty</span>,&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">Integrity</span>,&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">the Home</span>,&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">the Church</span>, and&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">Service above Self</span>. We hope you’ll feel these in everything we do.</li>
+    <li style="margin-bottom: 15px; margin-right: 15px;">F&amp;M has capital levels&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">more than double</span>&nbsp;the federally-mandated adequacy levels<span style="position: relative; font-size: 11.25px; line-height: 0; vertical-align: baseline; top: -0.5em;">2</span>. This means your money is and will be safe, even in rocky times.</li>
+    <li style="margin-bottom: 15px; margin-right: 15px;">F&amp;M never took&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">TARP funds</span>, and during the Financial Crisis, our deposits actually&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">grew 70%</span>. Clients had peace of mind knowing their money was secure.</li>
+    <li style="margin-bottom: 15px; margin-right: 15px;">F&amp;M’s average employee tenure is&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">nearly double</span>&nbsp;the median employee tenure in the U.S.<span style="position: relative; font-size: 11.25px; line-height: 0; vertical-align: baseline; top: -0.5em;">3</span>&nbsp;giving you familiar, experienced professionals who will know your name.</li>
+    <li style="margin-bottom: 15px; margin-right: 15px;">F&amp;M&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">donates over $1 million</span>&nbsp;each year to charities, non-profit organizations and religous entities.</li>
+    <li style="margin-bottom: 15px; margin-right: 15px;">F&amp;M is&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">locally owned, proudly independent, and still family managed</span>&nbsp;by the great-grandchildren of our founder, C.J. Walker. That means you can get fast answers from local decision makers.</li>
+</ul>
+<br style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<p class="landingpagetext" style="font-weight: 500; font-family: sans-serif;">And there’s more. Find out how F&amp;M might be right for you by simply filling out this form, and one of our banking specialists will get back to you.<br>
+<br>
+Because there’s never been a better time to&nbsp;<span class="featured-text" style="font-size: 19px; font-style: italic;">join us.</span></p>
+<h2 style="font-family: sans-serif; font-weight: 500; color: #ffffff; font-size: 30px; text-transform: none;"><img width="34" height="35" style="height: 35px; width: 34px;" alt="phone" src="-/media/60AFE5BBD84F42128E9158FDBB6DC21A.ashx?h=35&amp;w=34&amp;hash=7A6AFBFA4F038211E72E91B119A352E94FCB90ED">&nbsp;<span style="font-weight: 700;">(888) 406-8811</span></h2>
+<hr style="border-top-color: #94b1a6; color: #000000; font-family: sans-serif; font-size: 16px;">
+<div class="row" style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<div class="col-md-12" style="top: -1px; left: 1px; width: 659.156px;">
+<p class="landingpagetext" style="font-weight: 500;">See how easy it can be to join F&amp;M with our&nbsp;<a class="featured-text" href="https://www.fmb.com/assets/files/brochures/SwitchKitChecklist.pdf" style="color: #ffffff; font-size: 19px; font-style: italic;">Switching Made Easy Checklist</a>.</p>
+<p class="landingpagetext-disclosures" style="margin-top: 10px;"><small style="font-size: 11.05px;">1.&nbsp;<a href="http://fmbapps/OnlineAccount/cass-1907.aspx#" data-toggle="modal" data-target="#fedModal" style="color: #ffffff;">Federal Reserve Statistical Release.</a>&nbsp;2.&nbsp;<a href="http://fmbapps/OnlineAccount/cass-1907.aspx#" data-toggle="modal" data-target="#FDICModal" style="color: #ffffff;">FDIC Community Banking Study.</a>&nbsp;3.&nbsp;<a href="http://fmbapps/OnlineAccount/cass-1907.aspx#" data-toggle="modal" data-target="#BLSModal" style="color: #ffffff;">BLS Employee Tenure Report</a></small></p>
+</div>
+</div>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 40
+
+California’s Strongest, Since 1907 | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 152
+
+Find out more about Farmers & Merchants Bank. F&amp;M is a locally owned, family managed bank with over $6.5 Billion in assets that is here to help you.
+----field----
+field: {167ABA77-5172-42AF-9F9E-00299113839E}
+name: CustomMetaData
+key: custommetadata
+content-length: 0
+
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1898
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{DD7C5D81-0BA4-4369-BF20-63AF04C8D927}" p:before="*" s:ds="{9349ABA8-3594-4C31-9AB0-D2F12DFD8D39}" s:id="{2E89E80C-0997-4836-8C1E-BE61D6512A07}" s:ph="/layoutZone/section/col-narrow-1_c15af495-74e9-4025-b60e-941a72dbb90a" /><r uid="{A430879F-D6FC-4067-9A1F-710F22912B70}" p:after="r[@uid='{DD7C5D81-0BA4-4369-BF20-63AF04C8D927}']" s:ds="{E369DCA3-2EA5-4D11-B725-41DE66449321}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/footerZone/section/col-huge_184f5b08-910a-4c69-904c-809389262f2d" /><r uid="{184F5B08-910A-4C69-904C-809389262F2D}" p:after="r[@uid='{A430879F-D6FC-4067-9A1F-710F22912B70}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/footerZone/section" /><r uid="{B8D18A69-8E28-4F55-98E6-A154D4EB36A9}" p:after="r[@uid='{184F5B08-910A-4C69-904C-809389262F2D}']" s:ds="{0B145CF2-EC4A-4141-BF21-A1D7A1B8F072}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/headerZone/header-login" /><r uid="{BE4D16CF-DA1E-40D2-AA34-D204DE2BA041}" p:after="r[@uid='{B8D18A69-8E28-4F55-98E6-A154D4EB36A9}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section/col-wide-1_c15af495-74e9-4025-b60e-941a72dbb90a" /><r uid="{C15AF495-74E9-4025-B60E-941A72DBB90A}" p:after="r[@uid='{BE4D16CF-DA1E-40D2-AA34-D204DE2BA041}']" s:id="{3D848FB2-72F2-4E5A-81EF-656B23595252}" s:ph="/layoutZone/section" /><r uid="{A9F64933-1269-4B05-8868-EC52213E01E1}" s:par="UseStaticPlaceholderNames=1" /><r uid="{9D7A1F75-73CB-49A0-9C6B-24442980DF0C}" s:par="UseStaticPlaceholderNames=1" /><r uid="{C8F02082-3A13-4313-811B-C61A0CA5A98A}"><p:d /></r><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r><r uid="{26D763DB-A9A8-4970-BC41-D661960F2049}" p:after="*[1=2]" /><r uid="{91B388C4-4BD1-482B-A2E1-7D89B83CFEA4}"><p:d /></r><r uid="{B5228527-66A7-4AFD-8CDD-0A319B57C7A8}"><p:d /></r></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170130T234031Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+394e0bf4-a97b-4c4d-8e2f-0f912249bc42
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170323T182322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

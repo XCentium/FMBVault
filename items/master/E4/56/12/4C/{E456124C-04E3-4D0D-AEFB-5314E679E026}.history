@@ -32,9 +32,28 @@
     "itemName": "Teaser Quote",
     "itemPath": "/sitecore/templates/Feature/Testimonial/_HasTestimonial/Testimonial/Teaser Quote",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E456124C-04E3-4D0D-AEFB-5314E679E026}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:08.4499478Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teaser Quote",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/_HasTestimonial/Testimonial/Teaser Quote",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

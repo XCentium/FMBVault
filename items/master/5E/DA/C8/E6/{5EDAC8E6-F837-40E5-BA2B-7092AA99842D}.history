@@ -32,9 +32,28 @@
     "itemName": "Juan Arreola",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Juan Arreola",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5EDAC8E6-F837-40E5-BA2B-7092AA99842D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.5879735Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Juan Arreola",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Juan Arreola",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{60C243AC-98C2-4397-AAAE-0862A176F39C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:11.5949729Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Features for Business Clients",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Mobile Features for Business Clients",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

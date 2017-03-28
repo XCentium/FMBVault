@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{32A9EACD-4BFA-4F17-A0C1-3655968C4199}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.8829730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Idaho",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Idaho",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

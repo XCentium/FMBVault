@@ -32,9 +32,28 @@
     "itemName": "Columbus Day",
     "itemPath": "/sitecore/content/FMBCom/Global/Notifications/Columbus Day",
     "template": "Notification",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{FC910E89-87F5-4958-AEB5-D2B5B24A38AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:07.5089738Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Columbus Day",
+    "itemPath": "/sitecore/content/FMBCom/Global/Notifications/Columbus Day",
+    "template": "Notification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

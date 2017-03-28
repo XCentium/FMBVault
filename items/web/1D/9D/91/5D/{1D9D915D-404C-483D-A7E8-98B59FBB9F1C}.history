@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1D9D915D-404C-483D-A7E8-98B59FBB9F1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:31.5259474Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Escrow Services",
+    "itemPath": "/sitecore/system/Aliases/Escrow Services",
+    "template": "Alias",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

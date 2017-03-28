@@ -32,9 +32,28 @@
     "itemName": "Debit Cards Questions and Answers",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Debit Cards Questions and Answers",
     "template": "FAQ Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C0E7A157-FFEE-4089-878E-E2F1F1A77C93}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:11.8489729Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Debit Cards Questions and Answers",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Debit Cards Questions and Answers",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {871508D6-5773-4C9D-8CCE-42F87A48CDDB}
+database: web
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Resolve News Date Field Based Path
+parent: {EA83E778-E0F5-4C36-9EC6-D50D2ED9AE5A}
+name: Resolve News Date Field Based Path
+master: {00000000-0000-0000-0000-000000000000}
+template: {F90052A5-B4E6-4E6D-9812-1E1B88A6FCEA}
+templatekey: Action
+created: 20170228T024228:636238465487400000
+
+----field----
+field: {FF55D5A7-6D4B-4CD1-83E0-BAC268073F66}
+name: Type
+key: type
+content-length: 101
+
+FMB.Foundation.SitecoreExtensions.Buckets.CreateDateFieldBasedPath, FMB.Foundation.SitecoreExtensions
+----version----
+language: en
+version: 1
+revision: 6f1ebc0d-93db-4c3e-8d25-0fb23d775c82
+
+----field----
+field: {EEB36A3B-40D9-4AF5-862A-DE257B84DCA3}
+name: Text
+key: text
+content-length: 168
+
+Create the folder structure based on the [fieldid, Tree, root=/sitecore/Templates,custom date] field of the News Bucketable Item in [format,Format,yyyy/MM,this] format.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170227T192127Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f1ebc0d-93db-4c3e-8d25-0fb23d775c82
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170227T193420Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

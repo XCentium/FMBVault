@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A80A04B8-8D45-4C29-B3F9-149AD7DA717F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:00.6109668Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Personal Credit Card",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,340 @@
+----item----
+version: 1
+id: {A4F3B4EC-EFDD-4B61-AAC0-FDEEBDC7A5CC}
+database: web
+path: /sitecore/content/FMBCom/Home/LP/business-checking-accounts
+parent: {941F0951-E65E-447B-B485-8E2A61B3957F}
+name: business-checking-accounts
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170224T213917:636235691573300000
+
+----field----
+field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
+name: CssCode
+key: csscode
+content-length: 2464
+
+<style>
+#AFForm { color: #000; }
+@media (min-width: 992px) {
+.col-md-5 { padding-left: 75px;}
+}
+.Contact-header-top {
+display: none; }
+footer {
+margin-top:0 !important;
+border-top: 0px !important;
+background-color: #fff;
+}
+.mobile-nav {
+display:none;
+}
+.parallax {
+background-color: #005334;
+}
+
+.checkmark {
+font-size: 30px;
+}
+
+.red-x {
+height:30px; 
+}
+
+.img-header {
+width: 100%;
+}
+.auto-style2 {
+width: 32px;
+height: 31px;
+}
+td {
+font-size: 12px;
+height: 35px;
+text-align: center;
+}
+
+.rates-table {
+width: 100%;
+color: #fff;
+border: 1px solid #fff;
+}
+
+.rates-table th {
+text-align: center;
+border: 1px solid #fff;
+}
+
+.rates-table td {
+padding: 5px;
+text-align: center;
+border: solid 1px #fff;
+}
+
+.cf {
+color: #fff;
+font-weight: 600;
+}
+
+.column-headers {
+text-align: left;
+width: 135px;
+font-size: 13px;
+}
+
+.top-Header {
+text-align: center;
+}
+
+.auto-style3 {
+width: 31px;
+height: 31px;
+}
+
+.goldSection {
+background-color: #cca44a;
+color: #005334;
+text-align: center;
+font-weight: bold;
+width: 190px;
+}
+
+.goldSection #logo {
+width: 40%;
+min-width: 40px;
+margin: 5px;
+}
+
+.cta-table {
+text-align: center;
+color: #fff;
+padding: 5px;
+}
+
+#topheader {
+font-size: 2.5em;
+color: #fff;
+font-family: sans-serif;
+text-shadow: black 3px 1px 7px;
+margin-top: 50px;
+}
+
+.landingpagetext {
+color: #fff;
+font-size: 15px;
+font-weight: 600;
+line-height: 20px;
+}
+
+.landingpagetext-small {
+color: #fff;
+font-size: 13px;
+font-weight: 600;
+}
+
+.landingpagetext-disclosures {
+color: #fff;
+font-size: 13px;
+font-weight: 600;
+margin-top: 50px;
+}
+
+
+.text-box {
+width: 100%;
+}
+
+.featured-text {
+font-size: 24px;
+font-weight: bold;
+}
+
+.CJquote {
+color: #fff;
+font-size: 26px;
+font-family: -webkit-body;
+}
+
+.auto-style4 {
+width: 86px;
+height: 86px;
+}
+
+.auto-style5 {
+width: 28px;
+height: 28px;
+}
+
+@media (max-width: 1105px) {
+#topheader {
+font-size: 1.8em;
+color: #fff;
+font-family: sans-serif;
+text-shadow: black 3px 1px 7px;
+margin-top: 20px;
+}
+
+}
+
+@media (max-width: 420px) {
+.col-md-7 {
+margin-top: 130px !important;
+}
+
+.col-md-12 {
+padding: 0px !important;
+}
+
+.goldSection #logo {
+margin: 0px;
+}
+
+#topheader {
+font-size: 1.5em;
+}
+}
+
+@media (max-width: 380px) {
+.goldSection #logo {
+margin: 0px !important;
+}
+
+.col-md-7 {
+padding: 0px !important;
+}
+}
+
+.association-icons { display: none; }
+</style>
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: en
+version: 1
+revision: f864bef3-8b49-4f0a-8205-7f829e33955c
+
+----field----
+field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
+name: ParallaxBackgroundImage
+key: parallaxbackgroundimage
+content-length: 58
+
+<image mediaid="{7B75D1B6-56BC-4B3F-B99E-576A93E2B634}" />
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 54
+
+F&M Business Checking Accounts, Find Yours Today | F&M
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 3556
+
+<p id="topheader" style="font-size: 2.4em;">Find the F&amp;M Business Checking<br>
+Account That’s Right for You</p>
+<br style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<p class="landingpagetext" style="font-weight: 500; font-family: sans-serif;">Opening an F&amp;M Business Checking Account is the first step to experiencing the personalized service and financial solutions of one of California’s strongest banks. Whether you are a sole proprietor, start-up, small or enterprise business, our banking professionals can tailor our services to meet your business needs with a competitive interest or non-interest bearing business checking account.<br>
+<br>
+Find out more about the great features you will enjoy when you open a business bank account with Farmers &amp; Merchants Bank today:</p>
+<br style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<ul class="landingpagetext" style="font-weight: 500; font-family: sans-serif;">
+    <li>Free MasterCard<span style="position: relative; font-size: 11.25px; line-height: 0; vertical-align: baseline; top: -0.5em;">®</span>&nbsp;Business Debit Card</li>
+    <li>Free Business Online Banking</li>
+    <li>Cash Manager</li>
+    <li>Check images included with monthly statement</li>
+    <li>Unlimited check writing</li>
+    <li>Free eStatements &amp; eNotices</li>
+    <li>Combined monthly statements</li>
+</ul>
+<br style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<p class="landingpagetext" style="font-weight: 500; font-family: sans-serif;">Call us today and we will be happy to help you select the best account type for you.</p>
+<h2 style="font-family: sans-serif; font-weight: 500; color: #ffffff; font-size: 30px; text-transform: none;"><img width="34" height="35" style="height: 35px; width: 34px;" alt="phone" src="-/media/60AFE5BBD84F42128E9158FDBB6DC21A.ashx?h=35&amp;w=34&amp;hash=7A6AFBFA4F038211E72E91B119A352E94FCB90ED&amp;hash=7A6AFBFA4F038211E72E91B119A352E94FCB90ED">&nbsp;<span style="font-weight: 700;">(888) 625-2885</span></h2>
+<hr style="border-top-color: #94b1a6; color: #000000; font-family: sans-serif; font-size: 16px;">
+<div class="row" style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<div class="col-md-4" style="top: -1px; left: 1px; width: 219.719px;"><img alt="C.J. Walker, Founder, 1907" class="CJ-Image" src="-/media/FMBCom/Images/LandingPages/cjphoto?w=189.719&amp;hash=9911855F7E5FEC541D7FF1E2C9EBDD7F8D024E9A" style="border: 5px solid #ffffff; width: 189.719px;"></div>
+<div class="col-md-8" style="top: -1px; left: 1px; width: 439.438px;"><em class="CJquote">“Safeguarding our clients’ money<br>
+is a sacred trust.”</em>
+<p class="landingpagetext-small" style="font-weight: 500;">-C.J. Walker, Founder, 1907</p>
+<p class="landingpagetext" style="font-weight: 500; border-top: 1px dotted #ffffff; padding-top: 15px;">At Farmers &amp; Merchants Bank, what was true 108 years ago, is still true today.</p>
+</div>
+</div>
+<hr style="border-top-color: #94b1a6; color: #000000; font-family: sans-serif; font-size: 16px;">
+<div class="row" style="color: #000000; font-family: sans-serif; font-size: 16px;">
+<div class="col-md-12" style="top: -1px; left: 1px; width: 659.156px;">
+<p class="landingpagetext-disclosures" style="margin-top: 10px;"><small style="font-size: 11.05px;">Some account features and benefits may be subject to separate application, agreement, and/or approval. Terms and Conditions may apply. Account features and benefits are subject to change with or without notice.</small></p>
+</div>
+</div>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 70
+
+Compare a Gold Checking Account with 10x Annual Percentage Yield | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 120
+
+Compare our Gold Checking Account from Farmers &amp; Merchants to see how you can enjoy 10x the Annual Percentage Yield.
+----field----
+field: {167ABA77-5172-42AF-9F9E-00299113839E}
+name: CustomMetaData
+key: custommetadata
+content-length: 0
+
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1898
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{F3E973B7-43B9-4803-A677-C061FA32F4CA}" p:before="*" s:ds="{9349ABA8-3594-4C31-9AB0-D2F12DFD8D39}" s:id="{2E89E80C-0997-4836-8C1E-BE61D6512A07}" s:ph="/layoutZone/section/col-narrow-1_c15af495-74e9-4025-b60e-941a72dbb90a" /><r uid="{A430879F-D6FC-4067-9A1F-710F22912B70}" p:after="r[@uid='{F3E973B7-43B9-4803-A677-C061FA32F4CA}']" s:ds="{E369DCA3-2EA5-4D11-B725-41DE66449321}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/footerZone/section/col-huge_184f5b08-910a-4c69-904c-809389262f2d" /><r uid="{184F5B08-910A-4C69-904C-809389262F2D}" p:after="r[@uid='{A430879F-D6FC-4067-9A1F-710F22912B70}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/footerZone/section" /><r uid="{B8D18A69-8E28-4F55-98E6-A154D4EB36A9}" p:after="r[@uid='{184F5B08-910A-4C69-904C-809389262F2D}']" s:ds="{04CF3834-7FF4-4C7D-936A-3CE80DFF9C00}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/headerZone/header-login" /><r uid="{BE4D16CF-DA1E-40D2-AA34-D204DE2BA041}" p:after="r[@uid='{B8D18A69-8E28-4F55-98E6-A154D4EB36A9}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section/col-wide-1_c15af495-74e9-4025-b60e-941a72dbb90a" /><r uid="{C15AF495-74E9-4025-B60E-941A72DBB90A}" p:after="r[@uid='{BE4D16CF-DA1E-40D2-AA34-D204DE2BA041}']" s:id="{3D848FB2-72F2-4E5A-81EF-656B23595252}" s:ph="/layoutZone/section" /><r uid="{A9F64933-1269-4B05-8868-EC52213E01E1}" s:par="UseStaticPlaceholderNames=1" /><r uid="{9D7A1F75-73CB-49A0-9C6B-24442980DF0C}" s:par="UseStaticPlaceholderNames=1" /><r uid="{C8F02082-3A13-4313-811B-C61A0CA5A98A}"><p:d /></r><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r><r uid="{26D763DB-A9A8-4970-BC41-D661960F2049}" p:after="*[1=2]" /><r uid="{91B388C4-4BD1-482B-A2E1-7D89B83CFEA4}"><p:d /></r><r uid="{B5228527-66A7-4AFD-8CDD-0A319B57C7A8}"><p:d /></r></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170130T234031Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f864bef3-8b49-4f0a-8205-7f829e33955c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170323T182315Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

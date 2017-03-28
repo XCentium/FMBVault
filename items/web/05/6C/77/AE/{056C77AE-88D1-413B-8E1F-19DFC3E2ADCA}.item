@@ -1,0 +1,148 @@
+----item----
+version: 1
+id: {056C77AE-88D1-413B-8E1F-19DFC3E2ADCA}
+database: web
+path: /sitecore/content/FMBCom/Home/Security/Protecting Your Information
+parent: {728B942D-C6C7-4321-8B22-81B71BBD336F}
+name: Protecting Your Information
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170215T233442:636227984824200000
+
+----version----
+language: en
+version: 1
+revision: 13cc0a91-37ad-42f6-a7ca-97dba142d7c2
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 27
+
+Protecting Your Information
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 6405
+
+<h2>Internet Pirates are Trying To Steal YOUR Personal Financial Information </h2>
+<h3>Here&rsquo;s The Good News: YOU Have the Power To Stop Them</h3>
+There's a new type of Internet piracy called "phishing." It&rsquo;s pronounced "fishing," and that's exactly what these thieves are doing: "fishing" for your personal financial information. What they want are account numbers, passwords, Social Security numbers, and other confidential information that they can use to loot your checking account or run up bills on your credit cards.<br>
+<br>
+In the worst case, you could find yourself a victim of identity theft. With the sensitive information obtained from a successful phishing scam, these thieves can take out loans or obtain credit cards and even driver's licenses in your name. They can do damage to your financial history and personal reputation that can take years to unravel. But if you understand how phishing works and how to protect yourself, you can help stop this crime.&nbsp;
+<h3>Here's how phishing works:</h3>
+<p>In a typical case, you'll receive an e-mail that appears to come from a reputable company that you recognize and do business with, such as your financial institution. In some cases, the e-mail may appear to come from a government agency, including one of the federal financial institution regulatory agencies.<br>
+<br>
+The e-mail will probably warn you of a serious problem that requires your immediate attention. It may use phrases, such as Immediate attention required, or Please contact us immediately about your account. The e-mail will then encourage you to click on a button to go to the institution's web site.<br>
+<br>
+In a phishing scam, you could be redirected to a phony web site that may look exactly like the real thing. Sometimes, in fact, it may be the company's actual Web site. In those cases, a pop-up window will quickly appear for the purpose of harvesting your financial information.<br>
+<br>
+In either case, you may be asked to update your account information or to provide information for verification purposes: your Social Security number, your account number, your password, or the information you use to verify your identity when speaking to a real financial institution, such as your mother's maiden name or your place of birth.<br>
+<br>
+If you provide the requested information, you may find yourself the victim of identity theft.</p>
+<h3>How to Protect Yourself</h3>
+<ol>
+    <li>Never provide your personal information in response to an unsolicited request, whether it is over the phone or over the Internet. E-mails and Internet pages created by phishers may look exactly like the real thing. They may even have a fake padlock icon that ordinarily is used to denote a secure site. If you did not initiate the communication, you should not provide any information.</li>
+    <li>If you believe the contact may be legitimate, contact the financial institution yourself. You can find phone numbers and Web sites on the monthly statements you receive from your financial institution, or you can look the company up in a phone book or on the Internet. The key is that you should be the one to initiate the contact, using contact information that you have verified yourself.</li>
+    <li>Never provide your password over the phone or in response to an unsolicited Internet request. A financial institution would never ask you to verify your account information online. Thieves armed with this information and your account number can help themselves to your savings.</li>
+    <li>Review account statements regularly to ensure all charges are correct. If your account statement is late in arriving, call your financial institution to find out why. If your financial institution offers electronic account access, periodically review activity.</li>
+</ol>
+<h3>What to do if you fall victim</h3>
+<ul>
+    <li>Contact your financial institution immediately and alert them of the situation.</li>
+    <li>If you have disclosed sensitive information in a phishing attack, you should also contact one of the three major credit bureaus and discuss whether you need to place a fraud alert on your file, which will help prevent thieves from opening a new account in your name. Here is the contact information for each bureau's fraud division:</li>
+</ul>
+<p style="margin-left: 40px;"><strong>Equifax</strong> 800-525-6285 P.O. Box 740250 Atlanta, GA 30374 <br>
+<strong>Experian</strong> 888-397-3742 P.O. Box 1017 Allen, TX 75013 <br>
+<strong>TransUnion</strong> 800-680-7289 P.O. Box 6790 Fullerton, CA 92634</p>
+<p style="margin-left: 40px;">*Report all suspicious contacts to the Federal Trade Commission by calling <strong>(877)-IDTHEFT</strong> or through the Internet at <a href="https://www.ftccomplaintassistant.gov" title="https://www.ftccomplaintassistant.gov">https://www.ftccomplaintassistant.gov</a>.</p>
+<h3>Here's How:</h3>
+<ul>
+    <li>Never provide personal financial information, including your Social Security number, account numbers or passwords, over the phone or the Internet if you did not initiate the contact.</li>
+    <li>Never click on the link provided in an e-mail you believe is fraudulent. It may contain a virus that can contaminate your computer.</li>
+    <li>Do not be intimidated by an e-mail or caller who suggests dire consequences if you do not immediately provide or verify financial information.</li>
+    <li>If you believe the contact is legitimate, go to the company's website by typing in the site address directly or using a page you have previously book marked, instead of a link provided in the e-mail.</li>
+    <li>If you fall victim to an attack, act immediately to protect yourself. Alert your financial institution. Place fraud alerts on your credit files. Monitor your credit files and account statements closely.</li>
+</ul>
+<p>Report suspicious e-mails or calls to the Federal Trade Commission by calling 1-877-IDTHEFT or through the Internet at <a href="http://www.ftc.gov/bcp/edu/microsites/idtheft" target="_blank" title="http://www.ftc.gov/bcp/edu/microsites/idtheft">http://www.ftc.gov/bcp/edu/microsites/idtheft</a>.</p>
+<p>A message from the Federal Bank, Thrift and Credit Union Regulatory Agencies Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, National Credit Union Administration, Office of the Comptroller of the Currency and Office of Thrift Supervision</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 27
+
+Protecting Your Information
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 47
+
+Protecting Your Data | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 88
+
+Find out about how Farmers & Merchants bank is proactively protecting your account data.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 535
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{B44DD0D8-1B2C-4083-8A9C-B0546723AA57}" p:before="*" s:ds="{78EC2F2F-D83D-470B-ACC8-8EB008718395}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{9A843484-4E72-44E4-B39E-A06CEA3E6039}" p:after="r[@uid='{B44DD0D8-1B2C-4083-8A9C-B0546723AA57}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170215T233442Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+13cc0a91-37ad-42f6-a7ca-97dba142d7c2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T003447Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

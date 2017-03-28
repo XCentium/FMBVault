@@ -32,9 +32,28 @@
     "itemName": "Validation Action",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Compliance Approval/Approve/Validation Action",
     "template": "Validation Action",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{813E0422-C54B-4F5E-B3B1-8F39927115FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:30.6619477Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Action",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Compliance Approval/Approve/Validation Action",
+    "template": "Validation Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

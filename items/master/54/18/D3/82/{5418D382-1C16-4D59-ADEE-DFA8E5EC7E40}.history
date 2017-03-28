@@ -32,9 +32,28 @@
     "itemName": "Real Estate Seminars Form",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Configurations/Real Estate Seminars Form",
     "template": "Form Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5418D382-1C16-4D59-ADEE-DFA8E5EC7E40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:11.4369730Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Real Estate Seminars Form",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Configurations/Real Estate Seminars Form",
+    "template": "Form Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

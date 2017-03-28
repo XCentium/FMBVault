@@ -32,9 +32,28 @@
     "itemName": "Georgia",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Georgia",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B26F9719-1C1B-4F91-A2A3-7720FE3578FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.9369729Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Georgia",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Georgia",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3288A42E-8F99-4874-A6B0-2BB9E4698684}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:48.7679663Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News and Community",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/News and Community/News and Community",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

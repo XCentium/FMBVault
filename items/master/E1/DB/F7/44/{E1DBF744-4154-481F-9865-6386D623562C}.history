@@ -13,9 +13,28 @@
     "itemName": "Hide Group Name",
     "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Hide Group Name",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "aef7309e-f3da-40d1-9291-d41cce7a6fa3"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E1DBF744-4154-481F-9865-6386D623562C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:09.5919517Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hide Group Name",
+    "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Hide Group Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]

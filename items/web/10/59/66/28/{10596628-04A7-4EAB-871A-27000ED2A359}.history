@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{10596628-04A7-4EAB-871A-27000ED2A359}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.0949727Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Washington",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Washington",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

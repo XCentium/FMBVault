@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3B2B1FCD-8253-466C-B457-BBA36F3F78C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:07.9179724Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ohio",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Ohio",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

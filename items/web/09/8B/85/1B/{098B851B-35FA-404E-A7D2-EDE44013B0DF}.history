@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{098B851B-35FA-404E-A7D2-EDE44013B0DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:07.5299732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TestNotification",
+    "itemPath": "/sitecore/content/FMBCom/Global/Notifications/TestNotification",
+    "template": "Notification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

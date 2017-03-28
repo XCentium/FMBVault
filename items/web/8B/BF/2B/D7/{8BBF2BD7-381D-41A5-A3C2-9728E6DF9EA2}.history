@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{8BBF2BD7-381D-41A5-A3C2-9728E6DF9EA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:09.2679733Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Maryland",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Maryland",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

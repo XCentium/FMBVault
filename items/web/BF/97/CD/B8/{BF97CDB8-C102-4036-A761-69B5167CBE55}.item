@@ -1,0 +1,122 @@
+----item----
+version: 1
+id: {BF97CDB8-C102-4036-A761-69B5167CBE55}
+database: web
+path: /sitecore/content/FMBCom/Home/Personal/Other Services
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Other Services
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170202T000447:636215906870870000
+
+----version----
+language: en
+version: 1
+revision: 29c4cfd2-9d77-4f89-a1eb-894879fdcd4f
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 14
+
+Other Services
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 2862
+
+<h3>Direct Deposit</h3>
+<p><strong>Direct deposit</strong>&nbsp;is the way to go to receive your recurring paycheck, pension, government benefits or other income directly into your&nbsp;<em>checking account</em>&nbsp;or&nbsp;<em>savings account</em>. &nbsp;Direct deposit is quick, convenient and safe. No more waiting in line and worrying about lost checks!&nbsp;</p>
+<p>To get Direct Deposit, simply give the employer or payor of your recurring deposits your account number and F&amp;M&rsquo;s routing number (122201198). For additional assistance, call us at (866) 437-0011.</p>
+<p><em>NOTICE: &nbsp;The U.S. Department of the Treasury recently announced that all federal benefits and non-tax payments will only be made electronically by March 1, 2013. People currently receiving federal benefits by paper check will have until March 1, 2013 to select an electronic payment method. &nbsp;People applying for federal benefits for the first time, will need to choose direct deposit to expedite payment. &nbsp;Avoid interruption in payment by signing up for Direct Deposit with F&amp;M! &nbsp;Visit&nbsp; <a href="https://fiscal.treasury.gov/GoDirect/" target="_blank" title="www.GoDirect.com">www.godirect.com</a>&nbsp;for more information.</em></p>
+<p><a href="-/media/13D087CED0D04C85B93957AB9736092C.ashx">Click here to learn what the numbers on your check mean.</a></p>
+<hr>
+<h3>Electronic Statements &mdash; e-Statements</h3>
+<p>Frustrated with the clutter of monthly paper account statements? &nbsp;When you are banking online,&nbsp;<strong>electronic statements</strong>&nbsp;(e-Statements) from F&amp;M are a convenient, simple and safe way to manage your account records while offering the same benefits as paper statements. &nbsp;<span style="color: #006f53;"><a href="~/link.aspx?_id=89F1F3C8EFB44AA69BC60262848D6550&amp;_z=z">Sign-up for banking online</a></span>&nbsp;today and select e-statements to safely reduce the clutter and easily manage your account.</p>
+<p><a href="-/media/4F25F7AE46204FFEA13A974077966949.ashx">Click here to learn how to enroll for e-Statements from F&amp;M Bank</a>.</p>
+<hr>
+<h3>MasterCard<sup>&reg;</sup>&nbsp;Gift Cards</h3>
+<p>Do you have a graduation, wedding, baby shower, or birthday coming up? Is it company bonus time? &nbsp;Simplify gift giving with a MasterCard&reg; pre-paid debit card from Farmers &amp; Merchants Bank! &nbsp;Visit your&nbsp;local branch&nbsp;today to purchase&nbsp;<strong>MasterCard gift cards</strong>&nbsp;in any monetary amount you choose.</p>
+Call or stop by <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">any of our local Southern California bank branches</a> today to learn more about these banking services from Farmers &amp; Merchants Bank.&nbsp;<br>
+<br>
+<strong><a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">See All Services and Fees</a></strong>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 14
+
+Other Services
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 48
+
+Banking Services - Direct Deposit and More | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 140
+
+With Direct Deposit to Checking and Savings, Electronic Statements and Mastercard Gift Cards, at F&M,  convenience is part of great service.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 797
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{F967FD7F-8E4A-4B54-BB89-70797585D0D7}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{CD843D05-1886-4816-8B79-1C70059384C5}" p:after="r[@uid='{F967FD7F-8E4A-4B54-BB89-70797585D0D7}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{3D6836F8-D125-4E5C-BC99-C77D6F08EBD6}" p:after="r[@uid='{CD843D05-1886-4816-8B79-1C70059384C5}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170202T000447Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+29c4cfd2-9d77-4f89-a1eb-894879fdcd4f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170301T231925Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

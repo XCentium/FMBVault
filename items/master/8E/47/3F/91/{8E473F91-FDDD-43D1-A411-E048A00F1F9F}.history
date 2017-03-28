@@ -32,9 +32,28 @@
     "itemName": "Modal Folder",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Modal Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{8E473F91-FDDD-43D1-A411-E048A00F1F9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:16.2519554Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modal Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Modal Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

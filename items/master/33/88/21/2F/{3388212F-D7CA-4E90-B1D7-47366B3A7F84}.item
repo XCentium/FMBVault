@@ -2,7 +2,7 @@
 version: 1
 id: {3388212F-D7CA-4E90-B1D7-47366B3A7F84}
 database: master
-path: /sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Approve/Notify Approvers
+path: /sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Send to Compliance/Notify Approvers
 parent: {DE645E6F-89BD-4B33-A439-49E1F1DF0C33}
 name: Notify Approvers
 master: {00000000-0000-0000-0000-000000000000}

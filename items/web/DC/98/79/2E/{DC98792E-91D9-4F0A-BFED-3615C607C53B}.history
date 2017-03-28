@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{DC98792E-91D9-4F0A-BFED-3615C607C53B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.5509728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bret Holloway",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Bret Holloway",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

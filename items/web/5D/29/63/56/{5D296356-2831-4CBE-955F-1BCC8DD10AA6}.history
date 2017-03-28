@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{5D296356-2831-4CBE-955F-1BCC8DD10AA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:53.2019667Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Existing OLB Customer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Persona/Existing OLB Customer",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

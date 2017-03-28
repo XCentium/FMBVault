@@ -32,9 +32,28 @@
     "itemName": "_HasTestimonial",
     "itemPath": "/sitecore/templates/Feature/Testimonial/_HasTestimonial",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{10136264-C76F-467E-ACC5-49903A1625AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:07.0939493Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasTestimonial",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/_HasTestimonial",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

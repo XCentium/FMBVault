@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{5E1AB026-2490-415E-B978-61144D9B0AE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:58.8969729Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Merchant Card Services",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Merchant Card Services",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

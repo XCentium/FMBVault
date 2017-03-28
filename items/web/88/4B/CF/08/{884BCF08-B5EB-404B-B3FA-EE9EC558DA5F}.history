@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{884BCF08-B5EB-404B-B3FA-EE9EC558DA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:56.8479666Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "compare-non-analyzed-business-checking",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/compare-non-analyzed-business-checking",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

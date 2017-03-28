@@ -32,9 +32,28 @@
     "itemName": "Huntington Beach",
     "itemPath": "/sitecore/content/FMBCom/Home/Locations/Huntington Beach",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{39D32133-0451-407C-90A2-E4253D9140EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:02.3829699Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Huntington Beach",
+    "itemPath": "/sitecore/content/FMBCom/Home/Locations/Huntington Beach",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

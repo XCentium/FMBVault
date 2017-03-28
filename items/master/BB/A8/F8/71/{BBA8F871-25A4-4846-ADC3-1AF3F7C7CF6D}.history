@@ -32,9 +32,28 @@
     "itemName": "East Long Beach",
     "itemPath": "/sitecore/content/FMBCom/Home/Locations/East Long Beach",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{BBA8F871-25A4-4846-ADC3-1AF3F7C7CF6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:01.7179674Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "East Long Beach",
+    "itemPath": "/sitecore/content/FMBCom/Home/Locations/East Long Beach",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

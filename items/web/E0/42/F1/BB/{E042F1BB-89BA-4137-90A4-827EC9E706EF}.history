@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E042F1BB-89BA-4137-90A4-827EC9E706EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:10.0489552Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Body Image Caption",
+    "itemPath": "/sitecore/templates/Feature/HowTo/_HasHowTo/How-To/Body Image Caption",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

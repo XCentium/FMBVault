@@ -70,9 +70,28 @@
     "itemName": "Rates",
     "itemPath": "/sitecore/content/FMBCom/Home/Rates",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{67B5E959-E0FF-4B74-98FF-5764CD8FF541}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:56.5039661Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rates",
+    "itemPath": "/sitecore/content/FMBCom/Home/Rates",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

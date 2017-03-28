@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{12F854D7-0D67-4D4F-9E28-4D32663CBAE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.1319739Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kevin Middleton",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Clemente/Kevin Middleton",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

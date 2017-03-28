@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D2F927BB-9071-47F6-BD7D-642FE610E1B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.4399671Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Card Alerts FAQs",
+    "itemPath": "/sitecore/content/FMBCom/Home/Customer Service/Card Alerts FAQs",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,119 @@
+----item----
+version: 1
+id: {5E1AB026-2490-415E-B978-61144D9B0AE8}
+database: web
+path: /sitecore/content/FMBCom/Home/Business/Merchant Card Services
+parent: {B0BE8AE0-7814-4443-88D0-DBD64C12A185}
+name: Merchant Card Services
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170213T194243:636226117638030000
+
+----version----
+language: en
+version: 1
+revision: db299325-1987-4cc4-a31e-641c9c5bafce
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 17
+
+Merchant Services
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1373
+
+<p>Accept credit card payments and increase your revenue by providing your customers with a variety of credit card payment options. Merchant Services allow you to accept credit card payments from major credit cards, debit cards, and even gift cards. We also offer check verification and warranty. Whether you're attracted by our competitive rates or our customer service, we're here to personally guide you through credit card processing from setting up an account to handling your first credit card transaction. What are you waiting for?</p>
+<p>Benefits of Merchant Services with F&amp;M:</p>
+<ul>
+    <li>Competitive credit card processing rates</li>
+    <li>No cancellation fees</li>
+    <li>Flexibility of processing options – Point-of-Sale (POS), Computer, or Internet</li>
+    <li>Access to latest mobile credit card processing technology - iPhone®, iPad® and Android™ compatible card-swiping devices</li>
+    <li>Secure payment processing technology</li>
+    <li>Full-service set-up and support by local F&amp;M service personnel</li>
+</ul>
+<p>Call today for a competitive quote on Merchant Services at <strong>(562) 344-2348</strong> and let F&amp;M start saving you money.</p>
+<p><a href="~/link.aspx?_id=AB4BAC5A4010405DAAB556FF12D6CE95&amp;_z=z"><img height="90" alt="Business Calculators" width="400" src="-/media/07C82FB67432451EBC6FD4CBF7D95413.ashx"></a></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 22
+
+Merchant Card Services
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 62
+
+Merchant Services - Credit Card Processing and More | F&M Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 124
+
+Merchant Services at F&M Bank offer credit card processing with competitive rates and superior customer service. Learn more.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1750
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{8C502486-571E-41F3-8166-9A4818E1B1E9}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{0D53125C-1285-4046-B3EC-DFCD1AE34196}" p:after="r[@uid='{8C502486-571E-41F3-8166-9A4818E1B1E9}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{AEA8D93C-F0C1-4DBE-831B-26E5437BB8C7}" p:after="r[@uid='{0D53125C-1285-4046-B3EC-DFCD1AE34196}']" s:ds="{0F016B3A-534F-4F60-9ABD-4AE29B60C14C}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_7dded097-3a46-48a1-bf86-585e55be3c4f" /><r uid="{6ACFA89B-EF72-4A44-80A6-117F3530292A}" p:after="r[@uid='{AEA8D93C-F0C1-4DBE-831B-26E5437BB8C7}']" s:ds="{1281F12D-EEB1-41E1-B9A8-84F6FA61B83F}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section-narrow/col-wide-1_3fc6e936-288e-4897-afdd-a1703395beef" /><r uid="{3FC6E936-288E-4897-AFDD-A1703395BEEF}" p:after="r[@uid='{6ACFA89B-EF72-4A44-80A6-117F3530292A}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{7DDED097-3A46-48A1-BF86-585E55BE3C4F}" p:after="r[@uid='{3FC6E936-288E-4897-AFDD-A1703395BEEF}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{2A3D8E36-16CD-4664-8BAF-8747C6A97726}" p:after="r[@uid='{7DDED097-3A46-48A1-BF86-585E55BE3C4F}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170213T194243Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+db299325-1987-4cc4-a31e-641c9c5bafce
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T204425Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A3A77047-FA1A-4A3E-8F7C-AB6BB34372D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:57.2819686Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cass-1907",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/cass-1907",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

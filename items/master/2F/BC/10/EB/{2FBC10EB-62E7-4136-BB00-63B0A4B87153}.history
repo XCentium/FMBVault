@@ -32,9 +32,28 @@
     "itemName": "Fax",
     "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Fax",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2FBC10EB-62E7-4136-BB00-63B0A4B87153}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:13.3519552Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fax",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Fax",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{856336CC-7C09-4D84-8729-31EDCCACBC4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:15.6389557Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notification Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Notification Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

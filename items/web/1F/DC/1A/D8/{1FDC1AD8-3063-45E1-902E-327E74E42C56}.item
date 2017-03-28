@@ -1,0 +1,134 @@
+----item----
+version: 1
+id: {1FDC1AD8-3063-45E1-902E-327E74E42C56}
+database: web
+path: /sitecore/content/FMBCom/Global/Testimonials/USS Iowa
+parent: {85684875-D289-49CB-8AC0-31FCE2E86DA7}
+name: USS Iowa
+master: {00000000-0000-0000-0000-000000000000}
+template: {43C3FF93-3124-47AF-8574-4D2289837BD5}
+templatekey: Testimonial
+created: 20170302T073746:636240370664700000
+
+----version----
+language: en
+version: 1
+revision: 7047d0c6-eec8-41c1-997a-0ae5359c310a
+
+----field----
+field: {0658E55D-0E17-418A-A9D2-0ED0D2A16B24}
+name: Client Name
+key: client name
+content-length: 8
+
+USS Iowa
+----field----
+field: {E4D64661-6588-4246-8D79-FA315BB58671}
+name: Location
+key: location
+content-length: 13
+
+San Pedro, CA
+----field----
+field: {6E328113-044E-457B-A44D-BC9729B36F54}
+name: Client Since
+key: client since
+content-length: 4
+
+2013
+----field----
+field: {05F09E34-083E-43D8-B73D-4A5B88E3A7CA}
+name: PageUrl
+key: pageurl
+content-length: 123
+
+<link text="" linktype="internal" class="" title="" target="" querystring="" id="{ED0307B4-9060-46C8-818E-A73F888EA2B7}" />
+----field----
+field: {972E097D-D060-4BDA-B2A3-4D4C685E14D3}
+name: Preview Image
+key: preview image
+content-length: 65
+
+<image mediaid="{DBDA5F39-D512-4A75-A6EA-201192CFF3FE}" ></image>
+----field----
+field: {E456124C-04E3-4D0D-AEFB-5314E679E026}
+name: Teaser Quote
+key: teaser quote
+content-length: 66
+
+We wanted a banking partner that had strong ties to the community.
+----field----
+field: {D526316A-200F-42DC-BAD1-EE326DAB7327}
+name: Summary
+key: summary
+content-length: 253
+
+<p>Battleships and banks have a lot in common. They both provide security, stability and firepower when needed.</p>
+<p>So it is fitting that one of the Navy’s strongest battleships and one of California’s strongest banks would one day work together.</p>
+----field----
+field: {F76BE998-40B6-4F25-8761-7FEDB300359A}
+name: Body
+key: body
+content-length: 1608
+
+<p style="color: #333333; background-color: #ffffff;">Battleships and banks have a lot in common. They both provide security, stability and firepower when needed.</p>
+<p style="color: #333333; background-color: #ffffff;">So it is fitting that one of the Navy’s strongest battleships and one of California’s strongest banks would one day work together.</p>
+<p style="color: #333333; background-color: #ffffff;">In 2011, the Battleship Iowa made the Port of Los Angeles its permanent home after a half-century of service that included a tour of duty during World War II. Today, the battleship is a museum and valued client of F&amp;M’s. It is also an educational platform dedicated to working with schools and businesses in the region to provide fun, exciting programs that focus on science, technology and naval history. Donations and grants are the fuel for these initiatives – as Iowa is no longer affiliated with any government agency.</p>
+<p style="color: #333333; background-color: #ffffff;">"We wanted a banking partner that had strong ties to the community – a partner that would understand the cultural and historical significance of the battleship,” said Jonathan Williams, President of the Pacific Battleship Center. “F&amp;M has that personal touch. Our branch representative will actually visit the ship to pick up checks."</p>
+<p style="color: #333333; background-color: #ffffff; margin-bottom: 10px;">Strong relationships run deep for F&amp;M – so we’re proud to serve one of the world’s most powerful battleships and an invaluable source of inspiration to the Southern California community.</p>
+----field----
+field: {07E3D093-2225-4628-91B8-BBC7FB827365}
+name: Body Image
+key: body image
+content-length: 65
+
+<image mediaid="{29904C03-0393-4153-B232-1902D1677939}" ></image>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170301T214447Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7047d0c6-eec8-41c1-997a-0ae5359c310a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170307T231715Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{903709EB-4198-4764-8556-42E6D8D71469}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:48.5989662Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBCom Global Media Commercial-Real-Estate---Q1",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/FMBCom Global Media Commercial-Real-Estate---Q1",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

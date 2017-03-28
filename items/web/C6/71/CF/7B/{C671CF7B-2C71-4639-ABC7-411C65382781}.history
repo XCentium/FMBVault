@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{C671CF7B-2C71-4639-ABC7-411C65382781}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:54.6619660Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phishing Vishing and Smishing",
+    "itemPath": "/sitecore/content/FMBCom/Home/Security/Phishing Vishing and Smishing",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

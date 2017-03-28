@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{CF351B41-19E2-47C9-9430-E00E646CF4FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:11.1769545Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Feature/HowTo/ParametersTemplates/ParametersTemplate_DisplayedHowTos/__Standard Values",
+    "template": "ParametersTemplate_DisplayedHowTos",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

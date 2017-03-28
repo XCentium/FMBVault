@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{47181D9E-2974-462E-88FD-191D6EC46951}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.4199728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Arkansas",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Arkansas",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

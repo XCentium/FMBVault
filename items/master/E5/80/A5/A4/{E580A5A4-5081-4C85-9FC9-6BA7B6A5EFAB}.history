@@ -32,9 +32,28 @@
     "itemName": "Lakewood",
     "itemPath": "/sitecore/content/FMBCom/Home/Locations/Lakewood",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E580A5A4-5081-4C85-9FC9-6BA7B6A5EFAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:02.1369681Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lakewood",
+    "itemPath": "/sitecore/content/FMBCom/Home/Locations/Lakewood",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F03CF2B4-9C39-41F5-82C7-DF19FDC300B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:48.6479667Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Privacy",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Privacy",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

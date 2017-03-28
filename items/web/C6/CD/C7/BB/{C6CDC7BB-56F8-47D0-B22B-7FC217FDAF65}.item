@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {C6CDC7BB-56F8-47D0-B22B-7FC217FDAF65}
+database: web
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Founding Values
+parent: {65B346B4-8D80-435A-94D8-8567676664E7}
+name: Founding Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+templatekey: FAQ Group
+created: 20170309T012229:636246193494370000
+
+----version----
+language: en
+version: 1
+revision: 2e3e4c03-b0f4-4ba0-859a-a12a94936926
+
+----field----
+field: {3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}
+name: Show Expanded
+key: show expanded
+content-length: 1
+
+1
+----field----
+field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
+name: Group Member
+key: group member
+content-length: 272
+
+{AA92525C-A3F7-47EB-AE28-98F7B7577682}|{EFD7398B-4F58-4E99-8BB7-CF97A3F09E59}|{C02A8EFD-1C00-4E5E-9AA6-422DC8D522B7}|{17D3A12F-1612-4C62-8C83-748944CF8D43}|{F424943D-BA8D-4DC9-9713-03D989527AC0}|{8EEE1362-9401-4B16-8B80-16DBFDD118A1}|{2B36B06F-3119-4EEE-A1D9-7042B478FB04}
+----field----
+field: {4A3D8DB5-4782-4EC0-8061-C0B08531EB1F}
+name: Expand Label
+key: expand label
+content-length: 9
+
+Read More
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T012229Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2e3e4c03-b0f4-4ba0-859a-a12a94936926
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T012722Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

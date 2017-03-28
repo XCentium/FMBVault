@@ -32,9 +32,28 @@
     "itemName": "Kourosh Davatolhagh",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/East Long Beach/Kourosh Davatolhagh",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2EDF4DFF-B4C1-47C6-8764-5AD5BEEF4F44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.7489740Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kourosh Davatolhagh",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/East Long Beach/Kourosh Davatolhagh",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

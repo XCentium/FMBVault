@@ -1,0 +1,155 @@
+----item----
+version: 1
+id: {C671CF7B-2C71-4639-ABC7-411C65382781}
+database: web
+path: /sitecore/content/FMBCom/Home/Security/Phishing Vishing and Smishing
+parent: {728B942D-C6C7-4321-8B22-81B71BBD336F}
+name: Phishing Vishing and Smishing
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170216T001431:636228008717730000
+
+----version----
+language: en
+version: 1
+revision: ac10b2ff-66e4-459a-83ff-1b74a1310d73
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 30
+
+Phishing, Vishing and Smishing
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 9318
+
+<h2>The following scams have been reported:&nbsp;</h2>
+<h3>Active Text Phishing Targeting F&amp;M Bank &ndash; November 18, 2013</h3>
+<p>F&amp;M Bank has received reports of customers and non-customers receiving text messages claiming to be from F&amp;M Bank. The text messages are from a variety of 562 area code numbers and ask the recipient to call (850) 677-3020. The text message either says that they need to contact the Security Department to activate their card or that they have been selected to receive an &lsquo;Achieve Card&rsquo; from F&amp;M Bank. <strong>Please be advised that these are not legitimate messages from F&amp;M Bank. Do not call the number or provide any sensitive information back to the text message</strong>. If you receive a suspicious text message, please report it to:&nbsp;<a href="mailto:information.security@fmb.com?subject=Received suspicious text message">information.security@fmb.com</a><sup>2</sup></p>
+<h3>NACHA fraud:</h3>
+<p>The National Automated Clearing House Association (NACHA) has warned of a phishing attempt against them. Random individuals and/or companies may have received a falsified e-mail with the subject title "Rejected ACH Transaction." This e-mail appears to be from NACHA - The Electronic Payments Association telling them that there is a problem with an ACH transaction they have originated. The e-mail includes a link which redirects the individual to a phony web page that appears like the NACHA website and contains a link which is most likely an executable virus. Please alert any financial institution of any questionable email claiming to be from NACHA.</p>
+<h3>Fraudulent E-Mails Claiming to Be From the FDIC:</h3>
+<p>The Federal Deposit Insurance Corporation (FDIC) has warned of e-mails that appear to be sent from the FDIC that ask recipients to download and open a "personal FDIC insurance file" to check their deposit insurance coverage. These e-mails are fraudulent and were not sent by the FDIC. The FDIC is attempting to identify the source of the e-mails and disrupt the transmission. <br>
+<br>
+Currently, the subject line of the fraudulent e-mails includes the wording "check your Bank Deposit Insurance Coverage." The e-mails state: "You have received this message because you are a holder of a FDIC-insured bank account. Recently FDIC has officially named the bank you have opened your account with as a failed bank, thus, taking control of its assets." <br>
+<br>
+The e-mails ask recipients to "visit the official FDIC website" by clicking on a hyperlink provided, which appears to be related to the FDIC and directs recipients to a fraudulent Web site. The Web site includes hyperlinks that appear to open forms. However, it is believed that clicking on the hyperlinks will cause an unknown executable file to be downloaded. While the FDIC is working with the United States Computer Emergency Readiness Team (US-CERT) to determine the exact effects of the executable file, recipients should consider the intent of the software as a malicious attempt to collect personal or confidential information, some of which may be used to gain unauthorized access to online banking services or to conduct identity theft. Financial institutions and consumers should NOT access the Web site or download the executable files provided on the Web site. <br>
+<br>
+Information about counterfeit items, cyber-fraud incidents and other fraudulent activity may be forwarded to the FDIC's Cyber-Fraud and Financial Crimes Section, 550 17th Street, N.W., Room F-3054, Washington, D.C. 20429, or transmitted electronically to <a href="mailto:alert@fdic.gov?subject=Fradulent E-mails Claiming to be from the FDIC">alert@fdic.gov</a>. Information related to federal deposit insurance or consumer issues should be submitted to the FDIC using an online form that can be accessed at&nbsp;<a href="http://www2.fdic.gov/starsmail/index.asp" title="http://www2.fdic.gov/starsmail/index.asp">http://www2.fdic.gov/starsmail/index.asp</a></p>
+<p>For your reference, FDIC Special Alerts may be accessed from the FDIC's website at <a href="http://www.fdic.gov/news/news/SpecialAlert/2009/index.html" title="http://www.fdic.gov/news/news/SpecialAlert/2009/index.html">http://www.fdic.gov/news/news/SpecialAlert/2009/index.html</a>. To learn how to automatically receive FDIC Special Alerts through e-mail, please visit <a href="http://www.fdic.gov/about/subscriptions/index.html" target="_blank" title="http://www.fdic.gov/about/subscriptions/index.html">http://www.fdic.gov/about/subscriptions/index.html</a>.</p>
+<p>&nbsp;</p>
+<hr>
+<p><span style="font-size: 30px; font-weight: 800; font-family: inherit; color: inherit;">Types of Scams</span></p>
+<h3>Phishing</h3>
+<p>Phishing is a criminal mechanism employing both social engineering and technical subterfuge to steal consumer's personal identity data and financial account credentials. Social engineering schemes use spoofed e-mails purporting to be from legitimate businesses and agencies to lead consumers to counterfeit websites designed to trick recipients into divulging financial data such as usernames and passwords. Technical subterfuge schemes plant crime ware onto PCs to steal credentials directly, often using systems to intercept consumers online account user names and passwords and to corrupt local navigational infrastructures to misdirect consumers to counterfeit websites (or authentic websites through phisher controlled proxies used to monitor and intercept consumers keystrokes).</p>
+<ul>
+    <li>
+    Phishing (sometimes called carding or brand spoofing) uses e-mail messages that purport to come from legitimate businesses that one might have dealings with such as:
+    <ul>
+        <li>banks such as Citibank</li>
+        <li>online organizations such as eBay and PayPal</li>
+        <li>&nbsp;Internet service providers such as AOL, MSN, Yahoo and EarthLink</li>
+        <li>online retailers such as Best Buy</li>
+        <li>insurance agencies</li>
+        <li>The messages may look quite authentic</li>
+        <li>They feature corporate logos and formats similar to the ones used for legitimate messages.</li>
+        <li>Typically, they ask for verification of certain information, such as account numbers and passwords, allegedly for auditing purposes or Security concerns of the account.</li>
+    </ul>
+    </li>
+</ul>
+<h3>Vhishing</h3>
+<p>Also called "VoIP phishing," it is the voice counterpart to phishing. Instead of being directed by e-mail to a Web site, an e-mail message asks the user to make a telephone call. The call triggers a voice response system that asks for the user's credit card number. The initial bait can also be a telephone call with a recording that instructs the user to phone an 800 number.<br>
+<br>
+In either case, because people are used to entering credit card numbers over the phone, this technique can be effective. Voice over IP (VoIP) is used for vhishing because caller IDs can be spoofed and the entire operation can be brought up and taken down in a short time, compared to a real telephone line.</p>
+<h3>Smishing</h3>
+<p>Similar to phishing, smishing uses cell phone text messages to deliver the "bait" to get you to divulge your personal information. The "hook" (the method used to actually "capture" your information) in the text message may be a web site URL, however it has become more common to see a phone number that connects to automated voice response system.<br>
+<br>
+The smishing message usually contains something that wants your "immediate attention", some examples include "We're confirming you've signed up for our dating service. You will be charged $2/day unless you cancel your order on this URL: www.?????.com."; "(Name of popular online bank) is confirming that you have purchased a $1500 computer from (name of popular computer company). Visit www.?????.com if you did not make this online purchase."; and "(Name of a financial institution): Your account has been suspended. Call ###.###.#### immediately to reactivate." The "hook" will be a legitimate looking web site that asks you to "confirm" (enter) your personal financial information, such as your credit/debit card number, CVV code (on the back of your credit card), your ATM card PIN, SSN, e-mail address, and other personal information. If the "hook" is a phone number, it normally directs to a legitimate sounding automated voice response system, similar to the voice response systems used by many financial institutions, which will ask for the same personal information.<br>
+<br>
+This is an example of a (complete) smishing message in current circulation: "Notice - this is an automated message from (a local credit union), your ATM card has been suspended. To reactivate call urgent at 866-###-####."<br>
+<br>
+In many cases, the smishing message will show that it came from "5000" instead of displaying an actual phone number or from a company domain. This usually indicates the SMS message was sent via e-mail to the cell phone, and not sent from another cell phone.<br>
+<br>
+This information is then used to credit duplicate credit/debit/ATM cards. There are documented cases where information entered on a fraudulent web site (used in a phishing, smishing, or vishing attack) was used to create a credit or debit card that was used halfway around the world.</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 29
+
+Phishing Vishing and Smishing
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 39
+
+Reported Fraud and Phishing Scams | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 112
+
+F&M Bank wants you to be aware of the various types of Phishing scams used to collect your personal information.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1036
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{A0A26EB4-B830-4FAC-B353-58A271536E92}" p:before="*" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{82226A6A-9547-47A4-8C37-3F3A2B513A04}" p:after="r[@uid='{A0A26EB4-B830-4FAC-B353-58A271536E92}']" s:ds="{F406CEA5-510E-4AB0-A45A-81CBAEEF3997}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_1868cbce-9d93-402c-98f7-c5527d7e3ae7" /><r uid="{1868CBCE-9D93-402C-98F7-C5527D7E3AE7}" p:after="r[@uid='{82226A6A-9547-47A4-8C37-3F3A2B513A04}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{8E177DD5-1B41-4006-ABE5-99A11DB14DDB}" p:after="r[@uid='{1868CBCE-9D93-402C-98F7-C5527D7E3AE7}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170216T001431Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ac10b2ff-66e4-459a-83ff-1b74a1310d73
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T011224Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

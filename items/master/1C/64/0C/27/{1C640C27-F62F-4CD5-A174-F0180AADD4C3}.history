@@ -32,9 +32,28 @@
     "itemName": "Rolling Hills Estates",
     "itemPath": "/sitecore/content/FMBCom/Home/Locations/Rolling Hills Estates",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1C640C27-F62F-4CD5-A174-F0180AADD4C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:01.1929666Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rolling Hills Estates",
+    "itemPath": "/sitecore/content/FMBCom/Home/Locations/Rolling Hills Estates",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

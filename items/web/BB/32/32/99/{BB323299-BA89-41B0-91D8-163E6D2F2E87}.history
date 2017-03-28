@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BB323299-BA89-41B0-91D8-163E6D2F2E87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:18.7589553Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Status Code",
+    "itemPath": "/sitecore/templates/Redirect Module/Response Status Code/Information/Status Code",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "DatasourceLocation",
     "itemPath": "/sitecore/templates/Foundation/Multisite/Datasource Configuration/Data/DatasourceLocation",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5FE1CC43-F86C-459C-A379-CD75950D85AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:17.9239550Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DatasourceLocation",
+    "itemPath": "/sitecore/templates/Foundation/Multisite/Datasource Configuration/Data/DatasourceLocation",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

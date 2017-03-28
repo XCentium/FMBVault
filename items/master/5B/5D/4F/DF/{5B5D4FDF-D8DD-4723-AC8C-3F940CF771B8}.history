@@ -32,9 +32,28 @@
     "itemName": "Trusteer Rapport Security Software",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Trusteer Rapport Security Software",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5B5D4FDF-D8DD-4723-AC8C-3F940CF771B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:59.7769673Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Trusteer Rapport Security Software",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Trusteer Rapport Security Software",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

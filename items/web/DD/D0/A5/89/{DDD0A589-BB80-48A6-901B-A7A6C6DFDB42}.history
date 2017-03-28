@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{DDD0A589-BB80-48A6-901B-A7A6C6DFDB42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.3219731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "West Virginia",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/West Virginia",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

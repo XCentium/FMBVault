@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6672E241-7FA6-4088-9ACC-9D78492E8F96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:09.0909710Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Montana",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Montana",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

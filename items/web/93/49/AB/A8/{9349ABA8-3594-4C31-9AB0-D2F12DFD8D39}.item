@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {9349ABA8-3594-4C31-9AB0-D2F12DFD8D39}
+database: web
+path: /sitecore/content/FMBCom/Global/Forms/Form Configurations/Account Funnel Form
+parent: {6198CD02-AB88-4214-B4F0-27129A7FD684}
+name: Account Funnel Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {6C2B616E-EC60-4FC6-856C-24A54D9B4F8C}
+templatekey: Form Configuration
+created: 20170214T040851:636226421310730000
+
+----version----
+language: en
+version: 1
+revision: 1ce81ede-a11c-4bf5-96f8-b51a1fb47655
+
+----field----
+field: {7F3E0A45-EBC2-47BF-9C04-0359798DB2CE}
+name: FieldOptionGroups
+key: fieldoptiongroups
+content-length: 194
+
+{C991580F-B0BF-46BF-A2BC-4F88D481D7B1}|{AAF27300-F104-4BC6-9D76-1C624CFFF9CF}|{160D2B9B-8C64-4084-B81D-A4C70A54DD9A}|{528806B3-D2E6-4A6F-9508-F45C0CB08155}|{4C54AF53-F327-4649-8A3A-A69CB16120BC}
+----field----
+field: {D71E6464-9F06-4532-8C08-6840E225E885}
+name: FormID
+key: formid
+content-length: 17
+
+AccountFunnelForm
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170210T205405Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1ce81ede-a11c-4bf5-96f8-b51a1fb47655
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170214T040851Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

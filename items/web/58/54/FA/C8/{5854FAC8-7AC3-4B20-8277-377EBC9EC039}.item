@@ -1,0 +1,102 @@
+----item----
+version: 1
+id: {5854FAC8-7AC3-4B20-8277-377EBC9EC039}
+database: web
+path: /sitecore/content/FMBCom/Home/LP/thank-you-rld
+parent: {941F0951-E65E-447B-B485-8E2A61B3957F}
+name: thank-you-rld
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170306T200253:636244273739230000
+
+----field----
+field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
+name: CssCode
+key: csscode
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 372a2263-0678-44df-ab6d-fe680591d011
+
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 0
+
+
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 646
+
+<br>
+<h2 class="featurette-heading" style="color: #006237; background-color: #ffffff; margin-top: 10px; margin-right: 0px; margin-left: 0px; letter-spacing: -1px;"><span style="font-size: 32px;"><span style="font-family: tahoma;">Thank </span><span style="font-family: tahoma;">You</span></span></h2>
+<br>
+<p class="lead" style="color: #333333; background-color: #ffffff; margin-bottom: 20px;">Thank you for requesting a customized rate quote. An F&amp;M Loan Consultant will reach out to you shortly to help. Should you have questions or you would like to speak to us sooner, please call us direct at (866) 649-3836.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 846
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{82461B24-AA95-47F2-A516-FC1357280709}" p:before="*" s:ds="{3F11D0A1-6674-409F-8EE5-90C4A5C0BE5F}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/headerZone/header-login/section_6ee389df-ff15-4dc6-8776-306ffda7036e/col-huge_72b42a1f-329d-4c26-a948-d88f160d9e25" /><r uid="{72B42A1F-329D-4C26-A948-D88F160D9E25}" p:after="r[@uid='{82461B24-AA95-47F2-A516-FC1357280709}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/headerZone/header-login/section_6ee389df-ff15-4dc6-8776-306ffda7036e" /><r uid="{6EE389DF-FF15-4DC6-8776-306FFDA7036E}" p:after="r[@uid='{72B42A1F-329D-4C26-A948-D88F160D9E25}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="/headerZone/header-login" /><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170306T200253Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+372a2263-0678-44df-ab6d-fe680591d011
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170323T182251Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

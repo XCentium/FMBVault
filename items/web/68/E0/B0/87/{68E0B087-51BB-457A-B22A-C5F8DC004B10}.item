@@ -1,0 +1,203 @@
+----item----
+version: 1
+id: {68E0B087-51BB-457A-B22A-C5F8DC004B10}
+database: web
+path: /sitecore/content/FMBCom/Home/Security/Best Practices on Spyware Prevention and Detection
+parent: {728B942D-C6C7-4321-8B22-81B71BBD336F}
+name: Best Practices on Spyware Prevention and Detection
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170216T004407:636228026470370000
+
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 0
+
+
+----field----
+field: {5585A30D-B115-4753-93CE-422C3455DEB2}
+name: ShowInNavigation
+key: showinnavigation
+content-length: 0
+
+
+----field----
+field: {68016087-AA00-45D6-922A-678475C50D4A}
+name: ShowChildren
+key: showchildren
+content-length: 0
+
+
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 882c5f0c-caa0-4180-b7cd-9c6eaeb405f5
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 50
+
+Best Practices on Spyware Prevention and Detection
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 10734
+
+<p>The Internet has become a popular method for both conducting business and managing finances through online banking relationships. While most financial institutions and some individuals have taken steps to protect their computers, many firewall and anti-virus software packages do not protect computers from one of the latest threats, Spyware, a form of software that collects personal and confidential information about a person or organization without their proper knowledge or informed consent, and reports it to a third party.  This informational supplement describes the various challenges and best practices related to spyware.</p>
+<h2>Spyware Infection</h2>
+<p>Spyware is usually installed without a user&rsquo;s knowledge or permission. However, users may intentionally install spyware without understanding the full ramifications of their actions. A user may be required to accept an End User Licensing Agreement (EULA), which often does not clearly inform the user about the extent or manner in which information is collected. In such cases, the software is installed without the user&rsquo;s informed consent.</p>
+<p>Spyware can be installed through the following methods:</p>
+<ul>
+    <li>Downloaded with other Internet downloads in a practice called bundling. In many cases, all the licensing agreements may be included in one pop-up window that, unless read carefully, may leave the user unaware of bundled spyware.</li>
+    <li>Directly downloaded by users who were persuaded that the technology offers a benefit. Some spyware claims to offer increased productivity, virus scanning capabilities or other benefits.</li>
+    <li>Installed through an Internet browsing technique called drive-by downloads. In this technique, spyware is installed when a user simply visits a Web site. The user may be prompted to accept the download believing it is necessary in order to view the Web page. Another method is to prompt the user to install the program through pop-up windows that remain open, or download the software regardless of the action taken by the user.</li>
+    <li>Automatically downloaded when users open or view unsolicited e-mail messages.</li>
+</ul>
+<h2>Behaviors Associated With Spyware</h2>
+<p>Spyware can be difficult to detect and remove because it:</p>
+<ul>
+    <li>Does not always appear as a running program in the Windows Task Manager; therefore, the user may be unaware that his or her computer is infected.</li>
+    <li>May not include a removal option in the Windows Add/Remove Programs function. When such an option is present, the removal process may not eliminate all components, or it may redirect the user to an Internet site to complete the removal. This often results in new or additional infection rather than removal. In addition, some spyware includes a feature to re-install itself when any portion is deleted.</li>
+    <li>May cause a further infestation by installing other spyware programs onto users&rsquo; computers.</li>
+</ul>
+<h2>Risks Associated With Spyware</h2>
+<p>Spyware increases the risk by:</p>
+<ul>
+    <li>Exploiting security vulnerabilities or settings, changing the computer configuration to relax security settings, or allowing a channel into the institution&rsquo;s systems by circumventing the firewall. The result is that attackers can eavesdrop and intercept sensitive communications by monitoring keystrokes, e-mail and Internet communications. This monitoring may lead to the compromise of sensitive information, including user IDs and passwords.</li>
+    <li>Providing attackers the ability to control corporate computers to send unsolicited junk e-mail (SPAM) or malicious software (Malware), or to perform denial of service (DoS) attacks against other organizations.</li>
+    <li>Draining system resources and productivity and consuming system resources, even when the user is not browsing the Internet, such as when adware1 results in voluminous unwanted pop-up advertisements.</li>
+    <li>Compromising the bank&rsquo;s ability to conduct business by disrupting Internet connections as a result of the improper removal of spyware.</li>
+    <li>Increasing the incidence of SPAM to corporate e-mail accounts.</li>
+    <li>Compromising confidentiality. Certain types of spyware route all Internet communications through their own servers, often without the user&rsquo;s knowledge. This allows a third party to read sensitive Internet communications even when Secure Socket Layer (SSL) or other encryption protocols are used. Other forms of spyware install an application on the user&rsquo;s computer that monitors and records all Internet communications and sends the report back to the originator. Identity thieves may then impersonate the customer using the IDs and passwords collected.</li>
+    <li>Increasing vulnerability to phishing and pharming attacks, as some spyware can redirect Internet page requests. Phishing seeks to lure a user to a spoofed Web site using an e-mail that appears to come from a legitimate site. Pharming seeks to redirect a user to a spoofed website by introducing false data into a legitimate domain name server (DNS). The spoofed Web sites are set up to collect private customer information, such as account user IDs and passwords. In addition, objectionable or inappropriate information received by the customer from redirected websites can ultimately damage the financial institution&rsquo;s reputation.</li>
+</ul>
+<h2>Recommended Actions to Mitigate the Risks Associated With Spyware</h2>
+<p>Steps Farmers &amp; Merchants Bank does to protect its network from Spyware:</p>
+<ul>
+    <li>Restricting users from downloading software, especially software not previously approved by the bank. This would prevent users from unwittingly downloading spyware.</li>
+    <li>Ensuring that user settings are set to prompt the user whenever a website tries to install a new program or Active X control.2 If possible, configure the browser to reject Active X controls to lessen the likelihood that spyware could be installed on computers through normal Internet browsing.</li>
+    <li>Maintaining software patches. Several spyware programs take advantage of reported vulnerabilities that, if patched, would limit the spyware&rsquo;s effectiveness.<br>
+    Installing and maintaining current versions of anti-virus and anti-spyware programs.</li>
+    <li>Expanding the risk-assessment process to consider threats from spyware. This ensures that the financial institution considers all risks to private customer information and takes appropriate steps to mitigate those risks.</li>
+    <li>Expanding security and Internet use policies to include risks associated with spyware and acceptable user behavior (e.g., prohibiting Internet downloads and visits to inappropriate websites). In addition, management should take steps to enforce these policies and reprimand staff members who fail to comply with them.</li>
+    <li>Expanding user awareness sessions to include the risks associated with spyware. Users will then become cognizant of the behavior they should adopt to prevent spyware on bank computers and on personal computers that are used to connect to the bank&rsquo;s network.</li>
+    <li>Installing and configuring firewalls to monitor both inbound and outbound traffic. If possible, block outbound ports that are not necessary for business functions. Financial institutions should assess the need for employee access to instant messaging as well as peer-to-peer services, and prevent access when a legitimate business need is not present.</li>
+    <li>Implementing tools to scan e-mail for SPAM and either block the e-mail or designate it as SPAM. E-mail scanning can limit the likelihood that users could unknowingly infect their computers by viewing or reading e-mail that contains spyware.</li>
+    <li>Implementing tools to restrict or prevent pop-up windows. This limits the likelihood that spyware will be downloaded through pop-up windows, either automatically or through user error.</li>
+    <li>Following industry trends and developments regarding spyware and its prevention. Awareness enables the financial institution to adjust its practices as new spyware threats and prevention methods emerge.</li>
+    <li>Reviewing the list of trusted root certificates on a regular basis. Some spyware installs its own trusted certificates allowing it to intercept secure Internet communications or the execution of malicious code. Organizations that audit their trusted root certificates are more likely to identify certificates installed by unknown or un-trusted sources. After researching the validity of these certificates, the financial institution can remove the ones that are installed by spyware.</li>
+    <li>Analyzing firewall logs to determine whether a significant number of customers are connecting to Internet banking websites using the same Internet address. If research determines that the Internet address belongs to a service that intercepts Internet communications, consider blocking access to the Internet banking site from that address.</li>
+    <li>Educating customers about the risks associated with spyware and encouraging them to implement steps to prevent and detect them on their own computers. In addition, advise customers of the risks of using public computers to connect to online banking websites.</li>
+    <li>Investigating the implementation of multi-factor authentication methods, which would limit the ability of identity thieves to compromise customer accounts, even when a thief has a customer&rsquo;s ID, password and account numbers.</li>
+</ul>
+<h2>Actions Farmers &amp; Merchants Bank Recommends to You Our Customers</h2>
+<p>Customers can prevent and detect spyware by:</p>
+<ul>
+    <li>Installing and periodically updating anti-spyware, virus protection and firewall software.</li>
+    <li>Adjusting browser settings to prompt the user whenever a Web site tries to install a new program or Active-X control.</li>
+    <li>Carefully reading all End User Licensing Agreements and avoiding downloading software when licensing agreements are difficult to understand.</li>
+    <li>Maintaining patches to operating systems and browsers.</li>
+    <li>Not opening e-mail from untrustworthy sources.</li>
+</ul>
+<p>Adware is software that tracks a user&rsquo;s Internet browsing habits.<br>
+<br>
+An Active X control is a set of instructions that will automatically run on a computer when downloaded by the browser.<br>
+<br>
+Trusted root certificates enable the secure transmission of private information over the Internet through a protocol called Secure Socket Layer (SSL). A certificate is the electronic confirmation of the identity of an individual or organization by a reliable authority.</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 50
+
+Best Practices on Spyware Prevention and Detection
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 77
+
+Best Practices on Spyware Prevention and Detection | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 107
+
+Farmers & Merchants bank shares guidance to help you understand the risks and learn how to prevent spyware.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 535
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{C1500AEC-F90F-451E-B372-44E0EE1EA7BD}" p:before="*" s:ds="{78EC2F2F-D83D-470B-ACC8-8EB008718395}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{EA6268A6-917F-4E08-9D9F-468D1E1B79FE}" p:after="r[@uid='{C1500AEC-F90F-451E-B372-44E0EE1EA7BD}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170216T004407Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+882c5f0c-caa0-4180-b7cd-9c6eaeb405f5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T005433Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

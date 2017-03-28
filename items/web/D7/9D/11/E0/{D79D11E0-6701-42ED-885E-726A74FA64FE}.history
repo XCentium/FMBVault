@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D79D11E0-6701-42ED-885E-726A74FA64FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:09.0459497Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Displayed Testimonials",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/ParametersTemplates/ParametersTemplate_DisplayedTestimonials/Displayed Testimonials",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

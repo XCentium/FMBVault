@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{DA2F737F-CE96-4DB5-8261-A0496DB9B48B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.4289730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kenny Lim",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Fullerton/Kenny Lim",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

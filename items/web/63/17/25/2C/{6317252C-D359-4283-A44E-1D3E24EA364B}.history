@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6317252C-D359-4283-A44E-1D3E24EA364B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:30.8339473Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__OnSave",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Draft/__OnSave",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

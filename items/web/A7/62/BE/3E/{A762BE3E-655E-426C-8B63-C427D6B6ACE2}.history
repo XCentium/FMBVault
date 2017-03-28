@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A762BE3E-655E-426C-8B63-C427D6B6ACE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.1739730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Wyoming",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Wyoming",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

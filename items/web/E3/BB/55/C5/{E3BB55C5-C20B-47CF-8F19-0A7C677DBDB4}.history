@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E3BB55C5-C20B-47CF-8F19-0A7C677DBDB4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:07.3299728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking Accounts - Teen College Senior",
+    "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons/Checking Accounts - Teen College Senior",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{85684875-D289-49CB-8AC0-31FCE2E86DA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.6789724Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testimonials",
+    "itemPath": "/sitecore/content/FMBCom/Global/Testimonials",
+    "template": "Testimonial Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

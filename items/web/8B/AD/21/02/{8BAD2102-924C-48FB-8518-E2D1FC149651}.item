@@ -1,0 +1,143 @@
+----item----
+version: 1
+id: {8BAD2102-924C-48FB-8518-E2D1FC149651}
+database: web
+path: /sitecore/content/FMBCom/Home/Chip
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: Chip
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170217T155518:636229437186900000
+
+----version----
+language: en
+version: 1
+revision: 47cb567b-4250-4212-8dc2-ecf32c79b1c4
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 15
+
+Chip Technology
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 4508
+
+<p><img alt="F&amp;M Chip Cards" src="-/media/D9EB5175DF8C4DC9AA5DC6F6701296C8.ashx?h=250&amp;w=848&amp;hash=052E3378BAC0439F0C401773EB358E50B818D9A8&amp;hash=052E3378BAC0439F0C401773EB358E50B818D9A8" style="height: 250px; width: 848px;"></p>
+<h2>Benefits of Chip Technology</h2>
+<p><img height="56" alt="Chip" width="74" src="-/media/A62CCB50548143EBA48AB16ADF0170B7.ashx" style="float: right;"> Chip cards are now the global standard in fraud protection giving you even more protection against fraud and theft. Your account information is stored on the microchip, the small metal chip on the front of your debit card. The chip generates a dynamic code for another layer of security, making every transaction unique. Chip technology makes it more difficult to counterfeit your F&amp;M Cards, so use them to make everyday purchases safely and conveniently</p>
+<p>&nbsp;</p>
+<div class="row">
+<div class="col-md-4"><img height="152" alt="ChipInstructions Step1" width="95" src="-/media/3B278DC922B34E29B5D877A484A3BEEA.ashx?h=152&amp;w=95&amp;hash=4B005F47877723B00330321E72801B19E9EF7A27&amp;hash=4B005F47877723B00330321E72801B19E9EF7A27" style="height: 152px; width: 95px;">
+<p><strong>Step 1:</strong> Insert your card in the terminal with the chip facing up. Do not remove it until prompted.</p>
+</div>
+<div class="col-md-4"><img height="109" alt="ChipInstructions Step2" width="95" src="-/media/23C97C1395564D5EB48B2B6E97EFF346.ashx?h=109&amp;w=95&amp;hash=41804798AA2C5331B2C79CAEDCBDF1B187C519E2&amp;hash=41804798AA2C5331B2C79CAEDCBDF1B187C519E2" style="height: 109px; width: 95px;">
+<p><strong>Step 2: </strong>Approve the transaction as usual. Provide your PIN if prompted.</p>
+</div>
+<div class="col-md-4"><img height="153" alt="Chip Instructions - Step 3" width="95" src="-/media/571D9DC3D4954CF8AFBD77296164CE4C.ashx?h=153&amp;w=95&amp;hash=13CAEDA1742C39B103CF5DBB297E325B1231E4E0&amp;hash=13CAEDA1742C39B103CF5DBB297E325B1231E4E0" style="height: 153px; width: 95px;">
+<p><strong>Step 3:</strong> When your transaction is complete, remove your card.</p>
+</div>
+</div>
+<p>&nbsp;</p>
+<ul>
+    <li>Some merchants will require you to enter a PIN instead of signing the display panel for authorization.</li>
+    <li>If a merchant hasn&rsquo;t switched to a chip card terminal, you can still swipe your card with the magnetic strip.</li>
+    <li>There are no changes to how you purchase online and over the phone.</li>
+</ul>
+<h2>F&amp;M ATMs accommodate chip cards<img height="64" alt="ATM" width="52" src="-/media/FCBB0220F9FC4013B2EA59B66914AB44.ashx" style="float: right;"></h2>
+<ol>
+    <li>Insert your new chip card and do not remove it until prompted.</li>
+    <li>Follow the instructions on the screen and complete your transaction as usual.</li>
+    <li>When your transaction is complete, remove your debit card.</li>
+</ol>
+<p><img height="165" alt="Does your business process card payments?" width="848" src="-/media/1CD15EC3E9E143C5A60E0310E22618C2.ashx"></p>
+<p>Protect your business against fraud liability and use our chip-enabled terminals to process chip cards payments. Our terminals will help your business avoid in-person counterfeit card fraud losses. When your merchant terminal has Chip Technology, your business protects your customers&rsquo; data, your reputation, and your bottom line. Let us provide your business with wireless and countertop chip-enabled terminals at cost and with a one year warranty. Our terminals feature everything you need to process payments easily and securely.</p>
+<p>Why make the move to chip-enabled terminals?</p>
+<ul>
+    <li>Effective October 1, 2015, the responsibility for some fraudulent transactions shifted to the &ldquo;least-secure&rdquo; party, either the issuer or the merchant who is not chip-enabled.</li>
+    <li>About 50% of all credit card fraud occurs in the U.S. costing billions of dollars in losses.</li>
+    <li>Other markets around the world are experiencing an 80% reduction in counterfeit fraud with in-person transactions due to chip technology.</li>
+</ul>
+<p>Discover more about how we can provide chip-enabled terminals for your business by checking out our <a href="-/media/8357F53DC6BC45998E47B5E8EF26379C.ashx">FAQs</a>. Ask for a no-cost comparison today. Contact F&amp;M Merchant Services at (562) 344-2348, Monday-Friday 8 am-5 pm PT or email <a href="mailto:Merchant.Services@fmb.com?subject=No-cost Comparison">Merchant.Services@fmb.com</a>. How to Use Your Chip Card at a Chip Terminal: Chip Technology Terms</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 4
+
+Chip
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 54
+
+Chip-enabled Terminals, Find out More Today | F&M Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 178
+
+Find out more today about the move to EMV-enabled termainals. Merchant Services by Farmers & Merchants Bank helps your business helps your business with a wide array of services.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 777
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{F9544655-D948-46FA-BE86-41FC29B87C4F}" p:before="*" s:ds="{B45A465E-A133-49E5-B9AA-0EF752F51C02}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{B4C85CE2-C9B6-4E2A-B4ED-D6DCA29BAFD7}" p:after="r[@uid='{F9544655-D948-46FA-BE86-41FC29B87C4F}']" s:ds="{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{033E3968-9415-4FAE-9BAB-76CC3CCB638E}" p:after="r[@uid='{B4C85CE2-C9B6-4E2A-B4ED-D6DCA29BAFD7}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T155518Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+47cb567b-4250-4212-8dc2-ecf32c79b1c4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T165439Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

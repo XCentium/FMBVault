@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{AF401F0A-F78F-4718-8238-C4C1B9821DD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:16.5949543Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/How-To Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "CalculatorThumbnail",
     "itemPath": "/sitecore/templates/Feature/Tools/_HasCalculator/Calculator/CalculatorThumbnail",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{9438C75E-929A-4BC5-A29B-EFCA06DE10BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:12.6939543Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CalculatorThumbnail",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasCalculator/Calculator/CalculatorThumbnail",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

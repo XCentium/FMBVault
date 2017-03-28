@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B84A2B3B-4427-49F8-87D7-0FB7049563CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:48.5699664Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NonProfit to Business",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/NonProfit to Business",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "Employees",
     "itemPath": "/sitecore/templates/Feature/Office/_HasEmployees/Employees",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{8F4684AE-A5C2-490C-848B-8F482C49AA40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:13.1359546Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employees",
+    "itemPath": "/sitecore/templates/Feature/Office/_HasEmployees/Employees",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

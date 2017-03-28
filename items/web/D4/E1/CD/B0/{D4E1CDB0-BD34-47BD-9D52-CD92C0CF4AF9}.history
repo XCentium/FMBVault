@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D4E1CDB0-BD34-47BD-9D52-CD92C0CF4AF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.7789726Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Homefront America",
+    "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/Homefront America",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

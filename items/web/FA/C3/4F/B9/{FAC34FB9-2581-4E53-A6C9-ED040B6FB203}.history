@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{FAC34FB9-2581-4E53-A6C9-ED040B6FB203}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.7409716Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "John F Casillas",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Downey/John F Casillas",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

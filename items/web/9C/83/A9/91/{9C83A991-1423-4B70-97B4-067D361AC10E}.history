@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9C83A991-1423-4B70-97B4-067D361AC10E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:59.4739691Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit and Debt Management",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Credit and Debt Management",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "OrganisationName",
     "itemPath": "/sitecore/templates/Feature/Identity/_Identity/Organisation/OrganisationName",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{EFD4980A-030C-497C-8880-40B6030AC28B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:09.1509497Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OrganisationName",
+    "itemPath": "/sitecore/templates/Feature/Identity/_Identity/Organisation/OrganisationName",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

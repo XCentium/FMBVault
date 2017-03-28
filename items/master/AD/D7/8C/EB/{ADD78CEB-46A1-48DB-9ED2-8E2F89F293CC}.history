@@ -32,9 +32,28 @@
     "itemName": "Branch Name",
     "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Branch Name",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{ADD78CEB-46A1-48DB-9ED2-8E2F89F293CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:13.3999558Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Branch Name",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Branch Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

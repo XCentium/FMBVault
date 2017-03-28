@@ -1,0 +1,111 @@
+----item----
+version: 1
+id: {0DD97F4E-0F53-4DC0-A1D3-75C820FBB983}
+database: web
+path: /sitecore/content/FMBCom/Home/Personal/Savings Accounts
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Savings Accounts
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170207T200209:636220945296030000
+
+----version----
+language: en
+version: 1
+revision: a376a587-24ab-4b8f-a918-0ff65a4e935a
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 16
+
+Savings Accounts
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 962
+
+<h2>FIND THE RIGHT F&amp;M SAVINGS ACCOUNT FOR YOU&nbsp;</h2>
+<p>An F&amp;M personal savings account will provide the peace of mind you deserve with an FDIC-insured account. Allow one of our personal banking representatives at one of our Los Angeles or Orange County branches to help you identify a personal savings plan to complement your lifestyle and accomplish your savings account goals. Let your money start working for you today!</p>
+<p><img alt="C.J. Walker, Founder 1907" src="-/media/ED735BCE6FBA434DAA88B239F8BC557B.ashx?h=86&amp;w=86&amp;hash=59D0CF70211496E54E4C7048280198D895048BE9&amp;hash=59D0CF70211496E54E4C7048280198D895048BE9" style="height: 86px; width: 86px; float: left; margin-right: 10px;"><em><span style="color: #128040;"><strong><span style="font-size: 18px;">&ldquo;Safeguarding our clients&rsquo; money is a sacred trust.&rdquo;</span></strong></span></em></p>
+<p><span style="color: #128040;">-C.J. Walker, Founder, 1907</span></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 16
+
+Savings Accounts
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 67
+
+Explore Personal Savings Account Options | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 162
+
+Compare the personal saving accounts available from Farmers &amp; Merchants Bank. From Market Rate Money Market to Market Rate Savings, find what is best for you.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 3861
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{30C075FA-03F4-44D4-9CF1-1615DEC4263E}" p:before="*" s:ds="{B4A3E8F5-A8A1-4308-9C68-EE0CB707BCE4}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_3f842d9b-7ed0-43fb-a0bf-3bc678cd8113" /><r uid="{199C8A91-83C9-4D4B-BD67-915899D3F5D3}" p:after="r[@uid='{30C075FA-03F4-44D4-9CF1-1615DEC4263E}']" s:ds="{60015EE7-CF5D-4CD7-89EB-6BDDF4B738C9}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_f353da83-8d43-4ca0-8ce1-b24bf514aa9c" /><r uid="{F98771AB-68C3-4E4C-A30C-D208249D97A4}" p:after="r[@uid='{199C8A91-83C9-4D4B-BD67-915899D3F5D3}']" s:ds="{02D2EE4B-C9D4-4A55-8C13-AD2C8755A826}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_1aa73dc3-c4ab-4910-8a42-7316c586a7c4" /><r uid="{DE600030-44E3-486E-824A-74B66F08A057}" p:after="r[@uid='{F98771AB-68C3-4E4C-A30C-D208249D97A4}']" s:ds="" s:id="{0476343E-939C-4504-B1EB-35EB361DBEEF}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_09499916-9b58-4bea-ae36-04c6aa8707b0" /><r uid="{23961422-AD51-4ED6-B4E1-F27D04C12788}" p:after="r[@uid='{DE600030-44E3-486E-824A-74B66F08A057}']" s:ds="{430D1F26-B831-4619-A25D-78FCCC16AE29}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:ph="/layoutZone/col-narrow-1" /><r uid="{2B716DC0-55FA-4417-A6EF-4DCBA488D80A}" p:after="r[@uid='{23961422-AD51-4ED6-B4E1-F27D04C12788}']" s:ds="{78EC2F2F-D83D-470B-ACC8-8EB008718395}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{F2B2FDB6-2739-4C83-8FF0-C7F09C1200BC}" p:after="r[@uid='{2B716DC0-55FA-4417-A6EF-4DCBA488D80A}']" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{FACA8D9B-DEF5-4D47-9583-5990C7CCEE33}" p:after="r[@uid='{F2B2FDB6-2739-4C83-8FF0-C7F09C1200BC}']" s:ds="{A1B42FEE-7947-4DF8-8604-47AD4CCB56A3}" s:id="{709513D0-52B1-4FA1-AB10-439F4258E273}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{B9D82A1A-8AF1-4A85-B395-9A73FAC230B3}" p:after="r[@uid='{FACA8D9B-DEF5-4D47-9583-5990C7CCEE33}']" s:ds="{848A4777-F623-41E0-96AF-84C01D200F5A}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{521BA3D4-12F1-4727-8CEA-02C0ACF511D0}" p:after="r[@uid='{B9D82A1A-8AF1-4A85-B395-9A73FAC230B3}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{1AA73DC3-C4AB-4910-8A42-7316C586A7C4}" p:after="r[@uid='{521BA3D4-12F1-4727-8CEA-02C0ACF511D0}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{F353DA83-8D43-4CA0-8CE1-B24BF514AA9C}" p:after="r[@uid='{1AA73DC3-C4AB-4910-8A42-7316C586A7C4}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{3F842D9B-7ED0-43FB-A0BF-3BC678CD8113}" p:after="r[@uid='{F353DA83-8D43-4CA0-8CE1-B24BF514AA9C}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{7D6835B9-F997-4AEC-A65A-A9B2B415BD50}" p:after="r[@uid='{3F842D9B-7ED0-43FB-A0BF-3BC678CD8113}']" s:ds="{739202D6-FD19-48BD-BC3B-DB462315EC01}" s:id="{97448B3C-0542-4ECF-AA72-0A739306CFEF}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_521ba3d4-12f1-4727-8cea-02c0acf511d0" /><r uid="{09499916-9B58-4BEA-AE36-04C6AA8707B0}" p:after="r[@uid='{7D6835B9-F997-4AEC-A65A-A9B2B415BD50}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{B41AD327-F139-4225-BD70-B3691292A5A0}" p:after="r[@uid='{09499916-9B58-4BEA-AE36-04C6AA8707B0}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170207T200209Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a376a587-24ab-4b8f-a918-0ff65a4e935a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170315T185726Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

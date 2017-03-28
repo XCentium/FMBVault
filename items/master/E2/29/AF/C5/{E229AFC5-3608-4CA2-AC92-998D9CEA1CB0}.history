@@ -32,9 +32,28 @@
     "itemName": "EmailFrom_Funnel",
     "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/EmailFrom_Funnel",
     "template": "ConfigurationSetting",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{E229AFC5-3608-4CA2-AC92-998D9CEA1CB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:54.3339672Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EmailFrom_Funnel",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/EmailFrom_Funnel",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

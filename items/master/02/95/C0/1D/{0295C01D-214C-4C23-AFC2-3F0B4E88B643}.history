@@ -32,9 +32,28 @@
     "itemName": "MapPointAddress",
     "itemPath": "/sitecore/templates/Feature/Maps/_MapPoint/Map Point/MapPointAddress",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0295C01D-214C-4C23-AFC2-3F0B4E88B643}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:14.9389669Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MapPointAddress",
+    "itemPath": "/sitecore/templates/Feature/Maps/_MapPoint/Map Point/MapPointAddress",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

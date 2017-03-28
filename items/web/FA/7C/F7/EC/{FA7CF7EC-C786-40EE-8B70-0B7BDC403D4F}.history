@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{FA7CF7EC-C786-40EE-8B70-0B7BDC403D4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:57.3859699Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fandm-savings-accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/fandm-savings-accounts",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

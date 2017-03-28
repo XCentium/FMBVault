@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {3288A42E-8F99-4874-A6B0-2BB9E4698684}
+database: web
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/News and Community/News and Community
+parent: {7988CC73-15CF-4D3C-8183-32F2FB89004E}
+name: News and Community
+master: {00000000-0000-0000-0000-000000000000}
+template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
+templatekey: Redirect Url
+created: 20170322T215742:636258166622070000
+
+----field----
+field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
+name: Requested Url
+key: requested url
+content-length: 28
+
+home/news-and-community.html
+----field----
+field: {544E5C57-1626-4972-8535-196F000E4B1F}
+name: Redirect To Item
+key: redirect to item
+content-length: 38
+
+{218E32BC-364F-42ED-859C-85A4921BED34}
+----version----
+language: en
+version: 1
+revision: 13090c00-fa80-4b48-922b-38af4dde33f6
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170313T193124Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+13090c00-fa80-4b48-922b-38af4dde33f6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170322T215832Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+fmb\sdonatelli

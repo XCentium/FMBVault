@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E7624CF0-8006-4882-9FB8-DDC58DCAD252}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.4399734Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employees",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{47FA1A29-232B-4C38-AB47-2B35288BE99F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:24.6539556Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Icon",
+    "itemPath": "/sitecore/system/Settings/Feature/Tools/Icon Types/Test Icon",
+    "template": "_IconType",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

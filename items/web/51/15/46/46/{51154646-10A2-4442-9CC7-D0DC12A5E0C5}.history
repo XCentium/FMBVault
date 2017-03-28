@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{51154646-10A2-4442-9CC7-D0DC12A5E0C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:12.3579555Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_IconType",
+    "itemPath": "/sitecore/templates/Feature/Tools/_IconType",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

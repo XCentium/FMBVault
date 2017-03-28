@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{56605BCE-C88C-40A5-9187-A26A11DB8821}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:54.1459666Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compliance Approvers",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Workflow/Compliance Approvers",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

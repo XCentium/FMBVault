@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{68E0B087-51BB-457A-B22A-C5F8DC004B10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:54.9189668Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Best Practices on Spyware Prevention and Detection",
+    "itemPath": "/sitecore/content/FMBCom/Home/Security/Best Practices on Spyware Prevention and Detection",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

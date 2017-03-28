@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9A254ADE-EF17-4436-A441-C009E0266401}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:30.6879477Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notify Publisher",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Compliance Approval/Approve/Notify Publisher",
+    "template": "Workflow Email",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

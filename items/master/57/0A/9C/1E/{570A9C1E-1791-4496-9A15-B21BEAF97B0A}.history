@@ -32,9 +32,28 @@
     "itemName": "Assets",
     "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets/Assets",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{570A9C1E-1791-4496-9A15-B21BEAF97B0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:17.9429548Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Assets",
+    "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets/Assets",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3DAF4D7B-1F26-4A1F-AAAF-228A0FCDD296}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:07.5819730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE Loan Purpose List",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/CRE Loan Purpose List",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "Text Banking - Mobile",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Text Banking - Mobile",
     "template": "FAQ Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{622CD220-3D23-4E26-909D-A74DC7919A06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:11.7409731Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text Banking - Mobile",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Text Banking - Mobile",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

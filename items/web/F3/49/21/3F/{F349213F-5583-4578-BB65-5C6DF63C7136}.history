@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F349213F-5583-4578-BB65-5C6DF63C7136}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.3279667Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Customer Service",
+    "itemPath": "/sitecore/content/FMBCom/Home/Customer Service",
+    "template": "Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

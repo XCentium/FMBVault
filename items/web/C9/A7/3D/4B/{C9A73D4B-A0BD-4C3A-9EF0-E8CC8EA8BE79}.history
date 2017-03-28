@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{C9A73D4B-A0BD-4C3A-9EF0-E8CC8EA8BE79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:12.2139721Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking - General",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Online Banking - General",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

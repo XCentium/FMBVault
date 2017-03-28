@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4C552A4D-C6C5-4DF0-887C-A68CB058AD1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.1509736Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vermont",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Vermont",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

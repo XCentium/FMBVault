@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {46208C65-F7D5-4642-9340-175057D80E03}
+database: web
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03
+parent: {B9B0BD69-0DC2-43E0-9464-8039E56F6FF9}
+name: 03
+master: {00000000-0000-0000-0000-000000000000}
+template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
+templatekey: Bucket
+created: 20170313T193124:636250302848770000
+
+----version----
+language: en
+version: 1
+revision: 4bf60d16-626a-4148-bcbb-f0f6a2796fee
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170313T193124Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4bf60d16-626a-4148-bcbb-f0f6a2796fee
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T193124Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

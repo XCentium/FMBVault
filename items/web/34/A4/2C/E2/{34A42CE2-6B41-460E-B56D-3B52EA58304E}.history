@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{34A42CE2-6B41-460E-B56D-3B52EA58304E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:53.4179665Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CJ Walker",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/CJ Walker",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

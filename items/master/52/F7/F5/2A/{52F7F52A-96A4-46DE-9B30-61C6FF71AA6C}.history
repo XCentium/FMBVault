@@ -32,9 +32,28 @@
     "itemName": "Form Orientation Type",
     "itemPath": "/sitecore/templates/Feature/Forms/Form Orientation Type/Form Orientation Type",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{52F7F52A-96A4-46DE-9B30-61C6FF71AA6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:13.0579551Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Orientation Type",
+    "itemPath": "/sitecore/templates/Feature/Forms/Form Orientation Type/Form Orientation Type",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

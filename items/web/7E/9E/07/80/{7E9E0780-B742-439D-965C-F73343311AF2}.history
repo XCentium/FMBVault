@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7E9E0780-B742-439D-965C-F73343311AF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.6309730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Michael Bueche",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Laguna Hills/Michael Bueche",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

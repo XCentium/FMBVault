@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{ECF6B216-508C-40E6-853B-8A04E3F06027}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:10.5259732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Banking Services",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/All Banking Services",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

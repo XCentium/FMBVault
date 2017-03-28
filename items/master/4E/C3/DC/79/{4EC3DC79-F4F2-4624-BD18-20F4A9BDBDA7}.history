@@ -32,9 +32,28 @@
     "itemName": "Calculator Folder",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Calculator Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{4EC3DC79-F4F2-4624-BD18-20F4A9BDBDA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:16.1839553Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculator Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Calculator Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

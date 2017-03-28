@@ -32,9 +32,28 @@
     "itemName": "Register Page",
     "itemPath": "/sitecore/templates/Feature/Accounts/_AccountsSettings/Accounts/Register Page",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{71962360-10D8-4B98-BB8D-57660CE11127}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:11.6329543Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register Page",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_AccountsSettings/Accounts/Register Page",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

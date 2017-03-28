@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F155F91C-81FC-4481-BF25-EFD4647BBEDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:08.9469496Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ParametersTemplates",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/ParametersTemplates",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

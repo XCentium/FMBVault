@@ -1,0 +1,147 @@
+----item----
+version: 1
+id: {91DAD8F0-D931-45C6-9091-F175976738AF}
+database: web
+path: /sitecore/content/FMBCom/Home/Personal/Classic Checking Account
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Classic Checking Account
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170203T230941:636217601816530000
+
+----version----
+language: en
+version: 1
+revision: d0407ad4-3aca-44e7-8408-21119cd411a6
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 24
+
+Classic Checking Account
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1366
+
+<h2>Classic Checking Benefits</h2>
+<div class="row">
+<div class="col-md-6">
+<ul>
+    <li><a href="~/link.aspx?_id=8BAD2102924C48FB8518E2D1FC149651&amp;_z=z">Free Debit MasterCard&reg; with Chip Technology<sup>1</sup></a></li>
+    <li><a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">Free Debit Card Alerts<sup>2</sup></a></li>
+    <li>Free Online Banking</li>
+    <li>Free Bill Pay</li>
+    <li>Free Mobile Banking with Text Banking<sup>2</sup></li>
+    <li>Free Mobile Check Deposit<sup>2</sup></li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul>
+    <li>Free Direct Deposit&nbsp;</li>
+    <li>Free Telebanker &amp; Call Center</li>
+    <li>Free eStatements &amp; eNotices</li>
+    <li>Unlimited Check Writing</li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<h2>WAYS TO WAIVE MONTHLY SERVICE CHARGE PER STATEMENT CYCLE</h2>
+<ul>
+    <li>$15 maintenance fee or $500 in direct deposit(s), or 20<br>
+    Debit Card Point-of-Sale transactions<sup>3</sup>, or maintain<br>
+    $1,500 average daily balance, or $5,000 combined<br>
+    checking and/or savings<sup>4</sup> average daily balance.</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h2>MINIMUM OPENING BALANCE</h2>
+<ul>
+    <li>&nbsp;$100</li>
+</ul>
+</div>
+</div>
+<a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 24
+
+Classic Checking Account
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 54
+
+Classic Checking Account from Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 162
+
+Find out more about the Classic Checking account from F&M Bank. Enjoy great checking features and innovative benefits with a Classic Checking account from F&M. 
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 3119
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><p uid="{0F35813F-F6BC-479D-8F24-37C0971936B2}" p:before="*" s:key="/layoutZone/section_2a4763fc-cf17-4160-85a0-ee403da2d987/col-narrow-1_6ffc92f6-3026-437a-a412-971636af56d4" s:md="/sitecore/layout/Placeholder Settings/webedit" /><r uid="{378B6FBE-7273-4C96-A4AE-400502B61AE6}" p:after="p[@uid='{0F35813F-F6BC-479D-8F24-37C0971936B2}']" s:ds="{60015EE7-CF5D-4CD7-89EB-6BDDF4B738C9}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section_a69ac9ab-f3f7-447f-aa04-42eb2519f4ee/col-huge_18fd3c92-28a6-4650-af29-99e4ce8c6a4e" /><r uid="{998092F6-A4C9-415B-B2F6-7D3CC3022615}" p:after="r[@uid='{378B6FBE-7273-4C96-A4AE-400502B61AE6}']" s:ds="{710260E9-783F-4D24-B240-14BD7B3CAD79}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section_a69ac9ab-f3f7-447f-aa04-42eb2519f4ee/col-huge_18fd3c92-28a6-4650-af29-99e4ce8c6a4e" /><r uid="{7235BA5F-A44E-4429-92D4-4F43C012B570}" p:after="r[@uid='{998092F6-A4C9-415B-B2F6-7D3CC3022615}']" s:ds="{D08FA393-72FA-4BF5-98DF-8C815997D040}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section_a69ac9ab-f3f7-447f-aa04-42eb2519f4ee/col-narrow-1_9e4e1604-db5c-487c-824f-f3c42b1351f0" /><r uid="{90EA9DB6-1C49-46DF-8ABB-3C57DD31670F}" p:after="r[@uid='{7235BA5F-A44E-4429-92D4-4F43C012B570}']" s:ds="{550706A9-8AAD-4D3F-A04C-DE225B08D3FD}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/section_a69ac9ab-f3f7-447f-aa04-42eb2519f4ee/col-narrow-1_9e4e1604-db5c-487c-824f-f3c42b1351f0" /><r uid="{09326D09-16DF-445F-AD2D-C547D719C1BF}" p:after="r[@uid='{90EA9DB6-1C49-46DF-8ABB-3C57DD31670F}']" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/section_a69ac9ab-f3f7-447f-aa04-42eb2519f4ee/col-narrow-1_9e4e1604-db5c-487c-824f-f3c42b1351f0" /><r uid="{7BA5EA9E-8C4D-4841-A771-A49A536C99E8}" p:after="r[@uid='{09326D09-16DF-445F-AD2D-C547D719C1BF}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section_a69ac9ab-f3f7-447f-aa04-42eb2519f4ee/col-wide-1_9e4e1604-db5c-487c-824f-f3c42b1351f0" /><r uid="{9E4E1604-DB5C-487C-824F-F3C42B1351F0}" p:after="r[@uid='{7BA5EA9E-8C4D-4841-A771-A49A536C99E8}']" s:id="{4ACD4C20-28D1-46F7-8FBA-A35778937BD1}" s:ph="/layoutZone/section_a69ac9ab-f3f7-447f-aa04-42eb2519f4ee" /><r uid="{18FD3C92-28A6-4650-AF29-99E4CE8C6A4E}" p:after="r[@uid='{9E4E1604-DB5C-487C-824F-F3C42B1351F0}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_a69ac9ab-f3f7-447f-aa04-42eb2519f4ee" /><r uid="{D52BF904-8DFE-4DDE-9DCA-497FA043DD18}" p:after="r[@uid='{18FD3C92-28A6-4650-AF29-99E4CE8C6A4E}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{A69AC9AB-F3F7-447F-AA04-42EB2519F4EE}" p:after="r[@uid='{24F2F429-44E1-4CBA-BA41-D0C2A8D05E4B}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{B8E3B083-B9EE-4542-8ECF-F17149F6958F}"><p:d /></r><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170203T230941Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d0407ad4-3aca-44e7-8408-21119cd411a6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170320T234937Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

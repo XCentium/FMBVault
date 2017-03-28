@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{C4D79957-2FA4-4AE7-B252-E8827268CC9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:17.7589557Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Languages",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rule/Rule/Languages",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

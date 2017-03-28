@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{259E394A-6775-4A08-9C82-EEFCF22630E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:32.2729471Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Trusteer Rapport Security Software",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Security/Trusteer Rapport Security Software",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

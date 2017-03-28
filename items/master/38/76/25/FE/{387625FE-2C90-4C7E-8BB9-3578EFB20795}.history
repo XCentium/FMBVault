@@ -32,9 +32,28 @@
     "itemName": "San Juan Capistrano",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Juan Capistrano",
     "template": "Employee Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{387625FE-2C90-4C7E-8BB9-3578EFB20795}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.2349722Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Juan Capistrano",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Juan Capistrano",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

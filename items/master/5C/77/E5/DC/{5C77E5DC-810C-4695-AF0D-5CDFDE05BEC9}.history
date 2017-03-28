@@ -32,9 +32,28 @@
     "itemName": "Bixby Knolls",
     "itemPath": "/sitecore/content/FMBCom/Global/Offices/Bixby Knolls",
     "template": "Office Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5C77E5DC-810C-4695-AF0D-5CDFDE05BEC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:06.8669736Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bixby Knolls",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Bixby Knolls",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

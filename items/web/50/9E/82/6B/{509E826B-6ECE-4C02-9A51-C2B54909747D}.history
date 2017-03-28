@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{509E826B-6ECE-4C02-9A51-C2B54909747D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:58.2429730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Breakeven Analysis",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/Breakeven Analysis",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

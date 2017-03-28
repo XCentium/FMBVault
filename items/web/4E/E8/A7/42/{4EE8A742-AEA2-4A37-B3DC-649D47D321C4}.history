@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4EE8A742-AEA2-4A37-B3DC-649D47D321C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:58.5419729Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Lines of Credit",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Lines of Credit",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

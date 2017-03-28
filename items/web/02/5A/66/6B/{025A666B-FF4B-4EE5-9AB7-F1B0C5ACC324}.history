@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{025A666B-FF4B-4EE5-9AB7-F1B0C5ACC324}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.5879745Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Laguna Hills",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Laguna Hills",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

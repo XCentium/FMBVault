@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{8384C722-08E1-4A15-99FF-5845A0FEAD3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.1309732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking Requirements",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Online Banking Requirements",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

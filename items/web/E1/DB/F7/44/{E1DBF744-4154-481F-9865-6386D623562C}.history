@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E1DBF744-4154-481F-9865-6386D623562C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:09.5849524Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hide Group Name",
+    "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Hide Group Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

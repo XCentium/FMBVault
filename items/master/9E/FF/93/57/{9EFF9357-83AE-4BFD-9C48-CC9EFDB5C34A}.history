@@ -32,9 +32,28 @@
     "itemName": "Language",
     "itemPath": "/sitecore/templates/Feature/Language/_LanguageSettings/Language",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{9EFF9357-83AE-4BFD-9C48-CC9EFDB5C34A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:14.5659555Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Language",
+    "itemPath": "/sitecore/templates/Feature/Language/_LanguageSettings/Language",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

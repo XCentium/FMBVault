@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B26F9719-1C1B-4F91-A2A3-7720FE3578FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.9309731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Georgia",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Georgia",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

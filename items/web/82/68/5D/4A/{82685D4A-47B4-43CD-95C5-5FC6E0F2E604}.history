@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{82685D4A-47B4-43CD-95C5-5FC6E0F2E604}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:24.5889553Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Triangle",
+    "itemPath": "/sitecore/system/Settings/Feature/Tools/Icon Types/Triangle",
+    "template": "_IconType",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

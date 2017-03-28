@@ -32,9 +32,28 @@
     "itemName": "How-To Folder",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/How-To Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{AF401F0A-F78F-4718-8238-C4C1B9821DD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:16.6069557Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/How-To Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

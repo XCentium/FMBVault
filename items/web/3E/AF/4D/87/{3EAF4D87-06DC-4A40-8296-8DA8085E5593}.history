@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3EAF4D87-06DC-4A40-8296-8DA8085E5593}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.0099728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Oregon",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Oregon",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {A4A10270-329C-41D5-BCDD-3A7B47E5933F}
+database: web
+path: /sitecore/content/FMBCom/Home/Calc/Debt Consolidation
+parent: {AB4BAC5A-4010-405D-AAB5-56FF12D6CE95}
+name: Debt Consolidation
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170206T204547:636220107474800000
+
+----version----
+language: en
+version: 1
+revision: b9a95e18-bd69-4ba7-a7cf-a3b51e22772d
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 29
+
+Debt Consolidation Calculator
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 18
+
+Debt Consolidation
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 56
+
+Debt Consolidation Calculator | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 247
+
+Determine if you consolidating your debt is the best approach for your financial goals.  Use our innovative calculator to see how your monthly payment changes and contact Farmers & Merchants Bank to see how we can help shape your financial future.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1005
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{5C72F7E4-DC8B-421B-AE8E-C789AB4A436A}" p:before="*" s:ds="{8201A6CB-CFD2-4340-BD71-0E1FEA2ED217}" s:id="{709513D0-52B1-4FA1-AB10-439F4258E273}" s:par="" s:ph="/layoutZone/section_a1dc7231-cf92-4696-803f-759867cd2c45/col-huge_d7f4b9b6-5627-41eb-b87c-73ce87d97998" /><r uid="{D7F4B9B6-5627-41EB-B87C-73CE87D97998}" p:after="r[@uid='{5C72F7E4-DC8B-421B-AE8E-C789AB4A436A}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_a1dc7231-cf92-4696-803f-759867cd2c45" /><r uid="{436B15D1-8E3E-4941-A152-2639BEF203C0}" p:after="r[@uid='{D7F4B9B6-5627-41EB-B87C-73CE87D97998}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{A1DC7231-CF92-4696-803F-759867CD2C45}" p:after="r[@uid='{24F2F429-44E1-4CBA-BA41-D0C2A8D05E4B}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{B8E3B083-B9EE-4542-8ECF-F17149F6958F}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170206T204547Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b9a95e18-bd69-4ba7-a7cf-a3b51e22772d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170206T205212Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

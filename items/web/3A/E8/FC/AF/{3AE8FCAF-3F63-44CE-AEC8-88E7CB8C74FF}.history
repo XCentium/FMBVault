@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3AE8FCAF-3F63-44CE-AEC8-88E7CB8C74FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.3719726Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "California",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/California",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "Awards and Recognition",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Awards and Recognition",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C2FA7BEA-2953-4785-AE6E-DD82390781C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:02.6389715Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Awards and Recognition",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Awards and Recognition",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

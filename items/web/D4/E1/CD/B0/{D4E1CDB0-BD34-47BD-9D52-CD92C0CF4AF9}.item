@@ -1,0 +1,148 @@
+----item----
+version: 1
+id: {D4E1CDB0-BD34-47BD-9D52-CD92C0CF4AF9}
+database: web
+path: /sitecore/content/FMBCom/Global/Testimonials/Homefront America
+parent: {85684875-D289-49CB-8AC0-31FCE2E86DA7}
+name: Homefront America
+master: {00000000-0000-0000-0000-000000000000}
+template: {43C3FF93-3124-47AF-8574-4D2289837BD5}
+templatekey: Testimonial
+created: 20170308T162234:636245869541130000
+
+----version----
+language: en
+version: 1
+revision: 44244f26-3749-4813-9f83-7de2263a2614
+
+----field----
+field: {0658E55D-0E17-418A-A9D2-0ED0D2A16B24}
+name: Client Name
+key: client name
+content-length: 17
+
+Homefront America
+----field----
+field: {E4D64661-6588-4246-8D79-FA315BB58671}
+name: Location
+key: location
+content-length: 23
+
+San Juan Capistrano, CA
+----field----
+field: {6E328113-044E-457B-A44D-BC9729B36F54}
+name: Client Since
+key: client since
+content-length: 4
+
+2007
+----field----
+field: {05F09E34-083E-43D8-B73D-4A5B88E3A7CA}
+name: PageUrl
+key: pageurl
+content-length: 140
+
+<link text="" linktype="internal" class="" title="Homefront America" target="" querystring="" id="{F7D4723D-49C0-4E35-9FAF-BB7E9FC115BF}" />
+----field----
+field: {972E097D-D060-4BDA-B2A3-4D4C685E14D3}
+name: Preview Image
+key: preview image
+content-length: 65
+
+<image mediaid="{35A7C379-0E0E-4293-902B-6BCBC2B5EF49}" ></image>
+----field----
+field: {9A55DADE-C279-4F46-B401-C78705088C52}
+name: Title
+key: title
+content-length: 22
+
+Client Success Stories
+----field----
+field: {E456124C-04E3-4D0D-AEFB-5314E679E026}
+name: Teaser Quote
+key: teaser quote
+content-length: 113
+
+It’s never just another transaction at F&M. The Walkers make you feel like your family, and I love them for that.
+----field----
+field: {D526316A-200F-42DC-BAD1-EE326DAB7327}
+name: Summary
+key: summary
+content-length: 179
+
+<p>Mamie Yong Maywhort remembers the wrinkled table cloths as she was preparing for her foundation&rsquo;s annual &ldquo;Heroes&rsquo; Nite Out&rdquo; event several years ago.</p>
+----field----
+field: {F76BE998-40B6-4F25-8761-7FEDB300359A}
+name: Body
+key: body
+content-length: 1454
+
+<p>Mamie Yong Maywhort remembers the wrinkled table cloths as she was preparing for her foundation&rsquo;s annual &ldquo;Heroes&rsquo; Nite Out&rdquo; event several years ago.</p>
+<p>&ldquo;I had several tables to set and didn&rsquo;t know what to do, and that&rsquo;s when someone from F&amp;M stepped in to help steam and iron the table cloths,&rdquo; said Maywhort, co-founder of Homefront America, a non- profit organization that supports military families. &ldquo;F&amp;M is like having a family member around who helps out.&rdquo;</p>
+<p>For Maywhort, having a banking partner that acts like a family member has proven helpful more than once, especially when running a non-profit with a grassroots budget. Maywhort recalls a Homefront chili cook-off event where a member of the F&amp;M staff served as a cashier.</p>
+<p>&ldquo;That&rsquo;s the kind of relationship we have with F&amp;M,&rdquo; she said. &ldquo;Banking with F&amp;M is like walking into &lsquo;Cheers&rsquo; (the TV sitcom), where everyone knows your name.&rdquo;</p>
+<p>Homefront organizes several events a year, supporting families that face the rigors of military life. Maywhort acknowledges the myriad of banking choices available to her, but she values F&amp;M&rsquo;s commitment to supporting Homefront&rsquo;s cause.</p>
+<p>&ldquo;It&rsquo;s never just another transaction at F&amp;M. The Walkers make you feel like your family, and I love them for that,&rdquo; she said.</p>
+----field----
+field: {07E3D093-2225-4628-91B8-BBC7FB827365}
+name: Body Image
+key: body image
+content-length: 0
+
+
+----field----
+field: {E354CCFD-EC76-4815-913B-CD9D08CCDD83}
+name: Body Image Caption
+key: body image caption
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170301T214447Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+44244f26-3749-4813-9f83-7de2263a2614
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T203710Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

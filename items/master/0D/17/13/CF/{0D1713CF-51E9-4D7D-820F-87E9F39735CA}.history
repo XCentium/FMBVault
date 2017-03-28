@@ -32,9 +32,28 @@
     "itemName": "Redirect Manager",
     "itemPath": "/sitecore/system/Settings/Rules/Redirect Manager",
     "template": "Rules Context Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0D1713CF-51E9-4D7D-820F-87E9F39735CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:27.8589544Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redirect Manager",
+    "itemPath": "/sitecore/system/Settings/Rules/Redirect Manager",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

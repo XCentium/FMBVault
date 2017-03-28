@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{ED0307B4-9060-46C8-818E-A73F888EA2B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:56.2969666Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "USS Iowa",
+    "itemPath": "/sitecore/content/FMBCom/Home/Testimonials/USS Iowa",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

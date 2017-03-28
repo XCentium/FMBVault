@@ -2,7 +2,7 @@
 version: 1
 id: {2A853693-2387-4DC3-9FEE-07B5DD250FFF}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/EMV Fraud Liability Shift Protection Promise
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/EMV Fraud Liability Shift Protection Promise
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
 name: EMV Fraud Liability Shift Protection Promise
 master: {00000000-0000-0000-0000-000000000000}
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 27548430-e2c2-4c84-8aa0-d8b3d739fe17
+revision: 4b4c1de7-893c-4324-aba9-0606b1b1166a
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-27548430-e2c2-4c84-8aa0-d8b3d739fe17
+4b4c1de7-893c-4324-aba9-0606b1b1166a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T155110Z
+20170324T155314Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

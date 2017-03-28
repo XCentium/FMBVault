@@ -32,9 +32,28 @@
     "itemName": "States",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States",
     "template": "FieldOptionGroup",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C991580F-B0BF-46BF-A2BC-4F88D481D7B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:07.7299732Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "States",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

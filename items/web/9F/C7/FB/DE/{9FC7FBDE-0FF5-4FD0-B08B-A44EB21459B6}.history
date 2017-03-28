@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9FC7FBDE-0FF5-4FD0-B08B-A44EB21459B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:58.5869731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Deposit Services",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Deposit Services",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

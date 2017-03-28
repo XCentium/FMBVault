@@ -2,7 +2,7 @@
 version: 1
 id: {1C124E63-AF88-4FB6-BA16-3D6C3AD75C7A}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/Home Loans Web
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Home Loans Web
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
 name: Home Loans Web
 master: {00000000-0000-0000-0000-000000000000}
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: af9d68f1-8764-4a66-93a7-ce51598d8490
+revision: 3313dc13-1e9d-4b35-b5c2-3d1e869bd553
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-af9d68f1-8764-4a66-93a7-ce51598d8490
+3313dc13-1e9d-4b35-b5c2-3d1e869bd553
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T152633Z
+20170324T152639Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

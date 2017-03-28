@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BCC50F49-E56D-4074-89AC-72DA108490BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:54.1009666Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Approvers",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Workflow/Content Approvers",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,210 @@
+----item----
+version: 1
+id: {715F0779-1053-4B2B-A7EE-EB56FA84EA4D}
+database: web
+path: /sitecore/content/FMBCom/Global/Products/Comparisons/Business Checking
+parent: {58E1774C-D34F-45AF-BA59-CE5F66758734}
+name: Business Checking
+master: {00000000-0000-0000-0000-000000000000}
+template: {DE51EDED-71E2-4AFA-8771-4CD6759A6FCE}
+templatekey: Comparison Matrix
+created: 20170213T184622:636226083826600000
+
+----version----
+language: en
+version: 1
+revision: 56500a77-0eab-43a9-8826-6e6b13e4ac1b
+
+----field----
+field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
+name: Body
+key: body
+content-length: 9929
+
+<div class="tablesaw-bar tablesaw-mode-swipe">
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+</div>
+<table id="comparison-table" class="tablesaw tablesaw-swipe" data-tablesaw-mode="swipe">
+    <thead>
+        <tr>
+            <th data-tablesaw-priority="persist" class=" tablesaw-cell-persist">&nbsp;</th>
+            <th style="text-align: center;">Business Checking<br>
+            Non-Analyzed<br>
+            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
+            <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+            <th style="text-align: center;" class=" tablesaw-cell-hidden">Business Checking <br>
+            Analyzed<br>
+            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
+            <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+            <th style="text-align: center;" class=" tablesaw-cell-hidden">Business Interest on Checking<br>
+            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
+            <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=" tablesaw-cell-persist">&nbsp;Minimum Opening Balance</td>
+            <td>&nbsp;$200</td>
+            <td class=" tablesaw-cell-hidden">$200&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">$200</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Account Fees</td>
+            <td>&nbsp;$10 minimum balance fee per month and a<br>
+            per check charge of $.30 for each transaction<br>
+            (withdrawal, check, automatic transfer or<br>
+            payment) applies if the balance in the account<br>
+            falls below $4,000 any day of the statement cycle<sup>1</sup></td>
+            <td class=" tablesaw-cell-hidden">$18 maintenance fee per month applies in<br>
+            addition to service fees according to the Account<br>
+            Analysis Schedule of Fees provided at account<br>
+            opening or online at <a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">fmb.com/fees</a><br>
+            </td>
+            <td class=" tablesaw-cell-hidden">$12 minimum balance fee per month and a<br>
+            per check charge of $.30 for each transaction<br>
+            (withdrawal, check, automatic transfer or<br>
+            payment) applies if the balance in the account<br>
+            falls below $5,000 any day of the statement cycle</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Earnings service credit can offset accumulated<br>
+            expenses associated with bank services, account<br>
+            transactions and currency fees</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Early closure fee applies if the account is closed<br>
+            within 90 days of the opening date</td>
+            <td>&nbsp;$10</td>
+            <td class=" tablesaw-cell-hidden">$10</td>
+            <td class=" tablesaw-cell-hidden">$10</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Interest bearing account<br>
+            </td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Unlimited check writing<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden"><img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Check images included with monthly statement<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">MasterCard&reg; Business Debit Card	</td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Basic Business Online Banking<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Online Cash Manager<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Bill Pay<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">eStatements &amp; eNotices<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Combined monthly statements<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <th class=" tablesaw-cell-persist">&nbsp;</th>
+            <th style="text-align: center;">Business Checking<br>
+            Non-Analyzed<br>
+            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
+            <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+            <th style="text-align: center;" class=" tablesaw-cell-hidden">Business Checking <br>
+            Analyzed<br>
+            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
+            <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+            <th style="text-align: center;" class=" tablesaw-cell-hidden">Business Interest on Checking<br>
+            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
+            <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+        </tr>
+    </tbody>
+</table>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170213T184622Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+56500a77-0eab-43a9-8826-6e6b13e4ac1b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T224258Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

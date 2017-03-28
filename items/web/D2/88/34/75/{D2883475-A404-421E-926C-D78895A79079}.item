@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {D2883475-A404-421E-926C-D78895A79079}
+database: web
+path: /sitecore/content/FMBCom/Global/Forms/Option Fields/BusinessBankingProducts/Checking
+parent: {528806B3-D2E6-4A6F-9508-F45C0CB08155}
+name: Checking
+master: {00000000-0000-0000-0000-000000000000}
+template: {D8928115-8CA7-4C8F-B708-25C5379B2FE3}
+templatekey: FieldOption
+created: 20170214T040854:636226421341100000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----version----
+language: en
+version: 1
+revision: 3cf17cf0-80ea-43f3-9524-78386819ea58
+
+----field----
+field: {BFD15730-92E7-4CDD-AE49-41BC9BC28D1E}
+name: Name
+key: name
+content-length: 8
+
+Checking
+----field----
+field: {21BABBE2-74F6-40CF-A279-77AC21867968}
+name: Value
+key: value
+content-length: 8
+
+Checking
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170208T201357Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3cf17cf0-80ea-43f3-9524-78386819ea58
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170214T040854Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

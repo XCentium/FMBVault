@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{10136264-C76F-467E-ACC5-49903A1625AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:07.0869485Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasTestimonial",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/_HasTestimonial",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

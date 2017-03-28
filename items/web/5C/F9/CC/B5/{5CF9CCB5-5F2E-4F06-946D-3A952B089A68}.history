@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{5CF9CCB5-5F2E-4F06-946D-3A952B089A68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:23.6269558Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Requested Url",
+    "itemPath": "/sitecore/templates/Redirect Module/Redirect Url/Information/Requested Url",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

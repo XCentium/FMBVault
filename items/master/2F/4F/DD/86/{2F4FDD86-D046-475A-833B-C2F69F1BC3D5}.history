@@ -32,9 +32,28 @@
     "itemName": "Peter Meyers",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest/Peter Meyers",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2F4FDD86-D046-475A-833B-C2F69F1BC3D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.2059729Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Peter Meyers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest/Peter Meyers",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

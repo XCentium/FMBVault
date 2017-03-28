@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{17E08082-DA67-4CA9-89B4-7D23D13B113C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.3929728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jason Bennett",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Jason Bennett",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

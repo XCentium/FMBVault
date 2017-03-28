@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{58EBB4F2-F5E8-4FFE-8C20-FF6B772880B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.1519730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Some Exclusions May Apply",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Some Exclusions May Apply",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

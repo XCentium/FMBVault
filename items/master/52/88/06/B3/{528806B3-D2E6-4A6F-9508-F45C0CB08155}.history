@@ -32,9 +32,28 @@
     "itemName": "BusinessBankingProducts",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BusinessBankingProducts",
     "template": "FieldOptionGroup",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{528806B3-D2E6-4A6F-9508-F45C0CB08155}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:10.8709734Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BusinessBankingProducts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BusinessBankingProducts",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

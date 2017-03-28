@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{43A0928C-D38E-44A3-9E3F-D111E3B826AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:19.0309542Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Versioned Redirect Url",
+    "itemPath": "/sitecore/templates/Redirect Module/Versioned Redirect Url",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

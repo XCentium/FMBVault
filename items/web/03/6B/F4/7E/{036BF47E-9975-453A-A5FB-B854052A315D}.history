@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{036BF47E-9975-453A-A5FB-B854052A315D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:11.9389733Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bill Pay for Mobile",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Bill Pay for Mobile",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

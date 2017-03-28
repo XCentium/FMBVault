@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6FB84715-4D43-4883-B6D8-A2CB6435BB07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.4179729Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scott Dowds",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Regional Managers/Scott Dowds",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

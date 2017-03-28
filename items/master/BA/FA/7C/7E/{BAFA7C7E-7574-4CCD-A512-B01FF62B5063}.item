@@ -2,7 +2,7 @@
 version: 1
 id: {BAFA7C7E-7574-4CCD-A512-B01FF62B5063}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/Apple Pay TC Disclosure
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Apple Pay TC Disclosure
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
 name: Apple Pay TC Disclosure
 master: {00000000-0000-0000-0000-000000000000}
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 0ad46145-3ef9-489f-9f69-20ddf0f2f884
+revision: ec4e06c7-6710-4677-8a39-abe7ad6cf8ae
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0ad46145-3ef9-489f-9f69-20ddf0f2f884
+ec4e06c7-6710-4677-8a39-abe7ad6cf8ae
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T162217Z
+20170324T162223Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

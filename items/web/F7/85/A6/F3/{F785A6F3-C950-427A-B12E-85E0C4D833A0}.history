@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F785A6F3-C950-427A-B12E-85E0C4D833A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:56.9359686Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cass-1907-time",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/cass-1907-time",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

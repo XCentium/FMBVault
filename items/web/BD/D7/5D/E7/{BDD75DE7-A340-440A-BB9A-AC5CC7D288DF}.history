@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BDD75DE7-A340-440A-BB9A-AC5CC7D288DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:32.0189477Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NonProfit Banking Dir to Business Dir",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/NonProfit Banking Dir to Business Dir",
+    "template": "Redirect Pattern",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

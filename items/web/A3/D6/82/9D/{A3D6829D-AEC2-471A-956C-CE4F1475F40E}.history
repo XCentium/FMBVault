@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A3D6829D-AEC2-471A-956C-CE4F1475F40E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:17.3149545Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow Rules Folder",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rules Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

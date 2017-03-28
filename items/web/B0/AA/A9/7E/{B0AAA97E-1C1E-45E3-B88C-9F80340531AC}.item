@@ -1,0 +1,119 @@
+----item----
+version: 1
+id: {B0AAA97E-1C1E-45E3-B88C-9F80340531AC}
+database: web
+path: /sitecore/content/FMBCom/Home/Personal/Youth Savings
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Youth Savings
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170202T222108:636216708689070000
+
+----version----
+language: en
+version: 1
+revision: 9d25429f-53e1-4c4c-89ab-ce944239879a
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 13
+
+Youth Savings
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 987
+
+<p>It&rsquo;s never too early to teach kids the importance of saving!&nbsp; An F&amp;M Youth Savings account can be opened with as little as $25 and is the perfect place to save money earned from an allowance, after-school job or received as a gift.&nbsp; This FDIC-insured joint account is for clients ages 21 years and under. With an F&amp;M Youth Savings account, children can learn a valuable lesson about saving while watching their money grow*.</p>
+<p>&nbsp;</p>
+<ul>
+    <li>Minimum opening $25</li>
+    <li>Variable interest rate</li>
+    <li>Interest is compounded and credited to the account quarterly&nbsp;&nbsp;</li>
+    <li>No minimum balance requirement</li>
+    <li>No quarterly service charges</li>
+    <li>FDIC insured</li>
+</ul>
+<p><span style="color: #006f53;"><a href="~/link.aspx?_id=67B5E959E0FF4B7498FF5764CD8FF541&amp;_z=z">Click Here to See Our Interest Rates</a></span></p>
+<p><em>*Online Banking Services not available to minors under 13 years of age.</em></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 13
+
+Youth Savings
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 59
+
+Kids Savings Account Feautres from Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 110
+
+Find out more about the F&M Youth Savings account designed  to help kids start early with their savings goals.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 797
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{5CC1FC6F-8977-4524-BA23-725FEA1AE76D}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{BC49FED9-8B6F-4934-B9BE-C620C8AA9269}" p:after="r[@uid='{5CC1FC6F-8977-4524-BA23-725FEA1AE76D}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{CE7F9D7D-73E9-413B-855C-2296C2E36BAE}" p:after="r[@uid='{BC49FED9-8B6F-4934-B9BE-C620C8AA9269}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170202T222108Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9d25429f-53e1-4c4c-89ab-ce944239879a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170301T230921Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

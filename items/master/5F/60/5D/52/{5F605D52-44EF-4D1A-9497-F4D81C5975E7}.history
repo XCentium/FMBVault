@@ -32,9 +32,28 @@
     "itemName": "Zip",
     "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Zip",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5F605D52-44EF-4D1A-9497-F4D81C5975E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:13.3239547Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zip",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Zip",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

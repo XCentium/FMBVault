@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {7A56B832-905D-43C4-9517-E72FE7B6A4D3}
+database: web
+path: /sitecore/content/FMBCom/Global/Disclaimers/Money Market Disclosure
+parent: {7A9C974C-F6CF-4D03-939D-E53A9A8495A2}
+name: Money Market Disclosure
+master: {00000000-0000-0000-0000-000000000000}
+template: {39F86F7B-647E-4194-9F12-43705C0EDB45}
+templatekey: Disclaimer
+created: 20170316T061122:636252414827200000
+
+----version----
+language: en
+version: 1
+revision: c2bb4409-c7f8-4f46-80c6-c003954b3e44
+
+----field----
+field: {2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}
+name: Body
+key: body
+content-length: 590
+
+Money Market accounts are limited to six withdrawals or transfers to another account of yours or to a third party by means of a preauthorized or automatic transfer or telephone order or instruction, computer transfer, or by check, draft, debit card or similar order to a third party. Exceeding these limitations may result in transfer of your account to one that pays no interest. A separate application and agreement are required for an ATM card, Online Banking, and Bill Pay privileges. Other transaction limitations or account fees may apply. Refer to the account agreements for details.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170202T004235Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c2bb4409-c7f8-4f46-80c6-c003954b3e44
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170324T231959Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+fmb\sdonatelli

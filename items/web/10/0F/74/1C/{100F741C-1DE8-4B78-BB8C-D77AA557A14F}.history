@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{100F741C-1DE8-4B78-BB8C-D77AA557A14F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:18.6069556Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Response Status Code Folder",
+    "itemPath": "/sitecore/templates/Redirect Module/Response Status Code Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

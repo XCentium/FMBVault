@@ -32,9 +32,28 @@
     "itemName": "Lynette Dyer",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rossmoor/Lynette Dyer",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{89AAF27A-D10C-4050-851E-33EC53D41363}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.2029725Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lynette Dyer",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rossmoor/Lynette Dyer",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

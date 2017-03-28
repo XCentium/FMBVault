@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B8E2C474-2074-4284-933F-3541E6122ED8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.1859662Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Products Services",
+    "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount/Products Services",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

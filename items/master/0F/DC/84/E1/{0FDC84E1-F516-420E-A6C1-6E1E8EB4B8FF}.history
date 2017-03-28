@@ -32,9 +32,28 @@
     "itemName": "Blaine J Nelson",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest/Blaine J Nelson",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0FDC84E1-F516-420E-A6C1-6E1E8EB4B8FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.2309723Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blaine J Nelson",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Lake Forest/Blaine J Nelson",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

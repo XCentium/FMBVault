@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{89AAF27A-D10C-4050-851E-33EC53D41363}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.1979737Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lynette Dyer",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rossmoor/Lynette Dyer",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

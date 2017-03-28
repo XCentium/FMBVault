@@ -32,9 +32,28 @@
     "itemName": "One-Time PIN Recognize Computer",
     "itemPath": "/sitecore/content/FMBCom/Home/How To/One-Time PIN Recognize Computer",
     "template": "How To",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{913E6D40-38FC-403B-BE31-09991B5650F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:00.9109663Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "One-Time PIN Recognize Computer",
+    "itemPath": "/sitecore/content/FMBCom/Home/How To/One-Time PIN Recognize Computer",
+    "template": "How To",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

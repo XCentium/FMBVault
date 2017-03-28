@@ -1,0 +1,115 @@
+----item----
+version: 1
+id: {FCBCE176-F543-48CE-BABF-72C23C27CC01}
+database: web
+path: /sitecore/content/FMBCom/Home/About/History
+parent: {A30152C2-912C-4298-8A36-F580697C7EBC}
+name: History
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170215T202247:636227869672870000
+
+----version----
+language: en
+version: 1
+revision: c39c6a66-8959-4982-b645-33a152cdb9ea
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 19
+
+About F&M's History
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 2231
+
+<p>Since November 23, 1907, Farmers &amp; Merchants Bank of Long Beach has grown slowly and safely, helping it earn its reputation as one of the strongest banks in California. At a time when the instability of the market caused great unease among investors, founder <a href="~/link.aspx?_id=305EBB9F0E97497E915EC280ACA1E707&amp;_z=z">C.J. Walker</a> solidified the credibility of the family name by reassuring frightened depositors that their money was safe. His commitment to upholding integrity at a critical time has been the driving force behind the Walker family and their commitment to safeguard customers&rsquo; money. Over time, the bank became larger and more diverse, building branches throughout the Long Beach and South Bay areas as well as Orange County, but the Walkers ensured that their relationships with employees remained at a personal level. To work at F&amp;M&ndash;no matter how big it became&ndash;was to enter into a family.</p>
+<p>
+</p>
+<p>It is rare for a bank to continue operation for more than one century. And it&rsquo;s equally rare to keep ownership and management within a single family. The Walkers have demonstrated determination, leadership, vision and fortitude as F&amp;M continues to evolve.</p>
+<p>As the company grew, so did the bank&rsquo;s dedication to giving back to the community.  In addition to supporting numerous organizations, including the YMCA/YWCA, local schools, religious denominations and various charities, F&amp;M embodied the practice of patriotism over profit as it led an unrelenting effort to sell war bonds during the 1940s. Farmers &amp; Merchants has a history of being deeply involved within the community and strives to maintain partnerships based on implicit trust and friendship.</p>
+<p>&nbsp;</p>
+<p><a href="-/media/8C606DAC1E0F4F0E84176868753B9A5F.ashx"><img height="163" alt="F&amp;M's 110-year Book" width="169" src="-/media/B7D2AD366E41429E8D3BFF6D718848A8.ashx?h=163&amp;w=169&amp;hash=9341FD4C8156BA9BBB0278E4321A00BC403275DC" style="float: left; height: 163px; width: 169px;"><strong></strong></a><strong>For a complete history of F&amp;M Bank, please <a href="-/media/8C606DAC1E0F4F0E84176868753B9A5F.ashx">read our<br>
+110-Year Book.</a></strong></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 7
+
+History
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 46
+
+A History of Banking Dating Back to 1907 | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 191
+
+Find out more about the history of Farmers & Merchants Bank that dates back to 1907. Founder, C.J. Walker founded his bank in Long Beach and now it also serves the Southbay and Orange County.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 555
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{6F286CD0-A39A-4428-8BAD-EC5E624C457F}" p:before="*" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{375EB2EA-0797-4E38-A493-6A092F6EBDAE}" p:after="r[@uid='{6F286CD0-A39A-4428-8BAD-EC5E624C457F}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170215T202247Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c39c6a66-8959-4982-b645-33a152cdb9ea
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170315T210240Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

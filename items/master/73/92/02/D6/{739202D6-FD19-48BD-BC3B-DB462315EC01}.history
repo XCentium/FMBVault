@@ -32,9 +32,28 @@
     "itemName": "Savings Accounts",
     "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons/Savings Accounts",
     "template": "Comparison Matrix",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{739202D6-FD19-48BD-BC3B-DB462315EC01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:07.2979728Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Products/Comparisons/Savings Accounts",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

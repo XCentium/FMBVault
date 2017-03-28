@@ -32,9 +32,28 @@
     "itemName": "May 21 - Garden Grove",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/May 21 - Garden Grove",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{18308606-F75C-4D36-85B9-4B720F911507}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:09.5289717Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "May 21 - Garden Grove",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RealEstateSeminars/May 21 - Garden Grove",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

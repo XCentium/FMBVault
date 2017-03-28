@@ -32,9 +32,28 @@
     "itemName": "Form",
     "itemPath": "/sitecore/templates/Feature/Forms/_HasFormId/Form",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{521AE7B8-2F76-4282-A32E-5F864CD48903}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:12.8409568Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form",
+    "itemPath": "/sitecore/templates/Feature/Forms/_HasFormId/Form",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

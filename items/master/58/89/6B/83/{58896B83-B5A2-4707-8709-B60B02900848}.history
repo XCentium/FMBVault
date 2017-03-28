@@ -32,9 +32,28 @@
     "itemName": "Disclaimer Folder",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Disclaimer Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{58896B83-B5A2-4707-8709-B60B02900848}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:16.3619562Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disclaimer Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Disclaimer Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

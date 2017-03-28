@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1290D20A-2BDA-4CE8-908B-52EE8DDF0BDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:30.2789473Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Awaiting Publish",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

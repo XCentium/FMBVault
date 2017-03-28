@@ -1,0 +1,291 @@
+----item----
+version: 1
+id: {E3BB55C5-C20B-47CF-8F19-0A7C677DBDB4}
+database: web
+path: /sitecore/content/FMBCom/Global/Products/Comparisons/Checking Accounts - Teen College Senior
+parent: {58E1774C-D34F-45AF-BA59-CE5F66758734}
+name: Checking Accounts - Teen College Senior
+master: {00000000-0000-0000-0000-000000000000}
+template: {DE51EDED-71E2-4AFA-8771-4CD6759A6FCE}
+templatekey: Comparison Matrix
+created: 20170209T013540:636222009404200000
+
+----version----
+language: en
+version: 1
+revision: 20e28ecb-5a24-408b-881e-4812fa5de295
+
+----field----
+field: {184FA31C-0276-4B0B-9BAF-A4C3FEF4025A}
+name: Title
+key: title
+content-length: 17
+
+FMB Account Types
+----field----
+field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
+name: Body
+key: body
+content-length: 15483
+
+<div class="tablesaw-bar tablesaw-mode-swipe">
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+</div>
+<table id="comparison-table" class="tablesaw tablesaw-swipe" data-tablesaw-mode="swipe">
+    <thead>
+        <tr>
+            <th data-tablesaw-priority="persist" class=" tablesaw-cell-persist">&nbsp;</th>
+            <th><strong>Teen </strong>                       <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+            <th class=" tablesaw-cell-hidden"><strong>College </strong>                       <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a>
+            </th>
+            <th class=" tablesaw-cell-hidden"><strong>Senior </strong>           <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=" tablesaw-cell-persist">&nbsp;Age Requirement</td>
+            <td>13-17 year old with an adult joint accountholder</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;18-24 year old student<sup>3</sup></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;55 year old+</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Monthly Service Charge</td>
+            <td>None</td>
+            <td class=" tablesaw-cell-hidden">$8 maintenance fee</td>
+            <td class=" tablesaw-cell-hidden">$15 maintenance fee</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Ways to Waive Monthly Service Charge<br>
+            per statement cycle</td>
+            <td>N/A</td>
+            <td class=" tablesaw-cell-hidden">$250 in direct deposit(s) or 15 Debit Card&nbsp;Point-of-Sale transactions<sup>4</sup></td>
+            <td class=" tablesaw-cell-hidden">250 in direct deposit(s) or 10 Debit Card&nbsp;Point-of-Sale transactions<sup>4</sup></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Minimum Opening Balance</td>
+            <td>$25.00</td>
+            <td class=" tablesaw-cell-hidden">$25.00</td>
+            <td class=" tablesaw-cell-hidden">$100.00</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Debit MasterCard&reg;1</td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx?h=22&amp;w=22&amp;hash=E264DCA53E2D020EEDA6092097C55E917654BCEB&amp;hash=E264DCA53E2D020EEDA6092097C55E917654BCEB" style="height: 22px; width: 22px;"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Debit Card Alerts<sup>2</sup></td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Waived Non-F&amp;M ATM Transaction Fees<sup>1</sup></td>
+            <td><img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden"><img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Online Banking</td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Bill Pay</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Mobile Banking with Text Banking<sup>2</sup></td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Mobile Check Deposit<sup>2</sup></td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Direct Deposit</td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Telebanker &amp; Call Center</td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Safe Deposit Box for 1 year<br>
+            upon request based on availability</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">1 box, any size</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free eStatements &amp; eNotices</td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Paper Statements upon request</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Unlimited Check Writing</td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Checks provided by our vendor</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;1st box F&amp;M logo checks or variety pack of 50 checks</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;1 box F&amp;M logo checks per calendar year</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">
+            Free Unlimited Cashier&rsquo;s Checks,<br>
+            Money Orders &amp; Travelers Cheques
+            </td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Interest on Checking</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">
+            Additional Checking Accounts<br>
+            upon request monthly service charges<br>
+            waived for 1 year
+            </td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Savings Accounts for 1 year <br>
+            upon request</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Incoming Domestic Wire Transfers</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden"><br>
+            </td>
+            <td class=" tablesaw-cell-hidden"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Outgoing Domestic Wire Transfers</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">&nbsp;</td>
+            <td><strong>Teen </strong><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a>
+            <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green"><strong>Apply at an F&amp;M Office</strong></a></td>
+            <td class=" tablesaw-cell-hidden">
+            <strong><strong>College </strong><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today&nbsp;</a></strong><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green"><strong>Apply at an F&amp;M Office</strong></a>
+            </td>
+            <td class=" tablesaw-cell-hidden"><strong>Senior </strong>                       <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today&nbsp;</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green"><strong>Apply at an F&amp;M Office</strong></a></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<div class="telerik_paste_container" style="border-width: 0px; position: absolute; overflow: hidden; margin: 0px; padding: 0px; left: 571px; top: 832.2px; width: 1px; height: 1px;">
+<div class=" tablesaw-bar tablesaw-mode-swipe">&nbsp;</div>
+<table id="comparison-table" class="tablesaw tablesaw-swipe" data-tablesaw-mode="swipe">
+    <tbody>
+        <tr>
+            <td class=" tablesaw-cell-hidden">2 savings accounts</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="telerik_paste_container" style="border-width: 0px; position: absolute; overflow: hidden; margin: 0px; padding: 0px; left: 571px; top: 832.2px; width: 1px; height: 1px;">
+<div class=" tablesaw-bar tablesaw-mode-swipe">&nbsp;</div>
+<table id="comparison-table" class="tablesaw tablesaw-swipe" data-tablesaw-mode="swipe">
+    <tbody>
+        <tr>
+            <td class=" tablesaw-cell-hidden">2 savings accounts</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="telerik_paste_container" style="border-width: 0px; position: absolute; overflow: hidden; margin: 0px; padding: 0px; left: 251px; top: 869.2px; width: 1px; height: 1px;">
+<div class=" tablesaw-bar tablesaw-mode-swipe">&nbsp;</div>
+<table id="comparison-table" class="tablesaw tablesaw-swipe" data-tablesaw-mode="swipe">
+    <tbody>
+        <tr>
+            <td class=" tablesaw-cell-hidden">2 savings accounts</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170120T213721Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+20e28ecb-5a24-408b-881e-4812fa5de295
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T225050Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

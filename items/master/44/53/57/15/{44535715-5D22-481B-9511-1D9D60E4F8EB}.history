@@ -32,9 +32,28 @@
     "itemName": "Delaware",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Delaware",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{44535715-5D22-481B-9511-1D9D60E4F8EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.8669733Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Delaware",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Delaware",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

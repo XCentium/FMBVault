@@ -1,0 +1,124 @@
+----item----
+version: 1
+id: {F8F81D55-AA36-43C8-9D07-5A153E235444}
+database: web
+path: /sitecore/content/FMBCom/Home/Personal/Online Banking Enrollment Forms
+parent: {6166F471-96B6-40C1-AA17-2FDA07628EB2}
+name: Online Banking Enrollment Forms
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170207T225542:636221049424130000
+
+----version----
+language: en
+version: 1
+revision: 2ff62874-9d9a-4001-80fe-4b989a09d3df
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 31
+
+Online Banking Enrollment Forms
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 2324
+
+<p><em>The Online Banking Enrollment Forms listed below are provided in Adobe Acrobat format (pdf).  They must be viewed using the Adobe Acrobat Viewer, which is free. If you don't have the Adobe Acrobat Viewer, you can download it from Adobe's web site <a href="http://www.adobe.com" target="_blank">http://www.adobe.com</a>.</em><br>
+<br>
+Please print the appropriate enrollment forms, fill them out and postal mail them to us at the following address:</p>
+<p><strong>Farmers &amp; Merchants Online Banking Services<br>
+P.O. Box 2400<br>
+Seal Beach, CA. 90740-9912</strong><br>
+<br>
+If you need assistance with these forms, please click here or call our Online Support Center at (562) 344-2370.</p>
+<p>&nbsp;</p>
+<hr>
+<p><strong class="fa-lg">&nbsp;</strong></p>
+<p><strong class="fa-lg">Personal Banking Customers</strong></p>
+<p><strong class="fa-lg">&nbsp;</strong>For customers with personal accounts, please auto-enroll from our <a href="https://pib.secure-banking.com/60143002/AutoEnrollmentIdentify.faces">website</a>.</p>
+<p>&nbsp;</p>
+<p><strong class="fa-lg">Business Customers</strong></p>
+<p><strong class="fa-lg">&nbsp;</strong>For customers with business accounts, please print and return these forms:</p>
+<p><a href="-/media/EBF4F12D02784874A6585A92C911C6DA.ashx">&nbsp;Access Agreement &amp; Electronic Funds Transfer Act Disclosure/Enrollment Form</a></p>
+<p>&nbsp;</p>
+<p><strong class="fa-lg">Online Cash Management</strong></p>
+<p><strong class="fa-lg"></strong>For business customers interested in online Cash Management functions such as ACH, Payroll, Wires and other business services, the following forms should be printed and returned as necessary.</p>
+<p><a href="-/media/7771FDB93DC044B9BF13A03AC4FB853A.ashx">Business Application</a></p>
+<p><a href="-/media/BBAB6CF98E13486ABDADD74FDF913F33.ashx">Funds Transfer Agreement</a>&nbsp;-&nbsp;&nbsp;(Fill out this form if you wish to perform Wire Transfers)</p>
+<p><strong>Attention ACH Customers: Stay up-to-date and compliant with the rules governing the ACH network by reviewing the National Automated Clearing House Association&rsquo;s (NACHA) <a href="http://www.achrulesonline.org/">Operating Rules &amp; Guidelines</a>.</strong></p>
+<p><strong><a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">See All Services and Fees</a></strong></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 31
+
+Online Banking Enrollment Forms
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 31
+
+Online Banking Enrollment Forms
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 535
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{F53C9AF7-87E7-4FE1-B1A3-16B2747E62A6}" p:before="*" s:ds="{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{B9EE2FC3-ED03-415E-9137-ABF2B683AE4F}" p:after="r[@uid='{F53C9AF7-87E7-4FE1-B1A3-16B2747E62A6}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170207T225542Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2ff62874-9d9a-4001-80fe-4b989a09d3df
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T224336Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

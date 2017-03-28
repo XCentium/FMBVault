@@ -1,0 +1,117 @@
+----item----
+version: 1
+id: {6018818F-B25B-45F5-9206-6C66FE2BF7F1}
+database: web
+path: /sitecore/content/FMBCom/Home/Contact
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: Contact
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170222T015949:636233255892670000
+
+----version----
+language: en
+version: 1
+revision: e7867939-15aa-410a-a094-bca3b3df419e
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 10
+
+Contact Us
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 287
+
+<h2>GENERAL BANKING QUESTIONS</h2>
+<p>
+Call (866) 437-0011</p>
+<p>
+Monday-Friday, 7am-9pm</p>
+<p>
+Saturday, 8am-9pm
+</p>
+<p>Sunday,8am-5pm, PT</p>
+<a href="https://web1.zixmail.net/s/login?b=fmb" title="Send us a Secure Email" class="btn btn-primary btn-green">Send us a Secure Email</a>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 7
+
+Contact
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 39
+
+Contact Us for Your Banking Needs | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 137
+
+Contacting Farmers & Merchants Bank is easy.  We have local support, based out of Seal Beach, California, here to help you 7 days a week.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1517
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{487492CA-B43B-479F-9D22-69EF71A41862}" p:before="*" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical" s:ph="/layoutZone/col-narrow-1" /><r uid="{A1E60A56-1B51-4410-9FB6-A177DACF1366}" p:after="r[@uid='{487492CA-B43B-479F-9D22-69EF71A41862}']" s:ds="{F406CEA5-510E-4AB0-A45A-81CBAEEF3997}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_a387894d-84bb-4cc5-8f6e-6936dd431a69" /><r uid="{0E39480F-0488-4031-9A49-C048D7B4A908}" p:after="r[@uid='{A1E60A56-1B51-4410-9FB6-A177DACF1366}']" s:ds="{ADD170E3-5823-4062-B075-09FCB2D49A7B}" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:par="" s:ph="/layoutZone/section-narrow/col-wide-1_52a81bac-f4f4-4d78-b611-bf7275b9fd10" /><r uid="{52A81BAC-F4F4-4D78-B611-BF7275B9FD10}" p:after="r[@uid='{0E39480F-0488-4031-9A49-C048D7B4A908}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{A387894D-84BB-4CC5-8F6E-6936DD431A69}" p:after="r[@uid='{52A81BAC-F4F4-4D78-B611-BF7275B9FD10}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{443EF407-21AF-4474-8118-E56B4F33EB8B}" p:after="r[@uid='{A387894D-84BB-4CC5-8F6E-6936DD431A69}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170222T015949Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e7867939-15aa-410a-a094-bca3b3df419e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T224815Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

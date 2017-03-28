@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1A51F980-0652-47A2-ABF0-CD0D86B12F75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.5489735Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Colorado",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Colorado",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "NC",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/NC",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{6165E4F8-2226-42F8-9C18-41843C5A426C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:24.7409560Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NC",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/NC",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

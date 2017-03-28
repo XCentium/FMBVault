@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{EB7E8FDD-FB49-492F-81AC-65E145DAF3F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.8519730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kirk Van Atta",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Corona Del Mar/Kirk Van Atta",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

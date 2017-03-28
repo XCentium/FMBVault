@@ -32,9 +32,28 @@
     "itemName": "Global Rules",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Global Rules",
     "template": "Global Validation Rules",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{3BB9F904-7784-4A98-8DC4-C9B122A44AC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:24.3389560Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Rules",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Global Rules",
+    "template": "Global Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

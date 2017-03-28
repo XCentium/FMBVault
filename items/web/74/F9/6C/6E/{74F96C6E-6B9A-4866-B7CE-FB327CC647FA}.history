@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{74F96C6E-6B9A-4866-B7CE-FB327CC647FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:17.1819554Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/ConfigurationSetting/Configuration Setting/Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

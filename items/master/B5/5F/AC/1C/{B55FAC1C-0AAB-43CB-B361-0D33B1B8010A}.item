@@ -2,7 +2,7 @@
 version: 1
 id: {B55FAC1C-0AAB-43CB-B361-0D33B1B8010A}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/Business Solutions for Web
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Business Solutions for Web
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
 name: Business Solutions for Web
 master: {00000000-0000-0000-0000-000000000000}
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 98cf9ad8-446e-4cce-aca1-d832562df911
+revision: b8378ffd-0a3d-4131-b705-df8971ac7e0e
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-98cf9ad8-446e-4cce-aca1-d832562df911
+b8378ffd-0a3d-4131-b705-df8971ac7e0e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T153126Z
+20170324T153132Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

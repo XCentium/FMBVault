@@ -1,0 +1,116 @@
+----item----
+version: 1
+id: {BD6229D0-3652-4A7F-B39B-C5502E18E5EB}
+database: web
+path: /sitecore/content/FMBCom/Home/Personal/zChris Test Page/Health Savings Accounts
+parent: {E3D439EE-C05A-43F2-BE63-0529C740C11B}
+name: Health Savings Accounts
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170323T171820:636258863002830000
+
+----version----
+language: en
+version: 1
+revision: 67d5da81-ef4b-4bcc-aadc-3e4082950388
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 23
+
+Health Savings Accounts
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1312
+
+<p>Having a hard time deciding how to&nbsp;<em>plan for health</em>&nbsp;care spending? We can help! F&amp;M Bank offers an&nbsp;<strong>HSA</strong>&nbsp;-&nbsp;<strong>Health Savings Account</strong>&nbsp;that will allow you to manage your out-of-pocket health care costs and take control of your savings.&nbsp;</p>
+<p>&nbsp;</p>
+<p><em style="color: #006f53; text-decoration: none;"><a href="-/media/5F9FCA5195024EEAB2C183249571B523.ashx">Questions about Health Savings Accounts</a></em><a href="https://k2.secure-banking.com/1285b_files/hsa_tri-fold_brochure.pdf" target="_blank" style="color: #006f53; text-decoration: none;"></a></p>
+<p><a class="jumpWindow" href="https://www.treasury.gov/resource-center/faqs/Taxes/Pages/Health-Savings-Accounts.aspx" style="color: #006f53; text-decoration: none;">Click here for more information about HSAs</a></p>
+<p>&nbsp;</p>
+<p>Call or stop by your&nbsp;<span style="color: #006f53;"><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">local offices</a></span>&nbsp;in Long Beach, South Bay or Orange County&nbsp;today.
+</p>
+<p><a href="~/link.aspx?_id=67B5E959E0FF4B7498FF5764CD8FF541&amp;_z=z">Click Here to See Our Interest Rates</a></p>
+<p><strong><a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">See All Services and Fees</a></strong></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 23
+
+Health Savings Accounts
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 50
+
+Health Savings Accounts | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 143
+
+Learn how an HSA (Health Savings Account) from Farmers & Merchants Bank can help you plan for health expenses and take control of your savings.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 818
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{1B64B030-0047-4C2A-97FF-39EBE3D1138F}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{D4B6361D-1D1D-4C58-8898-BEF7FA348AC0}" p:after="r[@uid='{1B64B030-0047-4C2A-97FF-39EBE3D1138F}']" s:ds="{2855CF0C-B247-4596-8B0C-66B612A07F11}" s:id="{9984CCCD-D35B-49C6-A820-C2642E017F54}" s:par="Orientation=Vertical&amp;HideBackground=1" s:ph="/layoutZone/col-narrow-1" /><r uid="{D359BAEC-EA44-4BE4-9D07-6718CD456CC3}" p:after="r[@uid='{D4B6361D-1D1D-4C58-8898-BEF7FA348AC0}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170202T224853Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+67d5da81-ef4b-4bcc-aadc-3e4082950388
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170323T171940Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

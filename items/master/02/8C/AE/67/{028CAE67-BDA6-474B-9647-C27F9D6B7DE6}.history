@@ -32,9 +32,28 @@
     "itemName": "Roy Almeida",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rolling Hills Estates/Roy Almeida",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{028CAE67-BDA6-474B-9647-C27F9D6B7DE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.6469715Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Roy Almeida",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Rolling Hills Estates/Roy Almeida",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

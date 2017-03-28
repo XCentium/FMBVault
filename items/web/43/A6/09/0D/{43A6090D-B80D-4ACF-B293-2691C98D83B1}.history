@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{43A6090D-B80D-4ACF-B293-2691C98D83B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:31.8859465Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redirects",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects",
+    "template": "Redirect Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

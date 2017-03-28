@@ -1,0 +1,140 @@
+----item----
+version: 1
+id: {2B8F1915-C49F-4B45-B70F-AE8D2943376E}
+database: web
+path: /sitecore/content/FMBCom/Home/Alerts
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: Alerts
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170217T011958:636228911982530000
+
+----version----
+language: en
+version: 1
+revision: e9294c5b-dd3c-410b-922d-9fb695f7761e
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 6
+
+Alerts
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 2339
+
+<p><img height="416" alt="F&amp;M Bank Card Alerts" width="848" src="-/media/722E110A23BD440CBD749B69EA6194FD.ashx?h=416&amp;w=848&amp;hash=9624B90966C284F6EC74219687EC0A50142F53C2" style="height: 416px; width: 848px;"></p>
+<h3>BUILT IN SECURITY WITH REAL-TIME ALERTS ADD AN ADDITIONAL LAYER OF SECURITY.</h3>
+<h3>WE&rsquo;LL TEXT* OR EMAIL YOU IMMEDIATELY IF ANY OF YOUR ALERTS ARE TRIGGERED.</h3>
+<h4>HOW TO SET UP YOUR ALERTS:</h4>
+<p>
+</p>
+<ol>
+    <li>Select the F&amp;M card to enroll from the debit and credit options below. Each card requires separate enrollment. Have your card information handy.</li>
+    <li>Choose how you want alerts delivered to you: mobile phone and/or email.</li>
+    <li>Select the notifications you want to receive such as:
+    <ul>
+        <li>International Purchases, Online Purchases, Purchases at Fuel Merchants, Card Not Present, Unusual Transactions and many more</li>
+    </ul>
+    </li>
+</ol>
+<p>&nbsp;</p>
+<div class="row">
+<div class="col-md-6">
+<h3>Debit Card Alerts</h3>
+<img height="168" alt="Classic Checking Debit Card" width="258" src="-/media/2490CD43B01D4DFF8A53EE64D600DAA1.ashx?h=168&amp;w=258" style="height: 168px; width: 258px;">
+<p><a class="btn btn-primary btn-green" href="https://www.smsservicesnow.com/fd/registeralerts/xsl/fmblb/index.htm" title="Click Here Debit Card Alerts">Click Here</a></p>
+<p>Text Alerts short code is 42831.</p>
+</div>
+<div class="col-md-6">
+<h3>Credit Card Alerts</h3>
+<img height="153" alt="Credit Card" width="242" src="-/media/F2E39B17386F46DFB723AC98713B56D6.ashx">
+<p><a class="btn btn-primary btn-green" href="https://www.smsservicesnow.com/fd/registeralerts/xsl/fmb/index.htm" target="_blank" title="Click Here Credit Card Alerts">Click Here</a></p>
+<p>Text Alerts short code is 69319.</p>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><strong>NOTICE: If you enrolled in Debit Card Fraud Text Alerts prior to November 2, 2016, you are automatically enrolled to receive Debit Card Fraud Text Alerts from the new short code 42831. Please click here to enroll for additional F&amp;M Debit Card Alerts.</strong></p>
+<p><strong>*You will only be able to sign up for Text Alerts if we have your mobile phone number. Call us to update your contact information. F&amp;M Bank does not charge for this service, however your wireless carrier may charge you.</strong></p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 6
+
+Alerts
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 44
+
+Real-Time Card Alerts by Text or Email | F&M
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 147
+
+Learn more about real-time alerts with F&M Debit Cards and Credit Cards.  You can receive text or email notifications if your alerts are triggered.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1010
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{660D86C0-FB0E-499D-9410-6FEA401F1832}" p:before="*" s:ds="{5FCC774E-F2F9-451F-BDA1-738EED58DA12}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/col-narrow-1" /><r uid="{3D7035FC-9CB3-4017-B2DC-38067CC50997}" p:after="r[@uid='{660D86C0-FB0E-499D-9410-6FEA401F1832}']" s:ds="{2A4E1D0C-8F15-447A-9196-0F2A5E14C5A3}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{DE47D3E9-E70E-4A06-AAB2-209E42DBED99}" p:after="r[@uid='{3D7035FC-9CB3-4017-B2DC-38067CC50997}']" s:ds="{61E3ED4F-59DF-427A-8E84-4B9AC106FBBC}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{73E814EB-EDBD-49AF-A6E1-CB8C63667A5B}" p:after="r[@uid='{DE47D3E9-E70E-4A06-AAB2-209E42DBED99}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T011958Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e9294c5b-dd3c-410b-922d-9fb695f7761e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T171650Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

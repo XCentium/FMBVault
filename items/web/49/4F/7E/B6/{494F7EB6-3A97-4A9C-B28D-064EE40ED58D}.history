@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{494F7EB6-3A97-4A9C-B28D-064EE40ED58D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:11.9769728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General FAQs - Mobile",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/General FAQs - Mobile",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

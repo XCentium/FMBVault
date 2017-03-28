@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B5C48B39-8F86-42A3-98DF-ECB62A95E4C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:54.2759664Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EmailFrom_RLD",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/EmailFrom_RLD",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

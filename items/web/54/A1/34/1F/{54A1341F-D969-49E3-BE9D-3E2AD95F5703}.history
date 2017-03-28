@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{54A1341F-D969-49E3-BE9D-3E2AD95F5703}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:24.5279551Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tools",
+    "itemPath": "/sitecore/system/Settings/Feature/Tools",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

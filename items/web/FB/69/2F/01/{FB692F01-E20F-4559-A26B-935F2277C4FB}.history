@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{FB692F01-E20F-4559-A26B-935F2277C4FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.1239653Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thank You",
+    "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount/Thank You",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

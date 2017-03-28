@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{04338FA2-6B9B-465A-9DC6-BAE7A094B1A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:46.5749652Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Account Thank You",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Funnels/Online Account Thank You",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

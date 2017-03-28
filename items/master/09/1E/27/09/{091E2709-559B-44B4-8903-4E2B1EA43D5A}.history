@@ -32,9 +32,28 @@
     "itemName": "MD",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/MD",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{091E2709-559B-44B4-8903-4E2B1EA43D5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:25.2999552Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MD",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/MD",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

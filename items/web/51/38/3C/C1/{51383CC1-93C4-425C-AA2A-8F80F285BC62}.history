@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{51383CC1-93C4-425C-AA2A-8F80F285BC62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.1079730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Accounts Limited",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Savings Accounts Limited",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

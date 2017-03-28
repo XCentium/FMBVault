@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{37D866A3-CA4A-48B9-825B-80AF3C12E3C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:30.9289469Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notify Approvers",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Draft/Submit/Notify Approvers",
+    "template": "Workflow Email",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

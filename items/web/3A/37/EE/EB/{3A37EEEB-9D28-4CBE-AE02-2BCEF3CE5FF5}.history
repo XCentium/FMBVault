@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3A37EEEB-9D28-4CBE-AE02-2BCEF3CE5FF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.3769714Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Zero-Liability",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Credit-Cards-Zero-Liability",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

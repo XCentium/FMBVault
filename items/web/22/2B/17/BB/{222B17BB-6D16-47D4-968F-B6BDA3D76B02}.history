@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{222B17BB-6D16-47D4-968F-B6BDA3D76B02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:23.2619554Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Items Which Always Process Redirects",
+    "itemPath": "/sitecore/templates/Redirect Module/Redirect Folder/Redirects/Items Which Always Process Redirects",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

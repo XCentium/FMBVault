@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6564DBA8-5833-4125-A9A3-3F34EB2DE514}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.9659731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bonnie Beloussow",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Torrance/Bonnie Beloussow",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

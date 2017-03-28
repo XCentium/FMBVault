@@ -32,9 +32,28 @@
     "itemName": "Description Layout",
     "itemPath": "/sitecore/templates/Feature/Media/_HasMediaLayoutStyles/Media Layout Options/Description Layout",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{F7FC505E-3CE5-4810-A88E-75B700FC1452}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:13.9989552Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description Layout",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMediaLayoutStyles/Media Layout Options/Description Layout",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

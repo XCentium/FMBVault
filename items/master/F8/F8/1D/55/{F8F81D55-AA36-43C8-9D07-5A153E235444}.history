@@ -32,9 +32,28 @@
     "itemName": "Online Banking Enrollment Forms",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Online Banking Enrollment Forms",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{F8F81D55-AA36-43C8-9D07-5A153E235444}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:00.6979675Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking Enrollment Forms",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Online Banking Enrollment Forms",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

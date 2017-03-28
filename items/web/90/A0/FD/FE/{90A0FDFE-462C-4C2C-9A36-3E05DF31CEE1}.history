@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{90A0FDFE-462C-4C2C-9A36-3E05DF31CEE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.6979730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kentucky",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Kentucky",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

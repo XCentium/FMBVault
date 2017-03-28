@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7A9C974C-F6CF-4D03-939D-E53A9A8495A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:02.9029725Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disclaimers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers",
+    "template": "Disclaimer Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

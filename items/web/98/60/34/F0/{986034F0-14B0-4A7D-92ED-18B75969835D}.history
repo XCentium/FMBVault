@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{986034F0-14B0-4A7D-92ED-18B75969835D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:09.1299732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Jersey",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/New Jersey",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

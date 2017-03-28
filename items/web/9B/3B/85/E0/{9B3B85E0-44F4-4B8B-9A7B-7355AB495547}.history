@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9B3B85E0-44F4-4B8B-9A7B-7355AB495547}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:58.8069730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Payroll Services",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Payroll Services",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

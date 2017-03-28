@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{46170837-3423-4803-A296-E127F72DA094}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:57.2469696Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "gold-checking-comparison",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/gold-checking-comparison",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

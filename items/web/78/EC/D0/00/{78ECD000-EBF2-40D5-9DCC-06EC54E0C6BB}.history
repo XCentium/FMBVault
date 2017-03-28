@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{78ECD000-EBF2-40D5-9DCC-06EC54E0C6BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.4009670Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chip Card FAQs",
+    "itemPath": "/sitecore/content/FMBCom/Home/Customer Service/Chip Card FAQs",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "WV",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/WV",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B785B976-3320-4368-B869-139C851A37A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:25.0019550Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WV",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/WV",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

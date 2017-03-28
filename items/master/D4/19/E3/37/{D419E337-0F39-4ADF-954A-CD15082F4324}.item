@@ -2,7 +2,7 @@
 version: 1
 id: {D419E337-0F39-4ADF-954A-CD15082F4324}
 database: master
-path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDF Brochure Widget/Online Security FAQs
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Online Security FAQs
 parent: {2B7BEE8F-BDA6-489C-B6C6-134BC51B5AD2}
 name: Online Security FAQs
 master: {00000000-0000-0000-0000-000000000000}
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 6cc6fbe3-e5dc-4c85-bcbf-a2aab9a41230
+revision: 4e0b0e54-9031-4da9-8d86-a31f47a9a441
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6cc6fbe3-e5dc-4c85-bcbf-a2aab9a41230
+4e0b0e54-9031-4da9-8d86-a31f47a9a441
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170324T154355Z
+20170324T154359Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

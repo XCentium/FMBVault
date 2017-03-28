@@ -32,9 +32,28 @@
     "itemName": "Icon",
     "itemPath": "/sitecore/templates/Feature/Navigation/_LinkMenuItem/Navigation/Icon",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2C24649E-4460-4114-B026-886CFBE1A96D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:13.6459555Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_LinkMenuItem/Navigation/Icon",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

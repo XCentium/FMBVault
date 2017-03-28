@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {B56A03DD-EB49-46A1-A241-A518196B2378}
+database: web
+path: /sitecore/content/FMBCom/Global/Employees/Santa Ana/Sonya Garay
+parent: {1BD7397D-1416-4C81-8D14-803A7239F4C7}
+name: Sonya Garay
+master: {00000000-0000-0000-0000-000000000000}
+template: {9671E92A-4AD3-46DF-AFF1-1542FD3D5BD9}
+templatekey: Employee
+created: 20170227T001835:636237515159100000
+
+----version----
+language: en
+version: 1
+revision: c9488f25-0d53-4aec-af27-3fe50277dbf0
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 11
+
+Sonya Garay
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 14
+
+Branch Manager
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{840BBEFB-24F9-4266-8347-9F0F8EE7E72A}" ></image>
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 14
+
+(714) 564-1750
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 19
+
+sonya.garay@fmb.com
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170227T001835Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c9488f25-0d53-4aec-af27-3fe50277dbf0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170227T002503Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

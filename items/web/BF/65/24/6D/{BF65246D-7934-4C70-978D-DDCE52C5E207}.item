@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {BF65246D-7934-4C70-978D-DDCE52C5E207}
+database: web
+path: /sitecore/content/FMBCom/Home/How To/How-To Enroll in Online Banking
+parent: {7CDD1DA9-70D3-4E37-B445-1996943AA31A}
+name: How-To Enroll in Online Banking
+master: {00000000-0000-0000-0000-000000000000}
+template: {308E99E4-396D-4E60-9C14-E6EB320CD0F5}
+templatekey: How To
+created: 20170308T192437:636245978776630000
+
+----version----
+language: en
+version: 1
+revision: 5004a0c6-263f-48fe-9fd6-60d625691cc9
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 31
+
+How-To Enroll in Online Banking
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 31
+
+How-To Enroll in Online Banking
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 31
+
+How-To Enroll in Online Banking
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1191
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{149F6948-43CB-405D-B0C5-F5B1241BBD44}" p:before="*" s:ds="" s:id="{B688FB89-0289-445A-B1A3-94CE9297702A}" s:par="UseStaticPlaceholderNames&amp;HowTos=%7BD1882861-836B-444A-B07A-1385D06E46C7%7D%7C%7BCE2FAD1C-BB7B-402E-981C-84630B941532%7D&amp;Testimonials=%257BD1882861-836B-444A-B07A-1385D06E46C7%257D%257C%257BCE2FAD1C-BB7B-402E-981C-84630B941532%257D" s:ph="/layoutZone/section/col-narrow-1" /><r uid="{D983064D-0B12-466D-9CB3-D85D212DF131}" p:after="r[@uid='{149F6948-43CB-405D-B0C5-F5B1241BBD44}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{29B779FA-E22A-4C25-BF99-C522F2465BC0}"><p:d /></r><r uid="{6D32BA36-5548-46D4-81BC-CE166A05CC62}" s:ds="{0B6D2B4C-5006-48B5-9B6F-5E321A195735}" s:par="" /><r uid="{C274AAA2-DA9E-43B1-BE22-840854C67296}" s:ds="{D1882861-836B-444A-B07A-1385D06E46C7}" /><r uid="{EB59FC0D-F748-4E59-A0FF-647ABA27121D}" p:after="r[@uid='{C274AAA2-DA9E-43B1-BE22-840854C67296}']" s:ds="{667E2787-4DC3-45D9-AC7A-0E03E68B0051}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section/col-huge" /></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170308T192437Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5004a0c6-263f-48fe-9fd6-60d625691cc9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170310T201154Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

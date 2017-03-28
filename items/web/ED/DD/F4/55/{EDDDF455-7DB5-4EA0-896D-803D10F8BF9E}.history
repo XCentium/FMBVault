@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{EDDDF455-7DB5-4EA0-896D-803D10F8BF9E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.6299731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thomas Gonzalez",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Main Office/Thomas Gonzalez",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

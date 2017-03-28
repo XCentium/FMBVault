@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E1A98D32-F527-41EE-8C35-A5FD7605B955}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.6129668Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Frequently Asked Questions",
+    "itemPath": "/sitecore/content/FMBCom/Home/Customer Service/Frequently Asked Questions",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

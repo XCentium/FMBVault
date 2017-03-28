@@ -1,0 +1,112 @@
+----item----
+version: 1
+id: {3388212F-D7CA-4E90-B1D7-47366B3A7F84}
+database: web
+path: /sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Send to Compliance/Notify Approvers
+parent: {DE645E6F-89BD-4B33-A439-49E1F1DF0C33}
+name: Notify Approvers
+master: {00000000-0000-0000-0000-000000000000}
+template: {E45642AD-3BB2-448D-9959-F81A9AB6D23C}
+templatekey: Workflow Email
+created: 20170310T080419:636247298598600000
+
+----field----
+field: {2D26671D-7D16-4142-B0CC-2E440AC5B1E2}
+name: From
+key: from
+content-length: 20
+
+noreply@xcentium.net
+----field----
+field: {E2332DF1-4596-4179-9EF6-0BBC40FCFEBC}
+name: Subject
+key: subject
+content-length: 95
+
+Compliance Approval: A new draft of item content is submitted and awaiting compliance approval.
+----field----
+field: {0614FB6D-7B90-496E-B4A7-F79F71114D74}
+name: Message
+key: message
+content-length: 234
+
+<p>
+There is an item that has been submitted for compliance approval:
+<br>
+Item: $itemName$<br>
+Path: $itemPath$<br>
+Version: $itemVersion$<br>
+<a href="$itemUrl$">Click here to view item</a>
+</p>
+<p>
+Comments:<br>
+$itemComments$
+</p>
+----field----
+field: {3A8C415A-9082-4CC3-8CB9-75CAE3AF4628}
+name: Type
+key: type
+content-length: 86
+
+FMB.Foundation.Utilities.Workflows.Actions.SendWorkflowEmail, FMB.Foundation.Utilities
+----version----
+language: en
+version: 1
+revision: f7f07427-2112-4736-87e0-69426366ba2f
+
+----field----
+field: {D89D77CB-A980-46BF-B16C-F1F3D1C4EE2C}
+name: CC
+key: cc
+content-length: 82
+
+/sitecore/content/FMBCom/Settings/Site Configuration/Workflow/Compliance Approvers
+----field----
+field: {AF0E1C25-6D4D-4840-B9C9-32B214FE1730}
+name: Rules
+key: rules
+content-length: 38
+
+{534B6E19-5FB5-488D-ABAA-C310D173B20C}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170307T235756Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f7f07427-2112-4736-87e0-69426366ba2f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170311T034947Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

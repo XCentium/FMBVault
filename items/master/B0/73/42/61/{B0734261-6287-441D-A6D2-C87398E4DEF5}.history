@@ -32,9 +32,28 @@
     "itemName": "Credit-Cards-Alerts",
     "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Credit-Cards-Alerts",
     "template": "Disclaimer",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B0734261-6287-441D-A6D2-C87398E4DEF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:03.4009724Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Credit-Cards-Alerts",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

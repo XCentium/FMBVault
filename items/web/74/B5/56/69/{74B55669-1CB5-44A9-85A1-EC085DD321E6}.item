@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {74B55669-1CB5-44A9-85A1-EC085DD321E6}
+database: web
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ Groups/FM Card Alerts
+parent: {65B346B4-8D80-435A-94D8-8567676664E7}
+name: FM Card Alerts
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+templatekey: FAQ Group
+created: 20170227T214140:636238285004270000
+
+----version----
+language: en
+version: 1
+revision: 15d12c13-7259-471f-885c-a0ee77b9fb6a
+
+----field----
+field: {3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}
+name: Show Expanded
+key: show expanded
+content-length: 1
+
+1
+----field----
+field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
+name: Group Member
+key: group member
+content-length: 740
+
+{835D6809-3833-4B38-917F-FE285FF13D73}|{D2791A64-85F6-4C43-988D-BF7AF169EEA1}|{E6704DE2-6F0D-40B2-BB36-27356C79644C}|{1AE15C5D-EA1C-4655-936E-1532686F473C}|{E0C4CA04-6393-4FFA-BFD2-71095420CC73}|{8BDAFD38-2C3C-4033-9603-65B3DFC19E79}|{0EF84D0A-09D7-43C3-988B-66A8EFA6EEED}|{3BBC7D0F-00C5-42DD-9060-BFEAFF09097D}|{E9861DC2-3AD4-4141-B1D1-A9B8B972629F}|{6DCBAF2A-F0C7-4D94-8FF1-DD27FEA781B3}|{DBB184C2-0466-490E-893C-8939DBC334B5}|{0EB4EA4C-63AC-40EB-8511-6AE7DB96D675}|{1EAB6889-E87C-4D2B-B2C6-C46285D8010F}|{AABCA814-E5DF-4634-A6FD-AF26B85D6ED9}|{64647BA1-911E-456B-B4FF-0299B0F183BC}|{9A847E95-569D-416C-B519-06175F225B48}|{32455B12-80ED-45A2-B1EB-29B3C34EFFC2}|{52DAF3CD-572D-4CF0-94A1-D7706823C3B6}|{0B132A0A-2B6D-4B0A-B991-28F51FA2098E}
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 43
+
+Frequently Asked Questions: F&M Card Alerts
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170227T214140Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+15d12c13-7259-471f-885c-a0ee77b9fb6a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T232820Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

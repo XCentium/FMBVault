@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BAB0678F-1017-40B8-A20A-F2CB559A0A2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.1539731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kim Searles",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Bixby Knolls/Kim Searles",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

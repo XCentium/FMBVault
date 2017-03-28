@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1A6A4CA3-0D0F-4863-8F5B-D4935F0C9624}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:31.5009480Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fees",
+    "itemPath": "/sitecore/system/Aliases/fees",
+    "template": "Alias",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

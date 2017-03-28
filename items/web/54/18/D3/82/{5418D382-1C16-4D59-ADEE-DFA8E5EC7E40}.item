@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {5418D382-1C16-4D59-ADEE-DFA8E5EC7E40}
+database: web
+path: /sitecore/content/FMBCom/Global/Forms/Form Configurations/Real Estate Seminars Form
+parent: {6198CD02-AB88-4214-B4F0-27129A7FD684}
+name: Real Estate Seminars Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {6C2B616E-EC60-4FC6-856C-24A54D9B4F8C}
+templatekey: Form Configuration
+created: 20170228T162310:636238957901600000
+
+----version----
+language: en
+version: 1
+revision: faabedef-0c1d-4db7-a1f0-553973e85d9f
+
+----field----
+field: {BC20CAA7-150F-4B76-8C79-6E1A11C9C159}
+name: EmailRecipients
+key: emailrecipients
+content-length: 82
+
+/sitecore/content/FMBCom/Global/Forms/Form Recipients/RealEstateSeminarsRecipients
+----field----
+field: {7F3E0A45-EBC2-47BF-9C04-0359798DB2CE}
+name: FieldOptionGroups
+key: fieldoptiongroups
+content-length: 38
+
+{4C73039A-97A2-413B-8258-2DA46FF63DD7}
+----field----
+field: {D71E6464-9F06-4532-8C08-6840E225E885}
+name: FormID
+key: formid
+content-length: 22
+
+RealEstateSeminarsForm
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170210T205405Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+faabedef-0c1d-4db7-a1f0-553973e85d9f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170228T162420Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

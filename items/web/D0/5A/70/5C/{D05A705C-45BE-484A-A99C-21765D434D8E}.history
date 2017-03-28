@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D05A705C-45BE-484A-A99C-21765D434D8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.5259729Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connecticut",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Connecticut",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

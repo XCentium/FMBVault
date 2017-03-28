@@ -1,0 +1,275 @@
+----item----
+version: 1
+id: {25364EDB-6DD0-41B1-9964-C86AD0893192}
+database: web
+path: /sitecore/content/FMBCom/Home/Real Estate Seminars
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: Real Estate Seminars
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170224T223737:636235726573930000
+
+----field----
+field: {B3BA9EA9-D0A1-49DF-9F4B-28FA5D353DC8}
+name: JavascriptCodeBottom
+key: javascriptcodebottom
+content-length: 0
+
+
+----field----
+field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
+name: CssCode
+key: csscode
+content-length: 732
+
+<style>
+footer {
+margin-top:0 !important;
+}
+
+.header-logo .hidden-xs.col-xs-6 {
+text-align:right;
+}
+
+#gotoMenu {
+margin-right: 15px;
+padding:8px 12px;
+}
+
+
+ul.checkmark {
+	list-style-image:url('-/media/6D537595C95C4EA7A1A84039C858C234.ashx');
+	line-height: 24px;
+}
+
+.dotted-row {border:none;}
+.dotted-column {border-bottom: 2px dotted #9b8449;}
+.dotted-column-alt {border-bottom: 2px dotted #9b8449;}
+
+#RealEstateSeminarForm {margin-left: 15px;}
+
+@media (min-width: 992px) {
+	.dotted-row {border-top: 2px dotted #9b8449; border-bottom: 2px dotted #9b8449;}
+	.dotted-column {border-right: 2px dotted #9b8449; border-bottom:none; padding: 8px 0 18px;}
+	.dotted-column-alt {border-bottom:none;}
+}
+</style>
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: 39e7e618-f831-4a72-8f2a-540684b4b1e3
+
+----field----
+field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
+name: ParallaxBackgroundImage
+key: parallaxbackgroundimage
+content-length: 0
+
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 32
+
+Residential Real Estate Seminars
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 4477
+
+<h2><span style="font-size: 21px; font-weight: 100;">Join us for <em>FREE</em> expert insight on <em>"How to purchase real estate in the current market."</em></span></h2>
+<p class="text-green"><strong><span style="font-size: 18px;">You will learn about:</span></strong></p>
+<div class="row" style="margin-bottom: 10px;">
+<div class="col-sm-6 col-md-3">
+<ul class="checkmark">
+    <li>Defining your ownership goals and creating your strategy</li>
+</ul>
+</div>
+<div class="col-sm-6 col-md-3">
+<ul class="checkmark">
+    <li>Getting Pre-Qualified &amp; Requirements to secure an affordable mortgage</li>
+</ul>
+</div>
+<div class="col-sm-6 col-md-3">
+<ul class="checkmark">
+    <li>Local real estate trends &amp; selecting a home</li>
+</ul>
+</div>
+<div class="col-sm-6 col-md-3">
+<ul class="checkmark">
+    <li>Choosing the right home loan for you</li>
+</ul>
+</div>
+</div>
+<div class="row dotted-row">
+<div class="col-md-6 dotted-column">
+<h3 class="text-center text-green">Saturday, March 19th<br>
+11:00 am - 12:00 pm</h3>
+<div class="row">
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/san-clemente">San Clemente</a></strong><br>
+621 N. El Camino Real<br>
+San Clemente, CA 92672</p>
+</div>
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/bixby-knolls">Bixby Knolls<sup>*</sup></a></strong><br>
+4545 California Ave.<br>
+Long Beach, CA 90807</p>
+</div>
+</div>
+</div>
+<div class="col-md-6 dotted-column-alt">
+<h3 class="text-center text-green">Saturday, April  16th<br>
+11:00 am - 12:00 pm</h3>
+<div class="row">
+<div class="col-sm-7">
+<p class="text-center"><strong><a href="locations/san-juan-capistrano">San Juan Capistrano</a></strong><br>
+31873 Del Obispo St., <br>
+San Juan Capistrano, CA 92675</p>
+</div>
+<div class="col-sm-5">
+<p class="text-center"><strong><a href="locations/los-altos">Los Altos<sup>*</sup></a></strong><br>
+2302 Bellflower Blvd.<br>
+Long Beach, CA 90815</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6 dotted-column">
+<h3 class="text-center text-green">Saturday, May 21st<br>
+11:00 am - 12:00 pm</h3>
+<div class="row">
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/garden-grove">Garden Grove</a></strong><br>
+10422 Garden Grove Blvd.<br>
+Garden Grove, CA 92843</p>
+</div>
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/lakewood">Lakewood<sup>*</sup></a></strong><br>
+5101 Lakewood Blvd.<br>
+Lakewood, CA 90712</p>
+</div>
+</div>
+</div>
+<div class="col-md-6 dotted-column-alt">
+<h3 class="text-center text-green">Saturday, June 18th<br>
+11:00 am - 12:00 pm</h3>
+<div class="row">
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/tustin">Tustin</a></strong><br>
+2691 Park Ave.<br>
+Tustin, CA 92782</p>
+</div>
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/downey">Downey<sup>*</sup></a></strong><br>
+9001 Firestone Blvd.<br>
+Downey, CA 90241</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row dotted-row">
+<div class="col-md-6 dotted-column">
+<h3 class="text-center text-green">Saturday, July 23rd<br>
+11:00 am - 12:00 pm</h3>
+<div class="row">
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/orange">Orange<sup>*</sup></a></strong><br>
+1220 E. Katella Ave.<br>
+Orange, CA 92867</p>
+</div>
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/rossmoor">F&amp;M Home Loan Center</a></strong><br>
+12515 Seal Beach Blvd.<br>
+Seal Beach, CA 90740</p>
+</div>
+</div>
+</div>
+<div class="col-md-6 dotted-column-alt">
+<h3 class="text-center text-green">Saturday, August 20th<br>
+11:00 am - 12:00 pm</h3>
+<div class="row">
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/huntington-beach">Huntington Beach</a></strong><br>
+7125 Yorktown Ave.<br>
+Huntington Beach, CA 92648</p>
+</div>
+<div class="col-sm-6">
+<p class="text-center"><strong><a href="locations/fullerton">Fullerton<sup>*</sup></a></strong><br>
+The Brownstone Cafe<br>
+305 N. Harbor Blvd<br>
+Suite 115-117<br>
+Fullerton, CA 92832</p>
+</div>
+</div>
+</div>
+</div>
+<p style="padding-top: 20px; font-size: 12px; font-weight: bold;"><sup>*</sup>These locations will follow our "Credit as an Asset" workshop from 10:00am - 11:00am. Stop in early to hear F&amp;M experts share tips that can help improve your credit score and save you money. Find out more, <a href="-/media/86EBAD6EDCCF4D2A9104CC2CA2B932A4.ashx">download the flyer.</a></p>
+<span class="fa-2x"></span>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 32
+
+Residential Real Estate Seminars
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 32
+
+Residential Real Estate Seminars
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2126
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{CB550F92-F484-4F7B-BA2E-F1F255D9C0B2}" p:before="*" s:ds="{5418D382-1C16-4D59-ADEE-DFA8E5EC7E40}" s:id="{09D5CE21-B36A-46AC-9E6A-D84F9E083E50}" s:par="" s:ph="/layoutZone/section_95260af8-230c-45f6-9db1-8590871f40f6/col-narrow-1_c75c5617-e631-4062-a870-fe3959fffe2e" /><r uid="{80672AD4-4F98-41E2-BCAA-43D49242D03B}" p:after="r[@uid='{CB550F92-F484-4F7B-BA2E-F1F255D9C0B2}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section_95260af8-230c-45f6-9db1-8590871f40f6/col-wide-1_c75c5617-e631-4062-a870-fe3959fffe2e" /><r uid="{C75C5617-E631-4062-A870-FE3959FFFE2E}" p:after="r[@uid='{80672AD4-4F98-41E2-BCAA-43D49242D03B}']" s:id="{CB27D488-5DF8-48B9-B096-D68B2DA637E3}" s:ph="/layoutZone/section_95260af8-230c-45f6-9db1-8590871f40f6" /><r uid="{95260AF8-230C-45F6-9DB1-8590871F40F6}" p:after="r[@uid='{C75C5617-E631-4062-A870-FE3959FFFE2E}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{1CD7143E-915F-4254-A741-8C2A2E9BE355}" p:after="r[@uid='{95260AF8-230C-45F6-9DB1-8590871F40F6}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section/col-wide-1_85221bc1-e36e-439d-8546-9f4c30ce48e7" /><r uid="{D32C049F-35C5-46A4-A0EE-58810EFB93D5}" p:after="r[@uid='{1CD7143E-915F-4254-A741-8C2A2E9BE355}']" s:ds="{A6102784-F10F-4B8D-A47A-2DAEC44E80E0}" s:id="{8503EA38-BC61-42B8-8891-A5C92D6FCD69}" s:ph="/headerZone/header-login" /><r uid="{8F664301-86B0-49AE-87A5-F2DD2728FD33}" p:after="r[@uid='{D32C049F-35C5-46A4-A0EE-58810EFB93D5}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{F013A76E-C40C-4ED0-8B7C-AE304218E924}" p:after="r[@uid='{8F664301-86B0-49AE-87A5-F2DD2728FD33}']" s:id="{4B912A12-E167-4B3D-A8CC-0A969FFF6120}" s:ph="bannerZone" /><r uid="{A9F64933-1269-4B05-8868-EC52213E01E1}"><p:d /></r><r uid="{9D7A1F75-73CB-49A0-9C6B-24442980DF0C}"><p:d /></r><r uid="{0577C4B1-F1C6-488C-8CB9-C7DED8390954}"><p:d /></r><r uid="{91B388C4-4BD1-482B-A2E1-7D89B83CFEA4}" s:ds="{9BEB14BA-8028-4CAE-A76C-2A465975E12C}" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170130T234031Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+39e7e618-f831-4a72-8f2a-540684b4b1e3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170228T163233Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

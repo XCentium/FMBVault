@@ -32,9 +32,28 @@
     "itemName": "LP",
     "itemPath": "/sitecore/content/FMBCom/Home/LP",
     "template": "Section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{941F0951-E65E-447B-B485-8E2A61B3957F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:56.6599669Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LP",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP",
+    "template": "Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F34C7436-B2A3-4C85-87A5-2E08DE7F1320}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:08.0639730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alaska",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Alaska",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

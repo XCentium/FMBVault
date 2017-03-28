@@ -32,9 +32,28 @@
     "itemName": "Welcome",
     "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount/Welcome",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{45696EA0-FD7B-4E82-9D6E-626EA9F363B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.1579653Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Welcome",
+    "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount/Welcome",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

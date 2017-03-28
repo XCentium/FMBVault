@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{95CEC65D-02F3-4D99-976A-AA9102CCBC49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:09.4089730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Refinance",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/RLD Loan Purpose List/Refinance",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

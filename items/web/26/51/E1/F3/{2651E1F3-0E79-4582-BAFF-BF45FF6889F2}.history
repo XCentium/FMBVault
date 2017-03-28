@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2651E1F3-0E79-4582-BAFF-BF45FF6889F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.6979666Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Media Policy",
+    "itemPath": "/sitecore/content/FMBCom/Home/Privacy/Social Media Policy",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

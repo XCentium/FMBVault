@@ -32,9 +32,28 @@
     "itemName": "CO",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/CO",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{1C09F3C5-1234-4F78-9CE8-8374EB697A46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:25.2119552Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CO",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/CO",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

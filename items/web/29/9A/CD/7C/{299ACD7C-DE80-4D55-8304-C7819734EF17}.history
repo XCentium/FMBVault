@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{299ACD7C-DE80-4D55-8304-C7819734EF17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:11.2999730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Form Recipients/default",
+    "template": "Form Recipients",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

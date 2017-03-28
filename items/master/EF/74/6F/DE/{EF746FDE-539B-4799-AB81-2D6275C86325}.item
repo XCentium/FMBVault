@@ -2,7 +2,7 @@
 version: 1
 id: {EF746FDE-539B-4799-AB81-2D6275C86325}
 database: master
-path: /sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Approve/Validation Action
+path: /sitecore/system/Workflows/FMB Standard Workflow/Awaiting Approval/Send to Compliance/Validation Action
 parent: {DE645E6F-89BD-4B33-A439-49E1F1DF0C33}
 name: Validation Action
 master: {00000000-0000-0000-0000-000000000000}

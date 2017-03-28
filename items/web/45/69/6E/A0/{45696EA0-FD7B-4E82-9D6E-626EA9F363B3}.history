@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{45696EA0-FD7B-4E82-9D6E-626EA9F363B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:55.1539650Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Welcome",
+    "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount/Welcome",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

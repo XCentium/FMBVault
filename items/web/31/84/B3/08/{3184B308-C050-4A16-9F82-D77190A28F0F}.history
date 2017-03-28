@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3184B308-C050-4A16-9F82-D77190A28F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:31.8629465Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "301 Moved Permanently",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Response Status Codes/301 Moved Permanently",
+    "template": "Response Status Code",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

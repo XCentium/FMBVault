@@ -32,9 +32,28 @@
     "itemName": "Marcos Reyes",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Juan Capistrano/Marcos Reyes",
     "template": "Employee",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C5E47D45-E7D4-4D42-97E8-FB9845DD0C50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:04.2879735Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marcos Reyes",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/San Juan Capistrano/Marcos Reyes",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

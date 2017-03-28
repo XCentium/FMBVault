@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{EB2DA8D4-F9A9-4A91-8318-909C980D4B66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:54.0589662Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rate Settings",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Rate Settings",
+    "template": "Configuration Setting Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

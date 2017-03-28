@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{0C1934C8-1F08-4B45-B8D6-67544D87C4A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:07.8569743Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alabama",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/States/Alabama",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

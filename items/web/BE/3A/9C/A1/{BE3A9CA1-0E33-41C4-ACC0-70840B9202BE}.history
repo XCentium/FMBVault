@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BE3A9CA1-0E33-41C4-ACC0-70840B9202BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:48.6239670Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "About",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/About",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

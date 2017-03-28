@@ -32,9 +32,28 @@
     "itemName": "Workflow Rule",
     "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rule",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{633FCA70-AB4A-4E6C-AC30-CDFD499E7DEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:17.6479559Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow Rule",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/Workflow Rule",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

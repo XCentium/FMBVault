@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E3D439EE-C05A-43F2-BE63-0529C740C11B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:59.9359664Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "zChris Test Page",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/zChris Test Page",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{5EEBDC26-0A71-463F-93A5-7383EA8434E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:57.4699701Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Careers",
+    "itemPath": "/sitecore/content/FMBCom/Home/Careers",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

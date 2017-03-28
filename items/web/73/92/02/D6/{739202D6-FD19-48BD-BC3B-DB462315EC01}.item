@@ -1,0 +1,206 @@
+----item----
+version: 1
+id: {739202D6-FD19-48BD-BC3B-DB462315EC01}
+database: web
+path: /sitecore/content/FMBCom/Global/Products/Comparisons/Savings Accounts
+parent: {58E1774C-D34F-45AF-BA59-CE5F66758734}
+name: Savings Accounts
+master: {00000000-0000-0000-0000-000000000000}
+template: {DE51EDED-71E2-4AFA-8771-4CD6759A6FCE}
+templatekey: Comparison Matrix
+created: 20170207T202157:636220957178200000
+
+----version----
+language: en
+version: 1
+revision: d0029e1f-f8ec-45bd-bf9b-9c93160680ff
+
+----field----
+field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
+name: Body
+key: body
+content-length: 8361
+
+<div class="tablesaw-bar tablesaw-mode-swipe">
+<div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+</div>
+<table id="comparison-table" class="tablesaw tablesaw-swipe" data-tablesaw-mode="swipe">
+    <thead>
+        <tr>
+            <th data-tablesaw-priority="persist" class=" tablesaw-cell-persist">&nbsp;</th>
+            <th style="text-align: center;">Market Rate Money Market
+            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+            <th style="text-align: center;" class=" tablesaw-cell-hidden">Market Rate Savings <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=" tablesaw-cell-persist">Description</td>
+            <td>&nbsp;A limited transaction account that earns<br>
+            a competitive interest rate. Keep your<br>
+            funds liquid and secure.</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;A savings account that fits any budget<br>
+            and pays a competitive interest rate.</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Minimum Opening Balance</td>
+            <td>$100</td>
+            <td class=" tablesaw-cell-hidden">$100</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">$2 withdrawal fee applies for<br>
+            each withdrawal exceeding 3<br>
+            per quarter if the balance in<br>
+            the account falls below $500<br>
+            any day of the quarter</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden"><img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">$5 minimum balance fee<br>
+            per quarter applies if the<br>
+            average daily balance for the<br>
+            quarter falls below $200</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">$7 minimum balance fee per<br>
+            month applies if the balance<br>
+            in the account falls below<br>
+            $2,500 any day of the<br>
+            statement cycle</td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Limited withdrawal<br>
+            privileges<sup>1</sup></td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Check images included<br>
+            with monthly statement</td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Debit MasterCard<sup>&reg;2</sup></td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">ATM access with your linked<br>
+            F&amp;M checking account&rsquo;s<br>
+            Debit MasterCard<sup>&reg;2</sup></td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Free Online Banking<sup>3</sup></td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">eStatements &amp; eNotices</td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Combined monthly statements</td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;</td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Combined monthly statements or <br>
+            a quarterly savings-only statement</td>
+            <td>&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Competitive variable rate;<br>
+            interest accrues daily and<br>
+            is paid to the account<br>
+            quarterly. If the account is<br>
+            closed before interest is<br>
+            paid, the accrued interest<br>
+            will not be credited.<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Tiers offered:<br>
+            $0.01-$9,999.99;<br>
+            $10,000-$24,999.99;<br>
+            $25,000-$49,999.99;<br>
+            $50,000-$99,999.99;<br>
+            $100,000 or more<br>
+            </td>
+            <td>&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img height="22" alt="Checkmark" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">Deposit Interest Rates<br>
+            </td>
+            <td style="text-align: center;"><a href="~/link.aspx?_id=67B5E959E0FF4B7498FF5764CD8FF541&amp;_z=z">Click to see Rates</a></td>
+            <td class=" tablesaw-cell-hidden" style="text-align: center;"><a href="~/link.aspx?_id=67B5E959E0FF4B7498FF5764CD8FF541&amp;_z=z">Click to see Rates</a></td>
+        </tr>
+        <tr>
+            <td class=" tablesaw-cell-persist">&nbsp;</td>
+            <td style="text-align: center;">Market Rate Money Market
+            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></td>
+            <td class=" tablesaw-cell-hidden">Market Rate Savings <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></td>
+        </tr>
+    </tbody>
+</table>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170207T202157Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d0029e1f-f8ec-45bd-bf9b-9c93160680ff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T235836Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

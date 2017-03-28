@@ -32,9 +32,28 @@
     "itemName": "Street Address2",
     "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Street Address2",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{F0FA4DC7-3E36-4C13-99C3-C97C28114362}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:13.3389556Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Street Address2",
+    "itemPath": "/sitecore/templates/Feature/Office/_Office/Office Details/Street Address2",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

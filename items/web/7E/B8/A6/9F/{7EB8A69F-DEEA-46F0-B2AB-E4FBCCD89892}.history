@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7EB8A69F-DEEA-46F0-B2AB-E4FBCCD89892}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:12.6009561Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date End",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasNotification/Notification/Date End",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

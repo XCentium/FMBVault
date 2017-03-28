@@ -32,9 +32,28 @@
     "itemName": "USS Iowa",
     "itemPath": "/sitecore/content/FMBCom/Home/Testimonials/USS Iowa",
     "template": "Testimonial",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{ED0307B4-9060-46C8-818E-A73F888EA2B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:56.3019662Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "USS Iowa",
+    "itemPath": "/sitecore/content/FMBCom/Home/Testimonials/USS Iowa",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

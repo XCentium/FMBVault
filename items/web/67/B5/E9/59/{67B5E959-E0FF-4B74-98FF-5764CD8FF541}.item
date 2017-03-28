@@ -1,0 +1,1258 @@
+----item----
+version: 1
+id: {67B5E959-E0FF-4B74-98FF-5764CD8FF541}
+database: web
+path: /sitecore/content/FMBCom/Home/Rates
+parent: {FF63C25D-1059-4B0D-A0FB-563516E771A8}
+name: Rates
+master: {00000000-0000-0000-0000-000000000000}
+template: {1F3621AB-2A9B-470B-8EB2-FE071B334F90}
+templatekey: Landing Page
+created: 20170228T002609:636238383695800000
+
+----version----
+language: en
+version: 1
+revision: 6e70a8dd-be61-4a9d-a600-7d010b5f8586
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 13
+
+Deposit Rates
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 33767
+
+<h2>Checking Accounts</h2>
+<p>Select your Checking Account</p>
+<div id="checking-rates">
+<ul class="nav nav-tabs">
+    <li class="active">
+    <a href="#checking1" data-toggle="tab">Gold Checking</a>
+    </li>
+    <li>
+    <a href="#checking2" data-toggle="tab">Platinum Checking</a>
+    </li>
+    <li>
+    <a href="#checking3" data-toggle="tab">Interest on Checking</a>
+    </li>
+    <li>
+    <a href="#checking4" data-toggle="tab">Business Interest on Checking</a>
+    </li>
+    <li>
+    <a href="#checking5" data-toggle="tab">Business Account Analysis - Earnings &amp; Service Credit</a>
+    </li>
+</ul>
+<div class="tab-content clearfix">
+<div class="tab-pane active" id="checking1">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>$100.00</td>
+            <td>0 .10%</td>
+            <td>0 .10%</td>
+            <td class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="checking2">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99&nbsp;</td>
+            <td>$100.00</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+            <td class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000.00-$49,999.99</td>
+            <td>$100.00</td>
+            <td>0.15%</td>
+            <td>0.15%</td>
+            <td class="text-center hidden-xs">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>$50,000&nbsp;or more</td>
+            <td>$100.00</td>
+            <td>0.15%</td>
+            <td>0.15%</td>
+            <td class="text-center hidden-xs">&nbsp;</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="checking3">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>$100.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+            <td colspan="4" class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="checking4">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>$200.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+            <td class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="checking5">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tier</th>
+            <th>Minimum Balance to Open</th>
+            <th>Earnings Credit Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$99,999.99</td>
+            <td>Not Applicable</td>
+            <td>0.10%</td>
+            <td class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>&nbsp;Not Applicable</td>
+            <td>0.15%</td>
+            <td class="text-center hidden-xs">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>$500,000-$999,999.99</td>
+            <td>&nbsp;Not Applicable</td>
+            <td>0.20%</td>
+            <td class="text-center hidden-xs">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>$1,000,000&nbsp;or more</td>
+            <td>&nbsp;Not Applicable</td>
+            <td>0.25%</td>
+            <td class="text-center hidden-xs">&nbsp;</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="3" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+<h2>Savings Accounts</h2>
+<p>Select your Savings Account</p>
+<div id="savings-rates">
+<ul class="nav nav-tabs">
+    <li class="active">
+    <a href="#savings1" data-toggle="tab">Market Rate Savings</a>
+    </li>
+    <li>
+    <a href="#savings2" data-toggle="tab">Market Rate Money Market</a>
+    </li>
+    <li>
+    <a href="#savings3" data-toggle="tab">Youth Savings</a>
+    </li>
+    <li>
+    <a href="#savings4" data-toggle="tab">Christmas Club</a>
+    </li>
+    <li>
+    <a href="#savings5" data-toggle="tab">Health Savings</a>
+    </li>
+</ul>
+<div class="tab-content clearfix">
+<div class="tab-pane active" id="savings1">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th><span>Tiered Rates</span></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$100.00</td>
+            <td>0.01%</td>
+            <td>0.01%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$24,999.99</td>
+            <td>$100.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$25,000-$49,999.99</td>
+            <td>$100.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$100.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$100,000 or more</td>
+            <td>$100.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="savings2">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th><span>Tiered Rates</span></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>Consumer-$100 / Business-$200</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$24,999.99</td>
+            <td>Consumer-$100 / Business-$200</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+        </tr>
+        <tr>
+            <td>$25,000-$49,999.99</td>
+            <td>Consumer-$100 / Business-$200</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>Consumer-$100 / Business-$200</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+        </tr>
+        <tr>
+            <td>$100,000 or more</td>
+            <td>Consumer-$100 / Business-$200</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="savings3">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th><span>Tiered Rates</span></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$999.99</td>
+            <td>$25</td>
+            <td>0 .05%</td>
+            <td>0 .05%</td>
+            <td rowspan="3" class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$1,000-$19,999.99</td>
+            <td>$25</td>
+            <td>0 .05%</td>
+            <td>0 .05%</td>
+        </tr>
+        <tr>
+            <td>$20,000 or more</td>
+            <td>$25</td>
+            <td>0 .05%</td>
+            <td>0 .05%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="savings4">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>No Minimum</td>
+            <td>0 .10%</td>
+            <td>0 .10%</td>
+            <td class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="savings5">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>$100.00</td>
+            <td>0 .10%</td>
+            <td>0 .10%</td>
+            <td class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+<h2>Market Rate Certificates of Deposit (CDs)</h2>
+<p>Select your CD rate term</p>
+<div id="cd-rates">
+<ul class="nav nav-tabs">
+    <li class="active">
+    <a href="#cd1" data-toggle="tab">7 to 31 days</a>
+    </li>
+    <li>
+    <a href="#cd2" data-toggle="tab">91 days</a>
+    </li>
+    <li>
+    <a href="#cd3" data-toggle="tab">182 days</a>
+    </li>
+    <li>
+    <a href="#cd4" data-toggle="tab">12-23 months</a>
+    </li>
+    <li>
+    <a href="#cd5" data-toggle="tab">24-35 months</a>
+    </li>
+    <li>
+    <a href="#cd6" data-toggle="tab">36-47 months</a>
+    </li>
+    <li>
+    <a href="#cd7" data-toggle="tab">48 months</a>
+    </li>
+    <li>
+    <a href="#cd8" data-toggle="tab">60 months</a>
+    </li>
+</ul>
+<div class="tab-content clearfix">
+<div class="tab-pane active" id="cd1">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="cd2">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th><span>Tiered Rates</span></th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$1,000.00</td>
+            <td>0.05%</td>
+            <td>0.05%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="cd3">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$1,000.00</td>
+            <td>0.10%</td>
+            <td>0.10%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="cd4">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$1,000.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="cd5">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$1,000.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="cd6">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$1,000.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="cd7">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.90%</td>
+            <td>0.90%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.90%</td>
+            <td>0.90%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.90%</td>
+            <td>0.90%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$1,000.00</td>
+            <td>0.90%</td>
+            <td>0.90%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$1,000.00</td>
+            <td>0.90%</td>
+            <td>0.90%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="cd8">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$1,000.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$1,000.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$1,000.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$1,000.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$1,000.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+<h2>Market Rate Individual Retirement Accounts (IRAs)</h2>
+<p>Select your IRA term</p>
+<div id="ira-rates">
+<ul class="nav nav-tabs">
+    <li class="active">
+    <a href="#ira1" data-toggle="tab">6 months</a>
+    </li>
+    <li>
+    <a href="#ira2" data-toggle="tab">12 months</a>
+    </li>
+    <li>
+    <a href="#ira3" data-toggle="tab">18 months</a>
+    </li>
+    <li>
+    <a href="#ira4" data-toggle="tab">24 months</a>
+    </li>
+    <li>
+    <a href="#ira5" data-toggle="tab">36 months</a>
+    </li>
+    <li>
+    <a href="#ira6" data-toggle="tab">48 months</a>
+    </li>
+    <li>
+    <a href="#ira7" data-toggle="tab">60 months</a>
+    </li>
+</ul>
+<div class="tab-content clearfix">
+<div class="tab-pane active" id="ira1">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$500.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$500.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$500.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$500.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$500.00</td>
+            <td>0.20%</td>
+            <td>0.20%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="ira2">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$500.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$500.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$500.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$500.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$500.00</td>
+            <td>0.30%</td>
+            <td>0.30%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="ira3">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$500.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$500.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$500.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$500.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$500.00</td>
+            <td>0.40%</td>
+            <td>0.40%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="ira4">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$500.00</td>
+            <td>0.50%</td>
+            <td>0.50%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$500.00</td>
+            <td>0.50%</td>
+            <td>0.50%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$500.00</td>
+            <td>0.50%</td>
+            <td>0.50%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$500.00</td>
+            <td>0.50%</td>
+            <td>0.50%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$500.00</td>
+            <td>0.50%</td>
+            <td>0.50%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="ira5">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$500.00</td>
+            <td>0.65%</td>
+            <td>0.65%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$500.00</td>
+            <td>0.65%</td>
+            <td>0.65%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$500.00</td>
+            <td>0.65%</td>
+            <td>0.65%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$500.00</td>
+            <td>0.65%</td>
+            <td>0.65%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$500.00</td>
+            <td>0.65%</td>
+            <td>0.65%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="ira6">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$500.00</td>
+            <td>0.95%</td>
+            <td>0.95%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$500.00</td>
+            <td>0.95%</td>
+            <td>0.95%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$500.00</td>
+            <td>0.95%</td>
+            <td>0.95%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$500.00</td>
+            <td>0.95%</td>
+            <td>0.95%</td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$500.00</td>
+            <td>0.95%</td>
+            <td>0.95%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="tab-pane" id="ira7">
+<table class="table rate-table">
+    <thead>
+        <tr>
+            <th>Tiered Rates</th>
+            <th>Minimum Balance to Open</th>
+            <th>Interest Rate</th>
+            <th>APY</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>$0.01-$9,999.99</td>
+            <td>$500.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+            <td rowspan="5" class="text-center hidden-xs"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+        <tr>
+            <td>$10,000-$49,999.99</td>
+            <td>$500.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+        </tr>
+        <tr>
+            <td>$50,000-$99,999.99</td>
+            <td>$500.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+        </tr>
+        <tr>
+            <td>$100,000-$499,999.99</td>
+            <td>$500.00</td>
+            <td>1.20%</td>
+            <td>1.21%<br>
+            </td>
+        </tr>
+        <tr>
+            <td>$500,000 or more</td>
+            <td>$500.00</td>
+            <td>1.20%</td>
+            <td>1.21%</td>
+        </tr>
+        <tr class="visible-xs-table-cell">
+            <td colspan="4" class="text-center"><a class="btn btn-primary btn-green btn-sm">Get Started Today</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 40
+
+Deposit Rates | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 79
+
+Explore the Deposit Rates for the products offered by Farmers & Merchants Bank.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 4708
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{2246D1CA-F7DB-465A-B222-CCD5E5A89B11}" p:before="*" s:ds="{E036DD02-E5E0-4CEF-AF74-D2FCCAB26B58}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section_4ae51084-4d3d-4bb3-b330-ee306adab0bf/col-huge_632ea5e8-1d01-4b70-b4ff-8f56e8eacd50" /><r uid="{B19B2003-7F8A-4837-8EBD-B65F78F08F92}" p:after="r[@uid='{2246D1CA-F7DB-465A-B222-CCD5E5A89B11}']" s:ds="{D411D80B-B007-4952-A763-FC4E0ED5BDB9}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/section_4ae51084-4d3d-4bb3-b330-ee306adab0bf/col-huge_09c6de74-b5e4-4bfd-8d2d-c76f31bc4b83" /><r uid="{992589BA-D5C1-455F-BCB5-529DC1E5362C}" p:after="r[@uid='{B19B2003-7F8A-4837-8EBD-B65F78F08F92}']" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_31616dc8-ee85-4201-96c8-8207c63e061f/col-huge_f48f928b-4cad-4466-8e2a-272f9da8185b" /><r uid="{8EBEDBB6-E825-4A58-89B8-A1DC9BBE9205}" p:after="r[@uid='{992589BA-D5C1-455F-BCB5-529DC1E5362C}']" s:ds="{D84C8C5C-3EC1-440A-BAC9-9F8FC5A316A2}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_ec39208f-3311-4115-a684-e55937b0e839/col-narrow-3_88c17f98-f4c3-419b-a7d1-a4f08fc09636" /><r uid="{F369B0F2-BA0F-4629-AE06-C3859E933D70}" p:after="r[@uid='{8EBEDBB6-E825-4A58-89B8-A1DC9BBE9205}']" s:ds="{A5D78F70-FF48-4268-8F97-98C6EEADAA71}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_ec39208f-3311-4115-a684-e55937b0e839/col-narrow-2_88c17f98-f4c3-419b-a7d1-a4f08fc09636" /><r uid="{6B77F197-FBC0-4FEB-8C60-2D05A75475DA}" p:after="r[@uid='{F369B0F2-BA0F-4629-AE06-C3859E933D70}']" s:ds="{5CB4B570-ABAA-4CC2-96D6-C64E38786E23}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_ec39208f-3311-4115-a684-e55937b0e839/col-narrow-1_88c17f98-f4c3-419b-a7d1-a4f08fc09636" /><r uid="{2F9D72B3-3225-41DD-9116-39706D0057EF}" p:after="r[@uid='{6B77F197-FBC0-4FEB-8C60-2D05A75475DA}']" s:ds="{C97E0D4F-1790-449D-BC26-E724FFF3AAD8}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_d6488aee-eb82-4910-9710-bbe1d24db3f6/col-wide-2_db464d43-1fe5-480e-b339-f343eb7b7109" /><r uid="{977F45EF-B42B-4DF7-83D8-5BCD8B69118B}" p:after="r[@uid='{2F9D72B3-3225-41DD-9116-39706D0057EF}']" s:ds="{87DE29D9-617E-4D37-9EB4-D71FCA509B31}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section_d6488aee-eb82-4910-9710-bbe1d24db3f6/col-wide-1_db464d43-1fe5-480e-b339-f343eb7b7109" /><r uid="{0F0A877A-EE11-420E-A698-AE3D051214C7}" p:after="r[@uid='{977F45EF-B42B-4DF7-83D8-5BCD8B69118B}']" s:id="{914673DC-FC44-4660-B6EB-FF421FAAC2F9}" s:ph="/layoutZone/section_4ae51084-4d3d-4bb3-b330-ee306adab0bf/col-huge_08a6c382-733e-4c62-bfac-f1560c733179" /><r uid="{08A6C382-733E-4C62-BFAC-F1560C733179}" p:after="r[@uid='{0F0A877A-EE11-420E-A698-AE3D051214C7}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_4ae51084-4d3d-4bb3-b330-ee306adab0bf" /><r uid="{632EA5E8-1D01-4B70-B4FF-8F56E8EACD50}" p:after="r[@uid='{08A6C382-733E-4C62-BFAC-F1560C733179}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_4ae51084-4d3d-4bb3-b330-ee306adab0bf" /><r uid="{09C6DE74-B5E4-4BFD-8D2D-C76F31BC4B83}" p:after="r[@uid='{632EA5E8-1D01-4B70-B4FF-8F56E8EACD50}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section_4ae51084-4d3d-4bb3-b330-ee306adab0bf" /><r uid="{6478F458-F7FC-4411-B689-4F07AC93236A}" p:after="r[@uid='{09C6DE74-B5E4-4BFD-8D2D-C76F31BC4B83}']" s:ds="{66567573-8F71-4D6E-AD4A-36D904B693E9}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:ph="/layoutZone/section/col-huge_5b4fc83a-98cb-43c7-9cd4-1c76973135fe" /><r uid="{4AE51084-4D3D-4BB3-B330-EE306ADAB0BF}" p:after="r[@uid='{6478F458-F7FC-4411-B689-4F07AC93236A}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{D6488AEE-EB82-4910-9710-BBE1D24DB3F6}" p:after="r[@uid='{4AE51084-4D3D-4BB3-B330-EE306ADAB0BF}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{31616DC8-EE85-4201-96C8-8207C63E061F}" p:after="r[@uid='{D6488AEE-EB82-4910-9710-BBE1D24DB3F6}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{5B4FC83A-98CB-43C7-9CD4-1C76973135FE}" p:after="r[@uid='{31616DC8-EE85-4201-96C8-8207C63E061F}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/layoutZone/section" /><r uid="{EC39208F-3311-4115-A684-E55937B0E839}" p:after="r[@uid='{5B4FC83A-98CB-43C7-9CD4-1C76973135FE}']" s:id="{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}" s:ph="layoutZone" /><r uid="{A9F64933-1269-4B05-8868-EC52213E01E1}"><p:d /></r><r uid="{9D7A1F75-73CB-49A0-9C6B-24442980DF0C}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170222T235228Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6e70a8dd-be61-4a9d-a600-7d010b5f8586
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170320T235610Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

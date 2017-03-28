@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6E328113-044E-457B-A44D-BC9729B36F54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:08.8849474Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Since",
+    "itemPath": "/sitecore/templates/Feature/Testimonial/_HasClient/Client Information/Client Since",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

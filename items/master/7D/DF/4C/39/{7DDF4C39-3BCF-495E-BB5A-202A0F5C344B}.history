@@ -32,9 +32,28 @@
     "itemName": "Discovery Cube Orange County",
     "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/Discovery Cube Orange County",
     "template": "Testimonial",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "249cc1c67c9a500113a4bb221b6654d31d4ba3f4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{7DDF4C39-3BCF-495E-BB5A-202A0F5C344B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:05.7239728Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Discovery Cube Orange County",
+    "itemPath": "/sitecore/content/FMBCom/Global/Testimonials/Discovery Cube Orange County",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
