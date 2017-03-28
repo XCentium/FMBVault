@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {B308118B-6C6F-438F-908A-66D657634A7D}
+database: web
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ
+parent: {84003399-C780-4339-BD3D-2469B58C7147}
+name: FAQ
+master: {00000000-0000-0000-0000-000000000000}
+template: {41DA2D61-D85A-40F1-BE69-DDD18DD1BC93}
+templatekey: FAQ Folder
+created: 20170120T172947:636205301870830000
+
+----version----
+language: en
+version: 2
+revision: fb234400-4fe0-4fa2-aa33-45cec14af746
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160301T102648Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fb234400-4fe0-4fa2-aa33-45cec14af746
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172947Z

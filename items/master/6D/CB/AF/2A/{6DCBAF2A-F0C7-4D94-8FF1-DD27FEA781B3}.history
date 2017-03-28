@@ -32,9 +32,28 @@
     "itemName": "How long should it take to receive a Card Alert by text message SMS",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/How long should it take to receive a Card Alert by text message SMS",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e9aefd905303df714595d01f59ed8806388c1fc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{6DCBAF2A-F0C7-4D94-8FF1-DD27FEA781B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.3169755Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How long should it take to receive a Card Alert by text message SMS",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/How long should it take to receive a Card Alert by text message SMS",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

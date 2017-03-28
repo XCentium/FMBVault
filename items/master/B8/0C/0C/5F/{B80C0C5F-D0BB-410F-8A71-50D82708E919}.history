@@ -32,9 +32,28 @@
     "itemName": "How do I make a chip card transaction at a chip terminal",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/How do I make a chip card transaction at a chip terminal",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e9aefd905303df714595d01f59ed8806388c1fc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B80C0C5F-D0BB-410F-8A71-50D82708E919}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.6689733Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How do I make a chip card transaction at a chip terminal",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/How do I make a chip card transaction at a chip terminal",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

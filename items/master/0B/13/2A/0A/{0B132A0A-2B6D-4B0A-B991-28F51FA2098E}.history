@@ -32,9 +32,28 @@
     "itemName": "19 How do I change my selected FM Card Alerts",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/19 How do I change my selected FM Card Alerts",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e9aefd905303df714595d01f59ed8806388c1fc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{0B132A0A-2B6D-4B0A-B991-28F51FA2098E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.2679739Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "19 How do I change my selected FM Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/19 How do I change my selected FM Card Alerts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

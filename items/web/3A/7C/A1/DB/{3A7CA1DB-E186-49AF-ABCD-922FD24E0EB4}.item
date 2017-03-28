@@ -1,0 +1,130 @@
+----item----
+version: 1
+id: {3A7CA1DB-E186-49AF-ABCD-922FD24E0EB4}
+database: web
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/ATM DEBIT CARDS
+parent: {65251C06-403E-43B0-AF58-59F59E7E48DB}
+name: ATM DEBIT CARDS
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170222T020514:636233259147200000
+
+----version----
+language: en
+version: 1
+revision: 6b256393-0ea5-4fc3-a40e-a9e73780d2ff
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 15
+
+ATM/DEBIT CARDS
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 2022
+
+<table border="0" cellpadding="5">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 275px;">Call Us -&nbsp;Debit Card 24/7 Activation</td>
+            <td valign="top" style="width: 275px;">(800) 781-3982<br>
+            Automated Line 24/7 and after hours voicemail &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 275px;">Call Us - General</td>
+            <td valign="top" style="width: 275px;">(562) 344-2346<br>
+            Hours:<br>
+            Monday-Friday, 7am-9pm<br>
+            Saturday, 8am-9pm&nbsp;<br>
+            Sunday, 8am-5pm, PT<span style="line-height: 1.5; display: inline;">&nbsp;</span>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 275px;">Call Us - Lost or Stolen Card</td>
+            <td valign="top" style="width: 275px;"> (800) 556-5678<br>
+            Automated Line 24/7 and after hours voicemail &nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 275px;">Call Us - ATM/Debit Fraud Line</td>
+            <td valign="top" style="width: 275px;">(562) 344-2350<br>
+            Hours:<br>
+            Monday - Friday: 8am&ndash;9pm, <br>
+            Saturday - Sunday: 8am&ndash;5pm PT<br>
+            <br>
+            (after hours voicemail)</td>
+        </tr>
+        <tr>
+            <td valign="top">Fax Us</td>
+            <td valign="top">(562) 344-2347 (24/7)</td>
+        </tr>
+        <tr>
+            <td valign="top">E-mail Us</td>
+            <td valign="top"><sup>2</sup></td>
+        </tr>
+        <tr>
+            <td valign="top">Write Us</td>
+            <td valign="top">F&amp;M ATM Department<br>
+            P.O. Box 2400<br>
+            Seal&nbsp;Beach, CA&nbsp;&nbsp;90740-1400</td>
+        </tr>
+        <tr>
+            <td valign="top">ATM Forms/Affidavit of Forgery</td>
+            <td valign="top"><a href="-/media/6BF9A762A6C548DDA01D87B1CD80C580.ashx">Click Here to Download Form</a></td>
+        </tr>
+    </tbody>
+</table>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+ATM/DEBIT CARDS
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170222T020514Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6b256393-0ea5-4fc3-a40e-a9e73780d2ff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T204704Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

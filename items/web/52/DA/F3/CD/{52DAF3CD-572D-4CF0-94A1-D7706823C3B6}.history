@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{52DAF3CD-572D-4CF0-94A1-D7706823C3B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.1619728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "18 How do I stop receiving FM Card Alerts emails",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/18 How do I stop receiving FM Card Alerts emails",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

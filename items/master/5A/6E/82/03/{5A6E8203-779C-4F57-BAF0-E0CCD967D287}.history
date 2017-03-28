@@ -32,9 +32,28 @@
     "itemName": "How will my One-Time PIN be sent to me",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time PIN - OLB/How will my One-Time PIN be sent to me",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e9aefd905303df714595d01f59ed8806388c1fc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5A6E8203-779C-4F57-BAF0-E0CCD967D287}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:13.2889733Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How will my One-Time PIN be sent to me",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time PIN - OLB/How will my One-Time PIN be sent to me",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

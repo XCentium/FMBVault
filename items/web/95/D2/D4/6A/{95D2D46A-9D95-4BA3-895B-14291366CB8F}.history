@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{95D2D46A-9D95-4BA3-895B-14291366CB8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.8659731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the difference between the APY and the interest rate",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/CD Rates/What is the difference between the APY and the interest rate",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

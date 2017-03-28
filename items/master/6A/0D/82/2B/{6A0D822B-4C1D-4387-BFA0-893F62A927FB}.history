@@ -32,9 +32,28 @@
     "itemName": "Why was my old card replaced",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/Why was my old card replaced",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e9aefd905303df714595d01f59ed8806388c1fc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{6A0D822B-4C1D-4387-BFA0-893F62A927FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.7889766Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Why was my old card replaced",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Chip Card Technology/Why was my old card replaced",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

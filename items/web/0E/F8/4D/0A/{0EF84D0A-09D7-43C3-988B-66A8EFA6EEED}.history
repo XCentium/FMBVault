@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{0EF84D0A-09D7-43C3-988B-66A8EFA6EEED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.4679716Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "7 What makes a transaction appear suspicious",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/7 What makes a transaction appear suspicious",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

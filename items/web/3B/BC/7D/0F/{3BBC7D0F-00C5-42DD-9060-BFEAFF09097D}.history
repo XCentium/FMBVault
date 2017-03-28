@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3BBC7D0F-00C5-42DD-9060-BFEAFF09097D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.4919730Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "8 What if I dont reply to the Fraud Alert notification",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/8 What if I dont reply to the Fraud Alert notification",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

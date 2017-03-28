@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3CFE1BC6-DF29-4939-BDCF-46A5F67E5CD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.2849736Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "20 Which Debit Card Alert options can I select when I enroll",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/20 Which Debit Card Alert options can I select when I enroll",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

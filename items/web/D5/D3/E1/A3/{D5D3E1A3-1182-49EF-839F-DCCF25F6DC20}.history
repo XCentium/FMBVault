@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D5D3E1A3-1182-49EF-839F-DCCF25F6DC20}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.2129732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "22 Why didnt I receive an email confirmation after I enrolled in FM Debit Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/22 Why didnt I receive an email confirmation after I enrolled in FM Debit Card Alerts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

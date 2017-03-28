@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {E9861DC2-3AD4-4141-B1D1-A9B8B972629F}
+database: web
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Alerts/9 What if I dont recognize the transactions in the Card Alert text or email notification
+parent: {AF8356AD-AF8B-42BC-96FD-B6D2BC8C06C1}
+name: 9 What if I dont recognize the transactions in the Card Alert text or email notification
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170227T192714:636238204340970000
+
+----version----
+language: en
+version: 1
+revision: ca8b009e-2daa-41ac-98d7-67d1bebee398
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 89
+
+What if I don't recognize the transactions in the Card Alert text or email notification? 
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 105
+
+If you received a notification alert for a transaction you do not recognize, contact F&amp;M immediately.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 92
+
+9. What if I don't recognize the transactions in the Card Alert text or email notification? 
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170227T192714Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ca8b009e-2daa-41ac-98d7-67d1bebee398
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170227T195159Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

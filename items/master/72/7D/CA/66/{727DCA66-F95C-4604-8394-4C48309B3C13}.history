@@ -32,9 +32,28 @@
     "itemName": "What CD Terms do you offer",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/CD Rates/What CD Terms do you offer",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e9aefd905303df714595d01f59ed8806388c1fc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{727DCA66-F95C-4604-8394-4C48309B3C13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:14.8959731Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What CD Terms do you offer",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/CD Rates/What CD Terms do you offer",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

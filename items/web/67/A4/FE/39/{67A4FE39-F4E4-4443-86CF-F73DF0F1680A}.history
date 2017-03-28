@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{67A4FE39-F4E4-4443-86CF-F73DF0F1680A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:12.6399725Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CORPORATE OFFICES",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/CORPORATE OFFICES",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{54A3BC7A-9206-44CB-B1AE-019AEE029583}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:12.7679736Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CASH MANAGEMENT SUPPORT",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/CASH MANAGEMENT SUPPORT",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

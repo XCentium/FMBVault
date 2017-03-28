@@ -1,0 +1,24 @@
+----item----
+version: 1
+id: {DA8230C8-8B0E-4CA6-8AEF-BF2304C65291}
+database: master
+path: /sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom global faq faq what-is-habitat
+parent: {46208C65-F7D5-4642-9340-175057D80E03}
+name: sitecore content fmbcom global faq faq what-is-habitat
+master: {00000000-0000-0000-0000-000000000000}
+template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
+templatekey: Redirect Url
+created: 20170328T162515:636263151151270000
+
+----version----
+language: en
+version: 1
+revision: 
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170328T162515Z

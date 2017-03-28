@@ -32,9 +32,28 @@
     "itemName": "CALL CENTER - ONLINE BANKING",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/CALL CENTER - ONLINE BANKING",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e9aefd905303df714595d01f59ed8806388c1fc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B602B481-B4E0-448B-8A20-446A248793BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:12.8619729Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CALL CENTER - ONLINE BANKING",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Contact/CALL CENTER - ONLINE BANKING",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
