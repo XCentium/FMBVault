@@ -32,9 +32,28 @@
     "itemName": "General Questions",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions",
     "template": "FAQ Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "89a8dabb2f421bdf5ab3fe95241c15d6ae54c692",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{354B5B8E-667E-4927-B7E9-DEC8C1BDA30F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.0069736Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General Questions",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

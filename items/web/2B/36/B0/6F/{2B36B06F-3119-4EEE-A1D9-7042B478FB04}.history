@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2B36B06F-3119-4EEE-A1D9-7042B478FB04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:17.4919731Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Part VII Dependability",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part VII Dependability",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

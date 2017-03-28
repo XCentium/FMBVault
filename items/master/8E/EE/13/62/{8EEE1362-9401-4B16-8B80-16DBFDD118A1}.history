@@ -32,9 +32,28 @@
     "itemName": "Part VI Compassion",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part VI Compassion",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "89a8dabb2f421bdf5ab3fe95241c15d6ae54c692",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{8EEE1362-9401-4B16-8B80-16DBFDD118A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:17.4699727Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Part VI Compassion",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part VI Compassion",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

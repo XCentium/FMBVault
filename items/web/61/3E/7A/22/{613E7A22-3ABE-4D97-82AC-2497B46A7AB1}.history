@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{613E7A22-3ABE-4D97-82AC-2497B46A7AB1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:15.6139728Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "I enrolled my mobile phone number but did not receive a text message What should I do",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Text Banking/I enrolled my mobile phone number but did not receive a text message What should I do",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

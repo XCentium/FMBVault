@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BF727C40-3F5F-4789-A5BD-5F561DA01628}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:16.8039732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Im enrolled in Online Banking Can I use my Online Banking Log in credentials for FM Mobile Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/General FAQs/Im enrolled in Online Banking Can I use my Online Banking Log in credentials for FM Mobile Banking",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

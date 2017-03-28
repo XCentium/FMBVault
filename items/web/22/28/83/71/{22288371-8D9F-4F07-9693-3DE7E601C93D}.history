@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{22288371-8D9F-4F07-9693-3DE7E601C93D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:15.4539725Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banking Service Questions",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Banking Service Questions",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Moved",
+    "database": "web",
+    "itemId": "{F2F572CD-B60D-4D44-BB9C-07FBB68DE621}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:15.3359715Z",
+    "label": "Moved from FAQ to Personal Checking Accounts",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is Habitat",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Personal Checking Accounts/What is Habitat",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

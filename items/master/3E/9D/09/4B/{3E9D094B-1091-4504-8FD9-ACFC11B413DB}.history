@@ -32,9 +32,28 @@
     "itemName": "Can I access Bill Pay through Mobile Banking",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/General FAQs/Can I access Bill Pay through Mobile Banking",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "89a8dabb2f421bdf5ab3fe95241c15d6ae54c692",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{3E9D094B-1091-4504-8FD9-ACFC11B413DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:16.5699723Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Can I access Bill Pay through Mobile Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/General FAQs/Can I access Bill Pay through Mobile Banking",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

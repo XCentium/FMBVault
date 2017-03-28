@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{8713AB7C-C9B6-4FEC-BD73-837771ACFDD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.1779723Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What does the FDIC insure",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What does the FDIC insure",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

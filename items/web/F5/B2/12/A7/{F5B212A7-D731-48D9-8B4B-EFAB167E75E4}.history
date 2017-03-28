@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F5B212A7-D731-48D9-8B4B-EFAB167E75E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:17.9769734Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the difference between the current balance and the available balance for my deposit accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - General/What is the difference between the current balance and the available balance for my deposit accounts",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

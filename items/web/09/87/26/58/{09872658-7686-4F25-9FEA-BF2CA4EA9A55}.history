@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{09872658-7686-4F25-9FEA-BF2CA4EA9A55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:15.9719732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Can I use both Text Banking and Mobile Banking on my phone",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Text Banking/Can I use both Text Banking and Mobile Banking on my phone",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -32,9 +32,28 @@
     "itemName": "Can I cancel a bill payment with the Mobile App",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Bill Pay for Mobile/Can I cancel a bill payment with the Mobile App",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "89a8dabb2f421bdf5ab3fe95241c15d6ae54c692",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{6F2A505D-3AC3-4590-A93C-1E711AD32464}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:17.1429721Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Can I cancel a bill payment with the Mobile App",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Bill Pay for Mobile/Can I cancel a bill payment with the Mobile App",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

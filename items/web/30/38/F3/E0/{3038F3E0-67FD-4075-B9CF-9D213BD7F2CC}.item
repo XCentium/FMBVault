@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {3038F3E0-67FD-4075-B9CF-9D213BD7F2CC}
+database: web
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Mobile Check Deposit/What types of checks are not eligible for Mobile Check Deposit
+parent: {0C036E33-D1D6-44BF-BE36-41650C80FC27}
+name: What types of checks are not eligible for Mobile Check Deposit
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170217T221742:636229666624970000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1100
+----version----
+language: en
+version: 1
+revision: 8f82aa83-a41a-4d81-b114-415fe5b4a1a9
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 67
+
+11. What types of checks are not eligible for Mobile Check Deposit?
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 577
+
+<ol>
+    <li>Checks must be made payable to only you. (Joint checks or checks made payable to "Cash" are not allowed.)</li>
+    <li>Checks must not be drawn on a foreign bank or payable in a foreign currency.</li>
+    <li>Checks must not be altered on the front in any way.</li>
+    <li>Checks must have an authorized signature. Demand drafts or remotely created checks are not allowed.</li>
+    <li>Checks must not be dated more than six months prior to the date of deposit.</li>
+    <li>Checks must not have previously been returned stop payment or account closed.</li>
+</ol>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 66
+
+11. What types of checks are not eligible for Mobile Check Deposit
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T221743Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8f82aa83-a41a-4d81-b114-415fe5b4a1a9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T221906Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

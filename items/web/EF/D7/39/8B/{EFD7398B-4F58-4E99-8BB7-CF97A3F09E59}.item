@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {EFD7398B-4F58-4E99-8BB7-CF97A3F09E59}
+database: web
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Founding-Values/Part II Dedication
+parent: {F0708F4F-F014-4075-8365-0B9584A13CA5}
+name: Part II Dedication
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170309T011140:636246187002630000
+
+----version----
+language: en
+version: 1
+revision: fcb686b1-bd08-4378-a7fe-93ff0b3cf40f
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 20
+
+Part II: Dedication.
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 1675
+
+<p>Friends,
+</p>
+<p>
+<img height="336" alt="John W.H. Hinrichs" width="240" src="-/media/34192BA58E164C0898BAFF80C3ABA210.ashx" style="float: right;">Dedication means hard work. Period. People and organizations succeed because they work hard, and those that are dedicated work harder than others. You work hard to be good at what you&rsquo;re doing. That takes dedication, and that's not easy.
+</p>
+<p>As CFO of F&amp;M Bank, I'm most dedicated to growing the bottom line, deposits, profitability, and capital. But I feel that as an organization, F&amp;M is also deeply dedicated to providing a very high level of customer service, because that's what you demand and expect from us, especially for clients who have been banking with our institution for three and four generations. They've shown us great dedication and we will always reciprocate that.
+</p>
+<p>
+No matter what position you're in, dedication comes into play. And, our employees have shown us deep dedication. If you look at our company roster, you'll notice that out of our 656 employees, 201 have been serving us for over 10 years, 102 serving for over 20 years, and 13 for over 35 years. Now <span style="text-decoration: underline;">that's</span> true dedication.
+</p>
+<p>Overall, dedication is just a part of life here at F&amp;M Bank. We keep our commitments, work hard and do our duty. And will continue to do so, because we are dedicated. To you, our clients, our employees and shareholders.</p>
+<p>Sincerely,</p>
+<p><img height="85" alt="John W.H. Hinrichs Signature" width="300" src="-/media/91DABC8B03604181ABBB42918BE588D6.ashx"></p>
+<p>John W.H. Hinrichs<br>
+Chief Financial Officer and Cashier</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T011140Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fcb686b1-bd08-4378-a7fe-93ff0b3cf40f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T011312Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

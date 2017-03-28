@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C6CA7864-79BE-43C8-878D-A104681DB2A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:18.3249727Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sitecore content fmbcom global faq faq what-is-faq",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom global faq faq what-is-faq",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

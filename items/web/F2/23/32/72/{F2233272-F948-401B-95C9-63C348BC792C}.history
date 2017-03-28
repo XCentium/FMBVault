@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F2233272-F948-401B-95C9-63C348BC792C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:17.7309722Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Can I set up recurring or future e-dated transfers",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - Transfers/Can I set up recurring or future e-dated transfers",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
