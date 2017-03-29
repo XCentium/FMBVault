@@ -13,7 +13,7 @@ created: 20170125T211316:636209755967300000
 ----version----
 language: en
 version: 1
-revision: 2d29d5e8-49c9-434e-967f-61f3e8532cbb
+revision: 41311273-8010-4a1f-afe1-b7d375b1f737
 
 ----field----
 field: {184FA31C-0276-4B0B-9BAF-A4C3FEF4025A}
@@ -26,7 +26,7 @@ FMB Account Types
 field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
 name: Body
 key: body
-content-length: 13784
+content-length: 13724
 
 <div class="tablesaw-bar tablesaw-mode-swipe"><div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div></div><table id="comparison-table" class="tablesaw tablesaw-swipe" data-tablesaw-mode="swipe">
     <thead>
@@ -34,10 +34,10 @@ content-length: 13784
             <th data-tablesaw-priority="persist" class=" tablesaw-cell-persist">&nbsp;</th>
             <th class=""><a href="~/link.aspx?_id=91DAD8F0D93145C69091F175976738AF&amp;_z=z">Classic
             </a>            <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
-            <th class=" tablesaw-cell-hidden"><a href="~/link.aspx?_id=AE04209B26974EE3A6925F2353D75544&amp;_z=z">Gold</a>
+            <th><a href="~/link.aspx?_id=AE04209B26974EE3A6925F2353D75544&amp;_z=z">Gold</a>
             <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a>
             </th>
-            <th class=" tablesaw-cell-hidden"><a href="~/link.aspx?_id=32577CBCC946491A897D72471BD305A4&amp;_z=z">Platinum</a>
+            <th><a href="~/link.aspx?_id=32577CBCC946491A897D72471BD305A4&amp;_z=z">Platinum</a>
             <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started Today</a><a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
         </tr>
     </thead>
@@ -234,21 +234,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2d29d5e8-49c9-434e-967f-61f3e8532cbb
+41311273-8010-4a1f-afe1-b7d375b1f737
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T151053Z
+20170329T223758Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\mliwanag
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
