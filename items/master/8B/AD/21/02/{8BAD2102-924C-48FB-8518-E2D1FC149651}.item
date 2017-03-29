@@ -151,7 +151,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: 175a05b4-e756-4272-9b38-1fa53bcadacd
+revision: b6037ce0-520c-400b-8b2c-e1479690a33e
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -264,7 +264,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-175a05b4-e756-4272-9b38-1fa53bcadacd
+b6037ce0-520c-400b-8b2c-e1479690a33e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -290,6 +290,6 @@ content-length: 38
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
 key: __lock
-content-length: 5
+content-length: 53
 
-<r />
+<r owner="fmb\Test_Author" date="20170329T182523Z" />
