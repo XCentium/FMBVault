@@ -10,10 +10,17 @@ template: {832D5183-326A-4373-AD35-3334994FC3CA}
 templatekey: Article
 created: 20170223T162436:636234638769930000
 
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+400
 ----version----
 language: en
 version: 1
-revision: 3a32c157-16e2-48d8-9b2c-2acd2131f3bc
+revision: 739c5adb-ead1-47e7-be6f-2745d728af3b
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -76,21 +83,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3a32c157-16e2-48d8-9b2c-2acd2131f3bc
+739c5adb-ead1-47e7-be6f-2745d728af3b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170321T181105Z
+20170329T161825Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\mliwanag
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
