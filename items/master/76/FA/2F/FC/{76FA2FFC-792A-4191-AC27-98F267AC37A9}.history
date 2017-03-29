@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{76FA2FFC-792A-4191-AC27-98F267AC37A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-29T16:18:25.5434571Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "fmbcom home personal zchris-test-page chris-test-page2-2",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/fmbcom home personal zchris-test-page chris-test-page2-2",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
