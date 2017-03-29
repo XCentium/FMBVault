@@ -26,8 +26,8 @@ content-length: 38
 {AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
 ----version----
 language: en
-version: 3
-revision: ca0c6075-d90b-4315-98d2-936606c8dfce
+version: 4
+revision: 13cccb62-a09a-4d2c-b494-58b0562ca8f7
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -40,9 +40,9 @@ News and Community
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 910
+content-length: 4
 
-<span style="font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquet orci ut lacus ullamcorper tempus. Aenean arcu orci, scelerisque a felis et, aliquet mattis elit. Proin ligula massa, ultrices quis mattis ac, eleifend tincidunt lacus. Nulla tincidunt, sapien convallis tempor varius, metus justo hendrerit arcu, sed finibus nisl eros vitae ipsum. Duis pretium turpis vel augue gravida, ac posuere odio convallis. Proin faucibus ac lorem id lacinia. In dictum varius dui, vitae ullamcorper felis egestas vitae. Sed aliquam consequat tellus sit amet ultrices. Phasellus dictum, odio a volutpat interdum, felis ligula interdum nunc, in lobortis odio purus eu massa. Nam vulputate dolor id tristique bibendum. Quisque purus libero, egestas eget magna in, tristique ornare felis.</span>[No text in field]
+test
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -84,7 +84,7 @@ name: __Valid from
 key: __valid from
 content-length: 16
 
-20170328T210006Z
+20170328T222507Z
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -98,7 +98,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170328T210006Z
+20170328T222507Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -112,14 +112,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ca0c6075-d90b-4315-98d2-936606c8dfce
+13cccb62-a09a-4d2c-b494-58b0562ca8f7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170328T222441Z
+20170329T183303Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
