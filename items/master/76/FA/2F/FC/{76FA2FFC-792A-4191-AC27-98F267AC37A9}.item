@@ -10,10 +10,24 @@ template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
 created: 20170329T161825:636264011054970000
 
+----field----
+field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
+name: Requested Url
+key: requested url
+content-length: 57
+
+/fmbcom/home/personal/zchris-test-page/chris-test-page2-2
+----field----
+field: {544E5C57-1626-4972-8535-196F000E4B1F}
+name: Redirect To Item
+key: redirect to item
+content-length: 38
+
+{6CBA75B3-1641-4F62-95DC-8CF40BCD12BB}
 ----version----
 language: en
 version: 1
-revision: 7d47bf47-39cd-4371-8026-4e6c34e2f6b3
+revision: 412790f1-bd91-4f37-bd80-7544c94e1b06
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +56,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7d47bf47-39cd-4371-8026-4e6c34e2f6b3
+412790f1-bd91-4f37-bd80-7544c94e1b06
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
