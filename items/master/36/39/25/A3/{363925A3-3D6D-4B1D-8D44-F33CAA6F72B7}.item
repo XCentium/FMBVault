@@ -13,8 +13,15 @@ created: 20170329T215417:636264212579800000
 ----version----
 language: en
 version: 1
-revision: c3f06068-3dae-49ae-93c7-7b8d93671810
+revision: af6cbda8-b960-4a8b-917f-512fe91f2b34
 
+----field----
+field: {FBEF8988-3BC8-409E-A0A2-D63EBE412A6D}
+name: Recipients
+key: recipients
+content-length: 45
+
+james.bridges@fmb.com;merilee.langdon@fmb.com
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c3f06068-3dae-49ae-93c7-7b8d93671810
+af6cbda8-b960-4a8b-917f-512fe91f2b34
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170329T215418Z
+20170329T215506Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
