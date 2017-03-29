@@ -13,16 +13,16 @@ created: 20170213T184622:636226083826600000
 ----version----
 language: en
 version: 1
-revision: 5cc80cd0-3750-4989-9e15-ec1d59948abd
+revision: cc8fb53d-f8e4-4ef3-9e2d-bb0c30fce814
 
 ----field----
 field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
 name: Body
 key: body
-content-length: 9929
+content-length: 9900
 
 <div class="tablesaw-bar tablesaw-mode-swipe">
-<div class="tablesaw-advance" style="position:relative; bottom: 15px;"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
+<div class="tablesaw-advance" data-id="4"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
 </div>
 <table id="comparison-table" class="tablesaw tablesaw-swipe" data-tablesaw-mode="swipe">
     <thead>
@@ -187,14 +187,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5cc80cd0-3750-4989-9e15-ec1d59948abd
+cc8fb53d-f8e4-4ef3-9e2d-bb0c30fce814
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170329T224625Z
+20170329T224756Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
