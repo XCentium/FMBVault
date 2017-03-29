@@ -13,13 +13,13 @@ created: 20170207T202157:636220957178200000
 ----version----
 language: en
 version: 1
-revision: 7811dad3-2d16-420a-b37d-26752ed97d94
+revision: 294f8b6f-70e6-4982-8e5d-4adb634c312a
 
 ----field----
 field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
 name: Body
 key: body
-content-length: 8331
+content-length: 8402
 
 <div class="tablesaw-bar tablesaw-mode-swipe">
 <div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
@@ -155,6 +155,10 @@ content-length: 8331
         </tr>
     </tbody>
 </table>
+<style>
+.tablesaw-advance {position:relative; bottom: 15px;}
+</style>
+
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -182,14 +186,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7811dad3-2d16-420a-b37d-26752ed97d94
+294f8b6f-70e6-4982-8e5d-4adb634c312a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170329T224104Z
+20170329T224947Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
