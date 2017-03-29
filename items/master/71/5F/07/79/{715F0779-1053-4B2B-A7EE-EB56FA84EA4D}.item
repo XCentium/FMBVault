@@ -13,13 +13,13 @@ created: 20170213T184622:636226083826600000
 ----version----
 language: en
 version: 1
-revision: fcc30f6c-2ac4-4886-a88b-12a08230e4be
+revision: 42a7bb0b-e0e1-438c-bd50-4e7b34888dd3
 
 ----field----
 field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
 name: Body
 key: body
-content-length: 9929
+content-length: 9887
 
 <div class="tablesaw-bar tablesaw-mode-swipe">
 <div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
@@ -32,11 +32,11 @@ content-length: 9929
             Non-Analyzed<br>
             <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
             <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
-            <th style="text-align: center;" class=" tablesaw-cell-hidden">Business Checking <br>
+            <th style="text-align: center;" class="">Business Checking <br>
             Analyzed<br>
             <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
             <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
-            <th style="text-align: center;" class=" tablesaw-cell-hidden">Business Interest on Checking<br>
+            <th style="text-align: center;" class="">Business Interest on Checking<br>
             <a href="~/link.aspx?_id=45696EA0FD7B4E829D6E626EA9F363B3&amp;_z=z" class="btn btn-primary btn-green">Get Started</a><br>
             <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z" class="btn btn-primary btn-green">Apply at an F&amp;M Office</a></th>
         </tr>
@@ -186,14 +186,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fcc30f6c-2ac4-4886-a88b-12a08230e4be
+42a7bb0b-e0e1-438c-bd50-4e7b34888dd3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170329T200128Z
+20170329T205158Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
