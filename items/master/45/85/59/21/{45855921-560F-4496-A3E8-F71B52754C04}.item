@@ -102,7 +102,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: ec558111-a3be-4770-810a-5dd1b1cab5d8
+revision: ce60c7de-37f6-457f-9e96-e4dc5bc2c618
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -122,9 +122,16 @@ Testimonials
 field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
 name: BrowserTitle
 key: browsertitle
-content-length: 12
+content-length: 54
 
-Testimonials
+Client Testimonials, Hear Their Success Stories | F&M 
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 141
+
+Explore the client testimonials of clients of Farmers &amp;  Merchants Bank. Hear how a great relationship helped them enjoy greater success.
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -173,21 +180,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ec558111-a3be-4770-810a-5dd1b1cab5d8
+ce60c7de-37f6-457f-9e96-e4dc5bc2c618
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170329T184402Z
+20170330T171409Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mlangdon
+fmb\jbridges
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
