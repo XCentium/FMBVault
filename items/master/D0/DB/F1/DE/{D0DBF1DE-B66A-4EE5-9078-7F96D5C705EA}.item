@@ -1,27 +1,20 @@
 ----item----
 version: 1
-id: {0FAC20D6-B908-442D-BA93-39F789BD587F}
+id: {D0DBF1DE-B66A-4EE5-9078-7F96D5C705EA}
 database: master
-path: /sitecore/content/FMBCom/Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page/Mobile Deposits
+path: /sitecore/content/FMBCom/Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page/Text Banking
 parent: {421B9B8D-23C9-4121-97D3-30B0EDB66EB6}
-name: Mobile Deposits
+name: Text Banking
 master: {00000000-0000-0000-0000-000000000000}
 template: {E6794246-1889-473B-AA89-899EC2604D7F}
 templatekey: Navigation Menu Item
-created: 20170330T221047:636265086471130000
+created: 20170330T221119:636265086794070000
 
 ----version----
 language: en
 version: 1
-revision: 512d3faf-7a46-4daf-a4ff-7181d263c448
+revision: ecfd1ba0-89d2-4cbc-b263-7774f81f5722
 
-----field----
-field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
-name: Link
-key: link
-content-length: 112
-
-<link text="Mobile Deposits" linktype="anchor" url="MobileDeposits" anchor="MobileDeposits" title="" class="" />
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -35,7 +28,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170330T221047Z
+20170330T221119Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -49,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-512d3faf-7a46-4daf-a4ff-7181d263c448
+ecfd1ba0-89d2-4cbc-b263-7774f81f5722
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170330T221106Z
+20170330T221119Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
