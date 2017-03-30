@@ -20,7 +20,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: bd4ddc13-7117-4193-bdba-eeee71937762
+revision: 78a1c2be-4e7f-4639-baf2-d68e4b4a9ded
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -40,9 +40,16 @@ Locations
 field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
 name: BrowserTitle
 key: browsertitle
-content-length: 9
+content-length: 44
 
-Locations
+Branch Locations of Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 114
+
+Looking for a Farmers & Merchants Bank near you. We have 24 locations throughout Southern California to serve you.
 ----field----
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
@@ -63,21 +70,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bd4ddc13-7117-4193-bdba-eeee71937762
+78a1c2be-4e7f-4639-baf2-d68e4b4a9ded
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170321T181348Z
+20170330T171552Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\jbridges
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
