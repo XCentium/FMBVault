@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F065F525-C7EA-44CE-993A-4B3D1118258E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-30T21:28:27.3313086Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "FMB Home Loans - Escrow Services",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Modal Whitelist/FMB Home Loans - Escrow Services",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
