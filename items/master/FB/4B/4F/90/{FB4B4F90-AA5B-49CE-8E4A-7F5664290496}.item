@@ -57,7 +57,7 @@ jQuery(function($){ $.localScroll({filter:'.smoothScroll'}); });
 field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
 name: CssCode
 key: csscode
-content-length: 4305
+content-length: 4008
 
 <style>
 .section.section-full {padding:60px 0;}
@@ -87,45 +87,45 @@ content-length: 4305
 .col-xs-6.hidden-xs.col-xs-6{text-align:right;margin-top:30px;font-size:15px;color:#777}
 .Contact-header-top{display:none !important;}
 
-.main-nav {
+ {
   background-color: #005334; }
-  .main-nav #navbar {
+   #navbar {
     position: relative; }
-    .main-nav #navbar .dl-trigger {
+     #navbar .dl-trigger {
       visibility: hidden; }
-    .main-nav #navbar ul {
+     #navbar ul {
       list-style: none;
       padding: 0; }
-      .main-nav #navbar ul li a:hover {
+       #navbar ul li a:hover {
         text-decoration: none;
         background-color: #F9D86C;
         color: #005334; }
   @media (max-width: 500px) {
-    .main-nav #navbar {
+     #navbar {
       max-width: 100%; } }
   @media (max-width: 767px) {
-    .main-nav {
+     {
       background-color: transparent; }
-      .main-nav ul.dl-menu.dl-menuopen > li > a {
+       ul.dl-menu.dl-menuopen > li > a {
         background: #005334; }
-      .main-nav #navbar {
+       #navbar {
         margin-top: -50px; }
-        .main-nav #navbar ul li a {
+         #navbar ul li a {
           text-align: center;
           /*background: $fmb-dark-green;*/ }
-        .main-nav #navbar ul li a, .main-nav #navbar ul li .title {
+         #navbar ul li a,  #navbar ul li .title {
           border-bottom: 1px solid #000; }
-        .main-nav #navbar ul li ul li a {
+         #navbar ul li ul li a {
           color: #000;
           background: #fff; }
-        .main-nav #navbar ul li ul li:first-child a {
+         #navbar ul li ul li:first-child a {
           color: #fff;
           background: #005334; }
-        .main-nav #navbar ul li ul li:nth-child(2) a {
+         #navbar ul li ul li:nth-child(2) a {
           background: #128040;
           color: #fff; } }
   @media (min-width: 768px) {
-    .main-nav #navbar {
+     #navbar {
       display: table !important;
       padding: 0;
       padding-right: 40px;
@@ -134,59 +134,59 @@ content-length: 4305
       width: 100%;
       table-layout: fixed;
       margin: 0; }
-      .main-nav #navbar .dl-trigger, .main-nav #navbar .dl-back {
+       #navbar .dl-trigger,  #navbar .dl-back {
         display: none; }
-      .main-nav #navbar .title-link, .main-nav #navbar .back-btn {
+       #navbar .title-link,  #navbar .back-btn {
         display: none; }
-      .main-nav #navbar > ul {
+       #navbar > ul {
         display: table-row;
         margin: 0;
         padding: 0; }
-        .main-nav #navbar > ul > li {
+         #navbar > ul > li {
           text-align: center;
           border-right: 1px solid #000;
           display: table-cell; }
-          .main-nav #navbar > ul > li > a {
+           #navbar > ul > li > a {
             display: block;
             text-decoration: none;
             color: #fff;
             padding: 10px 0;
             font-size: 15px; }
-          .main-nav #navbar > ul > li:last-child > ul {
+           #navbar > ul > li:last-child > ul {
             right: 40px; }
-          .main-nav #navbar > ul > li > ul {
+           #navbar > ul > li > ul {
             z-index: 100;
             position: absolute;
             background-color: #F9D86C;
             display: none;
             padding: 20px 30px;
             width: auto; }
-            .main-nav #navbar > ul > li > ul > li {
+             #navbar > ul > li > ul > li {
               float: left;
               width: 180px;
               font-size: 14px;
               text-align: left;
               margin-right: 20px; }
-              .main-nav #navbar > ul > li > ul > li .title {
+               #navbar > ul > li > ul > li .title {
                 border-bottom: 1px solid #005334;
                 font-weight: bold;
                 padding: 2px 0 4px 0;
                 margin-bottom: 8px;
                 display: block; }
-              .main-nav #navbar > ul > li > ul > li > ul {
+               #navbar > ul > li > ul > li > ul {
                 display: block;
                 margin: 0;
                 padding: 0; }
-              .main-nav #navbar > ul > li > ul > li li:last-child {
+               #navbar > ul > li > ul > li li:last-child {
                 margin-right: 0px; }
-          .main-nav #navbar > ul > li:hover > ul {
+           #navbar > ul > li:hover > ul {
             display: block; }
-          .main-nav #navbar > ul > li:hover li {
+           #navbar > ul > li:hover li {
             color: #005334; }
-            .main-nav #navbar > ul > li:hover li a {
+             #navbar > ul > li:hover li a {
               background-color: #F9D86C;
               color: #005334; }
-      .main-nav #navbar ul ul li li a {
+       #navbar ul ul li li a {
         padding: 3px 0; } }
 
 
@@ -194,7 +194,7 @@ content-length: 4305
 ----version----
 language: en
 version: 1
-revision: 7d7c6048-e791-4f44-a6d2-8aeaebf696e5
+revision: 1517da48-43d8-4045-a38d-ddbe777ddc93
 
 ----field----
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
@@ -237,14 +237,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7d7c6048-e791-4f44-a6d2-8aeaebf696e5
+1517da48-43d8-4045-a38d-ddbe777ddc93
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170330T161557Z
+20170330T162609Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
