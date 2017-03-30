@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7BCCAE7F-603F-4422-85BA-44F5FF8D6245}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-30T20:39:17.7714294Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Modal Whitelist/Online Banking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
