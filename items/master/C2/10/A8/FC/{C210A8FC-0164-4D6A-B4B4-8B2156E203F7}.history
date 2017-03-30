@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C210A8FC-0164-4D6A-B4B4-8B2156E203F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-30T22:12:03.0215340Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "Security",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page/Security",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
