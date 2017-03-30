@@ -13,7 +13,7 @@ created: 20170202T000447:636215906870870000
 ----version----
 language: en
 version: 1
-revision: 29c4cfd2-9d77-4f89-a1eb-894879fdcd4f
+revision: b95f76b3-0cf0-4151-96f0-6a3a0156271a
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,7 +26,7 @@ Other Services
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 2862
+content-length: 2934
 
 <h3>Direct Deposit</h3>
 <p><strong>Direct deposit</strong>&nbsp;is the way to go to receive your recurring paycheck, pension, government benefits or other income directly into your&nbsp;<em>checking account</em>&nbsp;or&nbsp;<em>savings account</em>. &nbsp;Direct deposit is quick, convenient and safe. No more waiting in line and worrying about lost checks!&nbsp;</p>
@@ -39,7 +39,7 @@ content-length: 2862
 <p><a href="-/media/4F25F7AE46204FFEA13A974077966949.ashx">Click here to learn how to enroll for e-Statements from F&amp;M Bank</a>.</p>
 <hr>
 <h3>MasterCard<sup>&reg;</sup>&nbsp;Gift Cards</h3>
-<p>Do you have a graduation, wedding, baby shower, or birthday coming up? Is it company bonus time? &nbsp;Simplify gift giving with a MasterCard&reg; pre-paid debit card from Farmers &amp; Merchants Bank! &nbsp;Visit your&nbsp;local branch&nbsp;today to purchase&nbsp;<strong>MasterCard gift cards</strong>&nbsp;in any monetary amount you choose.</p>
+<p>Do you have a graduation, wedding, baby shower, or birthday coming up? Is it company bonus time? &nbsp;Simplify gift giving with a MasterCard&reg; pre-paid debit card from Farmers &amp; Merchants Bank! &nbsp;Visit your&nbsp;<a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">local branch</a>&nbsp;today to purchase&nbsp;<strong>MasterCard gift cards</strong>&nbsp;in any monetary amount you choose.</p>
 Call or stop by <a href="~/link.aspx?_id=1D40C7B15DE7419BA03378BF56D8312E&amp;_z=z">any of our local Southern California bank branches</a> today to learn more about these banking services from Farmers &amp; Merchants Bank.&nbsp;<br>
 <br>
 <strong><a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx">See All Services and Fees</a></strong>
@@ -98,21 +98,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-29c4cfd2-9d77-4f89-a1eb-894879fdcd4f
+b95f76b3-0cf0-4151-96f0-6a3a0156271a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170301T231925Z
+20170330T211503Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mlangdon
+fmb\jbridges
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
