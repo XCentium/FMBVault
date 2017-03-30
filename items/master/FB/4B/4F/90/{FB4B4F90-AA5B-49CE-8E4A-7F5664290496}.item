@@ -57,7 +57,7 @@ jQuery(function($){ $.localScroll({filter:'.smoothScroll'}); });
 field: {06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}
 name: CssCode
 key: csscode
-content-length: 3916
+content-length: 3965
 
 <style>
 .section.section-full {padding:60px 0;}
@@ -102,6 +102,8 @@ content-length: 3916
      #navbar {
       max-width: 100%; } }
   @media (max-width: 767px) {
+.mobile-nav li:nth-child(2) {
+display: none; }
     .carousel{
 position: static !important;}
     .dl-menuwrapper {
@@ -202,7 +204,7 @@ position: relative !important; }
 ----version----
 language: en
 version: 1
-revision: df6c9f51-6e83-48ef-bde0-f7f73c6bf594
+revision: 06f0afdd-1251-4047-8135-84dd9b3e940e
 
 ----field----
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
@@ -245,14 +247,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-df6c9f51-6e83-48ef-bde0-f7f73c6bf594
+06f0afdd-1251-4047-8135-84dd9b3e940e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170330T220745Z
+20170330T221528Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
