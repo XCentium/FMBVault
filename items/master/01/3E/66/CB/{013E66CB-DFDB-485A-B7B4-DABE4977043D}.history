@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{013E66CB-DFDB-485A-B7B4-DABE4977043D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-30T01:51:07.8878183Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CCRecipients_RequestAppointment",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/CCRecipients_RequestAppointment",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
