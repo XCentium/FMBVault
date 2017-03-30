@@ -13,7 +13,7 @@ created: 20170202T231825:636216743057600000
 ----version----
 language: en
 version: 1
-revision: 6dc64853-5b10-4429-9451-df59e32de13f
+revision: d3157458-6343-4b25-91a1-fbb6886da949
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,10 +26,10 @@ Personal Credit Card
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 5608
+content-length: 5724
 
 <p>Get more with a Personal <strong>F&amp;M Visa<sup>&reg;</sup> Credit Card</strong> backed by a community bank you can trust. <strong>As one of California&rsquo;s strongest banks for 110 years,</strong> F&amp;M helps you increase your buying power with our F&amp;M rewards option, and gives you peace-of-mind with an array of security enhancements. F&amp;M Credit Cards are accepted worldwide. <sup>[1]</sup></p>
-<p>Now you can use your F&amp;M Visa credit card with Apple Pay&trade;. Click here to learn more about how Apple Pay works and how to get started today.<sup>[2]</sup>&nbsp;</p>
+<p>Now you can use your F&amp;M Visa credit card with Apple Pay&trade;. <a href="~/link.aspx?_id=BCB3F4570F954A5C9C6A6A9F140D5B8A&amp;_z=z" title="Click Here to Learn about Apple Pay">Click here</a> to learn more about how Apple Pay works and how to get started today.<sup>[2]</sup>&nbsp;</p>
 <h2>F&amp;M Cash Rewards</h2>
 <a href="-/media/1BDB7FB18BF54774B9367C8F57EC7237.ashx"><img alt="F&amp;M Credit Card Application" src="-/media/3B623467303E4469A16B8E22F3674D0F.ashx?h=351&amp;w=156&amp;hash=87A9ED53CBEF2DA4178D7683E1F0D1FE9F38D7F3&amp;hash=87A9ED53CBEF2DA4178D7683E1F0D1FE9F38D7F3" style="height: 351px; width: 156px; float: right; margin: 5px;"> </a>
 <ul>
@@ -128,21 +128,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6dc64853-5b10-4429-9451-df59e32de13f
+d3157458-6343-4b25-91a1-fbb6886da949
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170327T214649Z
+20170330T212022Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-fmb\sdonatelli
+fmb\jbridges
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
