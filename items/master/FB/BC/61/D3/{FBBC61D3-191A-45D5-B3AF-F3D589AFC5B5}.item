@@ -13,7 +13,7 @@ created: 20170120T172950:636205301902900000
 ----version----
 language: en
 version: 1
-revision: 3fa7cf85-b3d9-441f-9dd2-6918b62a8b07
+revision: eae0272f-8eac-4b9a-b6bf-9fa5f1d99211
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,13 +26,12 @@ Certificates of Deposit
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 1521
+content-length: 1524
 
 <p>Invest in the future and get a great rate of return!&nbsp; <em>F&amp;M Bank Certificates of Deposit</em> offer options and peace of mind. </p>
 <p>F&amp;M&nbsp;<strong>certificates of deposit</strong> <strong>interest
 rates </strong>allow you to choose which term best fits your lifestyle. You&rsquo;ll know
-your money is secure with one of the strongest community banks in the area. We offer multiple-tier plans,
-competitive interest
+your money is secure with one of the strongest community banks in the area. We offer multiple-tier plans and competitive interest
 rates at any of our Southern California bank branches. That&rsquo;s not all&ndash;you also
 have the ability to determine how your <em>certificate of deposit interest</em> is paid<sup>1</sup>.</p>
 <ul>
@@ -97,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3fa7cf85-b3d9-441f-9dd2-6918b62a8b07
+eae0272f-8eac-4b9a-b6bf-9fa5f1d99211
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170322T194738Z
+20170330T182028Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
