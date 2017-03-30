@@ -13,7 +13,7 @@ created: 20170227T191954:636238199942930000
 ----version----
 language: en
 version: 1
-revision: db3303e6-ec4b-4831-8d65-853ce740bedc
+revision: 8850b767-54db-4d78-a3eb-14d4d23aae71
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -26,15 +26,13 @@ How do I register for F&M Card Alerts?
 field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
 name: Answer
 key: answer
-content-length: 299
+content-length: 238
 
-<ul>
-    <li>Go to <a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">fmb.com/alerts</a></li>
-    <li>Click <strong>Enroll/Change Preferences</strong></li>
-    <li>Enter the requested information</li>
-    <li> Select your alerts</li>
-    <li>Click <strong>Submit</strong></li>
-</ul>
+Go to <a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">fmb.com/alerts</a><br>
+Click <strong>Enroll/Change Preferences</strong><br>
+Enter the requested information<br>
+Select your alerts<br>
+Click <strong>Submit</strong>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -69,18 +67,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-db3303e6-ec4b-4831-8d65-853ce740bedc
+8850b767-54db-4d78-a3eb-14d4d23aae71
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170227T194922Z
+20170330T232210Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mlangdon
+fmb\jbridges
