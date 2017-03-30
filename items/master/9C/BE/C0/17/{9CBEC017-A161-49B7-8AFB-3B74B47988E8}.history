@@ -13,9 +13,28 @@
     "itemName": "GoogleReCaptcha_Key",
     "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/GoogleReCaptcha_Key",
     "template": "ConfigurationSetting",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b6bd8dadbc7e1f88bdf84b65c57d369105fc2d39",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "76031024-d571-4e8c-86d7-63404690f16e"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9CBEC017-A161-49B7-8AFB-3B74B47988E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-30T22:44:04.4273641Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\hahmady",
+    "itemName": "GoogleReCaptcha_Key",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/GoogleReCaptcha_Key",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
