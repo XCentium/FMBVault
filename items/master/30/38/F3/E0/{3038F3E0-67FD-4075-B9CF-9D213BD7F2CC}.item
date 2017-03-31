@@ -20,7 +20,7 @@ content-length: 4
 ----version----
 language: en
 version: 1
-revision: 8f82aa83-a41a-4d81-b114-415fe5b4a1a9
+revision: a3cc3f5c-f94b-471e-b0a2-26deff58bf22
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -36,7 +36,7 @@ key: answer
 content-length: 577
 
 <ol>
-    <li>Checks must be made payable to only you. (Joint checks or checks made payable to "Cash" are not allowed.)</li>
+    <li>Checks must be made payable to only you. (Joint checks or checks made payable to "Cash" are not allowed).</li>
     <li>Checks must not be drawn on a foreign bank or payable in a foreign currency.</li>
     <li>Checks must not be altered on the front in any way.</li>
     <li>Checks must have an authorized signature. Demand drafts or remotely created checks are not allowed.</li>
@@ -77,18 +77,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8f82aa83-a41a-4d81-b114-415fe5b4a1a9
+a3cc3f5c-f94b-471e-b0a2-26deff58bf22
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170217T221906Z
+20170331T214233Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
