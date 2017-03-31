@@ -13,7 +13,7 @@ created: 20170216T202558:636228735587200000
 ----version----
 language: en
 version: 1
-revision: 7bf218cf-04c0-493d-b99a-50639342904b
+revision: d950ed71-170c-4d4b-a97c-ec2034932914
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,7 +26,7 @@ Online Privacy Statement
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 9488
+content-length: 9541
 
 <h2>Online Privacy Statement.</h2>
 <p>
@@ -66,7 +66,7 @@ If you agreed to receive electronic statements, notices or disclosures from us e
 <br>
 <strong>Changes to this Policy</strong>.  We may add to, delete from, or otherwise change the terms of this Statement from time to time by posting a notice of the change (or an amended Statement) at this web site.  If required by law, we will send you a notice of the change.  Your continued use of our web site or any on-line service following notification will constitute your agreement to the revised Statement.  <br>
 <br>
-Questions.  If you have any questions regarding this Statement, or with F&amp;M Bank&rsquo;s privacy practices, please e-mail us at or write to us at F&amp;M Bank, Attn: Compliance Department, 302 Pine Avenue, Long Beach, CA 90802<br>
+Questions.  If you have any questions regarding this Statement, or with F&amp;M Bank&rsquo;s privacy practices, please e-mail us at <a href="mailto:privacy@fmb.com">privacy@fmb.com</a> or write to us at F&amp;M Bank, Attn: Compliance Department, 302 Pine Avenue, Long Beach, CA 90802<br>
 <br>
 Online Privacy Statement effective 06/11, Revised 12/15
 ----field----
@@ -124,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7bf218cf-04c0-493d-b99a-50639342904b
+d950ed71-170c-4d4b-a97c-ec2034932914
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T184504Z
+20170331T212351Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
