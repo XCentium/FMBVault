@@ -2,9 +2,9 @@
 version: 1
 id: {DAA92A23-2246-4BA0-BED5-ABDBA7A029F4}
 database: master
-path: /sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Online Banking Enrollment Help
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Online Banking Enrollment
 parent: {65B346B4-8D80-435A-94D8-8567676664E7}
-name: Online Banking Enrollment Help
+name: Online Banking Enrollment
 master: {00000000-0000-0000-0000-000000000000}
 template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
 templatekey: FAQ Group
@@ -13,7 +13,7 @@ created: 20170331T002822:636265169025200000
 ----version----
 language: en
 version: 1
-revision: e0e8d6d7-3d42-4b84-82a3-62b25bed62ab
+revision: 124a00af-297c-4f18-b098-8443f9b9e0ba
 
 ----field----
 field: {E1DBF744-4154-481F-9865-6386D623562C}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e0e8d6d7-3d42-4b84-82a3-62b25bed62ab
+124a00af-297c-4f18-b098-8443f9b9e0ba
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T004201Z
+20170331T004213Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
