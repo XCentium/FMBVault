@@ -13,7 +13,7 @@ created: 20170216T202558:636228735587200000
 ----version----
 language: en
 version: 1
-revision: 73ba473c-a806-45cb-8c46-14c2453c4b6b
+revision: 7bf218cf-04c0-493d-b99a-50639342904b
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,7 +26,7 @@ Online Privacy Statement
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 9496
+content-length: 9488
 
 <h2>Online Privacy Statement.</h2>
 <p>
@@ -49,7 +49,7 @@ Farmers &amp; Merchants Bank of Long Beach (&ldquo;F&amp;M Bank&rdquo;) values a
 If you agreed to receive electronic statements, notices or disclosures from us electronically, and your e-mail address or other contact information used by F&amp;M Bank to communicate with you electronically is changed, you must notify F&amp;M Bank of such changes immediately through one of the following methods:</p>
 <ul>
     <li>Logging into www.fmb.com and under the &ldquo;Manage Preferences&rdquo; tab update your e-mail address; or,</li>
-    <li>Calling us calling us toll-free at 1-866-437-0011.</li>
+    <li>Calling us toll-free at 1-866-437-0011.</li>
 </ul>
 <p>For a name change, social security number change, or other similar change, you have to contact the Branch office where your account or loan is held.</p>
 <p><strong>Using Your E-Mail Address</strong>.  If you provide us with your e-mail address, we may use it to send the following types of e-mail messages to you:</p>
@@ -59,7 +59,7 @@ If you agreed to receive electronic statements, notices or disclosures from us e
     <li>Account Service Information.  We may send you e-mail service notifications that are related to your account(s) or products and services in which you are enrolled.  These include e-mails that provide account information, answer your questions about a product or service, or fulfill a legal or regulatory disclosure requirement.</li>
     <li>Optional Messages.  You may also choose to receive other types of e-mail messages from us, including additional alerts and notifications beyond those noted above</li>
 </ul>
-<p>To protect your privacy, please do not use e-mail to send us your account or social security numbers, or other sensitive personal information since it would unencrypted and can be read by anyone who receives or intercepts it.  If need to use e-mail to send us sensitive personal information, please use our  &ldquo;Farmers &amp; Merchants Bank Secure Email Message Center&rdquo; located on the Security Vault page of this website.  </p>
+<p>To protect your privacy, please do not use e-mail to send us your account or social security numbers, or other sensitive personal information since it would be unencrypted and can be read by anyone who receives or intercepts it.  If need to use e-mail to send us sensitive personal information, please use our  &ldquo;Farmers &amp; Merchants Bank Secure Email Message Center&rdquo; located on the Security Vault page of this website.  </p>
 <strong>Links to Other Web Sites</strong>.  Our web site may feature links to third party web sites that offer goods, services or information.  Some of these sites may appear as windows-within-windows at this site.  When you click on one of these links, you will be leaving our site and will no longer be subject to this policy.  We are not responsible for the information collection practices of the other web sites that you visit and urge you to review their privacy policies before you provide them with any personally identifiable information.  Third party sites may collect and use information about you in a way that is different from this policy.  <br>
 <br>
 <strong>Children&rsquo;s Privacy.</strong>  This web site is not intended for use by children under the age of 13.  We do not knowingly solicit data online from, or market online to, children under the age of 13.  If we knowingly obtain personally identifying information in error on a child under the age of 13, we will delete that information from our systems.<br>
@@ -124,21 +124,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-73ba473c-a806-45cb-8c46-14c2453c4b6b
+7bf218cf-04c0-493d-b99a-50639342904b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170217T165917Z
+20170331T184504Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
