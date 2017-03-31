@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 430d2677-25ac-449f-87bf-a8ef46d42184
+revision: ec5dfe3b-d9ab-4462-881e-0c2ffabb3d49
 
 ----field----
 field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
@@ -82,9 +82,9 @@ Neighborhood Icon Since 1985 Plans Grand Re-Opening Event&nbsp;
 field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
 name: NewsBody
 key: newsbody
-content-length: 4147
+content-length: 4173
 
-<p><img height="1650" alt="Fullerton Office Re-Grandopening" width="2550" src="-/media/1554a645f3fd4603bd17c86c0ac8b4f4.ashx"></p>
+<p><img alt="Fullerton Office Re-Grandopening" src="-/media/1554a645f3fd4603bd17c86c0ac8b4f4.ashx?h=389&amp;w=600" style="height: 389px; width: 600px;"></p>
 <p>Farmers &amp; Merchants Bank (F&amp;M), one of the strongest commercial and retail banks in California celebrating its 110 year anniversary, announced the Grand Re-Opening of its Fullerton Office following a branch transformation project.&nbsp;<br>
 <br>
 Throughout the facility, clients will now find an open layout with a redesigned teller line, allowing employees to promptly greet them upon arrival. &nbsp;The optimized utilization of square footage now offers clients immediate contact with the banking staff, while the new design streamlines banking services, allowing clients to open accounts or make deposits all with the same teller. The Branch Manager station has been relocated to the lobby for convenient access, a tradition which dates back to 1907 when F&amp;M founder C.J. Walker was seated on the front line at the Main Office in Long Beach. &nbsp;This new layout benefits the bank in their effort to foster a relationship with every client. &nbsp;<br>
@@ -138,14 +138,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-430d2677-25ac-449f-87bf-a8ef46d42184
+ec5dfe3b-d9ab-4462-881e-0c2ffabb3d49
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T235105Z
+20170331T235350Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
