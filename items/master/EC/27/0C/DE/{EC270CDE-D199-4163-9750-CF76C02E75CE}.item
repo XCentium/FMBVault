@@ -2,8 +2,8 @@
 version: 1
 id: {EC270CDE-D199-4163-9750-CF76C02E75CE}
 database: master
-path: /sitecore/media library/FMBCom/Images/General/Trusteer-Logo
-parent: {BB86500A-22B7-4000-8A64-ACDA9DC9DB76}
+path: /Trusteer-Logo
+parent: {00000000-0000-0000-0000-000000000000}
 name: Trusteer-Logo
 master: {00000000-0000-0000-0000-000000000000}
 template: {DAF085E8-602E-43A6-8299-038FF171349F}
@@ -612,57 +612,3 @@ key: __icon
 content-length: 61
 
 -/media/EC270CDED19941639750CF76C02E75CE.ashx?h=16&thn=1&w=16
-----version----
-language: en
-version: 1
-revision: bccbd098-bda4-48c5-ba92-45cc5fda8dbe
-
-----field----
-field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
-name: Alt
-key: alt
-content-length: 23
-
-Trusteer an IBM Company
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 12
-
-fmb\mlangdon
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20170206T180634Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 12
-
-fmb\mlangdon
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-bccbd098-bda4-48c5-ba92-45cc5fda8dbe
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20170206T180730Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 12
-
-fmb\mlangdon
