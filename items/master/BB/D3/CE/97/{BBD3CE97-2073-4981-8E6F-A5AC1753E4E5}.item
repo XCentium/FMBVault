@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {BBD3CE97-2073-4981-8E6F-A5AC1753E4E5}
+database: master
+path: /sitecore/content/FMBCom/Home/Customer Service/Online Banking Enrollment
+parent: {F349213F-5583-4578-BB65-5C6DF63C7136}
+name: Online Banking Enrollment
+master: {00000000-0000-0000-0000-000000000000}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170331T003500:636265173009300000
+
+----version----
+language: en
+version: 1
+revision: 7c8ac806-1c24-4878-b58f-fd4d3d6ceb41
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 20
+
+F&M Card Alerts FAQs
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 20
+
+F&M Card Alerts FAQs
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 43
+
+Card Alerts FAQs | Farmers & Merchants Bank
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 169
+
+Get the answers to common questions regarding the EMV Chip Card Technology. Find out about Farmers & Merchants Bank credit and debit cards with embedded chip technology.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+F&M Card Alerts
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1746
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{3B9558CF-106E-4F3F-A0D1-CFEF52B5BD86}" p:before="*" s:ds="{B48DF83A-B9D8-4C6E-8425-BB1BEE4AF7F6}" s:id="{DA7435B8-F124-4422-A44C-24E4D4F52393}" s:ph="/layoutZone/col-narrow-1" /><r uid="{F27754A2-610C-4F68-B666-C3135351FFDB}" p:after="r[@uid='{3B9558CF-106E-4F3F-A0D1-CFEF52B5BD86}']" s:ds="{78EC2F2F-D83D-470B-ACC8-8EB008718395}" s:id="{EB2FD0AF-AC24-46BD-B4F8-600A508A2F1A}" s:par="" s:ph="/layoutZone/col-narrow-1" /><r uid="{6C222A63-3347-4228-AE3F-E724BBC34EED}" p:after="r[@uid='{F27754A2-610C-4F68-B666-C3135351FFDB}']" s:ds="{C0E7A157-FFEE-4089-878E-E2F1F1A77C93}" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:ph="/layoutZone/section-narrow/col-wide-1_101e0307-89ef-478b-ad39-01828fb5d2d9" /><r uid="{DD50CBAE-09D4-410B-8ED2-597DD155EF3C}" p:after="r[@uid='{6C222A63-3347-4228-AE3F-E724BBC34EED}']" s:id="{F60491E7-8589-4536-AD8C-E262F961D62E}" s:ph="/layoutZone/section-narrow/col-wide-1_f9646b50-3f8b-4c4f-b913-d414286da941" /><r uid="{F9646B50-3F8B-4C4F-B913-D414286DA941}" p:after="r[@uid='{DD50CBAE-09D4-410B-8ED2-597DD155EF3C}']" s:ds="{74B55669-1CB5-44A9-85A1-EC085DD321E6}" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:par="UseStaticPlaceholderNames" s:ph="/layoutZone/section-narrow" /><r uid="{101E0307-89EF-478B-AD39-01828FB5D2D9}" p:after="r[@uid='{F9646B50-3F8B-4C4F-B913-D414286DA941}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/layoutZone/section-narrow" /><r uid="{31EA239F-4B9B-4C64-A265-07590593A52D}" p:after="r[@uid='{101E0307-89EF-478B-AD39-01828FB5D2D9}']" s:id="{FB0798A3-5823-475B-AB05-FD49DEBF5074}" s:ph="/bannerZone/bannerZone-thin" /><r uid="{CEBFDD45-8B7E-420C-8015-3AE2D3309B2D}"><p:d /></r></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170227T214830Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7c8ac806-1c24-4878-b58f-fd4d3d6ceb41
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T232904Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon
