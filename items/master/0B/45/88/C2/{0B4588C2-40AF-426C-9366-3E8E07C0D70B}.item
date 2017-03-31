@@ -13,7 +13,7 @@ created: 20170221T194754:636233032742500000
 ----version----
 language: en
 version: 1
-revision: 93b1e72d-77ba-4a98-8097-8abe6ac55a3a
+revision: 4e46980b-0a57-4df5-b71a-b4028b379eea
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -26,9 +26,9 @@ How can I protect my account?
 field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
 name: Answer
 key: answer
-content-length: 521
+content-length: 145
 
-<span style="color: #4f4f4f;">You can protect your personal or business system by making sure you keep your computer up to date with the latest version of anti-virus software. For additional online security protection, F&amp;M strongly recommends downloading our &ldquo;Trusteer Rapport&rdquo; browser security software.&nbsp;</span><span style="color: #006f53;"><a href="~/link.aspx?_id=5B5D4FDFD8DD4723AC8C3F940CF771B8&amp;_z=z" target="_self">Click here to download now</a></span><span style="color: #4f4f4f;">.</span>
+You can protect your personal or business system by making sure you keep your computer up to date with the latest version of anti-virus software.
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-93b1e72d-77ba-4a98-8097-8abe6ac55a3a
+4e46980b-0a57-4df5-b71a-b4028b379eea
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170222T172657Z
+20170331T213725Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
