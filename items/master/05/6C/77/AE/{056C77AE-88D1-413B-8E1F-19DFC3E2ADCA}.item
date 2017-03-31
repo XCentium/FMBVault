@@ -13,7 +13,7 @@ created: 20170215T233442:636227984824200000
 ----version----
 language: en
 version: 1
-revision: 13cc0a91-37ad-42f6-a7ca-97dba142d7c2
+revision: ef19582a-afa8-40cc-962f-11dbae1a3c2f
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,17 +26,17 @@ Protecting Your Information
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 6405
+content-length: 6427
 
 <h2>Internet Pirates are Trying To Steal YOUR Personal Financial Information </h2>
 <h3>Here&rsquo;s The Good News: YOU Have the Power To Stop Them</h3>
 There's a new type of Internet piracy called "phishing." It&rsquo;s pronounced "fishing," and that's exactly what these thieves are doing: "fishing" for your personal financial information. What they want are account numbers, passwords, Social Security numbers, and other confidential information that they can use to loot your checking account or run up bills on your credit cards.<br>
 <br>
 In the worst case, you could find yourself a victim of identity theft. With the sensitive information obtained from a successful phishing scam, these thieves can take out loans or obtain credit cards and even driver's licenses in your name. They can do damage to your financial history and personal reputation that can take years to unravel. But if you understand how phishing works and how to protect yourself, you can help stop this crime.&nbsp;
-<h3>Here's how phishing works:</h3>
+<h3>Here's how phishing works</h3>
 <p>In a typical case, you'll receive an e-mail that appears to come from a reputable company that you recognize and do business with, such as your financial institution. In some cases, the e-mail may appear to come from a government agency, including one of the federal financial institution regulatory agencies.<br>
 <br>
-The e-mail will probably warn you of a serious problem that requires your immediate attention. It may use phrases, such as Immediate attention required, or Please contact us immediately about your account. The e-mail will then encourage you to click on a button to go to the institution's web site.<br>
+The e-mail will probably warn you of a serious problem that requires your immediate attention. It may use phrases, such as "Immediate attention required," or "Please contact us immediately about your account." The e-mail will then encourage you to click on a button to go to the institution's website.<br>
 <br>
 In a phishing scam, you could be redirected to a phony web site that may look exactly like the real thing. Sometimes, in fact, it may be the company's actual Web site. In those cases, a pop-up window will quickly appear for the purpose of harvesting your financial information.<br>
 <br>
@@ -55,11 +55,11 @@ If you provide the requested information, you may find yourself the victim of id
     <li>Contact your financial institution immediately and alert them of the situation.</li>
     <li>If you have disclosed sensitive information in a phishing attack, you should also contact one of the three major credit bureaus and discuss whether you need to place a fraud alert on your file, which will help prevent thieves from opening a new account in your name. Here is the contact information for each bureau's fraud division:</li>
 </ul>
-<p style="margin-left: 40px;"><strong>Equifax</strong> 800-525-6285 P.O. Box 740250 Atlanta, GA 30374 <br>
-<strong>Experian</strong> 888-397-3742 P.O. Box 1017 Allen, TX 75013 <br>
-<strong>TransUnion</strong> 800-680-7289 P.O. Box 6790 Fullerton, CA 92634</p>
+<p style="margin-left: 40px;"><strong>Equifax</strong>&nbsp;(800) 525-6285 P.O. Box 740250 Atlanta, GA 30374 <br>
+<strong>Experian</strong>&nbsp;(888) 397-3742 P.O. Box 1017 Allen, TX 75013 <br>
+<strong>TransUnion</strong>&nbsp;(800) 680-7289 P.O. Box 6790 Fullerton, CA 92634</p>
 <p style="margin-left: 40px;">*Report all suspicious contacts to the Federal Trade Commission by calling <strong>(877)-IDTHEFT</strong> or through the Internet at <a href="https://www.ftccomplaintassistant.gov" title="https://www.ftccomplaintassistant.gov">https://www.ftccomplaintassistant.gov</a>.</p>
-<h3>Here's How:</h3>
+<h3>Here's How</h3>
 <ul>
     <li>Never provide personal financial information, including your Social Security number, account numbers or passwords, over the phone or the Internet if you did not initiate the contact.</li>
     <li>Never click on the link provided in an e-mail you believe is fraudulent. It may contain a virus that can contaminate your computer.</li>
@@ -124,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-13cc0a91-37ad-42f6-a7ca-97dba142d7c2
+ef19582a-afa8-40cc-962f-11dbae1a3c2f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170309T003447Z
+20170331T183033Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
