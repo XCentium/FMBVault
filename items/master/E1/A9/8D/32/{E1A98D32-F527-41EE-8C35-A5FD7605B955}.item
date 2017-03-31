@@ -2,9 +2,9 @@
 version: 1
 id: {E1A98D32-F527-41EE-8C35-A5FD7605B955}
 database: master
-path: /sitecore/content/FMBCom/Home/Customer Service/Frequently Asked Questions
+path: /sitecore/content/FMBCom/Home/Customer Service/General FAQs
 parent: {F349213F-5583-4578-BB65-5C6DF63C7136}
-name: Frequently Asked Questions
+name: General FAQs
 master: {00000000-0000-0000-0000-000000000000}
 template: {832D5183-326A-4373-AD35-3334994FC3CA}
 templatekey: Article
@@ -48,7 +48,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: 686b2811-264e-4ec7-b3ce-a3dce1810bee
+revision: c8445f4d-fb16-4156-a007-86155d000c10
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -119,14 +119,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-686b2811-264e-4ec7-b3ce-a3dce1810bee
+c8445f4d-fb16-4156-a007-86155d000c10
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T231600Z
+20170331T231624Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
