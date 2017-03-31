@@ -13,7 +13,7 @@ created: 20170331T001458:636265160982170000
 ----version----
 language: en
 version: 1
-revision: 5bae103a-b3c6-410f-a8b5-6bf3cd7182b0
+revision: bc651bcf-28cc-41f8-9804-7eca6c1c0a1b
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -26,25 +26,25 @@ How do I complete the Online Banking Enrollment Section II - Business Customer I
 field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
 name: Answer
 key: answer
-content-length: 1169
+content-length: 452
 
-<span style="color: #4f4f4f;">Enter the full company name.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the company mailing address.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the city name for the company mailing address.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the state name for the company mailing address.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the zip code number for the company mailing address.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the company phone number.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the company fax number.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the email address for the company.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the name for the primary company contact.</span>
+Enter the full company name.<br>
+<br>
+Enter the company mailing address.<br>
+<br>
+Enter the city name for the company mailing address.<br>
+<br>
+Enter the state name for the company mailing address.<br>
+<br>
+Enter the zip code number for the company mailing address.<br>
+<br>
+Enter the company phone number.<br>
+<br>
+Enter the company fax number.<br>
+<br>
+Enter the email address for the company.<br>
+<br>
+Enter the name for the primary company contact.
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -79,14 +79,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5bae103a-b3c6-410f-a8b5-6bf3cd7182b0
+bc651bcf-28cc-41f8-9804-7eca6c1c0a1b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T001520Z
+20170331T155346Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
