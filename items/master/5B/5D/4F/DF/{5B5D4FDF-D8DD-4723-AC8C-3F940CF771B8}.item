@@ -13,7 +13,7 @@ created: 20170206T170452:636219974925230000
 ----version----
 language: en
 version: 1
-revision: d96a89da-59f2-4f19-9fd9-e51cb1498e3b
+revision: e3bccf9f-e15e-4700-bbfa-c397207c6ad7
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,9 +26,9 @@ Trusteer Rapport Security Software
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 4189
+content-length: 4174
 
-<p><img height="106" alt="Trusteer an IBM Company" width="360" src="-/media/EC270CDED19941639750CF76C02E75CE.ashx?h=106&amp;w=360&amp;hash=F9404C719597D383362D634475F474912E0477DC" style="height: 106px; width: 360px;">&nbsp;</p>
+<p><img alt="Trusteer an IBM Company" src="-/media/EC270CDED19941639750CF76C02E75CE.ashx?h=106&amp;w=360&amp;hash=F9404C719597D383362D634475F474912E0477DC" style="height: 106px; width: 360px;">&nbsp;</p>
 <p>F&amp;M Bank provides Trusteer Rapport&trade; Security Software to our Online Banking clients to safeguard them from financial malware. As of September 15, 2014, Trusteer has a new End-User License Agreement (EULA). To continue using the software, please accept the terms of the EULA. It can be <a href="http://www.trusteer.com/support/end-user-license-agreement" target="_blank">viewed at www.trusteer.com/support/end-user-license-agreement</a>. Should you choose to not accept the new EULA, you may no longer use this security software and can simply uninstall the program.<br>
 <br>
 <strong><a href="http://download.trusteer.com/Jekth7Xjr/RapportSetup.exe?x-src=websitewin">Click here</a>&nbsp;to download Trusteer Rapport for PC.</strong><br>
@@ -54,7 +54,7 @@ In addition to locking down the browser, Rapport also locks down communication w
 <br>
 Unauthorized attempts to access the browser or its communication are automatically reported to the Trusteer cloud-based fraud analysis service. The Trusteer team of fraud analysts works 24x7 analyzing this information from customers all over the world, in order to identify new attack patterns. Institutions registered for the Trusteer service receive immediate reports and actionable alerts of new attacks, and can learn of attacks as they happen, instead of days, weeks, and sometimes months later.<br>
 <br>
-<strong>To Learn How Trusteer Rapport Technology Keeps You Safe <a href="https://www.fmb.com/personal/how-trusteer-works">Click Here</a>.</strong><br>
+<strong>To Learn How Trusteer Rapport Technology Keeps You Safe <a href="~/link.aspx?_id=A7E19D662DE44124BC64D52C69AA98FF&amp;_z=z">Click Here</a>.</strong><br>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d96a89da-59f2-4f19-9fd9-e51cb1498e3b
+e3bccf9f-e15e-4700-bbfa-c397207c6ad7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170301T190720Z
+20170331T004625Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
