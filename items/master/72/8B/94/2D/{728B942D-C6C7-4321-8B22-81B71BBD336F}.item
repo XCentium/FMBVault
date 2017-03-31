@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 1da5daae-a6cf-4e26-8072-89eb254d1eb4
+revision: 3e23a7dd-bd67-4d41-bd6e-accb56628599
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -33,7 +33,7 @@ Security
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 3207
+content-length: 3135
 
 <h2>Reporting Fraud</h2>
 <ul>
@@ -46,7 +46,7 @@ content-length: 3207
 </ul>
 <h2>Web Browser Security</h2>
 <ul>
-    <li><strong>Online Security with Trusteer</strong> - Farmers &amp; Merchants Bank makes use of industry leading technologies and practices to ensure maximum safeguarding of your personal information online. <a href="~/link.aspx?_id=5B5D4FDFD8DD4723AC8C3F940CF771B8&amp;_z=z">Click here to learn more</a>.</li>
+    <li><strong>Online Security with Trusteer</strong> - Farmers &amp; Merchants Bank makes use of industry leading technologies and practices to ensure maximum safeguarding of your personal information online. Click here to learn more.</li>
     <li>Privacy</li>
 </ul>
 <h2>Common Types of Fraud</h2>
@@ -129,21 +129,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1da5daae-a6cf-4e26-8072-89eb254d1eb4
+3e23a7dd-bd67-4d41-bd6e-accb56628599
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170321T181349Z
+20170331T233408Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-sitecore\admin
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
