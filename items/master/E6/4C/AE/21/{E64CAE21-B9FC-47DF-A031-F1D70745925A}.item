@@ -13,8 +13,26 @@ created: 20170331T002058:636265164584800000
 ----version----
 language: en
 version: 1
-revision: c5cd9311-eeea-48a0-9341-67263e65cbe8
+revision: fdaf29ff-9f5e-43f9-92c2-43c0edbf6803
 
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 91
+
+Schedule A the Authorized Cash Management Services, Fee Disclosures and Origination Limits?
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 408
+
+<span style="color: #4f4f4f;">Enter the company name.</span><br style="color: #4f4f4f;">
+<br style="color: #4f4f4f;">
+<span style="color: #4f4f4f;">Enter the account number of the primary account number to be charged for fees.</span><br style="color: #4f4f4f;">
+<br style="color: #4f4f4f;">
+<span style="color: #4f4f4f;">Check the account type box of the primary account number to be charged for fees.</span>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -49,14 +67,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c5cd9311-eeea-48a0-9341-67263e65cbe8
+fdaf29ff-9f5e-43f9-92c2-43c0edbf6803
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T002102Z
+20170331T002119Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
