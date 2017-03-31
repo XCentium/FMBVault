@@ -20,7 +20,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 3176e883-ca4b-44f7-a6ca-3a3f70f5450b
+revision: 639ef6e8-fb3c-4fc0-b021-ca675d6c6db2
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -33,9 +33,9 @@ content-length: 55
 field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
 name: Answer
 key: answer
-content-length: 208
+content-length: 241
 
-F&amp;M Mobile Banking is supported on most mobile phones with a mobile web browser that supports cookies. In addition, the downloadable app is supported on most iPhone&reg;, iPad&reg;, and AndroidTM devices.
+F&amp;M Mobile Banking is supported on most mobile phones with a mobile web browser that supports cookies. In addition, the downloadable app is supported on most iPhone<sup>&reg;</sup>, iPad<sup>&reg;</sup>, and Android<sup>TM</sup> devices.
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -70,18 +70,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3176e883-ca4b-44f7-a6ca-3a3f70f5450b
+639ef6e8-fb3c-4fc0-b021-ca675d6c6db2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170217T211100Z
+20170331T214048Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
