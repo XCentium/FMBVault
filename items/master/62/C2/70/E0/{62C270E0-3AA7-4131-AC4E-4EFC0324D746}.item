@@ -13,7 +13,7 @@ created: 20170331T001629:636265161891430000
 ----version----
 language: en
 version: 1
-revision: 57f2d79e-5e4d-4cb0-8ce5-9c88f30ffef6
+revision: 330a5205-4eab-414a-8bcb-1aa1b243a0a9
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -26,15 +26,15 @@ How do I complete the Online Banking Enrollment Section IV - Business Cash Manag
 field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
 name: Answer
 key: answer
-content-length: 898
+content-length: 606
 
-<span style="color: #4f4f4f;">Enter the name of each company employee granted access to the Online Banking system.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Enter the social security of each employee granted access to the Online Banking system.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Click the Yes box to grant supervisory rights to the employee that will administer the Online Banking system for the company. Supervisory Rights will allow an employee access to all selected Internet Banking features &amp; bank accounts.&nbsp; The supervisor can assign user rights and permissions for each company employee.</span><br style="color: #4f4f4f;">
-<br style="color: #4f4f4f;">
-<span style="color: #4f4f4f;">Click the No box to grant a company employee access to the Online Banking system.</span>
+Enter the name of each company employee granted access to the Online Banking system.<br>
+<br>
+Enter the social security of each employee granted access to the Online Banking system.<br>
+<br>
+Click the Yes box to grant supervisory rights to the employee that will administer the Online Banking system for the company. Supervisory Rights will allow an employee access to all selected Internet Banking features &amp; bank accounts. &nbsp;The supervisor can assign user rights and permissions for each company employee.<br>
+<br>
+Click the No box to grant a company employee access to the Online Banking system.
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -69,14 +69,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-57f2d79e-5e4d-4cb0-8ce5-9c88f30ffef6
+330a5205-4eab-414a-8bcb-1aa1b243a0a9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T001649Z
+20170331T155432Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
