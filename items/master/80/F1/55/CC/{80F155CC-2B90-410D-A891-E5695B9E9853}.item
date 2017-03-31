@@ -13,8 +13,41 @@ created: 20170331T002404:636265166449870000
 ----version----
 language: en
 version: 1
-revision: 1f1a2969-352a-409d-b135-deda17418e85
+revision: 0f3bcd45-e0ea-43d3-a87d-2454203051c0
 
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 70
+
+How do I complete the Online Banking system Funds Transfer Agreement? 
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 890
+
+<p>Enter current date on page one of the agreement.<br>
+<br>
+Enter full company name on page one of the agreement.<br>
+<br>
+Authorized account signers for the company must sign, print the company name &amp; title under the Company heading on page 3.<br>
+<br>
+<strong>Schedule A the Security Procedures and Transaction Settlement/Delivery Timeframes</strong></p>
+<p>Enter the name of the employee designated as the company emergency contact.<br>
+<br>
+Enter the title of the employee designated as the company emergency contact.<br>
+<br>
+Enter the full name of the company.<br>
+<br>
+Enter the city name, state name &amp; zip code number for the company mailing address.<br>
+<br>
+Enter the company telephone number including area code.<br>
+<br>
+Enter the company fax number including area code.<br>
+<br>
+Enter the email address for the employee designated as the company emergency contact.</p>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -49,14 +82,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1f1a2969-352a-409d-b135-deda17418e85
+0f3bcd45-e0ea-43d3-a87d-2454203051c0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T002409Z
+20170331T002435Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
