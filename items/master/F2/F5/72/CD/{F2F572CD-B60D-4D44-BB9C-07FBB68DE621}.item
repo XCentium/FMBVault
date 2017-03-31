@@ -80,7 +80,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 2
-revision: c63c2bf5-3e9b-4bad-8d0b-42548dffe830
+revision: 444fe97c-b48b-49ce-82cf-75aa9dc3af90
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -93,9 +93,9 @@ Why does the primary account holder have to consent to share existence and balan
 field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
 name: Answer
 key: answer
-content-length: 703
+content-length: 666
 
-<span style="color: #4f4f4f;">With the combined balances condition to waive the Maintenance Fee, the joint signer(s) may inquire why their Classic, Gold, or Platinum Checking account received a Maintenance Fee for a specific month. As the account balances taken into consideration are the average daily balances of the Classic, Gold, or Platinum Checking account&rsquo;s primary accountholder only, confirming this information for the account&rsquo;s joint signer(s) will require the Bank to disclose the existence and balances of account(s) on which the joint signer(s) may not be related. By opening and maintaining the account, the Bank is able to assist the joint signer(s) with this inquiry.</span>
+With the combined balances condition to waive the Maintenance Fee, the joint signer(s) may inquire why their Classic, Gold, or Platinum Checking account received a Maintenance Fee for a specific month. As the account balances taken into consideration are the average daily balances of the Classic, Gold, or Platinum Checking account&rsquo;s primary accountholder only, confirming this information for the account&rsquo;s joint signer(s) will require the Bank to disclose the existence and balances of account(s) on which the joint signer(s) may not be related. By opening and maintaining the account, the Bank is able to assist the joint signer(s) with this inquiry.
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -123,14 +123,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c63c2bf5-3e9b-4bad-8d0b-42548dffe830
+444fe97c-b48b-49ce-82cf-75aa9dc3af90
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170222T173041Z
+20170331T213556Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
