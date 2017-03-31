@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{DAA92A23-2246-4BA0-BED5-ABDBA7A029F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-31T00:28:22.5399270Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "Online Banking Enrollment",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Online Banking Enrollment",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
