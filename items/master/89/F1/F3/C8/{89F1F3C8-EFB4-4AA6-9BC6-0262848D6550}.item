@@ -13,7 +13,7 @@ created: 20170206T173955:636219995953230000
 ----version----
 language: en
 version: 1
-revision: d38d40ea-60c8-4465-a3ec-fac45ed4e2cf
+revision: 665ef70e-c686-45e8-9894-29b4b75959df
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,7 +26,7 @@ Online Banking
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 4152
+content-length: 4080
 
 <p>Online Banking can make your account management so much easier! Secure access to manage your accounts, transfer funds, and check balances electronically from wherever you are 24/7. At F&amp;M, we believe in both tradition and technology. Sign up for online banking and bill pay or online cash management today and put the power of one of the strongest banks in California to work for you.<sup>1</sup></p>
 <table border="0" cellpadding="5" width="425" height="86">
@@ -86,7 +86,7 @@ content-length: 4152
 <p><strong>F&amp;M Bank provides Trusteer Rapport&trade; Security Software to our Online Banking clients to safeguard them from financial malware. As of September 15, 2014, Trusteer has a new End-User License Agreement (EULA). To continue using the software, please accept the terms of the EULA. It can be viewed at <a href="http://www.trusteer.com/support/end-user-license-agreement" target="_blank">http://www.trusteer.com/support/end-user-license-agreement</a>. Should you choose to not accept the new EULA, you may no longer use this security software and can simply uninstall the program.</strong></p>
 <strong>
 <br>
-<a href="~/link.aspx?_id=5B5D4FDFD8DD4723AC8C3F940CF771B8&amp;_z=z">Click here to learn more</a>.</strong><br>
+Click here to learn more.</strong><br>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -142,21 +142,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d38d40ea-60c8-4465-a3ec-fac45ed4e2cf
+665ef70e-c686-45e8-9894-29b4b75959df
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170327T220953Z
+20170331T233347Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-fmb\sdonatelli
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
