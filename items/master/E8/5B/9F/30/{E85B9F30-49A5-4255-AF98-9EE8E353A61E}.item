@@ -1,34 +1,20 @@
 ----item----
 version: 1
-id: {52B95C25-023F-4A5F-8B52-EF04B1FC235C}
+id: {E85B9F30-49A5-4255-AF98-9EE8E353A61E}
 database: master
-path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking Enrollment/How do I complete the Online Banking Enrollment Section VI Customer Acknowledgement
+path: /sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking Enrollment/How do I complete the Online Banking system Electronic Payment Service Agreement
 parent: {E0203D79-3A2D-4235-9351-E355C75BB2A0}
-name: How do I complete the Online Banking Enrollment Section VI Customer Acknowledgement
+name: How do I complete the Online Banking system Electronic Payment Service Agreement
 master: {00000000-0000-0000-0000-000000000000}
 template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
 templatekey: FAQ
-created: 20170331T001927:636265163677970000
+created: 20170331T002021:636265164214930000
 
 ----version----
 language: en
 version: 1
-revision: 0cfa574c-02ad-4029-b3a0-c822150d72fd
+revision: f8ce37d5-4487-4ea4-922e-0d8a1aafd770
 
-----field----
-field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
-name: Question
-key: question
-content-length: 87
-
-How do I complete the Online Banking Enrollment Section VI - Customer Acknowledgement? 
-----field----
-field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
-name: Answer
-key: answer
-content-length: 178
-
-<span style="color: #4f4f4f;">Authorized account signers for the account must sign and date the Online Banking system Enrollment Form for Personal and Business Account(s).</span>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -42,7 +28,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170331T001927Z
+20170331T002021Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -56,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0cfa574c-02ad-4029-b3a0-c822150d72fd
+f8ce37d5-4487-4ea4-922e-0d8a1aafd770
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T001952Z
+20170331T002021Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
