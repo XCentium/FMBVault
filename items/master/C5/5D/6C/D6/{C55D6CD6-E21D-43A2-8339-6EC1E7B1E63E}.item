@@ -13,8 +13,38 @@ created: 20170331T001407:636265160474670000
 ----version----
 language: en
 version: 1
-revision: e64e1b93-e090-4840-9fcd-f059f432687e
+revision: f30ceb8c-9454-400b-b0ee-c048ee1d6ea8
 
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 90
+
+How do I complete the Online Banking Enrollment Section I - Personal Customer Information?
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 617
+
+Enter the full name of each applicant.<br>
+<br>
+Enter the email address of each applicant.<br>
+<br>
+Enter the street address of the primary account holder.<br>
+<br>
+Enter the apartment # or suite # of the primary account holder (if applicable).<br>
+<br>
+Enter the city name of the primary account holder address.<br>
+<br>
+Enter the state name of the primary account holder address.<br>
+<br>
+Enter the zip code number of the primary account holder address.<br>
+<br>
+Enter the home phone of the primary account holder including area code.<br>
+<br>
+Enter the work phone of the primary account holder including area code.
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -49,14 +79,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e64e1b93-e090-4840-9fcd-f059f432687e
+f30ceb8c-9454-400b-b0ee-c048ee1d6ea8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T001414Z
+20170331T001440Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
