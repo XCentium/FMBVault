@@ -154,7 +154,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: 1f303a88-1eef-42a3-a6b9-873ac50f9061
+revision: 519ec217-5207-4081-9edd-08c0ec0aa2fc
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -167,21 +167,20 @@ Security
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 3453
+content-length: 3209
 
-<h2>Reporting Fraud - REPORT ASAP</h2>
+<h2>Reporting Fraud</h2>
 <ul>
     <li>Think You Are a Victim of Fraud?<br>
     Please call our Fraud Support Hotline at (562) 344-2350.</li>
 </ul>
 <h2>Reporting Suspicious Email</h2>
 <ul>
-    <li>Reporting Suspicious Information - Are you receiving suspicious information such as e-mails requesting your online banking User ID and password, ATM Pin, or telling you your Debit Card has been deactivated? Have you received any other security notices or information you think may be suspect?</li>
+    <li>Reporting Suspicious Information - Are you receiving suspicious information such as e-mails requesting your online banking User ID and password, ATM PIN, or telling you your Debit Card has been deactivated? Have you received any other security notices or information you think may be suspect?<sup>2</sup></li>
 </ul>
 <h2>Web Browser Security</h2>
 <ul>
-    <li><strong>Online Security with Trusteer</strong> - Farmers &amp; Merchants Bank makes use of industry leading technologies and practices to ensure maximum safeguarding of your personal information online. <a href="~/link.aspx?_id=5B5D4FDFD8DD4723AC8C3F940CF771B8&amp;_z=z">Click here to learn more</a>.</li>
-    <li>Privacy</li>
+    <li><a href="~/link.aspx?_id=6119F1FAD5E14680A2DB01C1949DA4E0&amp;_z=z">Privacy</a></li>
 </ul>
 <h2>Common Types of Fraud</h2>
 <ul>
@@ -270,21 +269,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1f303a88-1eef-42a3-a6b9-873ac50f9061
+519ec217-5207-4081-9edd-08c0ec0aa2fc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T175310Z
+20170331T180354Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
