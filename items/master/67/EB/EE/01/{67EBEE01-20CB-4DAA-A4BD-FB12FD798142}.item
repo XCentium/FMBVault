@@ -20,7 +20,7 @@ content-length: 4
 ----version----
 language: en
 version: 1
-revision: 423b8123-e472-4d2b-a2f3-56ca8d706a48
+revision: b88e0817-88f3-4f50-9bb0-5c23b6442592
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -33,7 +33,7 @@ content-length: 29
 field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
 name: Answer
 key: answer
-content-length: 1477
+content-length: 1539
 
 <ol>
     <li>Before you begin, properly endorse your check. The endorsement should read: "For Deposit Only to FMB Account of ." See example below.<img height="653" alt="Back of Check Image" width="382" src="-/media/9C9F8CCBD686480190B8C2CA9B4DADC6.ashx"></li>
@@ -44,8 +44,8 @@ content-length: 1477
     <li>Place your check on a dark, well-lit, flat surface.</li>
     <li>Select either the "Front" or "Back" camera icon to take a photo of your check.</li>
     <li>Align the check image with the camera's viewfinder frame. Be sure to take a photo of the side of the check that matches the helper text "Front" or "Back" in the viewfinder.</li>
-    <li>For Apple&reg; devices: Tap the camera icon in the viewfinder to take the picture. If the preview looks correct, select "Use Photo" or select "Retake" to try again.</li>
-    <li>For Android&reg; smartphones: Tap the camera icon in the viewfinder to take the picture. If the preview looks correct, select the "ચ" or select "↺?" to try again.</li>
+    <li>For Apple<sup>&reg;</sup> devices: Tap the camera icon in the viewfinder to take the picture. If the preview looks correct, select "Use Photo" or select "Retake" to try again.</li>
+    <li>For Android<span style="font-size: 13px;"><sup>TM</sup></span>&nbsp;smartphones: Tap the camera icon in the viewfinder to take the picture. If the preview looks correct, select the "ચ" or select "↺?" to try again.</li>
     <li>After you have successfully taken photos of your check, you will see it on a small thumbnail preview of the image on the Check Deposit screen.</li>
     <li>After all the required fields are completed, select Make Deposit.</li>
     <li>Review your entries and select Confirm to complete the deposit.</li>
@@ -84,18 +84,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-423b8123-e472-4d2b-a2f3-56ca8d706a48
+b88e0817-88f3-4f50-9bb0-5c23b6442592
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170217T222351Z
+20170331T215017Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
