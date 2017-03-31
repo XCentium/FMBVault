@@ -13,7 +13,7 @@ created: 20170213T194243:636226117638030000
 ----version----
 language: en
 version: 1
-revision: db299325-1987-4cc4-a31e-641c9c5bafce
+revision: 226369f3-7c9a-415c-a5f6-b0ae9d3e9435
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,15 +26,15 @@ Merchant Services
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 1373
+content-length: 1415
 
 <p>Accept credit card payments and increase your revenue by providing your customers with a variety of credit card payment options. Merchant Services allow you to accept credit card payments from major credit cards, debit cards, and even gift cards. We also offer check verification and warranty. Whether you're attracted by our competitive rates or our customer service, we're here to personally guide you through credit card processing from setting up an account to handling your first credit card transaction. What are you waiting for?</p>
 <p>Benefits of Merchant Services with F&amp;M:</p>
 <ul>
     <li>Competitive credit card processing rates</li>
     <li>No cancellation fees</li>
-    <li>Flexibility of processing options – Point-of-Sale (POS), Computer, or Internet</li>
-    <li>Access to latest mobile credit card processing technology - iPhone®, iPad® and Android™ compatible card-swiping devices</li>
+    <li>Flexibility of processing options &ndash; Point-of-Sale (POS), Computer, or Internet</li>
+    <li>Access to latest mobile credit card processing technology - iPhone<sup>&reg;</sup>, iPad<sup>&reg;</sup> and Android&trade; compatible card-swiping devices</li>
     <li>Secure payment processing technology</li>
     <li>Full-service set-up and support by local F&amp;M service personnel</li>
 </ul>
@@ -95,14 +95,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-db299325-1987-4cc4-a31e-641c9c5bafce
+226369f3-7c9a-415c-a5f6-b0ae9d3e9435
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170222T204425Z
+20170331T230426Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

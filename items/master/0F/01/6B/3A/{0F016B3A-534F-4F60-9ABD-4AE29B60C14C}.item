@@ -13,15 +13,15 @@ created: 20170213T195041:636226122416400000
 ----version----
 language: en
 version: 1
-revision: 01407d70-6017-4793-a392-1f7d75416801
+revision: dc447082-39d4-4142-bbfe-5e6179918395
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 130
+content-length: 172
 
-Phone® and iPad® are trademarks of Apple, Inc., registered in the U.S. and other countries. Android™ is a trademark of Google, Inc
+iPhone<sup>&reg;&nbsp;</sup>and iPad<sup>&reg;</sup> are trademarks of Apple, Inc., registered in the U.S. and other countries. Android&trade; is a trademark of Google, Inc
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,21 +49,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-01407d70-6017-4793-a392-1f7d75416801
+dc447082-39d4-4142-bbfe-5e6179918395
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170216T180009Z
+20170331T230427Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 11
+content-length: 12
 
-fmb\hahmady
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
