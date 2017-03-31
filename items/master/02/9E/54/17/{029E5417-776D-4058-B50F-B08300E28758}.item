@@ -20,7 +20,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: d3b180cc-c38e-4a11-b1fa-fd46c2153327
+revision: eea625e3-70b0-4452-9b30-224123d7c423
 
 ----field----
 field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
@@ -33,13 +33,13 @@ content-length: 57
 field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
 name: Answer
 key: answer
-content-length: 335
+content-length: 368
 
 You must download and install the latest version of the FMB-Mobile App. Older mobile phones and devices without a camera are not supported. Eligible phones include:
 <ol>
-    <li>iPhone&reg; (3G or higher) with iOS 4.0 or higher.</li>
-    <li>iPad&reg; with camera functionality.</li>
-    <li>AndroidTM Phones (2.1 or higher)</li>
+    <li>iPhone<sup>&reg;</sup> (3G or higher) with iOS 4.0 or higher.</li>
+    <li>iPad<sup>&reg;</sup> with camera functionality.</li>
+    <li>Android<sup>TM</sup> Phones (2.1 or higher)</li>
 </ol>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -75,18 +75,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d3b180cc-c38e-4a11-b1fa-fd46c2153327
+eea625e3-70b0-4452-9b30-224123d7c423
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170217T221359Z
+20170331T214156Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
