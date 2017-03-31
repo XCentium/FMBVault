@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 5f775820-db1c-47cc-a8bd-703915c8a0d5
+revision: 2dee1a3b-9630-467b-907e-de983288a552
 
 ----field----
 field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
@@ -68,9 +68,9 @@ Farmers & Merchants Bank Completes Branch Transformation in Fullerton
 field: {3437EAAC-6EE8-460B-A33D-DA1F714B5A93}
 name: NewsImage
 key: newsimage
-content-length: 123
+content-length: 0
 
-<image mediaid="{59FEF6BC-06A9-4C64-964A-CBD4D4977F39}" alt="Fullerton Reopening" height="" width="" hspace="" vspace="" />
+
 ----field----
 field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
 name: NewsSummary
@@ -137,14 +137,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5f775820-db1c-47cc-a8bd-703915c8a0d5
+2dee1a3b-9630-467b-907e-de983288a552
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170328T222441Z
+20170331T234717Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
