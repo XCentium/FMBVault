@@ -7741,6 +7741,41 @@ content-length: 4
 
 1876
 ----field----
+field: {327878C4-28C8-4E71-8914-5DE34E00E716}
+name: Artist
+key: artist
+content-length: 7
+
+unknown
+----field----
+field: {90A6FE48-F3E0-42F3-A18A-EDAA7DB9CA57}
+name: DateTime
+key: datetime
+content-length: 19
+
+2015:08:24 18:44:50
+----field----
+field: {7798CD59-76DC-4869-8BDA-2952A64B8687}
+name: Make
+key: make
+content-length: 5
+
+Canon
+----field----
+field: {1A25C485-C7F4-4488-AD5A-B8D72E4A66DF}
+name: Model
+key: model
+content-length: 13
+
+Canon EOS 20D
+----field----
+field: {B0145335-8735-414B-9169-A1D4E4DC9641}
+name: Software
+key: software
+content-length: 29
+
+Adobe Photoshop CS3 Macintosh
+----field----
 field: {C06867FE-9A43-4C7D-B739-48780492D06F}
 name: Extension
 key: extension
@@ -7778,7 +7813,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: a03ae15d-c9a9-4a6a-8a59-3a2b8a528254
+revision: d4c0a7ae-c147-4865-b863-2cc191cd9475
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -7807,7 +7842,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a03ae15d-c9a9-4a6a-8a59-3a2b8a528254
+d4c0a7ae-c147-4865-b863-2cc191cd9475
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
