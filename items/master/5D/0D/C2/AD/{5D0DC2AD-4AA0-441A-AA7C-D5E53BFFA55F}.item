@@ -13,8 +13,17 @@ created: 20170401T001220:636266023401900000
 ----version----
 language: en
 version: 1
-revision: 5ed00a5d-0f1e-48b6-b05b-b717e2d64e37
+revision: 07391c40-7580-4daa-b1ec-bf519aa72a18
 
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 110
+
+<h3>Long Beach Symphony presents:</h3>
+<h1>Up All Night: Music of the &lsquo;80s</h1>
+<h2>May 13, 8:00 pm</h2>
 ----field----
 field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
 name: MediaImage
@@ -49,14 +58,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5ed00a5d-0f1e-48b6-b05b-b717e2d64e37
+07391c40-7580-4daa-b1ec-bf519aa72a18
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170401T001241Z
+20170401T001749Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
