@@ -13,18 +13,17 @@ created: 20170401T001140:636266023007970000
 ----version----
 language: en
 version: 1
-revision: 8ad61902-c178-4d94-9618-c96507b1438c
+revision: 599aef5f-cd47-4fe1-af70-25dabdb3e924
 
 ----field----
 field: {302C9F8D-F703-4F76-A4AB-73D222648232}
 name: MediaDescription
 key: mediadescription
-content-length: 166
+content-length: 157
 
-<p>Pacific Symphony presents:</p>
-<p>Carnival of the Animals<br>
-April 29, 10:00 am &nbsp;| &nbsp;Ren&eacute;e and Henry Segerstrom Concert Hall</p>
-<div>&nbsp;</div>
+<h3>Pacific Symphony presents:</h3>
+<h1>Carnival of the Animals</h1>
+<h2>April 29, 10:00 am &nbsp;| &nbsp;Ren&eacute;e and Henry Segerstrom Concert Hall</h2>
 ----field----
 field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
 name: MediaImage
@@ -59,14 +58,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8ad61902-c178-4d94-9618-c96507b1438c
+599aef5f-cd47-4fe1-af70-25dabdb3e924
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170401T001455Z
+20170401T001612Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
