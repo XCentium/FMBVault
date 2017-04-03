@@ -30,17 +30,14 @@ content-length: 437
 field: {FD0DEC96-B220-4196-B544-68B11EEE727A}
 name: Css inline
 key: css inline
-content-length: 163
+content-length: 2
 
-<style type="text/css">
-a#bbblink img { top: 50% !important; }
-div[class='col-md-12'] .rating-widget .rating-list li { text-align: left !important; }
-</style>
+
 
 ----version----
 language: en
 version: 1
-revision: f570f7d7-fe0b-4649-a52c-ff2a393347b8
+revision: 96cdf907-8d23-4e1b-8a68-33ad3bf80b06
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -97,14 +94,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f570f7d7-fe0b-4649-a52c-ff2a393347b8
+96cdf907-8d23-4e1b-8a68-33ad3bf80b06
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T210239Z
+20170403T210604Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
