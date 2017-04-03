@@ -33,7 +33,7 @@ key: css inline
 content-length: 336
 
 <style>
-#ratingsHomeWrapper { padding-top: 20px; padding-bottom: 20px; }
+#ratingsHomeWrapper { padding-top: 20px; padding-bottom: 15px; }
 #ratingsHomeWrapper h2 { font-size: 36px; }
 #ratingsHomeWrapper .col-xs-3:first-child {border-right: 2px solid #ddd;}
 #bbblink{ margin: 0 auto !important; }
@@ -43,7 +43,7 @@ content-length: 336
 ----version----
 language: en
 version: 1
-revision: 0c77adb7-39ab-4ab7-b5ba-f132932fba4c
+revision: 97213ded-cded-4815-90ec-2e34afc3997f
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -100,14 +100,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0c77adb7-39ab-4ab7-b5ba-f132932fba4c
+97213ded-cded-4815-90ec-2e34afc3997f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T211705Z
+20170403T211807Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
