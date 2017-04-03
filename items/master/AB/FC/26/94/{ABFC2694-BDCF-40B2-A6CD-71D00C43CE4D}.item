@@ -120,15 +120,15 @@ fmb\mlangdon
 ----version----
 language: en
 version: 2
-revision: d6fac86f-081c-4e2e-a11f-7f98a2fb2f6e
+revision: 42eced55-e19c-4126-bd48-82db7fa7026a
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
 name: Title
 key: title
-content-length: 9
+content-length: 38
 
-Thank You
+Thank You for Joining our Mailing List
 ----field----
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
@@ -201,14 +201,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d6fac86f-081c-4e2e-a11f-7f98a2fb2f6e
+42eced55-e19c-4126-bd48-82db7fa7026a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T175923Z
+20170403T175934Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
