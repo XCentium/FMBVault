@@ -216,7 +216,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 78bd02f3-9547-441d-85c3-6c2727256ab7
+revision: df27740f-7200-442f-bdd1-ad43af62b6b3
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -236,7 +236,7 @@ Compare a Gold Checking Account with 10x Annual Percentage Yield | F&M
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 6784
+content-length: 6903
 
 <img class="img-responsive" style="width: 700px;" alt="Business Checking Header" src="-/media/88250632D60847539D10ABBC210CF761.ashx?w=700&amp;hash=F43E5B6E84B95594377C9005A6FB7A067C3AA789">
 <div id="no-more-tables" style="background-color: #005334;">
@@ -248,16 +248,16 @@ content-length: 6784
         <tr>
             <th class="column-headers" style="width: 135px;">Bank</th>
             <th class="goldSection" style="color: #005334; background-color: #cca44a; width: 190px; text-align: center;"><img style="height: 69px; width: 73px;" alt="F&amp;M Bank Logo" src="-/media/1E6A113B272C46CB9D5591DA7DFD70CF.ashx?h=69&amp;w=73&amp;hash=07572488284188DA25E5B07E24C45ECF09004144"><span>1</span></th>
-            <th class="top-Header" style="text-align: center;">Union Bank<span><small>2</small></span></th>
+            <th class="top-Header" style="text-align: center;">Union Bank<small><sup><span style="font-size: 13px;">2</span></sup></small></th>
             <th class="top-Header" style="text-align: center;">Bank of the<br>
-            West<span><small>2</small></span></th>
+            West<small><sup><span style="font-size: 13px;">2</span></sup></small></th>
         </tr>
         <tr>
             <td class="column-headers" style="height: 35px; width: 135px; text-align: left;">Business Checking<br>
             Product Name</td>
             <td class="goldSection" style="color: #005334; background-color: #cca44a; height: 35px; width: 190px; text-align: center;">Business<br>
             Checking<br>
-            Non-Analyzed<span>1</span></td>
+            Non-Analyzed<span style="font-size: 13px;"><sup>1</sup></span></td>
             <td class="numeric" style="height: 35px; text-align: center;">Business Basics<br>
             Checking</td>
             <td class="numeric" style="height: 35px; text-align: center;">Classic Business<br>
@@ -265,8 +265,8 @@ content-length: 6784
         </tr>
         <tr>
             <td class="column-headers" style="height: 35px; width: 135px; text-align: left;">Minimum<br>
-            opening<br>
-            balance</td>
+            Opening<br>
+            Balance</td>
             <td class="goldSection" style="color: #005334; background-color: #cca44a; height: 35px; width: 190px; text-align: center;">$200</td>
             <td class="numeric" style="height: 35px; text-align: center;">$100</td>
             <td class="numeric" style="height: 35px; text-align: center;">$100</td>
@@ -275,7 +275,7 @@ content-length: 6784
             <td class="column-headers" style="height: 35px; width: 135px; text-align: left;">Monthly Minimum<br>
             Balance Fee</td>
             <td class="goldSection" style="color: #005334; background-color: #cca44a; height: 35px; width: 190px; text-align: center;">$10.00</td>
-            <td class="numeric" style="height: 35px; text-align: center;">$7.00<span>3</span></td>
+            <td class="numeric" style="height: 35px; text-align: center;">$7.00<span><sup>3</sup></span></td>
             <td class="numeric" style="height: 35px; text-align: center;">$10.00</td>
         </tr>
         <tr>
@@ -379,21 +379,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-78bd02f3-9547-441d-85c3-6c2727256ab7
+df27740f-7200-442f-bdd1-ad43af62b6b3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T182447Z
+20170403T202243Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mliwanag
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
