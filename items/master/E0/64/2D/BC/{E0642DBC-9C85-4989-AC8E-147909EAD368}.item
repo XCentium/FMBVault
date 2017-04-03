@@ -217,7 +217,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: bf17b187-8b0c-409f-8805-00e6d2f2abe3
+revision: 075cbdda-0928-478b-9105-ae608f9b0c8a
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -237,9 +237,9 @@ content-length: 0
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 6481
+content-length: 6586
 
-<img class="img-responsive" alt="Money Mar" src="-/media/2BE6926CC28B4A468C53FE5158FEF2DC.ashx?h=250&amp;w=700" height="250" width="700" style="height: 250px; width: 700px;">
+<img class="img-responsive" alt="Money Mar" src="-/media/2BE6926CC28B4A468C53FE5158FEF2DC.ashx?h=250&amp;w=700&amp;hash=DF86FAF959696FC9F63D786A4FE1485EB59BB075" style="height: 250px; width: 700px;">
 <div id="no-more-tables" style="color: #000000; font-family: sans-serif; font-size: 16px;">
 <table class="col-md-12 table-bordered table-condensed cf" style="top: -1px; left: 1px; width: 100%;">
     <tbody>
@@ -248,7 +248,7 @@ content-length: 6481
         </tr>
         <tr>
             <th class="column-headers">Bank</th>
-            <th class="goldSection"><img style="height: 63px; width: 67px;" alt="F&amp;M Bank Logo" src="-/media/1E6A113B272C46CB9D5591DA7DFD70CF.ashx?h=63&amp;w=67"><span style="position: relative; font-size: 12px; line-height: 0; vertical-align: baseline; top: -0.5em;">1</span></th>
+            <th class="goldSection"><img style="height: 63px; width: 67px;" alt="F&amp;M Bank Logo" src="-/media/1E6A113B272C46CB9D5591DA7DFD70CF.ashx?h=63&amp;w=67&amp;hash=F83D18C58B56CC5750181327356E3A9D55435DEF"><span style="position: relative; font-size: 12px; line-height: 0; vertical-align: baseline; top: -0.5em;">1</span></th>
             <th class="top-Header">California Bank &amp; Trust<span style="position: relative; font-size: 12px; line-height: 0; vertical-align: baseline; top: -0.5em;">2</span></th>
             <th class="top-Header">Union Bank<span style="position: relative; font-size: 12px; line-height: 0; vertical-align: baseline; top: -0.5em;">2</span></th>
             <th class="top-Header">US Bank<span style="position: relative; font-size: 12px; line-height: 0; vertical-align: baseline; top: -0.5em;">2</span></th>
@@ -264,8 +264,8 @@ content-length: 6481
         </tr>
         <tr>
             <td class="column-headers">Minimum&nbsp;<br>
-            opening&nbsp;<br>
-            balance</td>
+            Opening&nbsp;<br>
+            Balance</td>
             <td class="goldSection">$100</td>
             <td class="numeric">$2,500</td>
             <td class="numeric">$2,500</td>
@@ -288,18 +288,18 @@ content-length: 6481
         </tr>
         <tr>
             <td class="column-headers">Minimum&nbsp;<br>
-            balance fee&nbsp;<br>
+            Balance Fee&nbsp;<br>
             <small style="font-size: 11.05px;">(Per month)</small></td>
             <td class="goldSection">$7.00</td>
             <td class="numeric">$7.00</td>
-            <td class="numeric">$10.00<span style="position: relative; font-size: 9px; line-height: 0; vertical-align: baseline; top: -0.5em;">3</span></td>
+            <td class="numeric">$10.00<span style="position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size: 13px;">3</span></td>
             <td class="numeric">$10.00</td>
         </tr>
         <tr>
             <td class="column-headers">Requirements<br>
-            to avoid<br>
-            minimum&nbsp;<br>
-            balance fee</td>
+            to Avoid<br>
+            Minimum&nbsp;<br>
+            Balance Fee</td>
             <td class="goldSection">Maintain $2,500&nbsp;<br>
             minimum daily<br>
             balance</td>
@@ -312,7 +312,7 @@ content-length: 6481
 </div>
 <div class="row" style="color: #000000; font-family: sans-serif; font-size: 16px;">
 <div class="col-md-12" style="top: -1px; left: 1px; width: 659.156px;">
-<p class="landingpagetext-disclosures"><small style="font-size: 11.05px;">1. Farmers &amp; Merchants Bank annual percentage yield (APY) is accurate as of 3/10/2017 and based on an account balance of $10,000. Interest rate and APY are subject to change after the account is opened. Fees could reduce earnings on the account. Interest accrues daily and is paid to the account monthly. If the account is closed before interest is paid, the accrued interest will not be credited. Federal law limits certain types of withdrawals and transfers from your F&amp;M Money Market Account to six (6) transactions per month. Please refer to your account agreement and disclosures or ask our office staff or refer to our Services &amp; Fees document on fmb.com for details. Terms and Conditions may apply. Account features and benefits are subject to change with or without notice.&nbsp;<br>
+<p class="landingpagetext-disclosures" style="text-align: justify;"><small style="font-size: 11.05px;">1. Farmers &amp; Merchants Bank annual percentage yield (APY) is accurate as of 3/10/2017 and based on an account balance of $10,000. Interest rate and APY are subject to change after the account is opened. Fees could reduce earnings on the account. Interest accrues daily and is paid to the account monthly. If the account is closed before interest is paid, the accrued interest will not be credited. Federal law limits certain types of withdrawals and transfers from your F&amp;M Money Market Account to six (6) transactions per month. Please refer to your account agreement and disclosures or ask our office staff or refer to our Services &amp; Fees document on fmb.com for details. Terms and Conditions may apply. Account features and benefits are subject to change with or without notice.&nbsp;<br>
 <br>
 2. Annual Percentage Yield (APY) and account fees and feature information for each institution is provided by Informa Research Services, Calabasas, CA, www.informars.com. Although the information has been obtained from the various institutions themselves, the accuracy cannot be guaranteed by Informa Research Services or Farmers &amp; Merchants Bank. Data provided as of 3/10/2017 and may change at any time. All APYs in the comparison table are applicable for the specified money market product based on a balance of $10,000.&nbsp;<br>
 <br>
@@ -385,21 +385,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bf17b187-8b0c-409f-8805-00e6d2f2abe3
+075cbdda-0928-478b-9105-ae608f9b0c8a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T182435Z
+20170403T203531Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mliwanag
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
