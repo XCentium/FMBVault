@@ -245,7 +245,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 915a90a0-7326-453c-b73a-d2c0829b2a67
+revision: 9a792d98-c145-46ef-b96c-ebbc8f222c4f
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -265,7 +265,7 @@ Compare a Gold Checking Account with 10x Annual Percentage Yield | F&M
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 6605
+content-length: 6666
 
 <img alt="" class="img-responsive img-header" src="-/media/DE403FAE49B54C54935C519AAABA9674.ashx">
 <div id="no-more-tables">
@@ -293,9 +293,9 @@ content-length: 6605
         <tr>
             <td class="column-headers">Minimum
             <br>
-            opening
+            Opening
             <br>
-            balance</td>
+            Balance</td>
             <td class="goldSection">$100</td>
             <td class="numeric">No minimum</td>
             <td class="numeric">$50.00</td>
@@ -307,7 +307,7 @@ content-length: 6605
             <td class="numeric">$18.00<sup>3</sup></td>
         </tr>
         <tr>
-            <td class="column-headers">Ways to Waive monthly
+            <td class="column-headers">Ways to Waive Monthly
             <br>
             Service Charge
             <br>
@@ -367,7 +367,7 @@ content-length: 6605
             for 1 year upon request.<br>
             <small>based upon availability </small>
             </td>
-            <td class="goldSection">1 box, up to $60</td>
+            <td class="goldSection">1 box, up to $60.00</td>
             <td class="numeric">
             <img alt="" class="red-x" src="-/media/D73B4A67732B43AEB8E515C60C3ED40A.ashx"></td>
             <td class="numeric">
@@ -376,9 +376,9 @@ content-length: 6605
     </tbody>
 </table>
 </div>
-<div class="row">
+<div class="row" style="text-align: justify;">
 <div class="col-md-12">
-<p class="landingpagetext-disclosures">
+<p class="landingpagetext-disclosures" style="text-align: justify;">
 <small>1. Farmers &amp; Merchants Bank annual percentage yield (APY) is accurate as of 03/10/2017. Terms and the APY may
 change at any time without prior notice. Fees could reduce earnings on the account. Competitive variable rate; interest accrues daily and is paid to the account monthly. If the account is closed before interest is paid, the accrued interest will not be credited. For account details and deposit interest rates, please visit fmb.com, ask our office staff, or refer to the account agreement and disclosures provided at time of opening. Please refer to Services and Fees on fmb.com/ fees for additional details. Terms and Conditions may apply. Account features and benefits are subject to change with or without notice.
 <br>
@@ -443,21 +443,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-915a90a0-7326-453c-b73a-d2c0829b2a67
+9a792d98-c145-46ef-b96c-ebbc8f222c4f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T182529Z
+20170403T222326Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mliwanag
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
