@@ -120,7 +120,7 @@ fmb\mlangdon
 ----version----
 language: en
 version: 2
-revision: 96427157-3942-4337-8f94-8eeeae9f851a
+revision: 4065ca8e-c05b-4cbf-8c92-2b0c194322a8
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -133,16 +133,9 @@ Thank You
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 1144
+content-length: 690
 
-<h2>Thank you for your recent inquiry. A member of our team will contact you shortly to see how we can help you.</h2>
-A few items you'll need to have handy when opening your account:<br>
-<ol>
-    <li>Two forms of identification: Primary - Drivers License, Military ID, Passport, and Secondary: Debit Card, and/or Credit Card</li>
-    <li>Your social security number.</li>
-</ol>
-For Business Accounts, please call your closest office to discuss the required business documentation.<br>
-<div>&nbsp;</div>
+<h2>Thank you for joining our mailing list.</h2>
 <h2>Did you know?</h2>
 With 110 years of experience, F&amp;M Bank was founded on the values of Honesty, Integrity, the Home, Church and Service Above Self.
 <ul>
@@ -209,14 +202,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-96427157-3942-4337-8f94-8eeeae9f851a
+4065ca8e-c05b-4cbf-8c92-2b0c194322a8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170330T181806Z
+20170403T175829Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
