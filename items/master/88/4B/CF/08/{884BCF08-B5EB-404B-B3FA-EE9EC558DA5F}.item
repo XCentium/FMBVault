@@ -216,7 +216,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: df27740f-7200-442f-bdd1-ad43af62b6b3
+revision: 3378c421-869f-4fcb-992f-07bdb8933799
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -236,7 +236,7 @@ Compare a Gold Checking Account with 10x Annual Percentage Yield | F&M
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 6903
+content-length: 6946
 
 <img class="img-responsive" style="width: 700px;" alt="Business Checking Header" src="-/media/88250632D60847539D10ABBC210CF761.ashx?w=700&amp;hash=F43E5B6E84B95594377C9005A6FB7A067C3AA789">
 <div id="no-more-tables" style="background-color: #005334;">
@@ -291,7 +291,7 @@ content-length: 6903
             or $5,000 monthly<br>
             average combined<br>
             balance</td>
-            <td class="numeric" style="height: 35px; text-align: center;">Maintain $3000<br>
+            <td class="numeric" style="height: 35px; text-align: center;">Maintain $3,000<br>
             minimum daily<br>
             balance, or $6,000<br>
             combined average<br>
@@ -331,9 +331,9 @@ content-length: 6903
     </tbody>
 </table>
 </div>
-<div class="row" style="background-color: #005334; margin-right: -15px; margin-left: -15px;">
+<div class="row" style="background-color: #005334; margin-right: -15px; margin-left: -15px; text-align: justify;">
 <div class="col-md-12" style="width: 659.156px; padding-right: 15px; padding-left: 15px;">
-<p class="landingpagetext-disclosures" style="color: #ffffff; margin-top: 50px; margin-bottom: 10px;"><small>1. For account details, please visit fmb.com/fees, ask our office staff, or refer to the account agreement and disclosures provided at time of opening. Terms and conditions apply.&nbsp;<br>
+<p class="landingpagetext-disclosures" style="color: #ffffff; margin-top: 50px; margin-bottom: 10px; text-align: justify;"><small>1. For account details, please visit fmb.com/fees, ask our office staff, or refer to the account agreement and disclosures provided at time of opening. Terms and conditions apply.&nbsp;<br>
 2. Checking account fee and feature information for each institution is provided by Informa Research Services, Calabasas, CA, www.informars.com. Although the information has been obtained from the various institutions themselves, the accuracy cannot be guaranteed by Informa Research Services or Farmers &amp; Merchants Bank. Data provided as of 03/10/2017 and may change at any time.&nbsp;<br>
 3. $5.00 per month for customers with e-statements.</small></p>
 </div>
@@ -379,14 +379,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-df27740f-7200-442f-bdd1-ad43af62b6b3
+3378c421-869f-4fcb-992f-07bdb8933799
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T202243Z
+20170403T202612Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
