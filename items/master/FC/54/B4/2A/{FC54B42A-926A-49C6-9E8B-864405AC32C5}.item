@@ -14,17 +14,18 @@ created: 20170403T213309:636268519896670000
 field: {FD0DEC96-B220-4196-B544-68B11EEE727A}
 name: Css inline
 key: css inline
-content-length: 236
+content-length: 277
 
 <style>
 #moreInfoHeader .sectionHeader {
+margin-bottom: 10px;
     font-size: 63px;
     text-transform: uppercase;
     text-shadow: 2px 1px 1px #333;
 color:#005334;
 }
 #moreInfoHeader p {
-color: #000; font-size: 20px; margin-bottom: 25px;
+color: #000; font-size: 20px; margin-bottom: 25px; font-weight: bold;
 }
 </style>
 ----field----
@@ -37,18 +38,18 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 07492138-b828-49f1-a885-a43c55ae00f9
+revision: 20b82189-f948-47a4-9ea4-adb532a3be56
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 130
+content-length: 132
 
 <div id="moreInfoHeader">
-<p class="sectionHeader">
+<h2 class="sectionHeader">
 Thinking about becoming a client?
-</p>
+</h2>
 <p>Request more information.</p>
 </div>
 ----field----
@@ -78,14 +79,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-07492138-b828-49f1-a885-a43c55ae00f9
+20b82189-f948-47a4-9ea4-adb532a3be56
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T213920Z
+20170403T213955Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
