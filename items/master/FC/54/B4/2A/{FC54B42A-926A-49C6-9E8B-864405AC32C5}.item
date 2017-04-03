@@ -14,7 +14,7 @@ created: 20170403T213309:636268519896670000
 field: {FD0DEC96-B220-4196-B544-68B11EEE727A}
 name: Css inline
 key: css inline
-content-length: 160
+content-length: 236
 
 <style>
 #moreInfoHeader .sectionHeader {
@@ -22,6 +22,9 @@ content-length: 160
     text-transform: uppercase;
     text-shadow: 2px 1px 1px #333;
 color:#005334;
+}
+#moreInfoHeader p {
+color: #000; font-size: 20px; margin-bottom: 15px;
 }
 </style>
 ----field----
@@ -34,7 +37,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 7881f290-476c-400a-85f9-8ebaae53acfe
+revision: cabca3f6-1455-4a9b-b0da-41059f7566cb
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
@@ -75,14 +78,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7881f290-476c-400a-85f9-8ebaae53acfe
+cabca3f6-1455-4a9b-b0da-41059f7566cb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T213554Z
+20170403T213846Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
