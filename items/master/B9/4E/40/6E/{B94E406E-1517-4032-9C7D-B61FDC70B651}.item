@@ -40,7 +40,7 @@ div[class='col-md-12'] .rating-widget .rating-list li { text-align: left !import
 ----version----
 language: en
 version: 1
-revision: 2507b430-fee6-4bba-9265-d89114b210f9
+revision: c8bba126-f87b-4208-9777-e965eb058638
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -53,9 +53,9 @@ Ratings
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 1484
+content-length: 1494
 
-<div class="gray-box">
+<div class="gray-box container">
 <div class="col-xs-3" style="border-right: 1px solid #dddddd;">
 <h2>F&amp;M Ratings</h2>
 </div>
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2507b430-fee6-4bba-9265-d89114b210f9
+c8bba126-f87b-4208-9777-e965eb058638
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T205710Z
+20170403T210014Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
