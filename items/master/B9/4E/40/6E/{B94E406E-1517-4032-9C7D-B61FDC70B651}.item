@@ -46,14 +46,14 @@ content-length: 595
 }
 
 @media only screen and (max-width : 480px) {
-#ratingsHomeWrapper h2 { font-size: 20px; }
+#ratingsHomeWrapper h2 { font-size: 24px; }
 #ratingsHomeWrapper .col-xs-12:first-child {border-right: none;}
 }
 </style>
 ----version----
 language: en
 version: 1
-revision: 96db0713-fe8e-4592-94aa-eda3bc2f62cb
+revision: ad8c4d12-7071-4fed-a598-c657f139f897
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-96db0713-fe8e-4592-94aa-eda3bc2f62cb
+ad8c4d12-7071-4fed-a598-c657f139f897
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T234051Z
+20170403T234122Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
