@@ -26,10 +26,24 @@ content-length: 437
 <script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-sanjose.bbb.org' + unescape('%2Flogo%2Ffarmers-and-merchants-bank-41158.js') + "' type='text/javascript'%3E%3C/script%3E"));</script>
 
 <script src="https://seal-sanjose.bbb.org/logo/farmers-and-merchants-bank-41158.js" type="text/javascript"></script>
+----field----
+field: {FD0DEC96-B220-4196-B544-68B11EEE727A}
+name: Css inline
+key: css inline
+content-length: 336
+
+<style>
+#ratingsHomeWrapper { padding-top: 20px; padding-bottom: 20px; }
+#ratingsHomeWrapper h2 { font-size: 36px; }
+#ratingsHomeWrapper .col-xs-3:first-child {border-right: 2px solid #ddd;}
+#bbblink{ margin: 0 auto !important; }
+#ratingsHomeWrapper img  { margin: 0 auto; }
+#ratingsHomeWrapper table { margin: 0 auto; }
+</style>
 ----version----
 language: en
 version: 1
-revision: 66e46cb9-6fe3-4b5e-bb67-7bf7e358acb7
+revision: ca737563-9184-4cbe-bfa6-c9c961d96a9a
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -86,14 +100,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-66e46cb9-6fe3-4b5e-bb67-7bf7e358acb7
+ca737563-9184-4cbe-bfa6-c9c961d96a9a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T211551Z
+20170403T211607Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
