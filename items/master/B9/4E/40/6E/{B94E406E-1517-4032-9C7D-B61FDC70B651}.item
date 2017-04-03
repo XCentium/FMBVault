@@ -30,10 +30,10 @@ content-length: 437
 field: {FD0DEC96-B220-4196-B544-68B11EEE727A}
 name: Css inline
 key: css inline
-content-length: 617
+content-length: 616
 
 <style>
-#ratingsHomeWrapper { padding-top: 20px; padding-bottom: 15px; }
+#ratingsHomeWrapper { padding-top: 20px; padding-bottom: 5px; }
 #ratingsHomeWrapper h2 { font-size: 36px; }
 #ratingsHomeWrapper .col-xs-12:first-child {border-right: 2px solid #ddd;}
 #bbblink{ margin: 0 auto !important; }
@@ -53,7 +53,7 @@ content-length: 617
 ----version----
 language: en
 version: 1
-revision: 79ebfa62-9fed-4d64-a8e5-8a27ae9b407b
+revision: 655b6bec-f3e6-4a20-8c0e-1ed757a4f38c
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-79ebfa62-9fed-4d64-a8e5-8a27ae9b407b
+655b6bec-f3e6-4a20-8c0e-1ed757a4f38c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T234200Z
+20170403T234557Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
