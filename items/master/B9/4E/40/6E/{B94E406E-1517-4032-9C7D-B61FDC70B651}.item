@@ -46,14 +46,14 @@ content-length: 617
 }
 
 @media only screen and (max-width : 480px) {
-#ratingsHomeWrapper h2 { font-size: 24px; padding-bottom: 25px; }
+#ratingsHomeWrapper h2 { font-size: 24px; padding-bottom: 20px; }
 #ratingsHomeWrapper .col-xs-12:first-child {border-right: none;}
 }
 </style>
 ----version----
 language: en
 version: 1
-revision: d3be6827-7bc9-4cfb-8dd0-063443398a44
+revision: 79ebfa62-9fed-4d64-a8e5-8a27ae9b407b
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d3be6827-7bc9-4cfb-8dd0-063443398a44
+79ebfa62-9fed-4d64-a8e5-8a27ae9b407b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T234147Z
+20170403T234200Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
