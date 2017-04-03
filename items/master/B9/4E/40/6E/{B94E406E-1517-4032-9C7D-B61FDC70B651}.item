@@ -30,15 +30,19 @@ content-length: 437
 field: {FD0DEC96-B220-4196-B544-68B11EEE727A}
 name: Css inline
 key: css inline
-content-length: 62
+content-length: 259
 
 <style>
 #ratingsHomeWrapper h2 { font-size: 36px; }
+#ratingsHomeWrapper col-xs-3:first-child {border-right: 2px solid #ddd;}
+#bbblink { margin: 0 auto; }
+#ratingsHomeWrapper img  { margin: 0 auto; }
+#ratingsHomeWrapper table { margin: 0 auto; }
 </style>
 ----version----
 language: en
 version: 1
-revision: 0c5ce85e-d419-4c7b-a8e8-220260c9fb9d
+revision: 45453a34-ca5f-40ea-962e-0cafe757469a
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -51,14 +55,14 @@ Ratings
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 1503
+content-length: 1490
 
 <div id="ratingsHomeWrapper" class="container">
 <div class="col-xs-3">
 <h2>F&amp;M Ratings</h2>
 </div>
 <div class="col-xs-3">
-<a id="bbblink" class="ruhzbum" href="#" data-toggle="modal" data-target="#bbb" title="Farmers &amp; Merchants Bank is a BBB Accredited Bank in Long Beach, CA" style="padding: 0px; margin: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-sanjose.bbb.org/logo/ruhzbum/farmers-and-merchants-bank-41158.png" width="300" height="68" alt="Farmers &amp; Merchants Bank is a BBB Accredited Bank in Long Beach, CA"></a>
+<a id="bbblink" class="ruhzbum" href="#" data-toggle="modal" data-target="#bbb" title="Farmers &amp; Merchants Bank is a BBB Accredited Bank in Long Beach, CA" style="padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-sanjose.bbb.org/logo/ruhzbum/farmers-and-merchants-bank-41158.png" width="300" height="68" alt="Farmers &amp; Merchants Bank is a BBB Accredited Bank in Long Beach, CA"></a>
 </div>
 <div class="col-xs-3">
 <img alt="BAUER Ratings" class="img-responsive" src="-/media/775426286EE44A47B4A702B817B2EF41.ashx">
@@ -95,14 +99,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0c5ce85e-d419-4c7b-a8e8-220260c9fb9d
+45453a34-ca5f-40ea-962e-0cafe757469a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T210741Z
+20170403T211133Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
