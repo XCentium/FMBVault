@@ -120,7 +120,7 @@ fmb\mlangdon
 ----version----
 language: en
 version: 2
-revision: 4065ca8e-c05b-4cbf-8c92-2b0c194322a8
+revision: d6fac86f-081c-4e2e-a11f-7f98a2fb2f6e
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -133,9 +133,8 @@ Thank You
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 690
+content-length: 641
 
-<h2>Thank you for joining our mailing list.</h2>
 <h2>Did you know?</h2>
 With 110 years of experience, F&amp;M Bank was founded on the values of Honesty, Integrity, the Home, Church and Service Above Self.
 <ul>
@@ -202,14 +201,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4065ca8e-c05b-4cbf-8c92-2b0c194322a8
+d6fac86f-081c-4e2e-a11f-7f98a2fb2f6e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T175829Z
+20170403T175923Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
