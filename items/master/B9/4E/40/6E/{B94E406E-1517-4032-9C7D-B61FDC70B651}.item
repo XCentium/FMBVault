@@ -43,7 +43,7 @@ content-length: 336
 ----version----
 language: en
 version: 1
-revision: a7ac3c41-c437-4961-b759-d8634561d147
+revision: e27100c8-af45-4d3e-a697-4e06a59993e4
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -56,19 +56,19 @@ Ratings
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 1503
+content-length: 1543
 
 <div id="ratingsHomeWrapper" class="container">
-<div class="col-xs-3">
+<div class="col-xs-12 col-sm-3">
 <h2>F&amp;M Ratings</h2>
 </div>
-<div class="col-xs-3">
+<div class="col-xs-12 col-sm-3">
 <a id="bbblink" class="ruhzbum" href="#" data-toggle="modal" data-target="#bbb" title="Farmers &amp; Merchants Bank is a BBB Accredited Bank in Long Beach, CA" style="padding: 0px; margin: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-sanjose.bbb.org/logo/ruhzbum/farmers-and-merchants-bank-41158.png" width="300" height="68" alt="Farmers &amp; Merchants Bank is a BBB Accredited Bank in Long Beach, CA"></a>
 </div>
-<div class="col-xs-3">
+<div class="col-xs-12 col-sm-3">
 <img alt="BAUER Ratings" class="img-responsive" src="-/media/775426286EE44A47B4A702B817B2EF41.ashx">
 </div>
-<div class="col-xs-3">
+<div class="col-xs-12 col-sm-3">
 <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
     <tbody>
         <tr>
@@ -100,14 +100,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a7ac3c41-c437-4961-b759-d8634561d147
+e27100c8-af45-4d3e-a697-4e06a59993e4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T211950Z
+20170403T212624Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
