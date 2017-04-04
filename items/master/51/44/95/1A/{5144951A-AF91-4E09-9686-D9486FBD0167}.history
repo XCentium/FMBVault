@@ -32,9 +32,28 @@
     "itemName": "Accounts",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "78480fc68ff149f8ac725c802bd28b5c901c79b9",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{5144951A-AF91-4E09-9686-D9486FBD0167}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3283970Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
