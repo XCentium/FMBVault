@@ -32,9 +32,28 @@
     "itemName": "Flexibility",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Flexibility",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "07a0a5f8d9ab44edc48709fced28b6abe6455755",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6086F621-4A0E-4724-9D6F-EA7BA8139F57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flexibility",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Flexibility",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
