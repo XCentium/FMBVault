@@ -32,9 +32,28 @@
     "itemName": "General",
     "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/General",
     "template": "Modal Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4f38ac9e3241fe46145400bbcbb16402705773af",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F9C3F7CF-EE17-42AA-8CEE-0F511626EF9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7971497Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General",
+    "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/General",
+    "template": "Modal Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

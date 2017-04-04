@@ -32,9 +32,28 @@
     "itemName": "Credits and Loans",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans",
     "template": "Navigation Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4f38ac9e3241fe46145400bbcbb16402705773af",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B487F1D1-8FE4-4311-B283-FE9C61ED8666}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8283991Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credits and Loans",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/Credits and Loans",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

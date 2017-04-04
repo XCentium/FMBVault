@@ -32,9 +32,28 @@
     "itemName": "Press Room",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/About FM/Press Room",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4f38ac9e3241fe46145400bbcbb16402705773af",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{64D5CE1D-D06D-4D3D-A0C1-00C90C25DA4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8127962Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Press Room",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/About FM/Press Room",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Login",
     "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/Login",
     "template": "Modal Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4f38ac9e3241fe46145400bbcbb16402705773af",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1D146F47-66A8-4ABF-9607-4DBEDCF3B814}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7971497Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/content/FMBCom/Global/Modal Content/Login",
+    "template": "Modal Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
