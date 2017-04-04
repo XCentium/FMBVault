@@ -51,9 +51,28 @@
     "itemName": "Visa-Brochure",
     "itemPath": "/sitecore/media library/FMBCom/Images/General/Visa-Brochure",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "33893afe338791827a231419046595a586bc41c0",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{3B623467-303E-4469-A16B-8E22F3674D0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:46:51.3772528Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Visa-Brochure",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Visa-Brochure",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

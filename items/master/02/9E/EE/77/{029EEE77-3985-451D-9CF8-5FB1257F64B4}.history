@@ -51,9 +51,28 @@
     "itemName": "Textcommands",
     "itemPath": "/sitecore/media library/FMBCom/Images/General/Textcommands",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "33893afe338791827a231419046595a586bc41c0",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{029EEE77-3985-451D-9CF8-5FB1257F64B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:46:49.7834197Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Textcommands",
+    "itemPath": "/sitecore/media library/FMBCom/Images/General/Textcommands",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
