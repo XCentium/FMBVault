@@ -32,9 +32,28 @@
     "itemName": "The Common Reuse Principle",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/The Common Reuse Principle",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "27bb90b3b5e74a006628db40c443213665ec934f",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{5C363FAA-B7D5-4B1D-9E4F-B2699BB529AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "The Common Reuse Principle",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/The Common Reuse Principle",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
