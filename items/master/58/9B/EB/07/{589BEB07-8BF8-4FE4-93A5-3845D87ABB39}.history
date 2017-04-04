@@ -32,9 +32,28 @@
     "itemName": "Video",
     "itemPath": "/sitecore/media library/Feature/Media/Video",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f90ba5e678ef69c6ea090a879648b0254dd2b150",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{589BEB07-8BF8-4FE4-93A5-3845D87ABB39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:44:00.5221188Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Video",
+    "itemPath": "/sitecore/media library/Feature/Media/Video",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

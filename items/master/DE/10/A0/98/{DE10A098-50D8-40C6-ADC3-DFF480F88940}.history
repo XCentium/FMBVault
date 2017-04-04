@@ -32,9 +32,28 @@
     "itemName": "Video With Lightbox",
     "itemPath": "/sitecore/media library/Feature/Media/Video With Lightbox",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f90ba5e678ef69c6ea090a879648b0254dd2b150",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{DE10A098-50D8-40C6-ADC3-DFF480F88940}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:44:01.1002640Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Video With Lightbox",
+    "itemPath": "/sitecore/media library/Feature/Media/Video With Lightbox",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
