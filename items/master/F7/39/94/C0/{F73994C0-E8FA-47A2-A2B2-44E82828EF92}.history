@@ -32,9 +32,28 @@
     "itemName": "Calculators",
     "itemPath": "/sitecore/content/FMBCom/Global/Calculators",
     "template": "Calculator Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1a80cf8acd3457315aff8a10528e6a28989927f2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F73994C0-E8FA-47A2-A2B2-44E82828EF92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.2346759Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculators",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators",
+    "template": "Calculator Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
