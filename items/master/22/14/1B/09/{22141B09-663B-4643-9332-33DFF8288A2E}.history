@@ -32,9 +32,28 @@
     "itemName": "twitterfeed",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/twitterfeed",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "83a41c6a7637726677526ef6298c7515ff970c7f",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{22141B09-663B-4643-9332-33DFF8288A2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0159000Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "twitterfeed",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/twitterfeed",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
