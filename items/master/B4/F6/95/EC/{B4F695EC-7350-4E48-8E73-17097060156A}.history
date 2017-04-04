@@ -51,9 +51,28 @@
     "itemName": "footer-icons",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/footer-icons",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3f01f0e5fc81ba87c05b652cfcf106956cfebd34",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B4F695EC-7350-4E48-8E73-17097060156A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:47:34.6159603Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "footer-icons",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/footer-icons",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
