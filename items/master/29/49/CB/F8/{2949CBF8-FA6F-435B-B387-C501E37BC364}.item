@@ -8,12 +8,12 @@ name: Footer
 master: {00000000-0000-0000-0000-000000000000}
 template: {76B4820A-D005-4EFC-B99A-FD4F1936B98A}
 templatekey: Content Module Folder
-created: 20170404T033044:636268734446930000
+created: 20170404T053323:636268808030770000
 
 ----version----
 language: en
 version: 1
-revision: 777196a1-7234-4961-8830-39022b5ecfe1
+revision: d92c698d-7fc9-4e9f-864a-606e12842baa
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-777196a1-7234-4961-8830-39022b5ecfe1
+d92c698d-7fc9-4e9f-864a-606e12842baa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T033045Z
+20170404T053323Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
