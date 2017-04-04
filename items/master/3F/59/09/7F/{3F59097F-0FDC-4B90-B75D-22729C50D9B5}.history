@@ -32,9 +32,28 @@
     "itemName": "Engagement Value",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Visits/Engagement Value",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4277acc9ab3f0e93951ab48ffdc95f9c91e672c7",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3F59097F-0FDC-4B90-B75D-22729C50D9B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3908972Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Value",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Visits/Engagement Value",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
