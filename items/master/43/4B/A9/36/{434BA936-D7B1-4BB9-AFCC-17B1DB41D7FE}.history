@@ -32,9 +32,28 @@
     "itemName": "Device Browser",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Device Browser",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2ec517c3c001b0c344aa23845746d4516a942c59",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{434BA936-D7B1-4BB9-AFCC-17B1DB41D7FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3753096Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Browser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Device Browser",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
