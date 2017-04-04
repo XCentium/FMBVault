@@ -51,9 +51,28 @@
     "itemName": "FMB-CheckGreen",
     "itemPath": "/sitecore/media library/FMBCom/Images/Icons/FMB-CheckGreen",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bb2c6aa5f67964bf6b020d641557ecbb8cf443c8",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7798C1B3-C9F7-4B0A-80B2-C3ECF9A667CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:46:58.8089691Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "FMB-CheckGreen",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Icons/FMB-CheckGreen",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

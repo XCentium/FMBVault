@@ -51,9 +51,28 @@
     "itemName": "HowToVideos_LandingPage_Thumbnails-eStatements",
     "itemPath": "/sitecore/media library/FMBCom/Images/How-To/Thumbnails/HowToVideos_LandingPage_Thumbnails-eStatements",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bb2c6aa5f67964bf6b020d641557ecbb8cf443c8",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{8FF274B0-2954-4474-B979-48A93D68E245}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:46:54.4806895Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "HowToVideos_LandingPage_Thumbnails-eStatements",
+    "itemPath": "/sitecore/media library/FMBCom/Images/How-To/Thumbnails/HowToVideos_LandingPage_Thumbnails-eStatements",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
