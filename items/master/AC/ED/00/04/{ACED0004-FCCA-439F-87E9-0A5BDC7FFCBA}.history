@@ -32,9 +32,28 @@
     "itemName": "Confirm Password",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Register/Confirm Password",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6d710ecf05f22f1ee24d563af375cbe41b7ba389",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{ACED0004-FCCA-439F-87E9-0A5BDC7FFCBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3440441Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Confirm Password",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Register/Confirm Password",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
