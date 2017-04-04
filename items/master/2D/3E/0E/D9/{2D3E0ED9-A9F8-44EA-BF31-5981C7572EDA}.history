@@ -32,9 +32,28 @@
     "itemName": "dynamicteaser",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/dynamicteaser",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c82b331d3198fd9464eadf353b3d6e28afaf3531",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2D3E0ED9-A9F8-44EA-BF31-5981C7572EDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "dynamicteaser",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/dynamicteaser",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
