@@ -51,9 +51,28 @@
     "itemName": "FMB-RLD500-BG",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-RLD500-BG",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "821226050a7dda1552834a4c0a63b47777338306",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A1B17E98-9DCE-40C4-A3F7-B3A7178038F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:47:30.9751481Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "FMB-RLD500-BG",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-RLD500-BG",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
