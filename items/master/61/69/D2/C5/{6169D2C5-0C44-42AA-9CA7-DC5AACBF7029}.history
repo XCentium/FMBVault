@@ -32,9 +32,28 @@
     "itemName": "Headline Employee Carousel",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Employee Carousel",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a89dabca15650c29e5a61669c2227893b3ae2ad1",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6169D2C5-0C44-42AA-9CA7-DC5AACBF7029}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8909003Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Employee Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Employee Carousel",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
