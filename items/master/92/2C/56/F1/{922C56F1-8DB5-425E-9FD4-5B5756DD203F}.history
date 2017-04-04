@@ -51,9 +51,28 @@
     "itemName": "KMiddleton",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KMiddleton",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d347a0f052aaba6879ff61219e771f47fd18d734",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{922C56F1-8DB5-425E-9FD4-5B5756DD203F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:46:16.9121963Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "KMiddleton",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/KMiddleton",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
