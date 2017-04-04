@@ -32,9 +32,28 @@
     "itemName": "identity",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/identity",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "755a9b8ad3979185c2e723ab39d88f717e56d064",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6E76F4EE-694E-4B6D-8635-48D227AB5C79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "identity",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/identity",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
