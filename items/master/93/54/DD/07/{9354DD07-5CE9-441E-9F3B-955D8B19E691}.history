@@ -32,9 +32,28 @@
     "itemName": "Forgot Password Mail",
     "itemPath": "/sitecore/content/FMBCom/Global/Registration/Forgot Password Mail",
     "template": "Service Email",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4ebbe0643465a617db705376b9a3d5bddf7f0dbb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9354DD07-5CE9-441E-9F3B-955D8B19E691}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8596499Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot Password Mail",
+    "itemPath": "/sitecore/content/FMBCom/Global/Registration/Forgot Password Mail",
+    "template": "Service Email",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
