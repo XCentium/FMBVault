@@ -32,9 +32,28 @@
     "itemName": "No Goals",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Onsite Behavior/No Goals",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "90f98e19c8007614d628aeef057bf8dd54015390",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{48BE99D0-F368-42BC-9E22-547B9BC760F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3596677Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Goals",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Onsite Behavior/No Goals",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
