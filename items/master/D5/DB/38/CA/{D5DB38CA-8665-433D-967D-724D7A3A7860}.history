@@ -32,9 +32,28 @@
     "itemName": "Read more",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Page Content/Page Teaser/Read more",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "99d16cafd0d7587ab0bf2c0c85c8125405b27e22",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D5DB38CA-8665-433D-967D-724D7A3A7860}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4065221Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Read more",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Page Content/Page Teaser/Read more",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
