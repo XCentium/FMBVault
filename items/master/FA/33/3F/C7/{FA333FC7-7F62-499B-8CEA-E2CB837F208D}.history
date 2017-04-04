@@ -32,9 +32,28 @@
     "itemName": "Media Documentation",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Media Documentation",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "18ff686fb59ef7815c4fd3c58e62d2181c54e654",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FA333FC7-7F62-499B-8CEA-E2CB837F208D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Documentation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Media Documentation",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
