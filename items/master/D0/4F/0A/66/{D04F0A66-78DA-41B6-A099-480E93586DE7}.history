@@ -32,9 +32,28 @@
     "itemName": "_HasMediaLayoutStyles",
     "itemPath": "/sitecore/templates/Feature/Media/_HasMediaLayoutStyles",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D04F0A66-78DA-41B6-A099-480E93586DE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:10.2502237Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "_HasMediaLayoutStyles",
+    "itemPath": "/sitecore/templates/Feature/Media/_HasMediaLayoutStyles",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
