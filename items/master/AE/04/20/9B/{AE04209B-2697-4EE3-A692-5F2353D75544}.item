@@ -179,7 +179,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: 8bcf8ccd-a8a7-48ec-8368-3298e02aff1a
+revision: 687f1b53-2bd7-4346-8b43-a971b951d54e
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -192,7 +192,7 @@ Gold Checking Account
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 2070
+content-length: 2082
 
 <h2>Gold Checking Benefits</h2>
 <div class="row">
@@ -200,7 +200,7 @@ content-length: 2070
 <ul>
     <li>ATM Service Charge Fee Reversed<sup>6</sup></li>
     <li>Foreign ATM Surcharge Fee Reversed<sup>6</sup></li>
-    <li>Free Safe Deposit Box, any 1 box size, for 1 Year&nbsp; </li>
+    <li>Free Safe Deposit Box, any 1 box size, for 1 Year<sup>5</sup> &nbsp;</li>
     <li>Free Checks provided by our vendor </li>
     <li>Free Unlimited Cashier&rsquo;s Checks, Money Orders &amp; Traveler's Cheques (<em>Please see Branch Management for details</em>)</li>
 </ul>
@@ -317,14 +317,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8bcf8ccd-a8a7-48ec-8368-3298e02aff1a
+687f1b53-2bd7-4346-8b43-a971b951d54e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T234929Z
+20170404T235402Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
