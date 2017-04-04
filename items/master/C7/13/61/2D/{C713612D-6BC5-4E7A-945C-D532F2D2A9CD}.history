@@ -32,9 +32,28 @@
     "itemName": "Headline Teasers",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Teasers",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "326d92260073959a1b9255dc76d5b80162009a57",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C713612D-6BC5-4E7A-945C-D532F2D2A9CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8909003Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Teasers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Teasers",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
