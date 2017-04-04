@@ -51,9 +51,28 @@
     "itemName": "Affidavit_Unauthorized_Transaction",
     "itemPath": "/sitecore/media library/Applications/Affidavit_Unauthorized_Transaction",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "decbaee89a172437f8768c43d2f30b071c6fafb2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{6BF9A762-A6C5-48DD-A01D-87B1CD80C580}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:40:53.7531687Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Affidavit_Unauthorized_Transaction",
+    "itemPath": "/sitecore/media library/Applications/Affidavit_Unauthorized_Transaction",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
