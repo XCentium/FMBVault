@@ -32,9 +32,28 @@
     "itemName": "Latest News",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/News/Latest News",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4035b0b1d0c96da687571b692d68caaa58c85877",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E8794F01-3927-439E-AACA-CCADBE12CA34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4065221Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest News",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/News/Latest News",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
