@@ -80,7 +80,7 @@ fmb\jbridges
 ----version----
 language: en
 version: 2
-revision: 73416679-b354-4756-be93-18b06916b3d6
+revision: ed7cd779-c9aa-419a-8391-1d968e6ebc89
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
@@ -129,14 +129,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-73416679-b354-4756-be93-18b06916b3d6
+ed7cd779-c9aa-419a-8391-1d968e6ebc89
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T232844Z
+20170404T232845Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -151,3 +151,10 @@ key: __workflow state
 content-length: 38
 
 {9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 53
+
+<r owner="fmb\Test_Author" date="20170404T232845Z" />
