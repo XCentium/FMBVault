@@ -32,9 +32,28 @@
     "itemName": "CreditCardRewards_SpeedBumpBanner",
     "itemPath": "/sitecore/media library/FMBCom/Images/Modals/CreditCardRewards_SpeedBumpBanner",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ca6507d93a7aaa2f584ef94c96b10381497928c0",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9C718224-FEF6-4C0D-A9EC-F972427795B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:06:24.0657298Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "CreditCardRewards_SpeedBumpBanner",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Modals/CreditCardRewards_SpeedBumpBanner",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

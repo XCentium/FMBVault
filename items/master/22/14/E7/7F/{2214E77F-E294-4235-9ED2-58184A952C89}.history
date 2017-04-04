@@ -51,9 +51,28 @@
     "itemName": "TMoesta",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/TMoesta",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ca6507d93a7aaa2f584ef94c96b10381497928c0",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{2214E77F-E294-4235-9ED2-58184A952C89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:06:06.7445373Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "TMoesta",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/TMoesta",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

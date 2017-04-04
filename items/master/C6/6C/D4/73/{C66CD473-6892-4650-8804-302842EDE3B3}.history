@@ -51,9 +51,28 @@
     "itemName": "Long Beach Christmas Tree",
     "itemPath": "/sitecore/media library/Images/Press Release Images/Long Beach Christmas Tree",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ca6507d93a7aaa2f584ef94c96b10381497928c0",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C66CD473-6892-4650-8804-302842EDE3B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:06:44.4261065Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Long Beach Christmas Tree",
+    "itemPath": "/sitecore/media library/Images/Press Release Images/Long Beach Christmas Tree",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

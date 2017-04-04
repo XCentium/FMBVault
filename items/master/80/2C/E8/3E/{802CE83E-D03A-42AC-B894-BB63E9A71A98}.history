@@ -51,9 +51,28 @@
     "itemName": "CW_trans",
     "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/CW_trans",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ca6507d93a7aaa2f584ef94c96b10381497928c0",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{802CE83E-D03A-42AC-B894-BB63E9A71A98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:06:06.9164118Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "CW_trans",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Founding-Values/CW_trans",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
