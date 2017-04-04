@@ -8,7 +8,7 @@ name: NewsArticle
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
-created: 20170404T034420:636268742606300000
+created: 20170404T040548:636268755483630000
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -2299,7 +2299,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: d7e2d036-735c-4721-9929-98aef6be16e9
+revision: 01304011-38cf-4b6a-b7d3-5efb8c9b416a
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -2328,14 +2328,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d7e2d036-735c-4721-9929-98aef6be16e9
+01304011-38cf-4b6a-b7d3-5efb8c9b416a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T034421Z
+20170404T040548Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

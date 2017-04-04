@@ -8,7 +8,7 @@ name: NonProfit Banking Dir to Business Dir
 master: {00000000-0000-0000-0000-000000000000}
 template: {94AC4F3A-E888-4557-9504-4AD2560ACC12}
 templatekey: Redirect Pattern
-created: 20170404T032140:636268729008470000
+created: 20170404T052854:636268805341800000
 
 ----field----
 field: {C7A2362D-35F5-4735-9366-59838AA20E2F}
@@ -27,7 +27,7 @@ content-length: 60
 ----version----
 language: en
 version: 1
-revision: 97881226-ec48-48bc-a48e-f813a792e799
+revision: f70769b8-5ca4-4372-931f-447066b21572
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-97881226-ec48-48bc-a48e-f813a792e799
+f70769b8-5ca4-4372-931f-447066b21572
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T033435Z
+20170404T052854Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

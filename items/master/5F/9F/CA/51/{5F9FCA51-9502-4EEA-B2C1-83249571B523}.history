@@ -112,5 +112,43 @@
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{5F9FCA51-9502-4EEA-B2C1-83249571B523}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:48.6479491Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HSA-BRO",
+    "itemPath": "/sitecore/media library/Brochures/HSA-BRO",
+    "template": "Pdf",
+    "sourceControlRevisionId": "e6ef79df739c83613c4ec343b8313f23bfeb0cab",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{5F9FCA51-9502-4EEA-B2C1-83249571B523}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:17.6456003Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "HSA-BRO",
+    "itemPath": "/sitecore/media library/Brochures/HSA-BRO",
+    "template": "Pdf",
+    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

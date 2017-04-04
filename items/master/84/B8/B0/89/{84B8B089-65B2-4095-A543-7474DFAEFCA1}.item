@@ -8,7 +8,7 @@ name: Press Release PDF to New Press Releases Page
 master: {00000000-0000-0000-0000-000000000000}
 template: {94AC4F3A-E888-4557-9504-4AD2560ACC12}
 templatekey: Redirect Pattern
-created: 20170404T032142:636268729029300000
+created: 20170404T052854:636268805344130000
 
 ----field----
 field: {C7A2362D-35F5-4735-9366-59838AA20E2F}
@@ -27,7 +27,7 @@ content-length: 49
 ----version----
 language: en
 version: 1
-revision: a98d0dd6-6d17-426e-a76e-7ead270b8c2e
+revision: 3459081e-8384-4128-b537-b8b10b7e1e93
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a98d0dd6-6d17-426e-a76e-7ead270b8c2e
+3459081e-8384-4128-b537-b8b10b7e1e93
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T033436Z
+20170404T052854Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

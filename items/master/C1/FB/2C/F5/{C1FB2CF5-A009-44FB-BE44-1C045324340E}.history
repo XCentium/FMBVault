@@ -112,5 +112,43 @@
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{C1FB2CF5-A009-44FB-BE44-1C045324340E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:26:05.6659879Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomeLoanCenter",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/HomeLoanCenter",
+    "template": "File",
+    "sourceControlRevisionId": "7662906c2b65e83d050453de73c94aa19f6f7c27",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C1FB2CF5-A009-44FB-BE44-1C045324340E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:54.0704359Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "HomeLoanCenter",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/HomeLoanCenter",
+    "template": "File",
+    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

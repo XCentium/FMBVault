@@ -8,12 +8,12 @@ name: Online Banking Enrollment
 master: {00000000-0000-0000-0000-000000000000}
 template: {832D5183-326A-4373-AD35-3334994FC3CA}
 templatekey: Article
-created: 20170404T033229:636268735499700000
+created: 20170404T053339:636268808192830000
 
 ----version----
 language: en
 version: 1
-revision: d99b2fc2-c044-45c7-881b-d7eaca149d5b
+revision: dd3f3703-7ea5-4382-8363-6c4791898807
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -84,14 +84,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d99b2fc2-c044-45c7-881b-d7eaca149d5b
+dd3f3703-7ea5-4382-8363-6c4791898807
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T033231Z
+20170404T053339Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

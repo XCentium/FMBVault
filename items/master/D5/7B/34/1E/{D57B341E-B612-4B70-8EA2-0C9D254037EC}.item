@@ -8,12 +8,12 @@ name: Rates
 master: {00000000-0000-0000-0000-000000000000}
 template: {7EE0975B-0698-493E-B3A2-0B2EF33D0522}
 templatekey: Rendering Folder
-created: 20170404T033323:636268736030930000
+created: 20170404T053346:636268808263930000
 
 ----version----
 language: en
 version: 1
-revision: fb180103-f8ea-487a-8a27-db5e5aa3fd09
+revision: 563259bd-baf5-4746-bef8-5f26af53821e
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fb180103-f8ea-487a-8a27-db5e5aa3fd09
+563259bd-baf5-4746-bef8-5f26af53821e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T033324Z
+20170404T053346Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

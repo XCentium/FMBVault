@@ -150,5 +150,43 @@
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{51154646-10A2-4442-9CC7-D0DC12A5E0C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:24:12.3639559Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_IconType",
+    "itemPath": "/sitecore/templates/Feature/Tools/_IconType",
+    "template": "Template",
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{51154646-10A2-4442-9CC7-D0DC12A5E0C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:27.9977761Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "_IconType",
+    "itemPath": "/sitecore/templates/Feature/Tools/_IconType",
+    "template": "Template",
+    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

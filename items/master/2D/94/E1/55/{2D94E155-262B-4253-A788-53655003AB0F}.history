@@ -112,5 +112,43 @@
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{2D94E155-262B-4253-A788-53655003AB0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:51.8179517Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit_Report_Dispute_Submission_Requirements",
+    "itemPath": "/sitecore/media library/Applications/Credit_Report_Dispute_Submission_Requirements",
+    "template": "Pdf",
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{2D94E155-262B-4253-A788-53655003AB0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:04:34.2767943Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Credit_Report_Dispute_Submission_Requirements",
+    "itemPath": "/sitecore/media library/Applications/Credit_Report_Dispute_Submission_Requirements",
+    "template": "Pdf",
+    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

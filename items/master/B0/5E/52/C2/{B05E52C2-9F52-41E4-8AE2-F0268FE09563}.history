@@ -112,5 +112,43 @@
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{B05E52C2-9F52-41E4-8AE2-F0268FE09563}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:58.3049510Z",
+    "label": "Published(Full)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-To",
+    "itemPath": "/sitecore/media library/FMBCom/Images/How-To",
+    "template": "Media folder",
+    "sourceControlRevisionId": "7662906c2b65e83d050453de73c94aa19f6f7c27",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B05E52C2-9F52-41E4-8AE2-F0268FE09563}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:55.3360671Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "How-To",
+    "itemPath": "/sitecore/media library/FMBCom/Images/How-To",
+    "template": "Media folder",
+    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

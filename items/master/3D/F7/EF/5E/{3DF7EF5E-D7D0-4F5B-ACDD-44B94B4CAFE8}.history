@@ -131,5 +131,43 @@
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{3DF7EF5E-D7D0-4F5B-ACDD-44B94B4CAFE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-03-28T16:25:12.4969731Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sitecore content fmbcom global faq",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom global faq",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{3DF7EF5E-D7D0-4F5B-ACDD-44B94B4CAFE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:32.5934303Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "sitecore content fmbcom global faq",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom global faq",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
