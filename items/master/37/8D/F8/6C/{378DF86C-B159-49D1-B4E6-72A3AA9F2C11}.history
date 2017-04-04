@@ -51,9 +51,28 @@
     "itemName": "BusinessSolutions_Web",
     "itemPath": "/sitecore/media library/Brochures/BusinessSolutions_Web",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d97a1c70e82287e42700f0ab74b4383d1752fe70",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{378DF86C-B159-49D1-B4E6-72A3AA9F2C11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:41:28.4502310Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "BusinessSolutions_Web",
+    "itemPath": "/sitecore/media library/Brochures/BusinessSolutions_Web",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
