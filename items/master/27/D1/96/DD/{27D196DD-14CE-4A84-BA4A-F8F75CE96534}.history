@@ -32,9 +32,28 @@
     "itemName": "News Teaser",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/News/News Teaser",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "94a69180c9fb0feaaf7200c93d3346a38128d95e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{27D196DD-14CE-4A84-BA4A-F8F75CE96534}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4065221Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News Teaser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/News/News Teaser",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
