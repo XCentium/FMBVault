@@ -32,9 +32,28 @@
     "itemName": "Register",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Register",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3f44a359e8481e25f01e63e1308b0f828c9692fc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CB294F95-EEE1-4E7B-AFE9-E9D6F1F5F0DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3440441Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Register",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
