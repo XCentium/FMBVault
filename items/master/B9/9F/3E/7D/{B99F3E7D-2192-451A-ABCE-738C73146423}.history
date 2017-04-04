@@ -32,9 +32,28 @@
     "itemName": "lightboximage",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/lightboximage",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c99aa3b3c907ea39af4d00fa9c65227d02df738c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B99F3E7D-2192-451A-ABCE-738C73146423}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "lightboximage",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/lightboximage",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
