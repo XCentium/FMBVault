@@ -32,9 +32,28 @@
     "itemName": "Employee Teaser",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person/Employee Teaser",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ff29c87a88da7ea1462e7a00bf496e95348a13ff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{46FDED14-6B6F-40C0-9D15-9211092537E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4065221Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Teaser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person/Employee Teaser",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
