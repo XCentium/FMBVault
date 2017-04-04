@@ -179,7 +179,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: de578e4a-6a32-415b-8b56-179c60698640
+revision: 4db6237c-c722-459e-a666-ce3120414cb9
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -192,20 +192,17 @@ Gold Checking Account
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 2069
+content-length: 1972
 
 <h2>Gold Checking Benefits</h2>
 <div class="row">
 <div class="col-md-6">
 <ul>
-    <li>Waived Non-F&amp;M ATM Transaction Fees </li>
-    (First 3 withdrawals per calendar month)
+    <li>ATM Service Charge Fee Reversed<sup>5</sup></li>
+    <li>Foreign ATM Surcharge Fee Reversed<sup>5</sup></li>
     <li>Free Safe Deposit Box, any 1 box size, for 1 Year&nbsp; </li>
-    (based upon availability)
     <li>Free Checks provided by our vendor </li>
-    (1st box F&amp;M logo checks)
-    <li>Free Unlimited Cashier&rsquo;s Checks, Money Orders </li>
-    &amp;&nbsp;Traveler&rsquo;s Cheques
+    <li>Free Unlimited Cashier’s Checks, Money Orders </li>
 </ul>
 </div>
 <div class="col-md-6">
@@ -222,7 +219,7 @@ content-length: 2069
 <div class="row">
 <div class="col-md-6">
 <ul>
-    <li><a href="~/link.aspx?_id=8BAD2102924C48FB8518E2D1FC149651&amp;_z=z">Free Debit MasterCard&reg; with Chip Technology<sup>1</sup></a></li>
+    <li><a href="~/link.aspx?_id=8BAD2102924C48FB8518E2D1FC149651&amp;_z=z">Free Debit MasterCard® with Chip Technology</a></li>
     <li><a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">Free Debit Card Alerts<sup>2</sup></a></li>
     <li>Free Online Banking</li>
     <li>Free Bill Pay</li>
@@ -245,7 +242,7 @@ content-length: 2069
 <ul>
     <li>$20 maintenance fee or maintain $5,000 minimum<br>
     daily balance, or $10,000 average daily balance, or&nbsp;
-    $50,000 combined checking and/or savings4 average<br>
+    $50,000 combined checking and/or savings<sup>4</sup> average<br>
     daily balance.</li>
 </ul>
 </div>
@@ -320,14 +317,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-de578e4a-6a32-415b-8b56-179c60698640
+4db6237c-c722-459e-a666-ce3120414cb9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T230317Z
+20170404T231224Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
