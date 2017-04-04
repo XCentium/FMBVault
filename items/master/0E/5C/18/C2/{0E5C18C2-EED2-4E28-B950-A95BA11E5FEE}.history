@@ -32,9 +32,28 @@
     "itemName": "Files",
     "itemPath": "/sitecore/media library/Project/Common/Files",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "71cb85466f75547e2ba2160db798479cef8c0d64",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{0E5C18C2-EED2-4E28-B950-A95BA11E5FEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:48:43.0819595Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Files",
+    "itemPath": "/sitecore/media library/Project/Common/Files",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

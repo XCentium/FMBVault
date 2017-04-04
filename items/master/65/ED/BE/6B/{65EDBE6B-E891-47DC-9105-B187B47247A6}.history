@@ -32,9 +32,28 @@
     "itemName": "3 Column 6-3-3",
     "itemPath": "/sitecore/media library/Project/Common/Images/Layouts/3 Column 6-3-3",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "71cb85466f75547e2ba2160db798479cef8c0d64",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{65EDBE6B-E891-47DC-9105-B187B47247A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:48:47.2227966Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "3 Column 6-3-3",
+    "itemPath": "/sitecore/media library/Project/Common/Images/Layouts/3 Column 6-3-3",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
