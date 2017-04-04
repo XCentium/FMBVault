@@ -32,9 +32,28 @@
     "itemName": "Call to Action Content",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Call to Action Content",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "78b21b59f20b053380095bb9a137c3ade3f11b72",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D0817598-184D-4BFB-9740-28C0E8E80F23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call to Action Content",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Call to Action Content",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
