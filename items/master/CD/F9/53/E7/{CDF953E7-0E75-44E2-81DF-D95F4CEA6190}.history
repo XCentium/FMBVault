@@ -32,9 +32,28 @@
     "itemName": "LittleGirlPiggyBank",
     "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/LittleGirlPiggyBank",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "13bd0145ff034d86ab58abe4e65438afdef1f730",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{CDF953E7-0E75-44E2-81DF-D95F4CEA6190}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:45:31.1347774Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "LittleGirlPiggyBank",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/LittleGirlPiggyBank",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

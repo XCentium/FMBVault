@@ -32,9 +32,28 @@
     "itemName": "main05",
     "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/main05",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "13bd0145ff034d86ab58abe4e65438afdef1f730",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A26B3960-08F5-43A2-9382-3FA09D4B8E42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:45:31.9629269Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "main05",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Backgrounds/main05",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
