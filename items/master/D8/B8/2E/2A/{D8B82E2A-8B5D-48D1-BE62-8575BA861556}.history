@@ -32,9 +32,28 @@
     "itemName": "The Release Reuse Equivalency Principle",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/The Release Reuse Equivalency Principle",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "672fda782a8dfbf9979bee1ec8ac637f48c672da",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D8B82E2A-8B5D-48D1-BE62-8575BA861556}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "The Release Reuse Equivalency Principle",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/The Release Reuse Equivalency Principle",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
