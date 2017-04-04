@@ -32,9 +32,28 @@
     "itemName": "Headline Accordion",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Accordion",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "54e6deca0f8922c0d0bc0786ed008d74bb1def67",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{111A5B15-8BBE-49CB-8965-1ADBF29F411E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8909003Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Accordion",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Accordion",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
