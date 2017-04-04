@@ -32,9 +32,28 @@
     "itemName": "About Habitat",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/About Habitat",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "21d608fe3623514f57e697d7b3a70ff66e9cbd49",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D24907F7-1A25-43DC-A5A2-FCB1E55EBBB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8596499Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "About Habitat",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/About Habitat",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
