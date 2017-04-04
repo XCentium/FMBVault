@@ -32,9 +32,28 @@
     "itemName": "Email",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Identity/Contact Information/Email",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d94df2e8d9383ed87a185a04552641860d9a3f3a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{74FB35C2-3D88-4EC3-BC5B-9127FFC875B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3908972Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Identity/Contact Information/Email",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
