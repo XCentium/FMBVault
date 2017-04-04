@@ -32,9 +32,28 @@
     "itemName": "Header",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "828daa499f57b2b46dc5c70d64b703d470adca96",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{39EAF748-83BC-43BD-A839-877D2F85D095}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4221476Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
