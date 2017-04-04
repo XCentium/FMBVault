@@ -32,9 +32,28 @@
     "itemName": "Mobile App Menu",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Mobile App Menu",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "28e0dfe948635459ef28328eceb3ec1ea4bfe54a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D8D4B00E-2DAC-4346-ADB9-3EA5A55804CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.6877741Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile App Menu",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Mobile App Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

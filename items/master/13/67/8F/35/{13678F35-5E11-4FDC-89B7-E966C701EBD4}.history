@@ -32,9 +32,28 @@
     "itemName": "Facebook",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Social Media Menu/Facebook",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "28e0dfe948635459ef28328eceb3ec1ea4bfe54a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{13678F35-5E11-4FDC-89B7-E966C701EBD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.6877741Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Social Media Menu/Facebook",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

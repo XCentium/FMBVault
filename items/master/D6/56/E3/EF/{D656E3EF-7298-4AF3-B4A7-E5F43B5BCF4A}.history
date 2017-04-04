@@ -32,9 +32,28 @@
     "itemName": "GitHub",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/GitHub",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "28e0dfe948635459ef28328eceb3ec1ea4bfe54a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D656E3EF-7298-4AF3-B4A7-E5F43B5BCF4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.6877741Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GitHub",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/GitHub",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
