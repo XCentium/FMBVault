@@ -32,9 +32,28 @@
     "itemName": "lightboxvideo",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/lightboxvideo",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e1a3448ca3fc03a6e36f6803330eb7485b4e38e2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6538D8D0-4438-4EFA-A32F-4C15D393A6C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "lightboxvideo",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/lightboxvideo",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
