@@ -32,9 +32,28 @@
     "itemName": "Sidebar",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "99c3fcd3116f2e3be0e2d2f3a00e150b16444bc3",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B93751FC-450F-4080-ABE0-92AFC018B1D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4221476Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sidebar",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
