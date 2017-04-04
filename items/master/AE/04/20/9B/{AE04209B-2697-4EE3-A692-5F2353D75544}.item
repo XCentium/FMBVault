@@ -179,7 +179,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: d475b87e-5249-4f69-944b-07ef12e3ab52
+revision: b69486d0-c005-414c-ba08-09afe851f781
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -192,25 +192,25 @@ Gold Checking Account
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 1972
+content-length: 2070
 
 <h2>Gold Checking Benefits</h2>
 <div class="row">
 <div class="col-md-6">
 <ul>
-    <li>ATM Service Charge Fee Reversed<sup>5</sup></li>
-    <li>Foreign ATM Surcharge Fee Reversed<sup>5</sup></li>
+    <li>ATM Service Charge Fee Reversed<sup>4</sup></li>
+    <li>Foreign ATM Surcharge Fee Reversed<sup>4</sup></li>
     <li>Free Safe Deposit Box, any 1 box size, for 1 Year&nbsp; </li>
     <li>Free Checks provided by our vendor </li>
-    <li>Free Unlimited Cashier’s Checks, Money Orders </li>
+    <li>Free Unlimited Cashier&rsquo;s Checks, Money Orders &amp; Traveler's Cheques (<em>Please see Branch Management for details</em>)</li>
 </ul>
 </div>
 <div class="col-md-6">
 <ul>
     <li>Interest on Checking</li>
     <li>Additional Gold Checking Account <br>
-    (monthly service charge waived for 1 year)<sup>5</sup></li>
-    <li>2 Free Savings Accounts for 1 year<sup>5</sup></li>
+    (monthly service charge waived for 1 year)<sup>3</sup></li>
+    <li>2 Free Savings Accounts for 1 year<sup>3</sup></li>
     <li>Free Incoming Domestic Wire Transfers</li>
 </ul>
 </div>
@@ -219,16 +219,16 @@ content-length: 1972
 <div class="row">
 <div class="col-md-6">
 <ul>
-    <li><a href="~/link.aspx?_id=8BAD2102924C48FB8518E2D1FC149651&amp;_z=z">Free Debit MasterCard® with Chip Technology</a></li>
-    <li><a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">Free Debit Card Alerts<sup>2</sup></a></li>
+    <li><a href="~/link.aspx?_id=8BAD2102924C48FB8518E2D1FC149651&amp;_z=z">Free Debit MasterCard&reg; with Chip Technology</a></li>
+    <li><a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">Free Debit Card Alerts</a><sup>1</sup></li>
     <li>Free Online Banking</li>
     <li>Free Bill Pay</li>
-    <li>Free Mobile Banking with Text Banking<sup>2</sup></li>
+    <li>Free Mobile Banking with Text Banking<sup>1</sup></li>
 </ul>
 </div>
 <div class="col-md-6">
 <ul>
-    <li>Free Mobile Check Deposit</li>
+    <li>Free Mobile Check Deposit<sup>1</sup></li>
     <li>Free Direct Deposit&nbsp;</li>
     <li>Free Telebanker &amp; Call Center</li>
     <li>Free eStatements &amp; eNotices</li>
@@ -242,7 +242,7 @@ content-length: 1972
 <ul>
     <li>$20 maintenance fee or maintain $5,000 minimum<br>
     daily balance, or $10,000 average daily balance, or&nbsp;
-    $50,000 combined checking and/or savings<sup>4</sup> average<br>
+    $50,000 combined checking and/or savings<sup>2</sup> average<br>
     daily balance.</li>
 </ul>
 </div>
@@ -317,14 +317,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d475b87e-5249-4f69-944b-07ef12e3ab52
+b69486d0-c005-414c-ba08-09afe851f781
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T233120Z
+20170404T233653Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
