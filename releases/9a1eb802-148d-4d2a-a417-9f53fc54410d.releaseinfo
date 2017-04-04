@@ -1,7 +1,7 @@
 {
   "id": "9a1eb802-148d-4d2a-a417-9f53fc54410d",
   "releaseName": "20170403_InitialDeploy",
-  "lastModified": "2017-04-04T03:10:21.1448542Z",
+  "lastModified": "2017-04-04T03:28:19.9308754Z",
   "lastDeployed": "2017-04-04T03:21:02.0646322+00:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
@@ -9,7 +9,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{5F094FE4-CC4B-40FD-9377-9AB00E7F7CA5}",
+      "sitecoreItemId": "{4B67A7F9-7246-4A59-A051-961095C2DC70}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -18,7 +18,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{5DE378FE-0CAB-4043-AF9D-97327BBFEC9F}",
+      "sitecoreItemId": "{FF63C25D-1059-4B0D-A0FB-563516E771A8}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -27,7 +27,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{256655EC-8F3A-45B5-AD90-B63BC25B8067}",
+      "sitecoreItemId": "{C7C95984-E060-42D9-BBC6-B45C18768905}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -36,7 +36,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{4EC5FDA0-4579-4A5F-86D9-89497217DD0F}",
+      "sitecoreItemId": "{3656200D-D5B4-483E-B511-53841AE7F8F8}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -45,7 +45,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{466F245E-F611-42AA-8FA3-FA123464791E}",
+      "sitecoreItemId": "{1B59149D-7ED3-4D58-86A9-32EDED8C0368}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -54,7 +54,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}",
+      "sitecoreItemId": "{F5F0FBE3-61AD-4967-A5D8-8D760331D6A1}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -63,7 +63,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{8F343079-3CC5-4EF7-BC27-32ADDB46F45E}",
+      "sitecoreItemId": "{BDC5AAA5-6111-48BF-84C8-17F7FE5D5E4E}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -72,7 +72,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{B26BD035-8D0A-4DF3-8F67-2DE3C7FDD74A}",
+      "sitecoreItemId": "{D4BDE162-2BC7-40A7-A920-2340E0DA0110}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -81,7 +81,7 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{825B30B4-B40B-422E-9920-23A1B6BDA89C}",
+      "sitecoreItemId": "{1D9D915D-404C-483D-A7E8-98B59FBB9F1C}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -90,7 +90,79 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
-      "sitecoreItemId": "{838D5593-F067-4F36-8C74-0A09A7EE97E3}",
+      "sitecoreItemId": "{1A6A4CA3-0D0F-4863-8F5B-D4935F0C9624}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{E96572A3-E6DB-4789-980A-08658BFF19FE}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{D0509F03-1D03-46EF-908E-0E72497C20FB}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{1736E9E7-DCCC-4443-A373-2BDEB2444D04}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{B9B0BD69-0DC2-43E0-9464-8039E56F6FF9}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{BDD75DE7-A340-440A-BB9A-AC5CC7D288DF}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{B9E057F4-6555-4774-9BAD-80FEC6964AB3}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{84B8B089-65B2-4095-A543-7474DFAEFCA1}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{812198C0-9D8F-4D51-814C-4C6E2EAAC99A}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
