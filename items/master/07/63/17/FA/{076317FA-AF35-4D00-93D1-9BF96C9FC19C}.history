@@ -32,9 +32,28 @@
     "itemName": "Page Edit",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Maps/Map/Page Edit",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cf73ccda2c533329dfb38421d1c497c4023a44c8",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{076317FA-AF35-4D00-93D1-9BF96C9FC19C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3908972Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Edit",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Maps/Map/Page Edit",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
