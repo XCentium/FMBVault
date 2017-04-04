@@ -32,9 +32,28 @@
     "itemName": "newslist",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/newslist",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8f788c598aa1046608d7659a6ca44c3c00f812b7",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CF766813-B7D4-4678-AAEC-F10AFF6B6855}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "newslist",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/newslist",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
