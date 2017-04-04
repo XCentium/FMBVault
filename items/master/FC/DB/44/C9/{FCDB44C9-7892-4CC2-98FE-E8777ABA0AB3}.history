@@ -51,9 +51,28 @@
     "itemName": "RLD-Q1",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/RLD-Q1",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5093b4b0a62474d07f7f4b98e0630ea63f79ee59",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{FCDB44C9-7892-4CC2-98FE-E8777ABA0AB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:45:53.8558047Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "RLD-Q1",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/RLD-Q1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
