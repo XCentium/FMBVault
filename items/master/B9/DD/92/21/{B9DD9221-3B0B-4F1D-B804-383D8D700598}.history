@@ -51,9 +51,28 @@
     "itemName": "mainoffice",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/cdrates/mainoffice",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "730333a683d4ba1533464c718223fb5013b6bf35",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B9DD9221-3B0B-4F1D-B804-383D8D700598}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:47:51.1914489Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "mainoffice",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/cdrates/mainoffice",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
