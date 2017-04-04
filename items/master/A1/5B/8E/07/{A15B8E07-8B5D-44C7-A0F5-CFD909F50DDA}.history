@@ -51,9 +51,28 @@
     "itemName": "PersonalBrochureforWeb",
     "itemPath": "/sitecore/media library/Brochures/PersonalBrochureforWeb",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e6ef79df739c83613c4ec343b8313f23bfeb0cab",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A15B8E07-8B5D-44C7-A0F5-CFD909F50DDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:25.6925003Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "PersonalBrochureforWeb",
+    "itemPath": "/sitecore/media library/Brochures/PersonalBrochureforWeb",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
