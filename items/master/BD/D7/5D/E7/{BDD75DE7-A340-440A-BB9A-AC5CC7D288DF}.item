@@ -8,7 +8,7 @@ name: NonProfit Banking Dir to Business Dir
 master: {00000000-0000-0000-0000-000000000000}
 template: {94AC4F3A-E888-4557-9504-4AD2560ACC12}
 templatekey: Redirect Pattern
-created: 20170323T155823:636258815032070000
+created: 20170404T052854:636268805341800000
 
 ----field----
 field: {C7A2362D-35F5-4735-9366-59838AA20E2F}
@@ -17,13 +17,6 @@ key: requested expression
 content-length: 81
 
 ^(.*)/home/non-profit-banking(?<Path>/.*?)?(.html)?(?<OptionalQueryString>\?.*)?$
-----field----
-field: {B0AA4048-823B-4466-83C5-6B920B3CFC36}
-name: Response Status Code
-key: response status code
-content-length: 38
-
-{3184B308-C050-4A16-9F82-D77190A28F0F}
 ----field----
 field: {FB68F214-543C-48FB-856E-B96C4C8796C8}
 name: Source Item
@@ -34,7 +27,14 @@ content-length: 60
 ----version----
 language: en
 version: 1
-revision: 78e648dc-d387-427c-83cb-86232de35784
+revision: f70769b8-5ca4-4372-931f-447066b21572
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 0
+
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -44,23 +44,30 @@ content-length: 16
 
 20170313T193504Z
 ----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 0
+
+
+----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-78e648dc-d387-427c-83cb-86232de35784
+f70769b8-5ca4-4372-931f-447066b21572
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170323T174540Z
+20170404T052854Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 13
 
-fmb\jbridges
+fmb\Anonymous

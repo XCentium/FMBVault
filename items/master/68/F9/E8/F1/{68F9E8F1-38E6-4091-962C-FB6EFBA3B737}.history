@@ -51,9 +51,28 @@
     "itemName": "Parallax Background",
     "itemPath": "/sitecore/templates/Feature/PageContent/_HasParallaxBackground/Parallax Background",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{68F9E8F1-38E6-4091-962C-FB6EFBA3B737}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:27.3884012Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Parallax Background",
+    "itemPath": "/sitecore/templates/Feature/PageContent/_HasParallaxBackground/Parallax Background",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

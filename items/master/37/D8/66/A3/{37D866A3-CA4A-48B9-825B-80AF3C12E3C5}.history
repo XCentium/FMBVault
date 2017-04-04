@@ -51,9 +51,28 @@
     "itemName": "Notify Approvers",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Draft/Submit/Notify Approvers",
     "template": "Workflow Email",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{37D866A3-CA4A-48B9-825B-80AF3C12E3C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:55.4144302Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Notify Approvers",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Draft/Submit/Notify Approvers",
+    "template": "Workflow Email",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

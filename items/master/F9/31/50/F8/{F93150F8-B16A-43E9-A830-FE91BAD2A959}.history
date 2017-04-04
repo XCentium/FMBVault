@@ -51,9 +51,28 @@
     "itemName": "Paging",
     "itemPath": "/sitecore/templates/Feature/Search/_PagedSearchResultsParameters/Paging",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{F93150F8-B16A-43E9-A830-FE91BAD2A959}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:27.4977750Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Paging",
+    "itemPath": "/sitecore/templates/Feature/Search/_PagedSearchResultsParameters/Paging",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

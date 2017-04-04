@@ -51,9 +51,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Calculator Folder/__Standard Values",
     "template": "Calculator Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{15D69EB5-2087-4F27-822B-5FC75CE2D3AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:29.5033095Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Calculator Folder/__Standard Values",
+    "template": "Calculator Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

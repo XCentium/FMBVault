@@ -51,9 +51,28 @@
     "itemName": "Group Member",
     "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Group Member",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{631DA648-E2A5-4E3B-9733-C9C066C41EAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:24.9743730Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Group Member",
+    "itemPath": "/sitecore/templates/Feature/FAQ/_FAQ Group/Group/Group Member",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

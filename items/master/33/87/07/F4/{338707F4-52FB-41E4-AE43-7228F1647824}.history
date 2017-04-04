@@ -165,9 +165,28 @@
     "itemName": "How to Guide",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/How to Guide",
     "template": "Redirect Url",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{338707F4-52FB-41E4-AE43-7228F1647824}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:48.5022474Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "How to Guide",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/How to Guide",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

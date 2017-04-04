@@ -184,9 +184,28 @@
     "itemName": "Trusteer Rapport Security Software",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Security/Trusteer Rapport Security Software",
     "template": "Redirect Url",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{259E394A-6775-4A08-9C82-EEFCF22630E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:54.1800648Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Trusteer Rapport Security Software",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Security/Trusteer Rapport Security Software",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

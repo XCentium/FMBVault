@@ -32,9 +32,28 @@
     "itemName": "Media",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Media",
     "template": "Template Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{8077AE77-96E3-41DF-9655-33E61B0A36AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:29.4408092Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Media",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Media",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

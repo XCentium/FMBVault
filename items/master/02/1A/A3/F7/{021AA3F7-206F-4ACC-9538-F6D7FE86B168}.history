@@ -51,9 +51,28 @@
     "itemName": "Interests Folder",
     "itemPath": "/sitecore/templates/Feature/Accounts/_ProfileSettings/Profile/Interests Folder",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{021AA3F7-206F-4ACC-9538-F6D7FE86B168}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:24.6774993Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Interests Folder",
+    "itemPath": "/sitecore/templates/Feature/Accounts/_ProfileSettings/Profile/Interests Folder",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

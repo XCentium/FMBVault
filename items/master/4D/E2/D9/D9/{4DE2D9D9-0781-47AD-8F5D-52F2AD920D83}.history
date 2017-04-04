@@ -32,9 +32,28 @@
     "itemName": "Social Feeds Folder",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Social/Social Feeds Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{4DE2D9D9-0781-47AD-8F5D-52F2AD920D83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:29.9318992Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Social Feeds Folder",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Social/Social Feeds Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

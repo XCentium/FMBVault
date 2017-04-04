@@ -32,9 +32,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Map Points Folder/__Standard Values",
     "template": "Map Points Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{42B16427-B7A7-4699-BA23-BBB4239854A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:29.8225245Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Map Points Folder/__Standard Values",
+    "template": "Map Points Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

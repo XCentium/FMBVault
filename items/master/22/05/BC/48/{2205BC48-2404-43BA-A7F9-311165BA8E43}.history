@@ -51,9 +51,28 @@
     "itemName": "Data",
     "itemPath": "/sitecore/templates/Foundation/Multisite/External Links Modal/Data",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{2205BC48-2404-43BA-A7F9-311165BA8E43}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:29.0506043Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/Foundation/Multisite/External Links Modal/Data",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

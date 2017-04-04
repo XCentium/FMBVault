@@ -32,9 +32,28 @@
     "itemName": "satellite",
     "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types/satellite",
     "template": "Map Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{220ACBAD-F147-4EA0-9AE7-079F84C6FD89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:54.6800596Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "satellite",
+    "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types/satellite",
+    "template": "Map Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

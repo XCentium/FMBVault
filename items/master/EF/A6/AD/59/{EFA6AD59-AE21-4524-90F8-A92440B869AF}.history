@@ -32,9 +32,28 @@
     "itemName": "Primary Color",
     "itemPath": "/sitecore/system/Settings/Foundation/Theming/Background Types/Primary Color",
     "template": "Style",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{EFA6AD59-AE21-4524-90F8-A92440B869AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:55.3676773Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Primary Color",
+    "itemPath": "/sitecore/system/Settings/Foundation/Theming/Background Types/Primary Color",
+    "template": "Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

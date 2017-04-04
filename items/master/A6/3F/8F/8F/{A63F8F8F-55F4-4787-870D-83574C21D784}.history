@@ -51,9 +51,28 @@
     "itemName": "Auto Publish",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Approved/Auto Publish",
     "template": "Action",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A63F8F8F-55F4-4787-870D-83574C21D784}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:56.0706778Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Auto Publish",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Approved/Auto Publish",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

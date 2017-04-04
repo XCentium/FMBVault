@@ -32,9 +32,28 @@
     "itemName": "Local Datasource Folder",
     "itemPath": "/sitecore/templates/Foundation/LocalDatasource/Local Datasource Folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{FFF5F245-FFC0-4022-A998-9B07AA5E761F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:29.0033081Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Local Datasource Folder",
+    "itemPath": "/sitecore/templates/Foundation/LocalDatasource/Local Datasource Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

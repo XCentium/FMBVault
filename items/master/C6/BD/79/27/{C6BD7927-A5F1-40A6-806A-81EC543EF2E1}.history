@@ -32,9 +32,28 @@
     "itemName": "terrain",
     "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types/terrain",
     "template": "Map Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C6BD7927-A5F1-40A6-806A-81EC543EF2E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:54.6800596Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "terrain",
+    "itemPath": "/sitecore/system/Settings/Feature/Maps/Map Types/terrain",
+    "template": "Map Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

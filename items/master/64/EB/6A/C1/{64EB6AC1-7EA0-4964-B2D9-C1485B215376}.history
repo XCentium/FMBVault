@@ -51,9 +51,28 @@
     "itemName": "Category",
     "itemPath": "/sitecore/templates/Foundation/Utilities/ConfigurationSetting/Configuration Setting/Category",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "db91f5961fe8caf0325d7889b060d3ec0303cd2d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{64EB6AC1-7EA0-4964-B2D9-C1485B215376}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T05:28:29.1595579Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Category",
+    "itemPath": "/sitecore/templates/Foundation/Utilities/ConfigurationSetting/Configuration Setting/Category",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
