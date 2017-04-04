@@ -32,9 +32,28 @@
     "itemName": "headlines",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/headlines",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "62cd07d09945e65faa5c5527091bd4a6216a27db",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6BA49D5E-F3E0-4B72-9B42-E8C4CBC77A02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "headlines",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/headlines",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
