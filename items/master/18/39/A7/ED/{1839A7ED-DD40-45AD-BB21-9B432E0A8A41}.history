@@ -32,9 +32,28 @@
     "itemName": "searchsettings",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/searchsettings",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2ab5f22c7d286f5fc34e479a2fa1f8bc0d90a1c2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1839A7ED-DD40-45AD-BB21-9B432E0A8A41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0159000Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "searchsettings",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/searchsettings",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
