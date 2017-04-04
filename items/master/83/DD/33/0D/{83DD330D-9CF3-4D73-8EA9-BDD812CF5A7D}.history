@@ -32,9 +32,28 @@
     "itemName": "Headline Jumbotron Carousel",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Jumbotron Carousel",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a06a9d929bb59fcf64c7c64b9cb3735a61a6cab4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{83DD330D-9CF3-4D73-8EA9-BDD812CF5A7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8909003Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Jumbotron Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Jumbotron Carousel",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
