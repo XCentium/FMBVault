@@ -51,9 +51,28 @@
     "itemName": "HomefrontAmerica-web",
     "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/HomefrontAmerica-web",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d8bdb64b2d8bac46f27c4ac6fdf51a67c2876ff5",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{127FA739-9FCE-4A44-9E1D-72DB1B1856A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:48:06.7871896Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "HomefrontAmerica-web",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Testimonials/HomefrontAmerica-web",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
