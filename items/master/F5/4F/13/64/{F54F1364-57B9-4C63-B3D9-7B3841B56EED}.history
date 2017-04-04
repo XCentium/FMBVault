@@ -32,9 +32,28 @@
     "itemName": "Title No Search",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header/Title No Search",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c0f76e5526dcd29bfdfb9095cb91f9ceb2339c10",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F54F1364-57B9-4C63-B3D9-7B3841B56EED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4221476Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title No Search",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header/Title No Search",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
