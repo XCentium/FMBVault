@@ -32,9 +32,28 @@
     "itemName": "Sitecore Experience",
     "itemPath": "/sitecore/media library/FMBCom/Videos/Sitecore Experience",
     "template": "Movie",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B0CF0C13-99F5-4FE0-85C0-1FE6495BF04A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.6183357Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Experience",
+    "itemPath": "/sitecore/media library/FMBCom/Videos/Sitecore Experience",
+    "template": "Movie",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

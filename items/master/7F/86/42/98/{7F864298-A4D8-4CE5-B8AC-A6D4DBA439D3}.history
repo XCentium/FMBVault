@@ -51,9 +51,28 @@
     "itemName": "System",
     "itemPath": "/sitecore/media library/System",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7F864298-A4D8-4CE5-B8AC-A6D4DBA439D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.6339612Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "System",
+    "itemPath": "/sitecore/media library/System",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Error",
     "itemPath": "/sitecore/media library/System/Page Event Images/Error",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BFC55974-5B68-45F2-A3AD-A993E29777D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.6652123Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Error",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Error",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

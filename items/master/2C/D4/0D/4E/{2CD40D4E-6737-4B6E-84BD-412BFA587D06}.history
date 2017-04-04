@@ -32,9 +32,28 @@
     "itemName": "ch-linkedin-post",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-linkedin-post",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2CD40D4E-6737-4B6E-84BD-412BFA587D06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.6495866Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-linkedin-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-linkedin-post",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

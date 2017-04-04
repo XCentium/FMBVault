@@ -32,9 +32,28 @@
     "itemName": "Files",
     "itemPath": "/sitecore/media library/Project/Common/Files",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{0E5C18C2-EED2-4E28-B950-A95BA11E5FEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.6339612Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Files",
+    "itemPath": "/sitecore/media library/Project/Common/Files",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

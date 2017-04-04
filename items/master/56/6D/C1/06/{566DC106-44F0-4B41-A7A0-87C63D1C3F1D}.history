@@ -32,9 +32,28 @@
     "itemName": "Login",
     "itemPath": "/sitecore/media library/Feature/Accounts/Login",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{566DC106-44F0-4B41-A7A0-87C63D1C3F1D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.3527025Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/media library/Feature/Accounts/Login",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
