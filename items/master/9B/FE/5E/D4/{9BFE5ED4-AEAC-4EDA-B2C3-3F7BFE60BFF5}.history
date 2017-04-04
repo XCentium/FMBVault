@@ -32,9 +32,28 @@
     "itemName": "LinkDropMenu",
     "itemPath": "/sitecore/media library/Feature/Navigation/LinkDropMenu",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ff67f141cd0084cc83f21e70d66dca1a790a6082",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9BFE5ED4-AEAC-4EDA-B2C3-3F7BFE60BFF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:44:11.8803814Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "LinkDropMenu",
+    "itemPath": "/sitecore/media library/Feature/Navigation/LinkDropMenu",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
