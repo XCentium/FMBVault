@@ -13,7 +13,7 @@ created: 20170217T004845:636228893259930000
 ----version----
 language: en
 version: 1
-revision: ea4fcda2-519a-4147-9e1e-4bd6214479bd
+revision: fcbb0726-46af-4556-a333-21739798fcfc
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,9 +26,8 @@ Social Media Policy
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 4054
+content-length: 4024
 
-<h2>Social Media Policy:</h2>
 <p>Welcome!  Here at Farmers &amp; Merchants Bank, we have always taken great pride in being an active member of the community. Our social media platforms are an extension of this effort. We encourage you to use this page as both an informational resource and a positive place to interact.</p>
 <h3>
 Comments and Posting Policy</h3>
@@ -106,21 +105,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ea4fcda2-519a-4147-9e1e-4bd6214479bd
+fcbb0726-46af-4556-a333-21739798fcfc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170217T165938Z
+20170404T223436Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\jbridges
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
