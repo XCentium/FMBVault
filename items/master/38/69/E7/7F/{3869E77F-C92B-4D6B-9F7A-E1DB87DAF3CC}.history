@@ -32,9 +32,28 @@
     "itemName": "Edit Details",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Accounts Menu/Edit Details",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d209a9e5e77c300fade7e0c1f334c0733c9a2c3c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3869E77F-C92B-4D6B-9F7A-E1DB87DAF3CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3283970Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Details",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Accounts Menu/Edit Details",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
