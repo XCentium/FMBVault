@@ -32,9 +32,28 @@
     "itemName": "Jane Douane",
     "itemPath": "/sitecore/content/FMBCom/Global/Quotes/Jane Douane",
     "template": "Quote",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2da2085c1ccb4aceaaf0690994c7e3dfb03d90d5",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{779041C8-F089-4E63-A054-D718F42EE16D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8596499Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jane Douane",
+    "itemPath": "/sitecore/content/FMBCom/Global/Quotes/Jane Douane",
+    "template": "Quote",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
