@@ -13,7 +13,7 @@ created: 20170125T211316:636209755967300000
 ----version----
 language: en
 version: 1
-revision: ae4d6897-391f-4397-be5c-3cf6f8321dee
+revision: 056ea5c2-4cda-4a25-a447-2ccc252e7915
 
 ----field----
 field: {184FA31C-0276-4B0B-9BAF-A4C3FEF4025A}
@@ -26,7 +26,7 @@ FMB Account Types
 field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
 name: Body
 key: body
-content-length: 14245
+content-length: 14361
 
 <div class="tablesaw-bar tablesaw-mode-swipe">
 <div class="tablesaw-advance"><a href="#" class="tablesaw-nav-btn btn btn-micro left disabled" title="Previous Column"></a><a href="#" class="tablesaw-nav-btn btn btn-micro right" title="Next Column"></a></div>
@@ -82,7 +82,7 @@ content-length: 14245
         </tr>
         <tr>
             <td class=" tablesaw-cell-persist">Free Debit Card Alerts<sup>2</sup></td>
-            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx?h=22&amp;w=22" style="height: 22px; width: 22px;"></td>
+            <td>&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx?h=22&amp;w=22&amp;hash=E264DCA53E2D020EEDA6092097C55E917654BCEB" style="height: 22px; width: 22px;"></td>
             <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
             <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
         </tr>
@@ -96,7 +96,7 @@ content-length: 14245
             <td class=" tablesaw-cell-persist">Foreign ATM Surcharge Fee Reversal<sup>6</sup></td>
             <td>&nbsp;</td>
             <td class=" tablesaw-cell-hidden"><img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
-            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx?h=22&amp;w=22" style="height: 22px; width: 22px;">&nbsp;</td>
+            <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx?h=22&amp;w=22&amp;hash=E264DCA53E2D020EEDA6092097C55E917654BCEB" style="height: 22px; width: 22px;">&nbsp;</td>
         </tr>
         <tr>
             <td class=" tablesaw-cell-persist">Free Online Banking</td>
@@ -168,7 +168,8 @@ content-length: 14245
         <tr>
             <td class=" tablesaw-cell-persist">
             Free Unlimited Cashier&rsquo;s Checks,<br>
-            Money Orders &amp; Travelers Cheques (<em>Please see Branch Management for details</em>)</td>
+            Money Orders &amp; Travelers Cheques<br>
+            (<em>Please see Branch Management for details</em>)</td>
             <td>&nbsp;</td>
             <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
             <td class=" tablesaw-cell-hidden">&nbsp;<img alt="" height="22" width="22" src="-/media/644851BE5E1742229D26452FF227B7B1.ashx"></td>
@@ -242,14 +243,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ae4d6897-391f-4397-be5c-3cf6f8321dee
+056ea5c2-4cda-4a25-a447-2ccc252e7915
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T234459Z
+20170404T234610Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
