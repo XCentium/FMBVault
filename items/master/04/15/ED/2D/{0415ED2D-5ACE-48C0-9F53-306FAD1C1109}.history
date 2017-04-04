@@ -89,9 +89,28 @@
     "itemName": "Page Teaser",
     "itemPath": "/sitecore/media library/Feature/PageContent/Page Teaser",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bada62d4bbb83416bab2fd608e6673ada02e7140",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{0415ED2D-5ACE-48C0-9F53-306FAD1C1109}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:44:37.9754969Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Page Teaser",
+    "itemPath": "/sitecore/media library/Feature/PageContent/Page Teaser",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
