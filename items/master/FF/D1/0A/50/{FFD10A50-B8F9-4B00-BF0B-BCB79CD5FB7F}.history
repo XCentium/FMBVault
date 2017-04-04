@@ -32,9 +32,28 @@
     "itemName": "Anonymous User",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Personal Info/Anonymous User",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2ae96da952877c33ebb9add32c23c296a135e172",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FFD10A50-B8F9-4B00-BF0B-BCB79CD5FB7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3753096Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anonymous User",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Personal Info/Anonymous User",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
