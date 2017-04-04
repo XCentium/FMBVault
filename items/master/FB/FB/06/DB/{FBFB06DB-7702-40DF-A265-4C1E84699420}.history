@@ -51,9 +51,28 @@
     "itemName": "Brochures",
     "itemPath": "/sitecore/media library/FMBCom/Files/Brochures",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e8867150be38dfcdcf888f8cde7b85f4dd1b43ff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{FBFB06DB-7702-40DF-A265-4C1E84699420}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:45:07.2680238Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Brochures",
+    "itemPath": "/sitecore/media library/FMBCom/Files/Brochures",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
