@@ -32,9 +32,28 @@
     "itemName": "Teasers Documentation",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teasers Documentation",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5c14a3b679028ed9addd635cdb04dcbc059e13c1",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{067ABED5-CB79-46C0-9019-C9E7B01AF3E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8909003Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teasers Documentation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teasers Documentation",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
