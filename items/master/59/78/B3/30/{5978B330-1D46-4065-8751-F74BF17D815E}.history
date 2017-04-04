@@ -51,9 +51,28 @@
     "itemName": "Email",
     "itemPath": "/sitecore/templates/Feature/Person/_Employee/Contact/Email",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{5978B330-1D46-4065-8751-F74BF17D815E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:25.5707309Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/templates/Feature/Person/_Employee/Contact/Email",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

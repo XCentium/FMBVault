@@ -51,9 +51,28 @@
     "itemName": "Response Status Code",
     "itemPath": "/sitecore/templates/Redirect Module/Response Status Code",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C29988A3-65F3-4DF9-8C07-369B51E85020}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:39.4756012Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Response Status Code",
+    "itemPath": "/sitecore/templates/Redirect Module/Response Status Code",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

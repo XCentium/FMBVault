@@ -32,9 +32,28 @@
     "itemName": "FieldOptionGroup",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/FieldOptionGroup",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D95DA7C4-2114-4FE6-A47A-4C2B2110C4D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:33.4290952Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "FieldOptionGroup",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/FieldOptionGroup",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

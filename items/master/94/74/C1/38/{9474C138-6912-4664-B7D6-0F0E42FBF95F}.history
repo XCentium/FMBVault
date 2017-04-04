@@ -51,9 +51,28 @@
     "itemName": "Dictionary",
     "itemPath": "/sitecore/templates/Foundation/Dictionary/DictionaryEntry/Dictionary",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9474C138-6912-4664-B7D6-0F0E42FBF95F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:32.4900228Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Dictionary",
+    "itemPath": "/sitecore/templates/Foundation/Dictionary/DictionaryEntry/Dictionary",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

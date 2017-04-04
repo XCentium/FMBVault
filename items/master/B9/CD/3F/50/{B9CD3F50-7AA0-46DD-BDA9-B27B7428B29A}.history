@@ -32,9 +32,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/FAQ Group Folder/__Standard Values",
     "template": "FAQ Group Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B9CD3F50-7AA0-46DD-BDA9-B27B7428B29A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:35.1773220Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/FAQ Group Folder/__Standard Values",
+    "template": "FAQ Group Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

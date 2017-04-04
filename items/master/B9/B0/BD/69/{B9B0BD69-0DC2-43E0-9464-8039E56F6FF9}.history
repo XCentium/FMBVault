@@ -51,9 +51,28 @@
     "itemName": "2017",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017",
     "template": "Bucket",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B9B0BD69-0DC2-43E0-9464-8039E56F6FF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:40.8159299Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "2017",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

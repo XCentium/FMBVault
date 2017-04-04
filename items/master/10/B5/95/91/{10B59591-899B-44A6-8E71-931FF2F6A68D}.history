@@ -70,9 +70,28 @@
     "itemName": "sitecore content fmbcom global links login-box-menu",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom global links login-box-menu",
     "template": "Redirect Url",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{10B59591-899B-44A6-8E71-931FF2F6A68D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:22:09.9633520Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "sitecore content fmbcom global links login-box-menu",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/03/sitecore content fmbcom global links login-box-menu",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

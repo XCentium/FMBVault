@@ -51,9 +51,28 @@
     "itemName": "Versioned Redirect Pattern",
     "itemPath": "/sitecore/templates/Redirect Module/Versioned Redirect Pattern",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{01BCF357-6249-4E8B-AEEF-8B6EA009753D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:39.5224826Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Versioned Redirect Pattern",
+    "itemPath": "/sitecore/templates/Redirect Module/Versioned Redirect Pattern",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

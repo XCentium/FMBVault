@@ -32,9 +32,28 @@
     "itemName": "Employees folder",
     "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Employees folder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{51E2FF7F-6FB3-4470-91C8-D2AD97BF1EAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:35.6930098Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Employees folder",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Employees folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

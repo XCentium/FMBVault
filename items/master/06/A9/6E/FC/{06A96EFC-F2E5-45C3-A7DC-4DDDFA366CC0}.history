@@ -51,9 +51,28 @@
     "itemName": "CssCode",
     "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets/Assets/CssCode",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{06A96EFC-F2E5-45C3-A7DC-4DDDFA366CC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:32.4743703Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "CssCode",
+    "itemPath": "/sitecore/templates/Foundation/Assets/_PageAssets/Assets/CssCode",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

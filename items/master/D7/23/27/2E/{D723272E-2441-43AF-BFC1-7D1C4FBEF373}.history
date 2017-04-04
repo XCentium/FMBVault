@@ -89,9 +89,28 @@
     "itemName": "_HasNotification",
     "itemPath": "/sitecore/templates/Feature/Tools/_HasNotification",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D723272E-2441-43AF-BFC1-7D1C4FBEF373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:26.2237608Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "_HasNotification",
+    "itemPath": "/sitecore/templates/Feature/Tools/_HasNotification",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Search Results",
     "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Search Results",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "458fa04fb07fe606124bdea48a472d9221617817",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{92168572-385B-45F0-B40F-3D987AD20E5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:21:35.7085984Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Search Results",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Page Types/Search Results",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
