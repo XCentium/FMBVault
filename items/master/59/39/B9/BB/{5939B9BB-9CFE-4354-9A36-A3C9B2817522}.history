@@ -32,9 +32,28 @@
     "itemName": "light",
     "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Font Types/light",
     "template": "Style",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{5939B9BB-9CFE-4354-9A36-A3C9B2817522}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:00:03.3802729Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "light",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Font Types/light",
+    "template": "Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

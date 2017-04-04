@@ -32,9 +32,28 @@
     "itemName": "Secondary Color",
     "itemPath": "/sitecore/system/Settings/Foundation/Theming/Background Types/Secondary Color",
     "template": "Style",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{22EFB258-62F5-4B49-9D7E-DE07F70C9F37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:00:03.4271492Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secondary Color",
+    "itemPath": "/sitecore/system/Settings/Foundation/Theming/Background Types/Secondary Color",
+    "template": "Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

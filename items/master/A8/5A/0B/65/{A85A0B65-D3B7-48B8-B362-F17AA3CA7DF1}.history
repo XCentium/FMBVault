@@ -32,9 +32,28 @@
     "itemName": "Article Aside Both",
     "itemPath": "/sitecore/layout/Renderings/Project/Common/Article Aside Both",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A85A0B65-D3B7-48B8-B362-F17AA3CA7DF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:03:50.5471478Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Aside Both",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Article Aside Both",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

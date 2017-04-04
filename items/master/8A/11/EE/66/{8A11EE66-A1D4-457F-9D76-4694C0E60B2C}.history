@@ -32,9 +32,28 @@
     "itemName": "Narrow Section",
     "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Layout/Narrow Section",
     "template": "Placeholder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8A11EE66-A1D4-457F-9D76-4694C0E60B2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:03:50.4850061Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Narrow Section",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Project/Common/Layout/Narrow Section",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

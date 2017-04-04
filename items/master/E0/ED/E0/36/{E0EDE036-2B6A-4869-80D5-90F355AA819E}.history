@@ -32,9 +32,28 @@
     "itemName": "Left Side - Full Width",
     "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Layout Types/Left Side - Full Width",
     "template": "Style",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E0EDE036-2B6A-4869-80D5-90F355AA819E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:00:03.3958985Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Left Side - Full Width",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Layout Types/Left Side - Full Width",
+    "template": "Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

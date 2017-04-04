@@ -32,9 +32,28 @@
     "itemName": "bg-dark",
     "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-dark",
     "template": "Background Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{341711C5-F25E-4F90-95B4-40182BC5540A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:00:03.3802729Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bg-dark",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-dark",
+    "template": "Background Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

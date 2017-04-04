@@ -32,9 +32,28 @@
     "itemName": "Employee Teaser",
     "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Teaser",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7B7DD1F9-A0DB-45D9-9A3F-B704BB28903E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:03:50.5315218Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Teaser",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Teaser",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "3 Column 3-3-6",
     "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns/3 Column 3-3-6",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{DB4DA660-2D4A-4214-8896-9724E165DA44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:03:50.5627737Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "3 Column 3-3-6",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns/3 Column 3-3-6",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

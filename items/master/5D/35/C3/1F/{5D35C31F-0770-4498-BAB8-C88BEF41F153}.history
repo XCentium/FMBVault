@@ -32,9 +32,28 @@
     "itemName": "Teaser Carousel",
     "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Teaser Carousel",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{5D35C31F-0770-4498-BAB8-C88BEF41F153}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:03:50.5471478Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teaser Carousel",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Teaser Carousel",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

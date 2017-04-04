@@ -32,9 +32,28 @@
     "itemName": "Orange",
     "itemPath": "/sitecore/system/Settings/Feature/Office/Counties/Orange",
     "template": "_County",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2FB78D5E-818E-4734-8563-3E2CAD894ED1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:00:03.3958985Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/Counties/Orange",
+    "template": "_County",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

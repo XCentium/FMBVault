@@ -32,9 +32,28 @@
     "itemName": "Multisite",
     "itemPath": "/sitecore/layout/Renderings/Feature/Multisite",
     "template": "Rendering Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{5E275765-0F5E-4266-BBEC-0869966A4D24}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:03:50.5158966Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multisite",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Multisite",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

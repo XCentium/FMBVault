@@ -32,9 +32,28 @@
     "itemName": "bg-primary",
     "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-primary",
     "template": "Background Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BE6D975B-865D-4E68-903E-33F2A01F0006}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:00:03.3802729Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bg-primary",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-primary",
+    "template": "Background Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

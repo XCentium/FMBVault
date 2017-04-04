@@ -32,9 +32,28 @@
     "itemName": "FMBCom",
     "itemPath": "/sitecore/layout/Layouts/Project/FMBCom",
     "template": "Layout Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{126AC5BD-77B5-4ED2-886B-555D6629B5D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:03:50.4690427Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMBCom",
+    "itemPath": "/sitecore/layout/Layouts/Project/FMBCom",
+    "template": "Layout Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

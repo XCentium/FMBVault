@@ -32,9 +32,28 @@
     "itemName": "Minus",
     "itemPath": "/sitecore/system/Settings/Feature/Teasers/Icons/Minus",
     "template": "Icon",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4877A665-225F-47E2-BD66-B8997302FA13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:00:03.4115239Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Minus",
+    "itemPath": "/sitecore/system/Settings/Feature/Teasers/Icons/Minus",
+    "template": "Icon",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Font Types",
     "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Font Types",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9D9A6D2F-BF7E-4C54-9E9F-846A71E8FA29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:00:03.3802729Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Font Types",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Carousel Slide Types/Font Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

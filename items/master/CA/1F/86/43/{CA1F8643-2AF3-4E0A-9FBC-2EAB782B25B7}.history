@@ -32,9 +32,28 @@
     "itemName": "Section",
     "itemPath": "/sitecore/layout/Renderings/Project/Common/Section",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cd67a5a7f88abb9073d37493e04f6ead65c26608",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CA1F8643-2AF3-4E0A-9FBC-2EAB782B25B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:03:50.5471478Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Section",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Section",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
