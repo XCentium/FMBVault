@@ -32,9 +32,28 @@
     "itemName": "Sitecore",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Topbar Menu/Sitecore",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "838867b4d4089607c21cc8d1d4260ec50f625b00",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6FC63E8C-DD07-40F5-B3DC-CC74C7F767E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7502947Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Topbar Menu/Sitecore",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
