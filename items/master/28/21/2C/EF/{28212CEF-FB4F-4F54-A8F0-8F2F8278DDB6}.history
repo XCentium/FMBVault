@@ -32,9 +32,28 @@
     "itemName": "Search Again",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header/Search Again",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ea3e896d818974abdc1b2a158d5837a1f5888f1f",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{28212CEF-FB4F-4F54-A8F0-8F2F8278DDB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4221476Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Again",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search/Header/Search Again",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
