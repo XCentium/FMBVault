@@ -32,9 +32,28 @@
     "itemName": "Twitter",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Social Menu/Twitter",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4eaea4bb7f33714954fee5dd15ec23a7397f9e2f",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{ED40F161-FC99-40F2-A2F8-469A485BFCAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7346493Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Social Menu/Twitter",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
