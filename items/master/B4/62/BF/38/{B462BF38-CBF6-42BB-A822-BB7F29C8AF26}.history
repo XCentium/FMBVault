@@ -32,9 +32,28 @@
     "itemName": "Headline Employee Teasers",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Headline Employee Teasers",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3b14cb7eb3bba401919e6b20246d9fee07f5ba8b",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B462BF38-CBF6-42BB-A822-BB7F29C8AF26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Employee Teasers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Headline Employee Teasers",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
