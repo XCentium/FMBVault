@@ -32,9 +32,28 @@
     "itemName": "Title",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Title",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4228419e085688d59ce3b04b8ce2bcc99f3a07b0",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3267A8C5-90B8-4C32-BD78-BEBFA67144CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3753096Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Referral/Title",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
