@@ -80,17 +80,19 @@ fmb\jbridges
 ----version----
 language: en
 version: 2
-revision: d6810278-8e67-4e4f-bd7f-c5ebd8a0bdef
+revision: 22c03d2f-2e9c-4f96-8f70-f584ee6286a2
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 619
+content-length: 870
 
 <ol>
+    <li>Other financial institutions and ATM operators may charge an additional surcharge fee for use of their ATM, which is disclosed and debited at the time of your transaction.&nbsp;</li>
     <li>F&amp;M Bank does not charge for this service, however, your wireless carrier may charge you fees related to this service.</li>
-    <li>Balances may be combined from eligible accounts held by the primary account holder and eligible accounts related through a primary or joint relationship to the primary account holder.</li>
+    <li>Excludes transactions conducted at an ATM.</li>
+    <li>Balances may be combined from eligible accounts held by the primary accountholder and eligible accounts related through a primary or joint relationship to the primary accountholder.&nbsp;</li>
     <li>Checking accounts, Savings accounts, and Safe Deposit Box benefits are upon request.</li>
     <li>Applicable for non-F&amp;M ATM use in the United States and its territories only. Overdraft fees, if applicable, may apply. Fee reversal will occur within 48 hours.</li>
 </ol>
@@ -128,14 +130,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d6810278-8e67-4e4f-bd7f-c5ebd8a0bdef
+22c03d2f-2e9c-4f96-8f70-f584ee6286a2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T232845Z
+20170404T235320Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -177,7 +177,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: 91da9444-e757-4ea9-914e-3390dc6d1a6e
+revision: 155387f9-2c48-46e9-8ee4-a3868f1b8024
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -190,18 +190,18 @@ Platinum Checking Account
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 2342
+content-length: 2353
 
 <h2>Platinum Checking Benefits</h2>
 <div class="row">
 <div class="col-md-6">
 <ul>
-    <li>ATM Service Charge Fee Reversed<sup>4</sup></li>
-    <li>Foreign ATM Surcharge Fee Reversed<sup>4</sup></li>
-    <li>Free Safe Deposit Box, any 1 box size, for 1 Year (based upon availability)<sup>3</sup></li>
+    <li>ATM Service Charge Fee Reversed<sup>6</sup></li>
+    <li>Foreign ATM Surcharge Fee Reversed<sup>6</sup></li>
+    <li>Free Safe Deposit Box, any 1 box size, for 1 Year (based upon availability)<sup>5</sup></li>
     <li>Free Online Banking</li>
     <li>Free Checks provided by our vendor (1 box any style per calendar year)</li>
-    <li>Free Mobile Banking with Text Banking<sup>1</sup></li>
+    <li>Free Mobile Banking with Text Banking<sup>2</sup></li>
     <li>Free Unlimited Cashier&rsquo;s Checks, Money Orders &amp; Traveler&rsquo;s Cheques (<em>Please see Branch Management for details</em>)</li>
 </ul>
 </div>
@@ -209,8 +209,8 @@ content-length: 2342
 <ul>
     <li>Interest on Checking</li>
     <li>Additional Unlimited Platinum Checking Accounts
-    (monthly service charge waived for 1 year)<sup>3</sup></li>
-    <li>3 Free Savings Accounts for 1 year<sup>3</sup></li>
+    (monthly service charge waived for 1 year)<sup>5</sup></li>
+    <li>3 Free Savings Accounts for 1 year<sup>5</sup></li>
     <li>Free Incoming Domestic Wire Transfers</li>
     <li>Free Outgoing Domestic Wire Transfers</li>
 </ul>
@@ -220,16 +220,16 @@ content-length: 2342
 <div class="row">
 <div class="col-md-6">
 <ul>
-    <li><a href="~/link.aspx?_id=8BAD2102924C48FB8518E2D1FC149651&amp;_z=z">Free Debit MasterCard with Chip Technology&reg;</a></li>
-    <li><a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">Free Debit Card Alerts</a><sup>1</sup></li>
+    <li><a href="~/link.aspx?_id=8BAD2102924C48FB8518E2D1FC149651&amp;_z=z">Free Debit MasterCard with Chip Technology</a><sup>&reg;</sup></li>
+    <li><a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">Free Debit Card Alerts</a><sup>2</sup></li>
     <li>Free Online Banking</li>
     <li>Free Bill Pay</li>
-    <li>Free Mobile Banking with Text Banking<sup>1</sup></li>
+    <li>Free Mobile Banking with Text Banking<sup>2</sup></li>
 </ul>
 </div>
 <div class="col-md-6">
 <ul>
-    <li>Free Mobile Check Deposit<sup>1</sup></li>
+    <li>Free Mobile Check Deposit<sup>2</sup></li>
     <li>Free Direct Deposit</li>
     <li>Free Telebanker &amp; Call Center</li>
     <li>Free eStatements &amp; eNotices</li>
@@ -243,7 +243,7 @@ content-length: 2342
 <ul>
     <li>$25 maintenance fee or maintain $15,000 minimum<br>
     daily balance, or $50,000 average daily balance, or <br>
-    $100,000 combined checking and/or savings<span style="font-size: 13px;"><sup>2</sup>&nbsp;</span>average <br>
+    $100,000 combined checking and/or savings<span style="font-size: 13px;"><sup>4</sup>&nbsp;</span>average <br>
     daily balance.</li>
 </ul>
 </div>
@@ -317,14 +317,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-91da9444-e757-4ea9-914e-3390dc6d1a6e
+155387f9-2c48-46e9-8ee4-a3868f1b8024
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T232845Z
+20170404T235320Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
