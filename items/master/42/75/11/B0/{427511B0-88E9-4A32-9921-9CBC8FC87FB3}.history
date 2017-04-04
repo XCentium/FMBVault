@@ -51,9 +51,28 @@
     "itemName": "PersonalFinancialStatementFM122",
     "itemPath": "/sitecore/media library/Applications/PersonalFinancialStatementFM122",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fa3db80bfe648edba7e1f245c47f9a81a83167b0",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{427511B0-88E9-4A32-9921-9CBC8FC87FB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:04:36.0221955Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "PersonalFinancialStatementFM122",
+    "itemPath": "/sitecore/media library/Applications/PersonalFinancialStatementFM122",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
