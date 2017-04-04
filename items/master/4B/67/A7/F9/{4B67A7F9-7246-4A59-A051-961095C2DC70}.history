@@ -32,9 +32,28 @@
     "itemName": "Global",
     "itemPath": "/sitecore/content/FMBCom/Global",
     "template": "Global Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3c6c5ce0e202c629b79a8b1cf4c52aea428e36a6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4B67A7F9-7246-4A59-A051-961095C2DC70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.2346759Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global",
+    "itemPath": "/sitecore/content/FMBCom/Global",
+    "template": "Global Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
