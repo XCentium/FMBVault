@@ -32,9 +32,28 @@
     "itemName": "Search",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8dc5d2d85bab7774944c9ad4e33297d6fc599ab2",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{575C0620-5885-46A2-8D3F-99B806921006}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4221476Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Search",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
