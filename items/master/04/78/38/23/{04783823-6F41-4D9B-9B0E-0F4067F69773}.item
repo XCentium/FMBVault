@@ -10,6 +10,13 @@ template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
 templatekey: Content Module
 created: 20170208T215803:636221878839230000
 
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
 ----version----
 language: en
 version: 1
@@ -73,7 +80,7 @@ fmb\jbridges
 ----version----
 language: en
 version: 2
-revision: e05bd8e3-bf35-4e09-a82e-1b7ba02e5e19
+revision: 73416679-b354-4756-be93-18b06916b3d6
 
 ----field----
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
@@ -122,7 +129,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e05bd8e3-bf35-4e09-a82e-1b7ba02e5e19
+73416679-b354-4756-be93-18b06916b3d6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -137,3 +144,10 @@ key: __updated by
 content-length: 15
 
 fmb\Test_Author
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}
