@@ -32,9 +32,28 @@
     "itemName": "Search Results Header",
     "itemPath": "/sitecore/media library/Feature/Search/Search Results Header",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "618c1b6e4a856bb7b61f122524546a278d185c77",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D0523E19-2B3F-4C8A-8695-9D5CC83FF9F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:44:47.3665821Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Search Results Header",
+    "itemPath": "/sitecore/media library/Feature/Search/Search Results Header",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
