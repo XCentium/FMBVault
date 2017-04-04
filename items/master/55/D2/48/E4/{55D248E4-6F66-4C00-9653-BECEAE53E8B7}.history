@@ -57,6 +57,25 @@
     "deploymentId": null
   },
   {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{55D248E4-6F66-4C00-9653-BECEAE53E8B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.2341633Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Rendering Parameters",
+    "itemPath": "/sitecore/templates/Feature/Maps/_MapRenderingParameters/Map Rendering Parameters",
+    "template": "Template section",
+    "sourceControlRevisionId": "",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
     "eventType": "Deployed",
     "database": "master",
     "itemId": "{55D248E4-6F66-4C00-9653-BECEAE53E8B7}",
@@ -70,7 +89,7 @@
     "itemName": "Map Rendering Parameters",
     "itemPath": "/sitecore/templates/Feature/Maps/_MapRenderingParameters/Map Rendering Parameters",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6bfdeb2fbd024336a447a6b3cd9c65756b8c11e6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"

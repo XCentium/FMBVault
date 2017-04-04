@@ -32,9 +32,28 @@
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters/__Standard Values",
     "template": "Form Rendering Parameters",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FD8EE0C6-17F2-4E4E-A43F-E0A77D4C76A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.4841800Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters/__Standard Values",
+    "template": "Form Rendering Parameters",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

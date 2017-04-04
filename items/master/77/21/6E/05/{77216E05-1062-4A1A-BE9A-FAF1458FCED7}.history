@@ -32,9 +32,28 @@
     "itemName": "ch-appstore-activity",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-appstore-activity",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{77216E05-1062-4A1A-BE9A-FAF1458FCED7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.6339612Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-appstore-activity",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-appstore-activity",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

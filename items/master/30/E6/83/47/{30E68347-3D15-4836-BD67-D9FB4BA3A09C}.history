@@ -32,9 +32,28 @@
     "itemName": "Pricing Quote Request",
     "itemPath": "/sitecore/media library/System/Page Event Images/Pricing Quote Request",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{30E68347-3D15-4836-BD67-D9FB4BA3A09C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.6808802Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pricing Quote Request",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Pricing Quote Request",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -57,6 +57,25 @@
     "deploymentId": null
   },
   {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C9F45975-3F97-4C00-837D-F28B281A1491}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.2029117Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Field",
+    "itemPath": "/sitecore/templates/Feature/Forms/_FormFieldOptionGroup/Form Field",
+    "template": "Template section",
+    "sourceControlRevisionId": "",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
     "eventType": "Deployed",
     "database": "master",
     "itemId": "{C9F45975-3F97-4C00-837D-F28B281A1491}",
@@ -70,7 +89,7 @@
     "itemName": "Form Field",
     "itemPath": "/sitecore/templates/Feature/Forms/_FormFieldOptionGroup/Form Field",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6bfdeb2fbd024336a447a6b3cd9c65756b8c11e6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"

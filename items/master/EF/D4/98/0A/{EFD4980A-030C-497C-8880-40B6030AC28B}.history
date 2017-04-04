@@ -57,6 +57,25 @@
     "deploymentId": null
   },
   {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{EFD4980A-030C-497C-8880-40B6030AC28B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.2188429Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OrganisationName",
+    "itemPath": "/sitecore/templates/Feature/Identity/_Identity/Organisation/OrganisationName",
+    "template": "Template field",
+    "sourceControlRevisionId": "",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
     "eventType": "Deployed",
     "database": "master",
     "itemId": "{EFD4980A-030C-497C-8880-40B6030AC28B}",
@@ -70,7 +89,7 @@
     "itemName": "OrganisationName",
     "itemPath": "/sitecore/templates/Feature/Identity/_Identity/Organisation/OrganisationName",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6bfdeb2fbd024336a447a6b3cd9c65756b8c11e6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"

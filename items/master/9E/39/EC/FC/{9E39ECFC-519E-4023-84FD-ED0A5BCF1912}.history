@@ -57,6 +57,25 @@
     "deploymentId": null
   },
   {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9E39ECFC-519E-4023-84FD-ED0A5BCF1912}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.2029117Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ParametersTemplates",
+    "itemPath": "/sitecore/templates/Feature/HowTo/ParametersTemplates",
+    "template": "Template Folder",
+    "sourceControlRevisionId": "",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
     "eventType": "Deployed",
     "database": "master",
     "itemId": "{9E39ECFC-519E-4023-84FD-ED0A5BCF1912}",
@@ -70,7 +89,7 @@
     "itemName": "ParametersTemplates",
     "itemPath": "/sitecore/templates/Feature/HowTo/ParametersTemplates",
     "template": "Template Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6bfdeb2fbd024336a447a6b3cd9c65756b8c11e6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"

@@ -32,9 +32,28 @@
     "itemName": "Office",
     "itemPath": "/sitecore/templates/Feature/Office",
     "template": "Template Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1E72A9DE-7D8B-4687-8C48-E1A2492593A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.2810417Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Office",
+    "itemPath": "/sitecore/templates/Feature/Office",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

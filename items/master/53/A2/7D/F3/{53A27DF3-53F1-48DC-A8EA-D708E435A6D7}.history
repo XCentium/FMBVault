@@ -38,6 +38,25 @@
     "deploymentId": null
   },
   {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{53A27DF3-53F1-48DC-A8EA-D708E435A6D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.1874575Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Background Parameters",
+    "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters/Background Parameters",
+    "template": "Template section",
+    "sourceControlRevisionId": "",
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  },
+  {
     "eventType": "Deployed",
     "database": "master",
     "itemId": "{53A27DF3-53F1-48DC-A8EA-D708E435A6D7}",
@@ -51,7 +70,7 @@
     "itemName": "Background Parameters",
     "itemPath": "/sitecore/templates/Feature/Forms/Rendering Parameters/Form Rendering Parameters/Background Parameters",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6bfdeb2fbd024336a447a6b3cd9c65756b8c11e6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
