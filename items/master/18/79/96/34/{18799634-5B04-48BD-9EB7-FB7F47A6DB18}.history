@@ -32,9 +32,28 @@
     "itemName": "Navigation",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/Navigation",
     "template": "Datasource Settings Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "45bfd647ad70eaf6c059e490c4b5592c53fa4b01",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{18799634-5B04-48BD-9EB7-FB7F47A6DB18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/Navigation",
+    "template": "Datasource Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
