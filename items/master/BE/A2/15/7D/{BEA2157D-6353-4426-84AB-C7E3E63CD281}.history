@@ -32,9 +32,28 @@
     "itemName": "_Default",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/_Default",
     "template": "Modal Link Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "67b2699b0ad15822b9b9ebb5c124b15759a27cb3",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BEA2157D-6353-4426-84AB-C7E3E63CD281}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7190241Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_Default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/_Default",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
