@@ -32,9 +32,28 @@
     "itemName": "Person",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a01fcef497ab73af5389e333cf575b43977c3483",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{429C8498-C8DE-46DA-927C-F7E7E95AE673}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4065221Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Person",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
