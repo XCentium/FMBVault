@@ -32,9 +32,28 @@
     "itemName": "employee",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/employee",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3410bcc35b1db3b6c4571d2863a9834707eb79cd",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4D66C3DA-4480-4131-83DE-426A20DCF3A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "employee",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/employee",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
