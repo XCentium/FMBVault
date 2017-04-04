@@ -32,9 +32,28 @@
     "itemName": "TitleSummaryTeaser",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/TitleSummaryTeaser",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c2e30563cac379c8a62b897f233f7b9116692cde",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{389E6AE3-14AF-4ED1-A0FA-C3A4CC5CAE65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TitleSummaryTeaser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/TitleSummaryTeaser",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
