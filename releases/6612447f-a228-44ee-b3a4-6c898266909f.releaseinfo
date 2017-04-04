@@ -1,0 +1,37 @@
+{
+  "id": "6612447f-a228-44ee-b3a4-6c898266909f",
+  "releaseName": "20170404_GoogleKeys",
+  "lastModified": "2017-04-04T19:08:17.7174394Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{7725D9CB-AE13-4B74-AD61-4CBE03E1D86E}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{9CBEC017-A161-49B7-8AFB-3B74B47988E8}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{7C8ADBDA-26A4-484D-B681-BDD63B208BF1}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
