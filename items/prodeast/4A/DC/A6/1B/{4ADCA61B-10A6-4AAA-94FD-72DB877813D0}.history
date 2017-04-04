@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "prodeast",
+    "itemId": "{4ADCA61B-10A6-4AAA-94FD-72DB877813D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T23:52:48.7242084Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Image View",
+    "template": "View",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
