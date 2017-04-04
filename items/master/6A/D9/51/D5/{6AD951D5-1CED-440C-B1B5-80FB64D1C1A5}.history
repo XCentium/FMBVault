@@ -32,9 +32,28 @@
     "itemName": "Employee Contact Teaser",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person/Employee Contact Teaser",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ca8af7fd7a8406035e36d5a17c50f4f948e58e55",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6AD951D5-1CED-440C-B1B5-80FB64D1C1A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4065221Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Contact Teaser",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Person/Employee Contact Teaser",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
