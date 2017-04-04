@@ -32,9 +32,28 @@
     "itemName": "YouTube",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Social Menu/YouTube",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8b9697acad29d445717492c2b9172873d8bd7b40",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{987CEDDC-5C8E-48A2-95FE-CF403F9689F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7346493Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "YouTube",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Social Menu/YouTube",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
