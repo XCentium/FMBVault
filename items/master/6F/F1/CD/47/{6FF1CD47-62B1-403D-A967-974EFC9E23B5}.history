@@ -32,9 +32,28 @@
     "itemName": "home-hero-multiple",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/home-hero-multiple",
     "template": "Carousel",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0c162d41797f97faac8431eb23037025cbba82e7",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6FF1CD47-62B1-403D-A967-974EFC9E23B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7815293Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "home-hero-multiple",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousels/home-hero-multiple",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
