@@ -51,9 +51,28 @@
     "itemName": "FMB-DebitCards",
     "itemPath": "/sitecore/media library/FMB-DebitCards",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1af9a8d00217f284f5d90f5d0812ecd4949e7f1c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{79513AC5-8791-4A45-92FA-745CBCF49F10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:48:28.5729919Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "FMB-DebitCards",
+    "itemPath": "/sitecore/media library/FMB-DebitCards",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

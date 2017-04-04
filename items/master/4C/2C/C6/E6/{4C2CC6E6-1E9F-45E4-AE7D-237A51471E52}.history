@@ -51,9 +51,28 @@
     "itemName": "MainOffice",
     "itemPath": "/sitecore/media library/Images/MainOffice",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1af9a8d00217f284f5d90f5d0812ecd4949e7f1c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{4C2CC6E6-1E9F-45E4-AE7D-237A51471E52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:48:29.6824530Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "MainOffice",
+    "itemPath": "/sitecore/media library/Images/MainOffice",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
