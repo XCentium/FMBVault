@@ -32,9 +32,28 @@
     "itemName": "Total Visits",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Visits/Total Visits",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6a9e1b66b65acd287528b34d568ca6887e321904",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{852FD071-181C-4157-887A-D2925568063A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3908972Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Total Visits",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Visits/Total Visits",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
