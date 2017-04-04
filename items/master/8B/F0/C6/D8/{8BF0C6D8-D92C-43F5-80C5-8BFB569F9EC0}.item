@@ -13,7 +13,7 @@ created: 20170216T202558:636228735587200000
 ----version----
 language: en
 version: 1
-revision: 11d16e24-1844-433a-852d-503c2687a6e9
+revision: 11ebe2de-f838-41c6-80a3-26e1b5c11c31
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,7 +26,7 @@ Online Privacy Statement
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 9541
+content-length: 9567
 
 <h2>Online Privacy Statement.</h2>
 <p>
@@ -34,7 +34,7 @@ Farmers &amp; Merchants Bank of Long Beach (&ldquo;F&amp;M Bank&rdquo;) values a
 <br>
 <strong>Visitors to Our Web Site.</strong> Visitors to our web site remain anonymous, unless they register for a service or otherwise elect to disclose their identity to us.  Although we do not collect personally identifying information about persons who simply visit our site, we do collect certain limited information about visitors, such as their IP address (a numeric address assigned automatically to computers when they access the Internet).  We also may place &ldquo;cookies&rdquo; on a computer to track a visitor's use of our web site.  A cookie is a piece of data that is stored on your hard drive.  It takes up very little room on your system and helps us to customize our site and make its navigation easier for you. We sometimes use cookies to help estimate the number of visitors to our site and to determine which areas are the most popular. Unless you register with us for a service (such as opening an F&amp;M Bank account online), the cookie does not provide us with any personally identifying information about you, such as your name or address.</p>
 <p>We use Google tracking, Google Advertising and BING Advertising products to improve our advertising efforts, including, but not limited to: Remarketing with Google Adwords, Remarketing with BING, Google Analytics, and Google Display Network. Google and BING use cookies to display F&amp;M Bank ads based on our visitors' past visits to the F&amp;M Bank website, other websites and their activity on Google.com and BING. You may find out more about <a href="https://www.google.com/policies/technologies/ads/" target="_blank" title="Google Advertising Policies">Google Advertising Policies</a> or use their <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" title="free opt-out tool">free opt-out tool</a>. You may find out more about <a href="https://privacy.microsoft.com/en-us/privacystatement/" target="_blank" title="BING Advertising Policies">BING Advertising Policies</a> or use their <a href="http://choice.microsoft.com/en-us/opt-out" title="free opt-out tool">free opt-out tool</a> or opt out through the <a href="http://www.aboutads.info/choices/" title="Digital Advertising Alliance">Digital Advertising Alliance</a>.</p>
-<p>Information about Online Tracking.  Some browsers incorporate a Do Not Track feature that signals to websites you visit that you do not want to have your online activity tracked.  Tracking is not the same as using or collecting information in connection with a single website.  For these purposes tracking refers to collecting personally identifiable information from consumers who use or visit a website or online service as they move across different websites over time.  How browsers communicate the Do Not Track signal is not yet uniform.  As a result, this site is not yet set up to interpret or respond to Do Not Track signals communicated by your browser.  Even so, as described more fully throughout this Online Privacy Statement, we limit our use and collection of your personal information.  For a description of Do Not Track protocols for browsers and mobile devices, or simply to learn more about the choices available to you, you can visit the All About Do Not Track website: <a href="http://allaboutdnt.com" title="http://allaboutdnt.com">http://allaboutdnt.com</a></p>
+<p><strong>Information about Online Tracking.</strong>  Some browsers incorporate a Do Not Track feature that signals to websites you visit that you do not want to have your online activity tracked.  Tracking is not the same as using or collecting information in connection with a single website.  For these purposes tracking refers to collecting personally identifiable information from consumers who use or visit a website or online service as they move across different websites over time.  How browsers communicate the Do Not Track signal is not yet uniform.  As a result, this site is not yet set up to interpret or respond to Do Not Track signals communicated by your browser.  Even so, as described more fully throughout this Online Privacy Statement, we limit our use and collection of your personal information.  For a description of Do Not Track protocols for browsers and mobile devices, or simply to learn more about the choices available to you, you can visit the All About Do Not Track website: <a href="http://allaboutdnt.com" title="http://allaboutdnt.com">http://allaboutdnt.com</a></p>
 <p><strong>Our Collection and Use of Information</strong>. We may collect nonpublic personal information about you in order to understand your needs, to administer our business, to process transactions, and to provide you with products and services. We obtain nonpublic personal information about you from the following sources:</p>
 <ul>
     <li>Information we receive from you on applications or other forms (such as name, street address, e-mail address, phone number, social security number, date of birth, assets, income and beneficiaries)</li>
@@ -68,7 +68,7 @@ If you agreed to receive electronic statements, notices or disclosures from us e
 <br>
 Questions.  If you have any questions regarding this Statement, or with F&amp;M Bank&rsquo;s privacy practices, please e-mail us at <a href="mailto:privacy@fmb.com">privacy@fmb.com</a> or write to us at F&amp;M Bank, Attn: Compliance Department, 302 Pine Avenue, Long Beach, CA 90802<br>
 <br>
-Online Privacy Statement effective 06/11, Revised 12/15
+<em>Online Privacy Statement effective 06/11, Revised 12/15</em>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -124,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-11d16e24-1844-433a-852d-503c2687a6e9
+11ebe2de-f838-41c6-80a3-26e1b5c11c31
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T185906Z
+20170404T223056Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
