@@ -32,9 +32,28 @@
     "itemName": "Next",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Media/Carousel/Next",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c5824cfc8702bfdda1f669f538049e0dc8a3cf0f",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C784BFE3-04D3-4640-ACFE-AC65F99D34F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3908972Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Next",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Media/Carousel/Next",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
