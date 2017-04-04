@@ -32,9 +32,28 @@
     "itemName": "Topbar Menu",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Topbar Menu",
     "template": "Link Menu",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "74912001ed564c9a3766e6887b2db58d35e71c3a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{575BB28A-B341-40E0-84F4-940DEEFB1B98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7346493Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Topbar Menu",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Topbar Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
