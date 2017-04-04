@@ -13,7 +13,7 @@ created: 20170216T211526:636228765267170000
 ----version----
 language: en
 version: 1
-revision: 97349d84-40b6-4bb7-9d89-bd487f1d8bf6
+revision: 7fdd62db-b44d-4a8e-a308-ee741ccf3c45
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,44 +26,56 @@ Privacy Notice
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 7622
+content-length: 7836
 
 <h2>Farmers &amp; Merchants Bank Privacy Notice</h2>
 <p><a href="-/media/ACD1AC743D5D4E069E0FA0A107EC8C3A.ashx">Click here to download a pdf version</a></p>
- <table>
-        <tbody>
-            <tr>
-                <td class="cat-title"><strong>FACTS</strong></td>
-                <td>&nbsp;<strong>WHAT DOES FARMERS &amp; MERCHANTS BANK DO WITH YOUR PERSONAL INFORMATION?</strong></td>
-            </tr>
-            <tr class="noborder"><td><p>&nbsp;</p></td></tr>
-            <tr>
-                <td class="cat-title"><strong>Why</strong>?</td>
-                <td>Financial companies choose how they share your personal information.  Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.&nbsp;</td>
-            </tr>
-            <tr class="noborder"><td><p>&nbsp;</p></td></tr>
-            <tr>
-                <td class="cat-title"><strong>What?</strong></td>
-                <td>
-                    <p>The types of personal information we collect and share depend on the product or service you have with us.  This information can include:</p>
-                    <ul>
-                        <li>Social Security number and income</li>
-                        <li>Account balances and payment history</li>
-                        <li>Wire transfer instructions and overdraft history</li>
-                    </ul>
-                    <p>When you are no longer our customer, we continue to share your information as described in this notice.</p>
-                </td>
-            </tr>
-            <tr class="noborder"><td><p>&nbsp;</p></td></tr>
-            <tr>
-                <td class="cat-title"><strong>How?</strong></td>
-                <td>
-                    <br>
-                    All financial companies need to share customers’ personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Farmers &amp; Merchants Bank chooses to share; and whether you can limit this sharing.&nbsp;
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<table>
+    <tbody>
+        <tr>
+            <td class="cat-title"><strong>FACTS</strong></td>
+            <td>&nbsp;<strong>WHAT DOES FARMERS &amp; MERCHANTS BANK DO WITH YOUR PERSONAL INFORMATION?</strong></td>
+        </tr>
+        <tr class="noborder">
+            <td>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="cat-title"><strong>Why</strong>?</td>
+            <td>Financial companies choose how they share your personal information.  Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.&nbsp;</td>
+        </tr>
+        <tr class="noborder">
+            <td>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="cat-title"><strong>What?</strong></td>
+            <td>
+            <p>The types of personal information we collect and share depend on the product or service you have with us.  This information can include:</p>
+            <ul>
+                <li>Social Security number and income</li>
+                <li>Account balances and payment history</li>
+                <li>Wire transfer instructions and overdraft history</li>
+            </ul>
+            <p>When you are no longer our customer, we continue to share your information as described in this notice.</p>
+            </td>
+        </tr>
+        <tr class="noborder">
+            <td>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="cat-title"><strong>How?</strong></td>
+            <td>
+            <br>
+            All financial companies need to share customers&rsquo; personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers&rsquo; personal information; the reasons Farmers &amp; Merchants Bank chooses to share; and whether you can limit this sharing.&nbsp;
+            </td>
+        </tr>
+    </tbody>
+</table>
 <p>&nbsp;</p>
 <table>
     <tbody>
@@ -114,6 +126,15 @@ content-length: 7622
             <td><strong>For nonaffiliates to market to you</strong></td>
             <td>&nbsp;No</td>
             <td>&nbsp;We don't share</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table>
+    <tbody>
+        <tr>
+            <td><strong>&nbsp;Questions?</strong></td>
+            <td>Call (562) 437-0011 or <a href="http://www.fmb.com">www.fmb.com</a></td>
         </tr>
     </tbody>
 </table>
@@ -259,21 +280,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-97349d84-40b6-4bb7-9d89-bd487f1d8bf6
+7fdd62db-b44d-4a8e-a308-ee741ccf3c45
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170217T224831Z
+20170404T190629Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 12
 
-fmb\mmondragon
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
