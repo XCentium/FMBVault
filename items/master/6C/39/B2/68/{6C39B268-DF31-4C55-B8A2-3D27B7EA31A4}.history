@@ -32,9 +32,28 @@
     "itemName": "banner_LittleFlagGirl",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/banner_LittleFlagGirl",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ba9b5f4b963c8c519d6af6ecedb863489169a502",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{6C39B268-DF31-4C55-B8A2-3D27B7EA31A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:45:43.1577684Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "banner_LittleFlagGirl",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/banner_LittleFlagGirl",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
