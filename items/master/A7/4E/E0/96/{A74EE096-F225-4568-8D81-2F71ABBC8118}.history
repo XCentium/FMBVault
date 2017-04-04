@@ -32,9 +32,28 @@
     "itemName": "Interests",
     "itemPath": "/sitecore/content/FMBCom/Global/Interests",
     "template": "Interests Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f450fd63d6cf312fa7a609ec4e9efddf210ce387",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A74EE096-F225-4568-8D81-2F71ABBC8118}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.6877741Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interests",
+    "itemPath": "/sitecore/content/FMBCom/Global/Interests",
+    "template": "Interests Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
