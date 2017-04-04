@@ -32,9 +32,28 @@
     "itemName": "faq",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/faq",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1652ec1144c2ca8b7abca1551a88dbdad57a0ef7",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3B0DF5B8-A11D-4C90-846F-B0699BB86E7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "faq",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/faq",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
