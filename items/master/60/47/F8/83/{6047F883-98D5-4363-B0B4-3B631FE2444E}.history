@@ -32,9 +32,28 @@
     "itemName": "carousel",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/carousel",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8351e19ec9ecc955ae9af759813fd044ef1955ec",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6047F883-98D5-4363-B0B4-3B631FE2444E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "carousel",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/carousel",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
