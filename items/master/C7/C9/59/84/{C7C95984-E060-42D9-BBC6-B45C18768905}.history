@@ -32,9 +32,28 @@
     "itemName": "Settings",
     "itemPath": "/sitecore/content/FMBCom/Settings",
     "template": "Site Settings Root",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "564654cf09e034cb914121e9992eb033d309da8e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C7C95984-E060-42D9-BBC6-B45C18768905}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.9846504Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/content/FMBCom/Settings",
+    "template": "Site Settings Root",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
