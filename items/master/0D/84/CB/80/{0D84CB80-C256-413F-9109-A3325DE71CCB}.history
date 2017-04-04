@@ -51,9 +51,28 @@
     "itemName": "RollingHills",
     "itemPath": "/sitecore/media library/FMBCom/Files/VCards/RollingHills",
     "template": "File",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7662906c2b65e83d050453de73c94aa19f6f7c27",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{0D84CB80-C256-413F-9109-A3325DE71CCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:54.8518112Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "RollingHills",
+    "itemPath": "/sitecore/media library/FMBCom/Files/VCards/RollingHills",
+    "template": "File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

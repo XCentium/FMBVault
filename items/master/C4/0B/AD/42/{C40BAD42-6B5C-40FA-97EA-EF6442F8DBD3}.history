@@ -32,9 +32,28 @@
     "itemName": "Products",
     "itemPath": "/sitecore/media library/Feature/Products",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7662906c2b65e83d050453de73c94aa19f6f7c27",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C40BAD42-6B5C-40FA-97EA-EF6442F8DBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:37.5060810Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Products",
+    "itemPath": "/sitecore/media library/Feature/Products",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

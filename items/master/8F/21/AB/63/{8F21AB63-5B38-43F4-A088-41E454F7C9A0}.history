@@ -32,9 +32,28 @@
     "itemName": "girl-flag",
     "itemPath": "/sitecore/media library/FMBCom/Images/Banners/girl-flag",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7662906c2b65e83d050453de73c94aa19f6f7c27",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{8F21AB63-5B38-43F4-A088-41E454F7C9A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:59.0274459Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "girl-flag",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/girl-flag",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

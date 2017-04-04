@@ -32,9 +32,28 @@
     "itemName": "Employee Header Contact",
     "itemPath": "/sitecore/media library/Feature/Person/Employee Header Contact",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7662906c2b65e83d050453de73c94aa19f6f7c27",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{5C70EB6B-7CB4-4295-A31C-4B2638415F7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:50.8188747Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Employee Header Contact",
+    "itemPath": "/sitecore/media library/Feature/Person/Employee Header Contact",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

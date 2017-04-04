@@ -51,9 +51,28 @@
     "itemName": "Visa_Protect_Your_Identity",
     "itemPath": "/sitecore/media library/Brochures/Visa_Protect_Your_Identity",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7662906c2b65e83d050453de73c94aa19f6f7c27",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{3CD5B528-C109-4847-A216-014E3D899A33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T04:05:31.3186433Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Visa_Protect_Your_Identity",
+    "itemPath": "/sitecore/media library/Brochures/Visa_Protect_Your_Identity",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
