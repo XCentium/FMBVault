@@ -32,9 +32,28 @@
     "itemName": "Datasources",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources",
     "template": "Datasource Settings Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "447f77278afc373d7a2642d77deabba1d09b76a4",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FDB21766-A746-4B18-9B6D-66F69125772D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasources",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources",
+    "template": "Datasource Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
