@@ -32,9 +32,28 @@
     "itemName": "Our Clients",
     "itemPath": "/sitecore/content/FMBCom/Home/Our Clients",
     "template": "Navigation Link",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "27661f0cd66ef6ce1f5614d1a7d3ea1f860461f1",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{00B7D525-2F61-423E-8C43-874D30F278FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.9690254Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Our Clients",
+    "itemPath": "/sitecore/content/FMBCom/Home/Our Clients",
+    "template": "Navigation Link",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
