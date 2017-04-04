@@ -32,9 +32,28 @@
     "itemName": "mappoints",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/mappoints",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "34199fee1afbfaf483d397f8b57cf090a7c3a703",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CFF8CC2D-2E21-4C4E-AE45-2D255C4C5440}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mappoints",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/mappoints",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
