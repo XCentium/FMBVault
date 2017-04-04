@@ -32,9 +32,28 @@
     "itemName": "Facebook",
     "itemPath": "/sitecore/media library/Images/Social/Connector/Facebook",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cc534654fb633f1d7da1ece5c5f24c0a30e11dd1",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{6AA5AA9F-071A-4808-91AC-709FAAFFB310}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:48:41.0506099Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Facebook",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

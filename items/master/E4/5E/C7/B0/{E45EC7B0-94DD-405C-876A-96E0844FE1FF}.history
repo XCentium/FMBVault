@@ -32,9 +32,28 @@
     "itemName": "Connector",
     "itemPath": "/sitecore/media library/Images/Social/Connector",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cc534654fb633f1d7da1ece5c5f24c0a30e11dd1",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{E45EC7B0-94DD-405C-876A-96E0844FE1FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:48:40.5505803Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/media library/Images/Social/Connector",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
