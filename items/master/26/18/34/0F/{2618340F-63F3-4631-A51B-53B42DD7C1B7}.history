@@ -51,9 +51,28 @@
     "itemName": "Branch Details",
     "itemPath": "/sitecore/layout/Renderings/Feature/Maps/Branch Details",
     "template": "View rendering",
-    "sourceControlRevisionId": "24058a75b423feab253934436111ec32eac5ec7f",
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{2618340F-63F3-4631-A51B-53B42DD7C1B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:28.9524021Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Branch Details",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Maps/Branch Details",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

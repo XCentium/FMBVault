@@ -32,9 +32,28 @@
     "itemName": "Cecile 128x128",
     "itemPath": "/sitecore/media library/Experience Explorer/Presets/Cecile 128x128",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b4d32b2de41cb61e9ff8b8aa13f8d65f0144767",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4B48D87B-E463-42DD-B0F2-F45C382F6204}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:45:51.3527025Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cecile 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Cecile 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
