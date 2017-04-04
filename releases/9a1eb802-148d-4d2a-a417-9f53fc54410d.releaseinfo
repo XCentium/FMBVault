@@ -1,7 +1,7 @@
 {
   "id": "9a1eb802-148d-4d2a-a417-9f53fc54410d",
   "releaseName": "20170403_InitialDeploy",
-  "lastModified": "2017-04-04T03:38:56.9155804Z",
+  "lastModified": "2017-04-04T04:02:58.1059108Z",
   "lastDeployed": "2017-04-04T03:40:53.1840791+00:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
@@ -99,7 +99,34 @@
       "database": "master",
       "recursive": true,
       "installMode": 0,
+      "sitecoreItemId": "{660C9F18-5A7F-4034-84E5-D3D119D52C05}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{212C58BA-2CEE-4B5C-B987-38C49C78E72F}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
       "sitecoreItemId": "{E39630B2-2328-4E73-BEE8-9EE7D5B85CF2}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{81C279F1-4692-4E99-BB5D-1C1A63923620}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
