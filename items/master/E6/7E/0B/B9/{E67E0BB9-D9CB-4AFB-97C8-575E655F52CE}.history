@@ -32,9 +32,28 @@
     "itemName": "Habitat Modules Video",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Habitat/Habitat Modules Video",
     "template": "Video",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e3df5051c3ba76be05134dd96da01612ceaacbb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E67E0BB9-D9CB-4AFB-97C8-575E655F52CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7971497Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Habitat Modules Video",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Habitat/Habitat Modules Video",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
