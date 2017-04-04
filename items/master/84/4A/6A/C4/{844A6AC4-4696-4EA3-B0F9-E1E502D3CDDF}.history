@@ -32,9 +32,28 @@
     "itemName": "The Stable Dependencies Principle",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/The Stable Dependencies Principle",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9d51c726ce9f09f98d362f8653809ca96bba7159",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{844A6AC4-4696-4EA3-B0F9-E1E502D3CDDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "The Stable Dependencies Principle",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Content/The Stable Dependencies Principle",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
