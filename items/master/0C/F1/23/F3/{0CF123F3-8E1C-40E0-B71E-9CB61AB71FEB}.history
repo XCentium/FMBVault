@@ -108,9 +108,28 @@
     "itemName": "Rolling Hills poster",
     "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Rolling Hills poster",
     "template": "Redirect Url",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{0CF123F3-8E1C-40E0-B71E-9CB61AB71FEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:24:25.3361873Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Rolling Hills poster",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/PDFs/Rolling Hills poster",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

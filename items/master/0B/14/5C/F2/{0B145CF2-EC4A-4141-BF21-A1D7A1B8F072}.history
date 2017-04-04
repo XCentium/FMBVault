@@ -89,9 +89,28 @@
     "itemName": "Landing Page Contact Info",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Headers/Landing Page Contact Info",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{0B145CF2-EC4A-4141-BF21-A1D7A1B8F072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:52.4976882Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Landing Page Contact Info",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Headers/Landing Page Contact Info",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

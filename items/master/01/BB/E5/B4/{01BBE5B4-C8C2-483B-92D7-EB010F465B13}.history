@@ -51,9 +51,28 @@
     "itemName": "Headers",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Headers",
     "template": "Content Module Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{01BBE5B4-C8C2-483B-92D7-EB010F465B13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:46.1642060Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Headers",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Headers",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

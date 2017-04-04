@@ -32,9 +32,28 @@
     "itemName": "bg-secondary",
     "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-secondary",
     "template": "Background Type",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{F9C7AC14-B333-480D-A793-3C21ACF51294}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:24:57.3335062Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "bg-secondary",
+    "itemPath": "/sitecore/system/Settings/Feature/Media/Background Types/bg-secondary",
+    "template": "Background Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

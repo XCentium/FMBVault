@@ -51,9 +51,28 @@
     "itemName": "Press Releases",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Press Releases",
     "template": "Content Module Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A6EC4402-F23C-4068-A34A-2A388463B0C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:46.1792382Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Press Releases",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Press Releases",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

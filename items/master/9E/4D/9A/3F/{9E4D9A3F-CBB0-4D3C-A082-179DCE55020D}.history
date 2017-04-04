@@ -51,9 +51,28 @@
     "itemName": "Draft",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Draft",
     "template": "State",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:24:57.4116202Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Draft",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

@@ -51,9 +51,28 @@
     "itemName": "RI",
     "itemPath": "/sitecore/system/Settings/Feature/Office/States/RI",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C4D9916E-7348-4D2B-901C-C26BF1AD5885}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:24:54.9073797Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "RI",
+    "itemPath": "/sitecore/system/Settings/Feature/Office/States/RI",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

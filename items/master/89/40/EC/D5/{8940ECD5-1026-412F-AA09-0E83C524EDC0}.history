@@ -51,9 +51,28 @@
     "itemName": "Notifications",
     "itemPath": "/sitecore/content/FMBCom/Global/Notifications",
     "template": "Notification Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{8940ECD5-1026-412F-AA09-0E83C524EDC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:43.1721852Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Notifications",
+    "itemPath": "/sitecore/content/FMBCom/Global/Notifications",
+    "template": "Notification Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

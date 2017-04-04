@@ -51,9 +51,28 @@
     "itemName": "Get Started with Account",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Get Started with Account",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{2CEF34AE-7DA8-4069-8B5B-2468325E9F0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:46.6371688Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Get Started with Account",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/CTA Buttons/Get Started with Account",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

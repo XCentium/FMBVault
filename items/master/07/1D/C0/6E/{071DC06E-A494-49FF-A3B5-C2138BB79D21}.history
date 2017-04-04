@@ -51,9 +51,28 @@
     "itemName": "Launch Create Test Dialog",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish/Approve with Test/Launch Create Test Dialog",
     "template": "Launch Create Test Dialog Action",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c7ad7d2a017187c63cb7745c0afc8cfe2befe7bc",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{071DC06E-A494-49FF-A3B5-C2138BB79D21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:25:03.2711071Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Launch Create Test Dialog",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish/Approve with Test/Launch Create Test Dialog",
+    "template": "Launch Create Test Dialog Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
