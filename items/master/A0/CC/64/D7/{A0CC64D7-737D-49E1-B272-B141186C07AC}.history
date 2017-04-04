@@ -32,9 +32,28 @@
     "itemName": "Merchant Online",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/Merchant Online",
     "template": "Modal Link Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "89b0314aca1e4f07f142b585e72b974795750bff",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A0CC64D7-737D-49E1-B272-B141186C07AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7190241Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Merchant Online",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Login Menus/Login Box Menu/Merchant Online",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
