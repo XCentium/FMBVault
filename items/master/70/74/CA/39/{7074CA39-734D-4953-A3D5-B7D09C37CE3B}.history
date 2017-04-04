@@ -32,9 +32,28 @@
     "itemName": "3 Column 4-4-4",
     "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns/3 Column 4-4-4",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7074CA39-734D-4953-A3D5-B7D09C37CE3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:39.8212545Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "3 Column 4-4-4",
+    "itemPath": "/sitecore/layout/Renderings/Project/Common/Section Columns/3 Column 4-4-4",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

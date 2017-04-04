@@ -32,9 +32,28 @@
     "itemName": "ScrollingCarousel",
     "itemPath": "/sitecore/layout/Renderings/Feature/Media/ScrollingCarousel",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{2909C67B-7034-4E4B-843F-1EF123354888}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:29.8274463Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "ScrollingCarousel",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Media/ScrollingCarousel",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

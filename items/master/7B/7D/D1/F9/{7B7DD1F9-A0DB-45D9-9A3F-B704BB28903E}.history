@@ -32,9 +32,28 @@
     "itemName": "Employee Teaser",
     "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Teaser",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7B7DD1F9-A0DB-45D9-9A3F-B704BB28903E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:35.0464506Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Employee Teaser",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Person/Employee Teaser",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

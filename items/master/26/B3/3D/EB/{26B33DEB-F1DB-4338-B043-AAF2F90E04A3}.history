@@ -32,9 +32,28 @@
     "itemName": "Page Header with Media",
     "itemPath": "/sitecore/layout/Renderings/Feature/Media/Page Header with Media",
     "template": "Controller rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{26B33DEB-F1DB-4338-B043-AAF2F90E04A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:29.8274463Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Page Header with Media",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Media/Page Header with Media",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

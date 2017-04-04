@@ -32,9 +32,28 @@
     "itemName": "Call to Action",
     "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Call to Action",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:36.5621539Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Call to Action",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Teasers/Call to Action",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

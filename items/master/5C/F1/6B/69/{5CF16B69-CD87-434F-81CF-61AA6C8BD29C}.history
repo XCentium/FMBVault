@@ -51,9 +51,28 @@
     "itemName": "Long Beach 2016 Californias Strongest People You Can Bank On",
     "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/10/Long Beach 2016 Californias Strongest People You Can Bank On",
     "template": "News Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{5CF16B69-CD87-434F-81CF-61AA6C8BD29C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:08.0138710Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Long Beach 2016 Californias Strongest People You Can Bank On",
+    "itemPath": "/sitecore/content/FMBCom/Home/News and Community/Press-Releases/2016/10/Long Beach 2016 Californias Strongest People You Can Bank On",
+    "template": "News Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

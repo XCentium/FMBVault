@@ -108,9 +108,28 @@
     "itemName": "compare-money-market-account",
     "itemPath": "/sitecore/content/FMBCom/Home/LP/compare-money-market-account",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{E0642DBC-9C85-4989-AC8E-147909EAD368}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:32:35.1866435Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "compare-money-market-account",
+    "itemPath": "/sitecore/content/FMBCom/Home/LP/compare-money-market-account",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

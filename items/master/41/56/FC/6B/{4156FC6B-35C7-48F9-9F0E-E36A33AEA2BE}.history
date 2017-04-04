@@ -51,9 +51,28 @@
     "itemName": "Search Box",
     "itemPath": "/sitecore/layout/Renderings/Feature/Search/Search Box",
     "template": "View rendering",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{4156FC6B-35C7-48F9-9F0E-E36A33AEA2BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:36.5465521Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Search Box",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Search/Search Box",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

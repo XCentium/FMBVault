@@ -32,9 +32,28 @@
     "itemName": "Maps",
     "itemPath": "/sitecore/layout/Renderings/Feature/Maps",
     "template": "Rendering Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{02EDA08E-78E1-409C-9655-A2F43ABE09F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:23.0458492Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Maps",
+    "itemPath": "/sitecore/layout/Renderings/Feature/Maps",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

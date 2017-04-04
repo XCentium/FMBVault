@@ -51,9 +51,28 @@
     "itemName": "Business Credit Card",
     "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Credit Card",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e9ee5d24f74bb0a2c7030e4f585f4a7048781790",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9E8A2A52-CBC5-4109-8362-21ED3E42C698}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:33:03.9183508Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Business Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Home/Business/Business Credit Card",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
