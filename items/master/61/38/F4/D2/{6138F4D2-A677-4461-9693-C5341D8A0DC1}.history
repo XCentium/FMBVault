@@ -32,9 +32,28 @@
     "itemName": "Headline Call to Action",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Call to Action",
     "template": "Headline",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d65f52d5678be502f075983909c20748cd057b8c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6138F4D2-A677-4461-9693-C5341D8A0DC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8909003Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Call to Action",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Teaser Page/Headline Call to Action",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
