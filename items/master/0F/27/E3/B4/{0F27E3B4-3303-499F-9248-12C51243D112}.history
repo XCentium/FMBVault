@@ -32,9 +32,28 @@
     "itemName": "Refresh Visit Details Panel",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar/Refresh Visit Details Panel",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "207b7d248294b08f13aba4b816ffeb7088a6bd03",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{0F27E3B4-3303-499F-9248-12C51243D112}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.4221476Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Refresh Visit Details Panel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Website/Sidebar/Refresh Visit Details Panel",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
