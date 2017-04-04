@@ -32,9 +32,28 @@
     "itemName": "Helix",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Topbar Menu/Helix",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fb329aa2f315b7c01a2980dab45b302110ce1705",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{DD6DDD41-2477-4D8E-9E41-9C7564A382E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7346493Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Helix",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Topbar Menu/Helix",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
