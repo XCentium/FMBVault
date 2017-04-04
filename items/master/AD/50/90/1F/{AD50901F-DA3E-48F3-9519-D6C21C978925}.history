@@ -32,9 +32,28 @@
     "itemName": "Sitecore Experience Platform",
     "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Sitecore Experience Platform",
     "template": "Teaser",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "64eaae6241b9e7d79cebcf1c46e081b239cc483a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{AD50901F-DA3E-48F3-9519-D6C21C978925}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8752749Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Experience Platform",
+    "itemPath": "/sitecore/content/FMBCom/Global/Teasers/Sitecore Experience Platform",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
