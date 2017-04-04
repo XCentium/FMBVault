@@ -51,9 +51,28 @@
     "itemName": "Education Banking",
     "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/Education Banking",
     "template": "FieldOption",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{CA814562-66C2-4B54-B94A-98EF341E834A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:32.8928658Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Education Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Forms/Option Fields/BankingServices/Education Banking",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

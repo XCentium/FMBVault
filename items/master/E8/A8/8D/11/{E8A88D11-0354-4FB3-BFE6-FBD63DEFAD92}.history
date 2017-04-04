@@ -51,9 +51,28 @@
     "itemName": "Online Banking - Transfers",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Online Banking - Transfers",
     "template": "FAQ Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{E8A88D11-0354-4FB3-BFE6-FBD63DEFAD92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:27.0331836Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Online Banking - Transfers",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ Groups/Online Banking - Transfers",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

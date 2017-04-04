@@ -108,9 +108,28 @@
     "itemName": "Carnival of the Animals",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Carnival of the Animals",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{3D077B9E-FB19-46F2-90B7-24C59F9A891A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:39.7682100Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Carnival of the Animals",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/Carnival of the Animals",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

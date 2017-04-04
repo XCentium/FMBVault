@@ -51,9 +51,28 @@
     "itemName": "Who can I contact if I have questions",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Text Banking/Who can I contact if I have questions",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9BE4DB3E-6C24-44FF-ADB9-9040D43E2032}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:10.8721427Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Who can I contact if I have questions",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Text Banking/Who can I contact if I have questions",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

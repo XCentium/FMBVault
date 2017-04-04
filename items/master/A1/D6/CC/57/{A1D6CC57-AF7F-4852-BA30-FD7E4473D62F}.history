@@ -51,9 +51,28 @@
     "itemName": "Can I initiate wires or ACH transactions in Mobile Banking",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Mobile Features for Business Clients/Can I initiate wires or ACH transactions in Mobile Banking",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A1D6CC57-AF7F-4852-BA30-FD7E4473D62F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:10.4315574Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Can I initiate wires or ACH transactions in Mobile Banking",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Mobile Banking/Mobile Features for Business Clients/Can I initiate wires or ACH transactions in Mobile Banking",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

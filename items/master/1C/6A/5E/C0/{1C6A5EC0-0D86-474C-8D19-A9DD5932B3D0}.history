@@ -32,9 +32,28 @@
     "itemName": "Carousel",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Media/Carousel",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{1C6A5EC0-0D86-474C-8D19-A9DD5932B3D0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:57.4229284Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Media/Carousel",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

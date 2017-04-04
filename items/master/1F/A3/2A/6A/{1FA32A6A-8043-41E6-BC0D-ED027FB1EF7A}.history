@@ -51,9 +51,28 @@
     "itemName": "What is the cut-off time to submit a bill payment",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - General/What is the cut-off time to submit a bill payment",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{1FA32A6A-8043-41E6-BC0D-ED027FB1EF7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:11.3958262Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "What is the cut-off time to submit a bill payment",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/Online Banking - General/What is the cut-off time to submit a bill payment",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

@@ -51,9 +51,28 @@
     "itemName": "What is the FDIC",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What is the FDIC",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D03FDDE5-115B-46CB-8888-FA6B46EB1B45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:08.3724385Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "What is the FDIC",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/What is the FDIC",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

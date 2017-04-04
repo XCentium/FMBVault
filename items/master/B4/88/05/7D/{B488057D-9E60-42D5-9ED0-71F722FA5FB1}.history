@@ -51,9 +51,28 @@
     "itemName": "Lightbox Image Documentation",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Lightbox Image Documentation",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B488057D-9E60-42D5-9ED0-71F722FA5FB1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:37.6899789Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Lightbox Image Documentation",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Lightbox Image Documentation",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "hero-Login",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousel Slides/Hero Banner/hero-Login",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{3B883EBB-9CF8-4ED4-9F77-F855F18BF886}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:42.6902342Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "hero-Login",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Carousel Slides/Hero Banner/hero-Login",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Login E-mail Placeholder",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Login E-mail Placeholder",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{205238AB-2E58-4E48-852F-22705AACAADA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:57.2822930Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Login E-mail Placeholder",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Login E-mail Placeholder",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

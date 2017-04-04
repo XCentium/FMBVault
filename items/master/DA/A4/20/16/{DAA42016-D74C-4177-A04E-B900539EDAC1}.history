@@ -51,9 +51,28 @@
     "itemName": "How do I check to see if my bank is insured by the FDIC",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How do I check to see if my bank is insured by the FDIC",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{DAA42016-D74C-4177-A04E-B900539EDAC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:08.3412096Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "How do I check to see if my bank is insured by the FDIC",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/How do I check to see if my bank is insured by the FDIC",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

@@ -70,9 +70,28 @@
     "itemName": "Money Market Disclosure",
     "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Money Market Disclosure",
     "template": "Disclaimer",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7A56B832-905D-43C4-9517-E72FE7B6A4D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:59.5175663Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Money Market Disclosure",
+    "itemPath": "/sitecore/content/FMBCom/Global/Disclaimers/Money Market Disclosure",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

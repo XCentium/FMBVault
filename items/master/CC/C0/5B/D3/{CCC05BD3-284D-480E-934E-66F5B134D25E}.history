@@ -32,9 +32,28 @@
     "itemName": "Default",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Footer Navigation/Default",
     "template": "Navigation Group",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{CCC05BD3-284D-480E-934E-66F5B134D25E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:46.0029041Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Footer Navigation/Default",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

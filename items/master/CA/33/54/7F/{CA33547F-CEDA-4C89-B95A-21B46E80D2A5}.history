@@ -51,9 +51,28 @@
     "itemName": "King Arthur",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/King Arthur",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{CA33547F-CEDA-4C89-B95A-21B46E80D2A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:40.2369836Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "King Arthur",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Banners/King Arthur",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

@@ -51,9 +51,28 @@
     "itemName": "FAQ",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ",
     "template": "FAQ Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B308118B-6C6F-438F-908A-66D657634A7D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:04.7442813Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "FAQ",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

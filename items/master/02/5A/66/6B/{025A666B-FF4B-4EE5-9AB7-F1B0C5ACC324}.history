@@ -51,9 +51,28 @@
     "itemName": "Laguna Hills",
     "itemPath": "/sitecore/content/FMBCom/Global/Employees/Laguna Hills",
     "template": "Employee Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{025A666B-FF4B-4EE5-9AB7-F1B0C5ACC324}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:03.6983197Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Laguna Hills",
+    "itemPath": "/sitecore/content/FMBCom/Global/Employees/Laguna Hills",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

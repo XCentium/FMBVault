@@ -51,9 +51,28 @@
     "itemName": "Health Savings",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Savings/Health Savings",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{92A9FAB7-5C2F-4525-9CBB-68BF8CEC7AC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:37.5649725Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Health Savings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Products/Savings/Health Savings",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

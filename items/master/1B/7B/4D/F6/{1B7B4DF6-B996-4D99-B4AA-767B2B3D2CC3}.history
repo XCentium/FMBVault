@@ -51,9 +51,28 @@
     "itemName": "Where can I get more information about FDIC insurance",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Where can I get more information about FDIC insurance",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{1B7B4DF6-B996-4D99-B4AA-767B2B3D2CC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:08.3724385Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Where can I get more information about FDIC insurance",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/General Questions/Where can I get more information about FDIC insurance",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

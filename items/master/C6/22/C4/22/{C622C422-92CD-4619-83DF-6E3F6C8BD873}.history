@@ -51,9 +51,28 @@
     "itemName": "Memorial Hospital",
     "itemPath": "/sitecore/content/FMBCom/Global/Offices/Memorial Hospital",
     "template": "Office Branch",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C622C422-92CD-4619-83DF-6E3F6C8BD873}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:54.1264210Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Memorial Hospital",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices/Memorial Hospital",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

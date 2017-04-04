@@ -32,9 +32,28 @@
     "itemName": "YouTube",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Social Media Menu/YouTube",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{19AAC8F0-C058-4393-998C-A46F31FBA37B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:33.1897477Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "YouTube",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Footer Menus/Social Media Menu/YouTube",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

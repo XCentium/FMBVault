@@ -108,9 +108,28 @@
     "itemName": "Classic Checking Debit Card",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Products/Classic Checking Debit Card",
     "template": "Content Module",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D08FA393-72FA-4BF5-98DF-8C815997D040}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:30:56.3630549Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Classic Checking Debit Card",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Products/Classic Checking Debit Card",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

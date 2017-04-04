@@ -70,9 +70,28 @@
     "itemName": "Investors",
     "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/About FM/Investors",
     "template": "Navigation Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da65128d56fa2c9ea33d489a728725b26098018e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{122A2041-4274-4496-8FC6-1E5A6ACA0733}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:31:50.9674965Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Investors",
+    "itemPath": "/sitecore/content/FMBCom/Global/Navigation/Sub Navigation/About FM/Investors",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
