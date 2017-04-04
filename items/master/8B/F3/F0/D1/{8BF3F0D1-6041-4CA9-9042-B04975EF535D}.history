@@ -32,9 +32,28 @@
     "itemName": "Skiing",
     "itemPath": "/sitecore/content/FMBCom/Global/Interests/Skiing",
     "template": "Interest",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0601f793fc11a3e7b3791c0660858c27dfa2123f",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8BF3F0D1-6041-4CA9-9042-B04975EF535D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.6877741Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Skiing",
+    "itemPath": "/sitecore/content/FMBCom/Global/Interests/Skiing",
+    "template": "Interest",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
