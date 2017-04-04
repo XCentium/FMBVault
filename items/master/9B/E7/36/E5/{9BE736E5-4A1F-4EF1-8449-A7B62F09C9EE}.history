@@ -32,9 +32,28 @@
     "itemName": "Dependencies 5",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/DependenciesFolder/Dependencies 5",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "53034aa90aed29ea0aeac3320684153dd15007bb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9BE736E5-4A1F-4EF1-8449-A7B62F09C9EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7815293Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dependencies 5",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/DependenciesFolder/Dependencies 5",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
