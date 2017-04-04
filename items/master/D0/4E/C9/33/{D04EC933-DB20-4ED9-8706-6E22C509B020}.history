@@ -32,9 +32,28 @@
     "itemName": "Long Beach Symphony - March 11th 2017",
     "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Banners/Long Beach Symphony - March 11th 2017",
     "template": "Video",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4b795baf102458eefff2ec0b36c69cc164416ec7",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D04EC933-DB20-4ED9-8706-6E22C509B020}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7971497Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Beach Symphony - March 11th 2017",
+    "itemPath": "/sitecore/content/FMBCom/Global/Media/Videos/Banners/Long Beach Symphony - March 11th 2017",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
