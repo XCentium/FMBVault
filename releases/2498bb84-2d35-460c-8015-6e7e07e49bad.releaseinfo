@@ -1,0 +1,19 @@
+{
+  "id": "2498bb84-2d35-460c-8015-6e7e07e49bad",
+  "releaseName": "FMB 203",
+  "lastModified": "2017-04-04T02:30:27.6092166Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 0,
+      "sitecoreItemId": "{435BBFDE-28D5-4145-B206-1553841B66EA}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
