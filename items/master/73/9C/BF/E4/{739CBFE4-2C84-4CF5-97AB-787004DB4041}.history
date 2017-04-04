@@ -51,9 +51,28 @@
     "itemName": "medeSolutions_feesheet_",
     "itemPath": "/sitecore/media library/Brochures/RDC-HowToGuide-FMB/medeSolutions_feesheet_",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4b96a692c2df290c217c08b9348c5bb8a22a08ed",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{739CBFE4-2C84-4CF5-97AB-787004DB4041}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:43:09.4024641Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "medeSolutions_feesheet_",
+    "itemPath": "/sitecore/media library/Brochures/RDC-HowToGuide-FMB/medeSolutions_feesheet_",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

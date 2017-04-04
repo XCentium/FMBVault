@@ -51,9 +51,28 @@
     "itemName": "CRE-Q1",
     "itemPath": "/sitecore/media library/CRE-Q1",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4b96a692c2df290c217c08b9348c5bb8a22a08ed",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{435BBFDE-28D5-4145-B206-1553841B66EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:43:10.9642948Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "CRE-Q1",
+    "itemPath": "/sitecore/media library/CRE-Q1",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
