@@ -32,9 +32,28 @@
     "itemName": "Contact Details",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Contact Details",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "baa14609d823d9ba2a642a4353183a9bdb03ace6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F07FCB4A-65D1-4462-9021-39CBD675FBD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3596677Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Details",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Contact Details",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
