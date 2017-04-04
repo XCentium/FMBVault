@@ -32,9 +32,28 @@
     "itemName": "Pages Viewed",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Visits/Pages Viewed",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "96a649b568aaaed3e76a6e88622df0246a87c8bf",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F1F1CCE3-3B0B-4CF0-A3FE-67A665FDFF16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3908972Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages Viewed",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Visits/Pages Viewed",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
