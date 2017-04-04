@@ -51,9 +51,28 @@
     "itemName": "DSakamoto-sm",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/DSakamoto-sm",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e360fcbd78ce6e9e91bbe1396bf65a978be78a6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{8F43DD75-F48D-4DCB-A8E8-8FBF4409BC2B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:46:08.2005866Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "DSakamoto-sm",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/DSakamoto-sm",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

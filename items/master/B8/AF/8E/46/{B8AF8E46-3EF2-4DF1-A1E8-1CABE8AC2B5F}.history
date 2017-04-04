@@ -51,9 +51,28 @@
     "itemName": "JBennett",
     "itemPath": "/sitecore/media library/FMBCom/Images/Employees/JBennett",
     "template": "Jpeg",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5e360fcbd78ce6e9e91bbe1396bf65a978be78a6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B8AF8E46-3EF2-4DF1-A1E8-1CABE8AC2B5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:46:12.3414057Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "JBennett",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Employees/JBennett",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
