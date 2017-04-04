@@ -32,9 +32,28 @@
     "itemName": "Page View",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Page View",
     "template": "DictionaryFolder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d48df780e35cb3f3102ba3a76775758736471735",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{EE56B2B2-7245-4817-B492-D8FABCBBE94A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3596677Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page View",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Page View",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
