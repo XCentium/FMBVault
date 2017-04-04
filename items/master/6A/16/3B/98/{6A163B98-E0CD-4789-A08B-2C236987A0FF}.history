@@ -32,9 +32,28 @@
     "itemName": "Title",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Onsite Behavior/Title",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6048ad9775d78cbc236d5af1d84b1c280f59d907",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6A163B98-E0CD-4789-A08B-2C236987A0FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3596677Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Demo/Onsite Behavior/Title",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
