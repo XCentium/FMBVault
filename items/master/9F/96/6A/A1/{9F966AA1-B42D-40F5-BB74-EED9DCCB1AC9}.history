@@ -32,9 +32,28 @@
     "itemName": "Logo",
     "itemPath": "/sitecore/media library/Feature/Identity/Logo",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3a8c8694f74e8dd29ecaae288d9af892fadb607d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9F966AA1-B42D-40F5-BB74-EED9DCCB1AC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:43:46.0836522Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Logo",
+    "itemPath": "/sitecore/media library/Feature/Identity/Logo",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
