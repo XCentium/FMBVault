@@ -32,9 +32,28 @@
     "itemName": "Forgot Your Password",
     "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Forgot Your Password",
     "template": "DictionaryEntry",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7c151f1f74ac07b00b656a46ded9127da673202f",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C297EF2B-3CA7-4F18-A9CD-D9FA11EECF4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.3440441Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot Your Password",
+    "itemPath": "/sitecore/content/FMBCom/Global/Dictionary/Accounts/Login/Forgot Your Password",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
