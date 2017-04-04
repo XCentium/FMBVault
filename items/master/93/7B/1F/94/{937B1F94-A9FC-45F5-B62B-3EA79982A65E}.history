@@ -32,9 +32,28 @@
     "itemName": "pageteaser",
     "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/pageteaser",
     "template": "Datasource Configuration",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5124768d17ac90755e8abe6f0a2707ba9c179aa5",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{937B1F94-A9FC-45F5-B62B-3EA79982A65E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:02.0002751Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "pageteaser",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Datasources/pageteaser",
+    "template": "Datasource Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
