@@ -51,9 +51,28 @@
     "itemName": "EMV-Fraud-Liability-Shift-Protection-Promise",
     "itemPath": "/sitecore/media library/Terms and Conditions/EMV-Fraud-Liability-Shift-Protection-Promise",
     "template": "Pdf",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "116724de51fbfc345f9128add2df2d9620e0fa7c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{B516B2F7-4166-49A3-96C9-D2236441BBF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:49:01.0162427Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "EMV-Fraud-Liability-Shift-Protection-Promise",
+    "itemPath": "/sitecore/media library/Terms and Conditions/EMV-Fraud-Liability-Shift-Protection-Promise",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

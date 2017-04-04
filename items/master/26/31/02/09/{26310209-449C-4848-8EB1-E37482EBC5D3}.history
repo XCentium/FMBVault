@@ -51,9 +51,28 @@
     "itemName": "Terms and Conditions",
     "itemPath": "/sitecore/media library/Terms and Conditions",
     "template": "Media folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "116724de51fbfc345f9128add2df2d9620e0fa7c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{26310209-449C-4848-8EB1-E37482EBC5D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:48:56.0316145Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Terms and Conditions",
+    "itemPath": "/sitecore/media library/Terms and Conditions",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
