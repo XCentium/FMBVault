@@ -32,9 +32,28 @@
     "itemName": "ParametersTemplate_HasBackground",
     "itemPath": "/sitecore/templates/Foundation/Theming/ParametersTemplate_HasBackground",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A2A233A1-6701-48A9-B5F8-EFEAB74B655F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.4216758Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ParametersTemplate_HasBackground",
+    "itemPath": "/sitecore/templates/Foundation/Theming/ParametersTemplate_HasBackground",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

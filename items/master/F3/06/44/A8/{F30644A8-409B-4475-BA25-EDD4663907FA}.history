@@ -32,9 +32,28 @@
     "itemName": "_HasSubMenuSelector",
     "itemPath": "/sitecore/templates/Feature/Navigation/_HasSubMenuSelector",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F30644A8-409B-4475-BA25-EDD4663907FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.2654158Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_HasSubMenuSelector",
+    "itemPath": "/sitecore/templates/Feature/Navigation/_HasSubMenuSelector",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

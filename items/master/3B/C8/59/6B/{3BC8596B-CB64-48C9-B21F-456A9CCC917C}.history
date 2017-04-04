@@ -32,9 +32,28 @@
     "itemName": "Content",
     "itemPath": "/sitecore/templates/Feature/Products/_HasTableContent/Content",
     "template": "Template section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3BC8596B-CB64-48C9-B21F-456A9CCC917C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.3591912Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content",
+    "itemPath": "/sitecore/templates/Feature/Products/_HasTableContent/Content",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

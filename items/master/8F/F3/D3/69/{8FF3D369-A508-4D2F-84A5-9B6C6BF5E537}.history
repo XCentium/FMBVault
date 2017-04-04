@@ -32,9 +32,28 @@
     "itemName": "Navigation Link",
     "itemPath": "/sitecore/templates/Project/Common/Content Types/Navigation/Navigation Link",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.4529277Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation Link",
+    "itemPath": "/sitecore/templates/Project/Common/Content Types/Navigation/Navigation Link",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

@@ -32,9 +32,28 @@
     "itemName": "Site Root",
     "itemPath": "/sitecore/templates/Project/FMBCom/Content Types/Site Root",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{0643D9D4-F30B-4B07-91D0-289CC324C9CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.5310656Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Root",
+    "itemPath": "/sitecore/templates/Project/FMBCom/Content Types/Site Root",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]

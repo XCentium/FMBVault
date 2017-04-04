@@ -32,9 +32,28 @@
     "itemName": "_NewsFolder",
     "itemPath": "/sitecore/templates/Feature/News/_NewsFolder",
     "template": "Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55f7c60c56b0d8b1c6020b74fb6e86b9b2b1987c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{74889B26-061C-4D6A-8CDB-422665FC34EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T00:54:40.2810417Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "_NewsFolder",
+    "itemPath": "/sitecore/templates/Feature/News/_NewsFolder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
