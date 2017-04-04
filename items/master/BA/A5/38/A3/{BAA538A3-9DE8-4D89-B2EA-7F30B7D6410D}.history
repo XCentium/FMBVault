@@ -32,9 +32,28 @@
     "itemName": "Groundbreaking",
     "itemPath": "/sitecore/content/FMBCom/Global/Quotes/Groundbreaking",
     "template": "Quote",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "961eda5479f8275a25589b7cbb26219bf4020335",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BAA538A3-9DE8-4D89-B2EA-7F30B7D6410D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.8596499Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Groundbreaking",
+    "itemPath": "/sitecore/content/FMBCom/Global/Quotes/Groundbreaking",
+    "template": "Quote",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
