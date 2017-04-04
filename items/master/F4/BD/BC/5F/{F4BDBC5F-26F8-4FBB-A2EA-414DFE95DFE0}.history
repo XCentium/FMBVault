@@ -32,9 +32,28 @@
     "itemName": "About Us",
     "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Header Menu/About Us",
     "template": "Link Menu Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "57c0ef5e0dfbcef0fecd8bdd8c56b4dafe856945",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.0",
+    "deploymentId": null
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F4BDBC5F-26F8-4FBB-A2EA-414DFE95DFE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T01:27:01.7033983Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/FMBCom/Global/Links/Header Menus/Header Menu/About Us",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
     "deploymentId": null
   }
 ]
