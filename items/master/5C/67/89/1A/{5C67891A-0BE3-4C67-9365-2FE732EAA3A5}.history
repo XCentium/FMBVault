@@ -51,9 +51,28 @@
     "itemName": "FMB-BizDebit",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-BizDebit",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b59c383bcedb364d3e0968960c31512c13c472b6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{5C67891A-0BE3-4C67-9365-2FE732EAA3A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:47:17.5838312Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "FMB-BizDebit",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-BizDebit",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

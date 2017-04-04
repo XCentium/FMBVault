@@ -51,9 +51,28 @@
     "itemName": "EHL_black",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/EHL_black",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b59c383bcedb364d3e0968960c31512c13c472b6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{CA9D0347-0AC9-4E5D-9AE2-F09849ECB046}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:47:12.9273523Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "EHL_black",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/EHL_black",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]

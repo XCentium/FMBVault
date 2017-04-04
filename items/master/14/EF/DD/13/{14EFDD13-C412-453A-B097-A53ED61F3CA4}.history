@@ -51,9 +51,28 @@
     "itemName": "CJWalker_CutOut2",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/CJWalker_CutOut2",
     "template": "Image",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b59c383bcedb364d3e0968960c31512c13c472b6",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{14EFDD13-C412-453A-B097-A53ED61F3CA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:47:12.3179372Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "CJWalker_CutOut2",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/CJWalker_CutOut2",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
