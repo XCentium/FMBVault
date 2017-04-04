@@ -70,9 +70,28 @@
     "itemName": "TrusteerDetailedInstructionsMac",
     "itemPath": "/sitecore/media library/Brochures/TrusteerDetailedInstructionsMac",
     "template": "Pdf",
-    "sourceControlRevisionId": "37bfa0591b66e90c60acdad2a572ed1edb4686fa",
+    "sourceControlRevisionId": "2943cb70990aab1bd6b618490a9cd58c12beaa24",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{72723650-9C2A-41AB-9C37-3A0A7D7B66FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T03:42:54.9592835Z",
+    "label": "Deployed from 20170403_InitialDeploy",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "TrusteerDetailedInstructionsMac",
+    "itemPath": "/sitecore/media library/Brochures/TrusteerDetailedInstructionsMac",
+    "template": "Pdf",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
   }
 ]
