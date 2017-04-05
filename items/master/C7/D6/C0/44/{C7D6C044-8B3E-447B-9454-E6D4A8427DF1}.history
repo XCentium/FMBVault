@@ -127,9 +127,28 @@
     "itemName": "Maintenance",
     "itemPath": "/sitecore/content/FMBCom/Home/Maintenance",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "808a32300ff426ee91511f81d9b7f1a55745e258",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{C7D6C044-8B3E-447B-9454-E6D4A8427DF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T22:28:14.1044776Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "Maintenance",
+    "itemPath": "/sitecore/content/FMBCom/Home/Maintenance",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
