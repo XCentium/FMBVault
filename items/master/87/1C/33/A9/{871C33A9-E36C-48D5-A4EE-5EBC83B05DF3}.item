@@ -17,10 +17,24 @@ key: includeinsearchresults
 content-length: 0
 
 
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: 79588c9b-6da8-4f33-af72-095c1380a170
+revision: 398e5546-33a7-4cfd-a770-0402dff01436
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -77,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-79588c9b-6da8-4f33-af72-095c1380a170
+398e5546-33a7-4cfd-a770-0402dff01436
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170405T161649Z
+20170405T192903Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
