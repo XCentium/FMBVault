@@ -13,7 +13,7 @@ created: 20170201T024244:636215137642000000
 ----version----
 language: en
 version: 1
-revision: 9a7ddbc3-cd0c-4542-bc53-739c9267d569
+revision: fce9a1d1-ee0b-4372-a1dc-ef11a23088e8
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,12 +26,13 @@ Financial Calculators
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 2345
+content-length: 2528
 
 <p><strong>Personal Calculators</strong></p>
 <ul>
     <li><a href="~/link.aspx?_id=2F40EFAD56004B698058B2688435C56E&amp;_z=z">Mortgage Loan Calculator</a> - Use this calculator to determine your monthly payment and amortization schedule.</li>
     <li><a href="~/link.aspx?_id=2253217A6064439B87CA9569235DD3DD&amp;_z=z">Savings Calculator</a> - Find out how consistent investments over a number of years can be an effective strategy to accumulate wealth.</li>
+    <li><a href="~/link.aspx?_id=2253217A6064439B87CA9569235DD3DD&amp;_z=z">Savings Goal Calculator</a> - Set a goal and see what monthly savings is needed to achieve your goal.</li>
     <li><a href="~/link.aspx?_id=10F3D5A6C5D848FBBFF08013B7C1304A&amp;_z=z">Debt Consolidation</a> -&nbsp;Should you consolidate your debt? Use this calculator to find out.</li>
     <li><a href="~/link.aspx?_id=63F0C6E2BBE14C7CB71BD711B9B172AD&amp;_z=z">Certificate of Deposit Calculator</a> -&nbsp;Use this calculator to find out how much interest you can earn on a Certificate of Deposit (CD).</li>
     <li><a href="~/link.aspx?_id=CFE42E9B71A041349368A32274C31684&amp;_z=z">Retirement Planner</a> - Quickly determine if your retirement plan is on track&ndash;and learn how to keep it there.</li>
@@ -92,21 +93,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9a7ddbc3-cd0c-4542-bc53-739c9267d569
+fce9a1d1-ee0b-4372-a1dc-ef11a23088e8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T053336Z
+20170405T200404Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 12
 
-fmb\Anonymous
+fmb\jbridges
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
