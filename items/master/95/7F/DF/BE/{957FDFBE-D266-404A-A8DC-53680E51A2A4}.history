@@ -146,9 +146,28 @@
     "itemName": "ComparisonProto",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/ComparisonProto",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bdeb54a03e959f6bd25dd18039870fd7b44e477d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{957FDFBE-D266-404A-A8DC-53680E51A2A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T22:31:28.1299792Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "ComparisonProto",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/ComparisonProto",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
