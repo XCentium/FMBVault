@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "prodeast",
+    "itemId": "{A916C55D-1592-4542-8259-C86298504292}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:33:10.8534988Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fmb-community-WoodenBoatFestival",
+    "itemPath": "/sitecore/media library/FMBCom/Images/Banners/fmb-community-WoodenBoatFestival",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

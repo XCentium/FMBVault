@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "prodeast",
+    "itemId": "{710260E9-783F-4D24-B240-14BD7B3CAD79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:27:14.9209987Z",
+    "label": "Version 1 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking-Classic-Personal",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Checking-Classic-Personal",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
