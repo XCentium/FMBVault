@@ -146,9 +146,28 @@
     "itemName": "FMB-MainBGImage",
     "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-MainBGImage",
     "template": "Image",
-    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sourceControlRevisionId": "de440b396b9eca218074e5ac3355b49036912780",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7B75D1B6-56BC-4B3F-B99E-576A93E2B634}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:15:36.7050914Z",
+    "label": "Deployed from 20150405_ContentSync_Media",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "FMB-MainBGImage",
+    "itemPath": "/sitecore/media library/FMBCom/Images/LandingPages/FMB-MainBGImage",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "e552823e-43ba-4731-b5b5-d7d0f9512f0b"
   }
 ]
