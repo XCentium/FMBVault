@@ -13,15 +13,15 @@ created: 20170214T040851:636226421311100000
 ----version----
 language: en
 version: 1
-revision: bba30d81-6b27-4011-81d1-e08bdcb96c45
+revision: dd0358f3-6b37-423d-9849-8e5c656db8ea
 
 ----field----
 field: {FBEF8988-3BC8-409E-A0A2-D63EBE412A6D}
 name: Recipients
 key: recipients
-content-length: 23
+content-length: 67
 
-michael.liwanag@fmb.com
+michael.liwanag@fmb.com;james.bridges@fmb.com;haroun.ahmady@fmb.com
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -35,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bba30d81-6b27-4011-81d1-e08bdcb96c45
+dd0358f3-6b37-423d-9849-8e5c656db8ea
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170405T183952Z
+20170405T184229Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
