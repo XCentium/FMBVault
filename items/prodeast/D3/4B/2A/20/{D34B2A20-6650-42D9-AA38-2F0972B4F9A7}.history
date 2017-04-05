@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "CheckedOut",
+    "database": "prodeast",
+    "itemId": "{D34B2A20-6650-42D9-AA38-2F0972B4F9A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:26:59.4583916Z",
+    "label": "Checked out",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Modules",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
