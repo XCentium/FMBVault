@@ -146,9 +146,28 @@
     "itemName": "Savings",
     "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Savings",
     "template": "Calculator",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b5107f2f475dc3e05d9a52d56347e35e3f3340e3",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A1B42FEE-7947-4DF8-8604-47AD4CCB56A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:12:00.7677047Z",
+    "label": "Deployed from 20170405_ContentSync_Content",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Savings",
+    "itemPath": "/sitecore/content/FMBCom/Global/Calculators/Savings",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
   }
 ]

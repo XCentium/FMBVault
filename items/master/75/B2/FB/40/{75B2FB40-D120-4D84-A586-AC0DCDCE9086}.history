@@ -127,9 +127,28 @@
     "itemName": "Offices",
     "itemPath": "/sitecore/content/FMBCom/Global/Offices",
     "template": "Office Branch Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b5107f2f475dc3e05d9a52d56347e35e3f3340e3",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{75B2FB40-D120-4D84-A586-AC0DCDCE9086}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:12:00.5164172Z",
+    "label": "Deployed from 20170405_ContentSync_Content",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Offices",
+    "itemPath": "/sitecore/content/FMBCom/Global/Offices",
+    "template": "Office Branch Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
   }
 ]
