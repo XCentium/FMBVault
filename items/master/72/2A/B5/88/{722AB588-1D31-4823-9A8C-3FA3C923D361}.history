@@ -165,9 +165,28 @@
     "itemName": "zChris Test Page2-1",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/zChris Test Page/zChris Test Page2-1",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4ca117600d74965eecffc9be5336cea97191075c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{722AB588-1D31-4823-9A8C-3FA3C923D361}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T22:33:42.4425449Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "zChris Test Page2-1",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/zChris Test Page/zChris Test Page2-1",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
