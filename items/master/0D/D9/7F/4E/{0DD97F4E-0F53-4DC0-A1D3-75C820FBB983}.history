@@ -127,9 +127,28 @@
     "itemName": "Savings Accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Savings Accounts",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6cc5723b5ac7575959e6f28594d9886782915902",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{0DD97F4E-0F53-4DC0-A1D3-75C820FBB983}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T19:35:41.5937121Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Savings Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
