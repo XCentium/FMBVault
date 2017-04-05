@@ -127,9 +127,28 @@
     "itemName": "TestFunnel",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/TestFunnel",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f37683c316a887a97b2d0c41ab278a5af0ee6613",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4C5EAF59-53BE-4331-B05B-5A6E9D3E7973}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T22:30:28.8718351Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "TestFunnel",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/TestFunnel",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
