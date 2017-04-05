@@ -8,15 +8,8 @@ name: Fullerton Grand Reopening
 master: {00000000-0000-0000-0000-000000000000}
 template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
 templatekey: News Article
-created: 20170323T000112:636258240727070000
+created: 20170404T053344:636268808242500000
 
-----field----
-field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
-name: IncludeInSearchResults
-key: includeinsearchresults
-content-length: 1
-
-1
 ----field----
 field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
 name: NewsDate
@@ -48,7 +41,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 47ee622e-614f-4a2b-b3d3-496eb757e6eb
+revision: 592e80e6-14b7-404f-a529-33e6695bf3d4
 
 ----field----
 field: {C415DE28-60ED-4C8D-8CE5-AFC2CFE54D2C}
@@ -64,13 +57,6 @@ key: newstitle
 content-length: 69
 
 Farmers & Merchants Bank Completes Branch Transformation in Fullerton
-----field----
-field: {3437EAAC-6EE8-460B-A33D-DA1F714B5A93}
-name: NewsImage
-key: newsimage
-content-length: 0
-
-
 ----field----
 field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
 name: NewsSummary
@@ -138,21 +124,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-47ee622e-614f-4a2b-b3d3-496eb757e6eb
+592e80e6-14b7-404f-a529-33e6695bf3d4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170331T235522Z
+20170404T053344Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 13
 
-fmb\mlangdon
+fmb\Anonymous
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

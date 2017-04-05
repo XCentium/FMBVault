@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "prodwest",
+    "itemId": "{E7C212C5-2D9D-4CA5-8A18-47BF77CAB7A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-04T23:54:31.3281873Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Prod West",
+    "itemPath": "/sitecore/system/Publishing targets/Prod West",
+    "template": "Publishing target",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

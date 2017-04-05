@@ -30,30 +30,26 @@ content-length: 437
 field: {FD0DEC96-B220-4196-B544-68B11EEE727A}
 name: Css inline
 key: css inline
-content-length: 565
+content-length: 438
 
 <style>
-#ratingsWrapper{ padding-top: 20px; padding-bottom: 5px; }
-#ratingsWrapper h2 { font-size: 36px; }
-#ratingsWrapper .col-xs-12:first-child {border-right: 2px solid #919191;}
+#ratingsHomeWrapper { padding-top: 20px; padding-bottom: 15px; }
+#ratingsHomeWrapper h2 { font-size: 36px; }
+#ratingsHomeWrapper .col-xs-12:first-child {border-right: 2px solid #919191;}
 #bbblink{ margin: 0 auto !important; }
-#ratingsWrapper img  { margin: 0 auto; }
-#ratingsWrapper table { margin: 0 auto; }
+#ratingsHomeWrapper img  { margin: 0 auto; }
+#ratingsHomeWrapper table { margin: 0 auto; }
 
 @media only screen and (max-width: 768px)
 {
-#ratingsWrapper h2 { font-size: 28px; }
-}
- 
-@media only screen and (max-width : 480px) {
-#ratingsWrapper h2 { font-size: 20px; }
-#ratingsWrapper .col-xs-12:first-child {border-right: none;}
+#ratingsHomeWrapper h2 { font-size: 28px; }
+
 }
 </style>
 ----version----
 language: en
 version: 1
-revision: 36d7eb52-b165-4a72-b8be-f03502323591
+revision: 71386f85-e4ba-4f52-84d6-50e9d1d79e67
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -66,9 +62,9 @@ Ratings
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 1535
+content-length: 1539
 
-<div id="ratingsWrapper" class="gray-box container">
+<div id="ratingsHomeWrapper" class="gray-box container">
 <div class="col-xs-12 col-sm-3">
 <h2>F&amp;M Ratings</h2>
 </div>
@@ -110,21 +106,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-36d7eb52-b165-4a72-b8be-f03502323591
+71386f85-e4ba-4f52-84d6-50e9d1d79e67
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170403T234636Z
+20170404T053324Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 13
 
-fmb\mliwanag
+fmb\Anonymous
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
