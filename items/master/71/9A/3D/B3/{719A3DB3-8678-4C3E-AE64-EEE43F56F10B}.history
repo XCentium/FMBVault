@@ -146,9 +146,28 @@
     "itemName": "Prototype",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Prototype",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "65a9413e53e5c266e240b50bc3e70d48c2ea9b4e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{719A3DB3-8678-4C3E-AE64-EEE43F56F10B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T22:30:54.9178902Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "Prototype",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Prototype",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]

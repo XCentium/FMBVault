@@ -10,10 +10,31 @@ template: {832D5183-326A-4373-AD35-3334994FC3CA}
 templatekey: Article
 created: 20170120T172950:636205301903570000
 
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 0
+
+
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: 7a2199f1-8581-4249-97e1-0a4eb63d8a2b
+revision: 26b7225d-2400-4fa1-899e-04792c158f63
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -150,18 +171,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7a2199f1-8581-4249-97e1-0a4eb63d8a2b
+26b7225d-2400-4fa1-899e-04792c158f63
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T053341Z
+20170405T223054Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 12
 
-fmb\Anonymous
+fmb\mlangdon
