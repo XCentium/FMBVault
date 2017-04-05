@@ -127,9 +127,28 @@
     "itemName": "Savings",
     "itemPath": "/sitecore/content/FMBCom/Home/Calc/Savings",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1f860bdc15dc7b7d50a129147817ae5aa0f1f98d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{2253217A-6064-439B-87CA-9569235DD3DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T19:53:16.2813150Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Savings",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/Savings",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
