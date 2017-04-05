@@ -13,7 +13,7 @@ created: 20170309T010920:636246185603670000
 ----version----
 language: en
 version: 1
-revision: 000f982b-947c-4e88-b5a2-ed58031e685b
+revision: 36a92d4d-e6ab-404f-89aa-7ed1c17d8b57
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -22,6 +22,13 @@ key: link
 content-length: 137
 
 <link text="" linktype="internal" class="" title="Christmas Club" target="" querystring="" id="{52894AEB-8825-4286-9B9C-5AE089F3B6B6}" />
+----field----
+field: {2C24649E-4460-4114-B026-886CFBE1A96D}
+name: Icon
+key: icon
+content-length: 6
+
+fa-usd
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -56,18 +63,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-000f982b-947c-4e88-b5a2-ed58031e685b
+36a92d4d-e6ab-404f-89aa-7ed1c17d8b57
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170309T011027Z
+20170405T195255Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mlangdon
+fmb\mliwanag
