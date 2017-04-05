@@ -13,7 +13,7 @@ created: 20170309T010920:636246185603670000
 ----version----
 language: en
 version: 1
-revision: 36a92d4d-e6ab-404f-89aa-7ed1c17d8b57
+revision: c170f075-f8e7-4bc6-9013-e985484bc01a
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -26,9 +26,9 @@ content-length: 137
 field: {2C24649E-4460-4114-B026-886CFBE1A96D}
 name: Icon
 key: icon
-content-length: 6
+content-length: 0
 
-fa-usd
+
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-36a92d4d-e6ab-404f-89aa-7ed1c17d8b57
+c170f075-f8e7-4bc6-9013-e985484bc01a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170405T195255Z
+20170405T195719Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
