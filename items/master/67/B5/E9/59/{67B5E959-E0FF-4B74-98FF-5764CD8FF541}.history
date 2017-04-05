@@ -165,9 +165,28 @@
     "itemName": "Rates",
     "itemPath": "/sitecore/content/FMBCom/Home/Rates",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d795131dd3e86a4718562ea57c130690bc8fe597",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{67B5E959-E0FF-4B74-98FF-5764CD8FF541}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T20:10:26.7345858Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Rates",
+    "itemPath": "/sitecore/content/FMBCom/Home/Rates",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
