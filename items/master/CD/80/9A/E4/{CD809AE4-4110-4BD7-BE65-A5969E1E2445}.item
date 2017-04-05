@@ -10,10 +10,31 @@ template: {832D5183-326A-4373-AD35-3334994FC3CA}
 templatekey: Article
 created: 20170214T022101:636226356615900000
 
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 0
+
+
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: 441795b1-8e42-41b2-8110-ef64fd4c9fff
+revision: f4ddce6c-6879-4cae-8e0b-911cc15bb3f1
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -91,14 +112,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-441795b1-8e42-41b2-8110-ef64fd4c9fff
+f4ddce6c-6879-4cae-8e0b-911cc15bb3f1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170214T022150Z
+20170405T211502Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

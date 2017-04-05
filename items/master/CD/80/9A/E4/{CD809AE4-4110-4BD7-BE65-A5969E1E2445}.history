@@ -127,9 +127,28 @@
     "itemName": "Thank You Survey",
     "itemPath": "/sitecore/content/FMBCom/Home/Thank You Survey",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a9de50ab81b882224c0aac0eac708a4baebdd93c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{CD809AE4-4110-4BD7-BE65-A5969E1E2445}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T21:15:02.1162570Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "Thank You Survey",
+    "itemPath": "/sitecore/content/FMBCom/Home/Thank You Survey",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
