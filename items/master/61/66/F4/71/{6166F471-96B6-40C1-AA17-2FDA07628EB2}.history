@@ -526,9 +526,28 @@
     "itemName": "Personal",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal",
     "template": "Section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f4cf0df566c9b0f7b23c33f8c3b316b196605c8c",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{6166F471-96B6-40C1-AA17-2FDA07628EB2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-05T18:06:32.6199435Z",
+    "label": "Saved",
+    "workflowState": "{63304E12-1D78-4148-813E-BE163866B27C}",
+    "workflowStateName": "Approved",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Personal",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal",
+    "template": "Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
