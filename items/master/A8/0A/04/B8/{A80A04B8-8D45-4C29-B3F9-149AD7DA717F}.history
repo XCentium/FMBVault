@@ -165,9 +165,28 @@
     "itemName": "Personal Credit Card",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Personal Credit Card",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a59f727b29c088e49f77a1be4d73dfa2ef645961",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A80A04B8-8D45-4C29-B3F9-149AD7DA717F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T07:23:35.9676154Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\hahmady",
+    "itemName": "Personal Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Personal Credit Card",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]

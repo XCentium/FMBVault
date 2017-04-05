@@ -13,7 +13,7 @@ created: 20170202T231825:636216743057600000
 ----version----
 language: en
 version: 1
-revision: 24c422e7-42dc-4812-ad52-b69451798de2
+revision: 2845e137-8915-4872-ae72-73902e39f43a
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -26,12 +26,13 @@ Personal Credit Card
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 5724
+content-length: 5924
 
 <p>Get more with a Personal <strong>F&amp;M Visa<sup>&reg;</sup> Credit Card</strong> backed by a community bank you can trust. <strong>As one of California&rsquo;s strongest banks for 110 years,</strong> F&amp;M helps you increase your buying power with our F&amp;M rewards option, and gives you peace-of-mind with an array of security enhancements. F&amp;M Credit Cards are accepted worldwide. <sup>[1]</sup></p>
 <p>Now you can use your F&amp;M Visa credit card with Apple Pay&trade;. <a href="~/link.aspx?_id=BCB3F4570F954A5C9C6A6A9F140D5B8A&amp;_z=z" title="Click Here to Learn about Apple Pay">Click here</a> to learn more about how Apple Pay works and how to get started today.<sup>[2]</sup>&nbsp;</p>
+<div class="row">
+<div class="col-md-9">
 <h2>F&amp;M Cash Rewards</h2>
-<a href="-/media/1BDB7FB18BF54774B9367C8F57EC7237.ashx"><img alt="F&amp;M Credit Card Application" src="-/media/3B623467303E4469A16B8E22F3674D0F.ashx?h=351&amp;w=156&amp;hash=87A9ED53CBEF2DA4178D7683E1F0D1FE9F38D7F3&amp;hash=87A9ED53CBEF2DA4178D7683E1F0D1FE9F38D7F3" style="height: 351px; width: 156px; float: right; margin: 5px;"> </a>
 <ul>
     <li>F&amp;M Cash Rewards eligibility (enrollment is necessary. Please call 877-739-6244 to enroll during business hours.)</li>
     <li>1% cash back on all eligible purchases</li>
@@ -60,13 +61,19 @@ content-length: 5724
     <li>Emergency card replacement</li>
     <li>Emergency cash advances</li>
 </ul>
+</div>
+<div class="col-md-3">
+<a href="-/media/1BDB7FB18BF54774B9367C8F57EC7237.ashx"><img class="img-responsive" style="margin: 5px; width: 156px; height: 351px; float: right;" alt="F&amp;M Credit Card Application" src="-/media/3B623467303E4469A16B8E22F3674D0F.ashx?h=351&amp;w=156&amp;hash=87A9ED53CBEF2DA4178D7683E1F0D1FE9F38D7F3"> </a>
+</div>
+<a href="/sitecore/media library/Brochures/VisaTravelTipsBrochure_Web" style="text-align: center;">Download the Visa Travel Tips Brochure</a>
+</div>
 <p><span style="text-decoration: underline;"><a href="-/media/62BF5EFC697D4B31B8E6681058DCE2E3.ashx">Pricing and Terms</a></span></p>
 <p>With an F&amp;M Visa Credit Card you get the purchasing power of Visa, combined with the strength of Farmers &amp; Merchants Bank. What are you waiting for?<br>
 <br>
 <strong><a href="-/media/1BDB7FB18BF54774B9367C8F57EC7237.ashx">Download a F&amp;M Credit Card application</a></strong> and mail or drop off your completed application to your local office today.</p>
 <p>Certain restrictions and limitations apply; please click on the Pricing and Terms for further detail.</p>
-<p><strong><a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx" target="_parent" title="See All Services and Fees">See All Services and Fees</a></strong></p>
-<p><strong><a href="~/link.aspx?_id=AB4BAC5A4010405DAAB556FF12D6CE95&amp;_z=z"><img alt="Try our Personal Calculators!" src="-/media/600B359CC35341B89A0F70D93C998E4B.ashx?h=90&amp;w=400&amp;hash=C44EF5AD55CB9010F7CB27CDF43CABC3CD067E6B&amp;hash=C44EF5AD55CB9010F7CB27CDF43CABC3CD067E6B" style="height: 90px; width: 400px;"></a></strong></p>
+<p><strong><a href="-/media/453BFF11F80148FCB802EAB20F6DD733.ashx" title="See All Services and Fees" target="_parent">See All Services and Fees</a></strong></p>
+<p><strong><a href="~/link.aspx?_id=AB4BAC5A4010405DAAB556FF12D6CE95&amp;_z=z"><img style="width: 400px; height: 90px;" alt="Try our Personal Calculators!" src="-/media/600B359CC35341B89A0F70D93C998E4B.ashx?h=90&amp;w=400&amp;hash=C44EF5AD55CB9010F7CB27CDF43CABC3CD067E6B&amp;hash=C44EF5AD55CB9010F7CB27CDF43CABC3CD067E6B"></a></strong></p>
 <p><sup>1</sup> Applications limited to California residents only. Credit card applicant(s) require a personal deposit account relationship with F&amp;M. All credit card programs require credit approval. Full details about these programs are provided when you apply and additional information is provided when you become a cardholder.</p>
 <p><sup>2</sup>Apple, the Apple logo, iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Pay, Passbook, iSight, and Touch ID are trademarks of Apple Inc.</p>
 <p><sup>3</sup> F&amp;M Bank does not charge you a fee for using the F&amp;M Credit Card Alerts service. However, your wireless carrier may charge you for receiving a text message or phone call from us related to this service.</p>
@@ -128,21 +135,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-24c422e7-42dc-4812-ad52-b69451798de2
+2845e137-8915-4872-ae72-73902e39f43a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T053341Z
+20170405T072335Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 11
 
-fmb\Anonymous
+fmb\hahmady
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
