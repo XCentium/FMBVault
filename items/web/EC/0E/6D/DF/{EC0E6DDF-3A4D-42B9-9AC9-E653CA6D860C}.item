@@ -10,10 +10,17 @@ template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
 templatekey: Content Module
 created: 20170310T215738:636247798586870000
 
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
 ----version----
 language: en
-version: 1
-revision: 62f053a2-8b73-4e98-8424-2a16fd12de77
+version: 2
+revision: 24599f3a-b69d-4c7b-82fe-bf55f320da5b
 
 ----field----
 field: {7B4D8468-283D-4E4A-A2C1-50B026934DC5}
@@ -26,12 +33,14 @@ Recent Press
 field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
 name: Body
 key: body
-content-length: 1957
+content-length: 2134
 
 <h2>Recent Press Releases</h2>
 <a href="~/link.aspx?_id=3D2413E1298F4CF18A100DD4C6AA04BF&amp;_z=z">
 </a>
-<p><a href="~/link.aspx?_id=3D2413E1298F4CF18A100DD4C6AA04BF&amp;_z=z"></a><a href="~/link.aspx?_id=3D2413E1298F4CF18A100DD4C6AA04BF&amp;_z=z"><strong>December 07, 2016 - Farmers &amp; Merchants Bank CEO Hand-Delivers 1,600 Apples to Long Beach Police snd Fire Departments</strong></a><br>
+<p><a href="~/link.aspx?_id=13CADA659DAA401491C74CBB1F309F91&amp;_z=z"><strong>March 15, 2017 - Farmers &amp; Merchants Bank Completes Branch Transformation in Fullerton</strong></a><br>
+Neighborhood Icon Since 1985 Plans Grand Re-Opening Event</p>
+<p><a href="~/link.aspx?_id=3D2413E1298F4CF18A100DD4C6AA04BF&amp;_z=z"><strong>December 07, 2016 - Farmers &amp; Merchants Bank CEO Hand-Delivers 1,600 Apples to Long Beach Police and Fire Departments</strong></a><br>
 This Tradition of Gifting Apples at Christmastime Dates Back 78 Years and 3 Generations</p>
 <p><a href="~/link.aspx?_id=F526A24CD7474CADAB19A425D31E9D1C&amp;_z=z"><strong>December 02, 2016 - Farmers &amp; Merchants Bank Raises Hefty Noble Fir in Lobby with Help of Long Beach State Rugby Team&nbsp;</strong></a><br>
 The Tradition of an Enormous Christmas Tree in the Lobby Dates Back Over 100 Years<a href="~/link.aspx?_id=3D2413E1298F4CF18A100DD4C6AA04BF&amp;_z=z"></a></p>
@@ -45,6 +54,13 @@ Leading Bank Honors U.S. Troops With Donations to Homefront America, Inc.&nbsp;<
 <a class="btn btn-primary btn-green btn-sm">See All Press Releases</a>
 <p>&nbsp;</p>
 ----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20170329T182705Z
+----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
@@ -57,28 +73,28 @@ name: __Created
 key: __created
 content-length: 16
 
-20170310T215738Z
+20170329T182705Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 12
+content-length: 15
 
-fmb\mlangdon
+fmb\Test_Author
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-62f053a2-8b73-4e98-8424-2a16fd12de77
+24599f3a-b69d-4c7b-82fe-bf55f320da5b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170310T221828Z
+20170405T003235Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -86,6 +102,13 @@ key: __updated by
 content-length: 12
 
 fmb\mlangdon
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{63304E12-1D78-4148-813E-BE163866B27C}
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
