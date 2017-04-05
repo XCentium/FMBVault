@@ -11,6 +11,27 @@ templatekey: Article
 created: 20170214T040850:636226421307030000
 
 ----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 0
+
+
+----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
 key: __workflow
@@ -500,7 +521,7 @@ content-length: 5
 ----version----
 language: en
 version: 6
-revision: 24e3d29c-0a2b-4ef9-a7d3-f433a6692fa9
+revision: 0cf82ec0-55b4-4c9b-aacd-02eaec6d357d
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -571,21 +592,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-24e3d29c-0a2b-4ef9-a7d3-f433a6692fa9
+0cf82ec0-55b4-4c9b-aacd-02eaec6d357d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170404T053341Z
+20170405T223001Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 12
 
-fmb\Anonymous
+fmb\mlangdon
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

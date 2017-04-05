@@ -260,9 +260,28 @@
     "itemName": "TestRA",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/TestRA",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b51ccbdbbf6dd2972e2987ca270c0723c4b5ff31",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{7A3A5D41-8898-4CBC-9E96-05D5BD936387}",
+    "version": 6,
+    "language": "en",
+    "timestamp": "2017-04-05T22:30:01.4582739Z",
+    "label": "Saved",
+    "workflowState": "{63304E12-1D78-4148-813E-BE163866B27C}",
+    "workflowStateName": "Approved",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "TestRA",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/TestRA",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
