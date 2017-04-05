@@ -127,9 +127,28 @@
     "itemName": "Winspire",
     "itemPath": "/sitecore/content/FMBCom/Home/Testimonials/Winspire",
     "template": "Testimonial",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "83c8e4b820452ac063e991b21a3c813108d8a24e",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{0FEDE6E8-774A-417E-9A22-E14F2B90B207}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T16:20:26.0918270Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Winspire",
+    "itemPath": "/sitecore/content/FMBCom/Home/Testimonials/Winspire",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
