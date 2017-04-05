@@ -127,9 +127,28 @@
     "itemName": "GoogleAPI_Key",
     "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/GoogleAPI_Key",
     "template": "ConfigurationSetting",
-    "sourceControlRevisionId": "09d1ed4329d5deccd5d10ecbd0dce2928bdb46c5",
+    "sourceControlRevisionId": "a0ea4d398a0558ac1a9acf2b70d8b83decc219b9",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7725D9CB-AE13-4B74-AD61-4CBE03E1D86E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:12:17.5796369Z",
+    "label": "Deployed from 20170405_ContentSync_Content",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "GoogleAPI_Key",
+    "itemPath": "/sitecore/content/FMBCom/Settings/Site Configuration/Configuration Settings/GoogleAPI_Key",
+    "template": "ConfigurationSetting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
   }
 ]

@@ -184,9 +184,28 @@
     "itemName": "Calc",
     "itemPath": "/sitecore/content/FMBCom/Home/Calc",
     "template": "Section",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a0ea4d398a0558ac1a9acf2b70d8b83decc219b9",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{AB4BAC5A-4010-405D-AAB5-56FF12D6CE95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:12:10.5487437Z",
+    "label": "Deployed from 20170405_ContentSync_Content",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Calc",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc",
+    "template": "Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
   }
 ]

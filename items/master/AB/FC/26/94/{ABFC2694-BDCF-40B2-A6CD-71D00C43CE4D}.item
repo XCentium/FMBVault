@@ -8,7 +8,7 @@ name: Thank You Newsletter Sign up
 master: {00000000-0000-0000-0000-000000000000}
 template: {832D5183-326A-4373-AD35-3334994FC3CA}
 templatekey: Article
-created: 20170403T175639:636268389995700000
+created: 20170404T053337:636268808179230000
 
 ----field----
 field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
@@ -41,7 +41,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: cf9239da-8d58-4383-9ddc-4a3db2c91bb4
+revision: 4c0700e2-3b8b-478d-ae19-2c89b5877209
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -123,25 +123,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cf9239da-8d58-4383-9ddc-4a3db2c91bb4
+4c0700e2-3b8b-478d-ae19-2c89b5877209
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170309T015242Z
+20170405T231211Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 13
 
-fmb\mlangdon
+fmb\Anonymous
 ----version----
 language: en
 version: 2
-revision: a2e43949-a043-4db1-ad04-182e2aed7c13
+revision: c790d956-fd01-4c61-83e0-485da4307f93
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -229,21 +229,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a2e43949-a043-4db1-ad04-182e2aed7c13
+c790d956-fd01-4c61-83e0-485da4307f93
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170405T210624Z
+20170405T231211Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 13
 
-fmb\jbridges
+fmb\Anonymous
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

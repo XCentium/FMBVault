@@ -127,9 +127,28 @@
     "itemName": "Why did my Wire Transfer limit for One Time PIN change",
     "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time Pin - Wires/Why did my Wire Transfer limit for One Time PIN change",
     "template": "FAQ",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a0ea4d398a0558ac1a9acf2b70d8b83decc219b9",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D7A5BA18-6AE3-482C-833C-94B7A29B9D27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T23:12:05.1426617Z",
+    "label": "Deployed from 20170405_ContentSync_Content",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Why did my Wire Transfer limit for One Time PIN change",
+    "itemPath": "/sitecore/content/FMBCom/Global/FAQ/FAQ/One-Time Pin - Wires/Why did my Wire Transfer limit for One Time PIN change",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
   }
 ]

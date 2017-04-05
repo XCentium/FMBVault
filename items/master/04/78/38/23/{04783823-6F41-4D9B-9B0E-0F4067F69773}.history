@@ -355,9 +355,28 @@
     "itemName": "Checking-Platinum-Gold",
     "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Checking-Platinum-Gold",
     "template": "Content Module",
-    "sourceControlRevisionId": "09d1ed4329d5deccd5d10ecbd0dce2928bdb46c5",
+    "sourceControlRevisionId": "a0ea4d398a0558ac1a9acf2b70d8b83decc219b9",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{04783823-6F41-4D9B-9B0E-0F4067F69773}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-05T23:12:01.4395766Z",
+    "label": "Deployed from 20170405_ContentSync_Content",
+    "workflowState": "{63304E12-1D78-4148-813E-BE163866B27C}",
+    "workflowStateName": "Approved",
+    "activeUser": "QA\\sitecore\\admin",
+    "itemName": "Checking-Platinum-Gold",
+    "itemPath": "/sitecore/content/FMBCom/Global/Content Modules/Disclaimers/Checking-Platinum-Gold",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
   }
 ]
