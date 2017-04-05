@@ -10,10 +10,17 @@ template: {597A8CFE-9160-44CB-9851-FB717ECFEC1D}
 templatekey: Testimonial
 created: 20170309T181324:636246800042930000
 
+----field----
+field: {8D5C486E-A0E3-4DBE-9A4A-CDFF93594BDA}
+name: IncludeInSearchResults
+key: includeinsearchresults
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: af19f48a-5457-4d16-9158-cda70a0d5b8c
+revision: 79588c9b-6da8-4f33-af72-095c1380a170
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -70,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-af19f48a-5457-4d16-9158-cda70a0d5b8c
+79588c9b-6da8-4f33-af72-095c1380a170
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170309T181819Z
+20170405T161649Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
