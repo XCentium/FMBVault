@@ -146,9 +146,28 @@
     "itemName": "Confirmation",
     "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount/Confirmation",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f40d00ba646e1f49587906c6ecd8083b6e486202",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B716AE9F-92AA-4BCB-9D34-4B0837583D3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T21:20:02.6930520Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "Confirmation",
+    "itemPath": "/sitecore/content/FMBCom/Home/OnlineAccount/Confirmation",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
