@@ -14,23 +14,23 @@ created: 20170221T214126:636233100864470000
 field: {C06867FE-9A43-4C7D-B739-48780492D06F}
 name: Extension
 key: extension
-content-length: 3
+content-length: 0
 
-pdf
+
 ----field----
 field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
 name: Mime Type
 key: mime type
-content-length: 15
+content-length: 0
 
-application/pdf
+
 ----field----
 field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
 name: Size
 key: size
-content-length: 7
+content-length: 0
 
-2033588
+
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
@@ -41,7 +41,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: f637edc0-e8c2-4ebd-96ef-ca0ad9ce0a93
+revision: 9bf82a12-7818-4280-a71c-47784094d760
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -70,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f637edc0-e8c2-4ebd-96ef-ca0ad9ce0a93
+9bf82a12-7818-4280-a71c-47784094d760
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170405T000634Z
+20170405T000635Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
