@@ -1,0 +1,49 @@
+----item----
+version: 1
+id: {FC54B42A-926A-49C6-9E8B-864405AC32C5}
+database: prodwest
+path: /ThinkingAboutBecomingClient-Home
+parent: {00000000-0000-0000-0000-000000000000}
+name: ThinkingAboutBecomingClient-Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170404T053324:636268808040630000
+
+----field----
+field: {FD0DEC96-B220-4196-B544-68B11EEE727A}
+name: Css inline
+key: css inline
+content-length: 465
+
+<style>
+#moreInfoHeader .sectionHeader {
+margin-bottom: 0px;
+    font-size: 63px;
+    text-transform: uppercase;
+    text-shadow: 2px 1px 1px #333;
+color:#005334;
+}
+#moreInfoHeader p {
+color: #000; font-size: 24px; margin-bottom: 25px; font-weight: bold;
+}
+
+@media only screen and (max-width: 768px)
+{
+#moreInfoHeader .sectionHeader {
+    font-size: 28px;
+    text-shadow: 2px 1px 1px #333;
+}
+
+#moreInfoHeader p {
+font-size:18px;
+}
+}
+</style>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
