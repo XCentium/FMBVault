@@ -13,7 +13,7 @@ created: 20170214T015317:636226339970430000
 ----version----
 language: en
 version: 1
-revision: 1e471f28-53e1-4010-a24a-578be88ebd2c
+revision: 551d163a-f8aa-4733-bd87-51f00156d018
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -33,15 +33,21 @@ content-length: 21
 field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
 name: Body
 key: body
-content-length: 806
+content-length: 938
 
 <h1>Thank you for taking our survey. We appreciate the time you took to provide us your feedback.</h1>
+<div class="row">
+<div class="col-md-8">
 <p><strong>What people are saying about us:</strong></p>
-<p><strong><img alt="Yelp 5 Stars" src="-/media/C3A4BBBE2E0A4499B16CB8AC96FB91CD.ashx?h=32&amp;w=134" style="height: 32px; width: 134px;"></strong></p>
+<p><strong><img style="width: 134px; height: 32px;" alt="Yelp 5 Stars" src="-/media/C3A4BBBE2E0A4499B16CB8AC96FB91CD.ashx?h=32&amp;w=134"></strong></p>
 <p>
-&ldquo;I absolutely, unequivocally LOVE Farmers &amp; Merchants bank. Incredible customer service. When you call the branch a real, live, pleasant person IN the branch you called answers the phone!&rdquo;</p>
+<em><span style="font-size: 18px;">&ldquo;I absolutely, unequivocally LOVE Farmers &amp; Merchants bank. Incredible customer service. When you call the branch a real, live, pleasant person IN the branch you called answers the phone!&rdquo;</span></em></p>
+</div>
+<div class="col-md-4">
 <p><strong>&nbsp;Share your experience:</strong></p>
-<a href="https://www.yelp.com/writeareview/biz/O5fyztURq5NXpePodgO3QA?return_url=/biz/O5fyztURq5NXpePodgO3QA" target="_blank"><img height="144" alt="Yelp Logo" width="400" src="-/media/189232D01B444DA3977BE29C249D4EFF.ashx"></a>
+<a href="https://www.yelp.com/writeareview/biz/O5fyztURq5NXpePodgO3QA?return_url=/biz/O5fyztURq5NXpePodgO3QA" target="_blank"><img width="400" height="144" alt="Yelp Logo" src="-/media/189232D01B444DA3977BE29C249D4EFF.ashx"></a>
+</div>
+</div>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -97,21 +103,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1e471f28-53e1-4010-a24a-578be88ebd2c
+551d163a-f8aa-4733-bd87-51f00156d018
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170214T020830Z
+20170405T080716Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 12
+content-length: 11
 
-fmb\mlangdon
+fmb\hahmady
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
