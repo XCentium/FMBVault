@@ -127,9 +127,28 @@
     "itemName": "Real Estate Seminars",
     "itemPath": "/sitecore/content/FMBCom/Home/Real Estate Seminars",
     "template": "Landing Page",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "073171ba873f807a20ce844230f0bb53c927b1e8",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{25364EDB-6DD0-41B1-9964-C86AD0893192}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-05T22:37:59.1575561Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "Real Estate Seminars",
+    "itemPath": "/sitecore/content/FMBCom/Home/Real Estate Seminars",
+    "template": "Landing Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]

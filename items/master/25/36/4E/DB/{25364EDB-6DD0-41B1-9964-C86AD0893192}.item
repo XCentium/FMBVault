@@ -11,6 +11,20 @@ templatekey: Landing Page
 created: 20170224T223737:636235726573930000
 
 ----field----
+field: {683D7237-206A-488F-9DEE-4A4E41FB161D}
+name: CanIndex
+key: canindex
+content-length: 0
+
+
+----field----
+field: {0DCA829C-9FCE-41F5-9990-C6182FEFE905}
+name: SeoFollowLinks
+key: seofollowlinks
+content-length: 0
+
+
+----field----
 field: {B3BA9EA9-D0A1-49DF-9F4B-28FA5D353DC8}
 name: JavascriptCodeBottom
 key: javascriptcodebottom
@@ -65,7 +79,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 39e7e618-f831-4a72-8f2a-540684b4b1e3
+revision: 7c4e2898-c7e2-4ef3-a3c5-add71e6d585d
 
 ----field----
 field: {6077D702-91CE-4BA9-9DAD-542927FE3C94}
@@ -251,21 +265,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-39e7e618-f831-4a72-8f2a-540684b4b1e3
+7c4e2898-c7e2-4ef3-a3c5-add71e6d585d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170228T163233Z
+20170405T223759Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 12
 
-fmb\mliwanag
+fmb\mlangdon
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
