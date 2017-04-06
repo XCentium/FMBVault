@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7CFA4851-5722-4A82-B0A4-940B3AB8EA1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-06T23:28:14.8528467Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mlangdon",
+    "itemName": "How Trusteer Works",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/Security/How Trusteer Works",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
