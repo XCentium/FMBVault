@@ -621,9 +621,28 @@
     "itemName": "Personal Checking Accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Personal Checking Accounts",
     "template": "Article",
-    "sourceControlRevisionId": "f719c3b01e87868774b0dc7eb149e12a86da1981",
+    "sourceControlRevisionId": "7ee42b57ed045821f5fb9541d08eba10ea31a915",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{BCCDAC68-234A-43C0-B4A7-40DE9333BC1A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-06T16:44:53.6488808Z",
+    "label": "Saved",
+    "workflowState": "{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}",
+    "workflowStateName": "Draft",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Personal Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Personal Checking Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
