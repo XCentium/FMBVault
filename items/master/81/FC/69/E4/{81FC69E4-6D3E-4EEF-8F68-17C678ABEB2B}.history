@@ -393,9 +393,28 @@
     "itemName": "Compare Personal Checking Accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Compare Personal Checking Accounts",
     "template": "Article",
-    "sourceControlRevisionId": "f719c3b01e87868774b0dc7eb149e12a86da1981",
+    "sourceControlRevisionId": "a5ad3c7166ea3a6d86ae2c3ed1fa275a9f5cc138",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{81FC69E4-6D3E-4EEF-8F68-17C678ABEB2B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-06T16:43:41.0276449Z",
+    "label": "Saved",
+    "workflowState": "{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}",
+    "workflowStateName": "Draft",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "Compare Personal Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Compare Personal Checking Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
