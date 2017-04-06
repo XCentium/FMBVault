@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6209597E-A546-493F-985C-910AE6382B66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-06T16:52:17.1593975Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\jbridges",
+    "itemName": "04",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/04",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
