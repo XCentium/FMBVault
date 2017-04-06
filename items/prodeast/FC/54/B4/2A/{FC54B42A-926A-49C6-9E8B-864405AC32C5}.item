@@ -2,8 +2,8 @@
 version: 1
 id: {FC54B42A-926A-49C6-9E8B-864405AC32C5}
 database: prodeast
-path: /ThinkingAboutBecomingClient-Home
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/FMBCom/Global/Content Modules/Headers/ThinkingAboutBecomingClient-Home
+parent: {01BBE5B4-C8C2-483B-92D7-EB010F465B13}
 name: ThinkingAboutBecomingClient-Home
 master: {00000000-0000-0000-0000-000000000000}
 template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
@@ -47,3 +47,69 @@ key: __workflow
 content-length: 38
 
 {AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
+----version----
+language: en
+version: 1
+revision: 950ef5d8-b400-4357-9822-a4b84180e3ea
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 132
+
+<div id="moreInfoHeader">
+<h2 class="sectionHeader">
+Thinking about becoming a client?
+</h2>
+<p>Request more information.</p>
+</div>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170403T213309Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+950ef5d8-b400-4357-9822-a4b84180e3ea
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170406T001350Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{63304E12-1D78-4148-813E-BE163866B27C}
