@@ -14,21 +14,28 @@ created: 20170406T165216:636270943367300000
 field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
 name: Requested Url
 key: requested url
-content-length: 34
+content-length: 29
 
-/OnlineAccount/fandm-checking.aspx
+https://www.fmb.com/homeloans
 ----field----
 field: {544E5C57-1626-4972-8535-196F000E4B1F}
 name: Redirect To Item
 key: redirect to item
-content-length: 38
+content-length: 0
 
-{A5893C6D-3FA0-4733-BE3D-5E01604FC6F4}
+
 ----version----
 language: en
 version: 1
-revision: bc675bb4-d30f-4cd7-aea7-3671c3c062ba
+revision: fc181e99-4d86-47a2-9a33-8b79bc0faf35
 
+----field----
+field: {8F1695DA-F608-473B-91B0-C4937AEED8A9}
+name: Redirect To Url
+key: redirect to url
+content-length: 37
+
+http://homeloans.fmb.com/Default.aspx
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bc675bb4-d30f-4cd7-aea7-3671c3c062ba
+fc181e99-4d86-47a2-9a33-8b79bc0faf35
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170406T165219Z
+20170406T165305Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
