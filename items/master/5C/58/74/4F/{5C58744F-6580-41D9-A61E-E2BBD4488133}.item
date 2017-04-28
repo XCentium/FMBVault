@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4ff6d761-7895-463b-abec-0f6a7f30e3b5
+revision: 8b7be41a-a184-44f3-b8cc-acf4de3814dd
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -33,7 +33,14 @@ Previous Winners
 field: {AC3FD4DB-8266-476D-9635-67814D91E901}
 name: Summary
 key: summary
-content-length: 7133
+content-length: 0
+
+
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 6673
 
 <h2 style="color: #000000;">California's Strongest People You Can Bank On: Previous Winners</h2>
 <p>&nbsp;</p>
@@ -48,7 +55,7 @@ content-length: 7133
         <tr>
             <td style="text-align: left;">The Achievement Award</td>
             <td style="text-align: left;">Dr. Hanna Alexander</td>
-            <td style="text-align: left;">Main&nbsp;</td>
+            <td style="text-align: left;">Main</td>
         </tr>
         <tr>
             <td style="text-align: left;">The Cornerstone Award</td>
@@ -57,45 +64,45 @@ content-length: 7133
         </tr>
         <tr>
             <td style="text-align: left;">The Compassion Award</td>
-            <td style="text-align: left;"><span>Dr. Bryna Kane and Dr. Edward Glassberg&nbsp;</span></td>
+            <td style="text-align: left;">Dr. Bryna Kane and Dr. Edward Glassberg</td>
             <td style="text-align: left;">Main</td>
         </tr>
         <tr>
             <td style="text-align: left;">The Leadership Award</td>
-            <td style="text-align: left;"><span>Janaille Golledge&nbsp;</span></td>
+            <td style="text-align: left;">Janaille Golledge</td>
             <td style="text-align: left;">Tustin<br>
             </td>
         </tr>
         <tr>
             <td style="text-align: left;">The Service Award</td>
-            <td style="text-align: left;"><span>Dr. William (Bill) A. Grant II&nbsp;</span></td>
+            <td style="text-align: left;">Dr. William (Bill) A. Grant II</td>
             <td style="text-align: left;">Garden Grove</td>
         </tr>
         <tr>
             <td style="text-align: left;">The Pioneer Award</td>
-            <td style="text-align: left;"><span>Helen Irlen&nbsp;</span></td>
+            <td style="text-align: left;">Helen Irlen</td>
             <td style="text-align: left;">Main</td>
         </tr>
         <tr>
             <td style="text-align: left;">The Fellowship Award</td>
-            <td style="text-align: left;"><span>Patrick Murphy&nbsp;</span></td>
+            <td style="text-align: left;">Patrick Murphy</td>
             <td style="text-align: left;">Newport Beach</td>
         </tr>
         <tr>
             <td style="text-align: left;">The Helping Hand Award<br>
             </td>
-            <td style="text-align: left;"><span>Melvin K. Pasley&nbsp;</span></td>
+            <td style="text-align: left;">Melvin K. Pasley</td>
             <td style="text-align: left;">Lakewood</td>
         </tr>
         <tr>
             <td style="text-align: left;">The Humanitarian Award</td>
-            <td style="text-align: left;"><span>Bebe Shaddock&nbsp;</span></td>
+            <td style="text-align: left;">Bebe Shaddock</td>
             <td style="text-align: left;">Laguna Hills<br>
             </td>
         </tr>
         <tr>
             <td style="text-align: left;">The Dedication Award</td>
-            <td style="text-align: left;"><span>Donald A. Verleur II&nbsp;</span></td>
+            <td style="text-align: left;">Donald A. Verleur II</td>
             <td style="text-align: left;">Santa Ana</td>
         </tr>
     </tbody>
@@ -109,44 +116,44 @@ content-length: 7133
             <td style="text-align: left;"><strong>Community</strong></td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Justin Rudd&nbsp;</span></td>
-            <td style="text-align: left;"><span>Belmont Shore&nbsp;</span></td>
+            <td style="text-align: left;">Justin Rudd</td>
+            <td style="text-align: left;">Belmont Shore</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Rusty Deeble</span></td>
-            <td style="text-align: left;"><span>Bixby Knolls&nbsp;</span><br>
+            <td style="text-align: left;">Rusty Deeble</td>
+            <td style="text-align: left;">Bixby Knolls<br>
             </td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Ken Buck</span></td>
-            <td style="text-align: left;"><span>East Long Beach&nbsp;</span><br>
+            <td style="text-align: left;">Ken Buck</td>
+            <td style="text-align: left;">East Long Beach<br>
             </td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Dr. Virginia &ldquo;Ginny&rdquo; Baxter</span></td>
+            <td style="text-align: left;">Dr. Virginia &ldquo;Ginny&rdquo; Baxter</td>
             <td style="text-align: left;">Lakewood<br>
             </td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Dr. Donald Chung</span></td>
+            <td style="text-align: left;">Dr. Donald Chung</td>
             <td style="text-align: left;">Long Beach Memorial</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>William Barnes</span></td>
-            <td style="text-align: left;"><span>Los Altos&nbsp;</span></td>
+            <td style="text-align: left;">William Barnes</td>
+            <td style="text-align: left;">Los Altos</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Daryl Phillips</span></td>
+            <td style="text-align: left;">Daryl Phillips</td>
             <td style="text-align: left;">Main</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>George Mayer</span></td>
-            <td style="text-align: left;"><span>Rolling Hills Estates&nbsp;</span><br>
+            <td style="text-align: left;">George Mayer</td>
+            <td style="text-align: left;">Rolling Hills Estates<br>
             </td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Ted Porter<strong>&nbsp;</strong></span></td>
-            <td style="text-align: left;"><span>Torrance</span></td>
+            <td style="text-align: left;">Ted Porter<strong></strong></td>
+            <td style="text-align: left;">Torrance</td>
         </tr>
     </tbody>
 </table>
@@ -180,19 +187,19 @@ content-length: 7133
             <td style="text-align: left;">Lakewood</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Dr. Myrvin Ellestad</span></td>
+            <td style="text-align: left;">Dr. Myrvin Ellestad</td>
             <td style="text-align: left;">Long Beach Memorial</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>George M. Murchison</span></td>
+            <td style="text-align: left;">George M. Murchison</td>
             <td style="text-align: left;">Los Altos</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Mark Schneider</span></td>
+            <td style="text-align: left;">Mark Schneider</td>
             <td style="text-align: left;">Main</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><span>Thomas J. Rhoads</span></td>
+            <td style="text-align: left;">Thomas J. Rhoads</td>
             <td style="text-align: left;">Main<br>
             </td>
         </tr>
@@ -201,12 +208,13 @@ content-length: 7133
             <td style="text-align: left;">Rolling Hills Estates</td>
         </tr>
         <tr>
-            <td style="text-align: left;">&nbsp;<span>Peter D. Pettler&nbsp;</span></td>
-            <td style="text-align: left;">&nbsp;Torrance</td>
+            <td style="text-align: left;">Peter D. Pettler</td>
+            <td style="text-align: left;">Torrance</td>
         </tr>
     </tbody>
 </table>
 <p>&nbsp;</p>
+<div>&nbsp;</div>
 <div>&nbsp;</div>
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
@@ -249,14 +257,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4ff6d761-7895-463b-abec-0f6a7f30e3b5
+8b7be41a-a184-44f3-b8cc-acf4de3814dd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170428T194920Z
+20170428T195052Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
