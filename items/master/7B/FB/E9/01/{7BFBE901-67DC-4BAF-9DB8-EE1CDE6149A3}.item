@@ -10,10 +10,24 @@ template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
 created: 20170428T192706:636290044267230000
 
+----field----
+field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
+name: Requested Url
+key: requested url
+content-length: 48
+
+/fmbcom/home/news-and-community/previous-winners
+----field----
+field: {544E5C57-1626-4972-8535-196F000E4B1F}
+name: Redirect To Item
+key: redirect to item
+content-length: 38
+
+{5C58744F-6580-41D9-A61E-E2BBD4488133}
 ----version----
 language: en
 version: 1
-revision: 49e3fd5c-954b-4a61-883b-b4db6271dfef
+revision: bda9dc7e-4a2f-4b49-a5ba-23493a19f15d
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +56,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-49e3fd5c-954b-4a61-883b-b4db6271dfef
+bda9dc7e-4a2f-4b49-a5ba-23493a19f15d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
