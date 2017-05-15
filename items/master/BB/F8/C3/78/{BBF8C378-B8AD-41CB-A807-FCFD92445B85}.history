@@ -146,9 +146,28 @@
     "itemName": "Cash Flow",
     "itemPath": "/sitecore/content/FMBCom/Home/Calc/Cash Flow",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8040ba3080f9dfe38664cf1a4370a3d18a560a83",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
+  },
+  {
+    "eventType": "CheckedOut",
+    "database": "master",
+    "itemId": "{BBF8C378-B8AD-41CB-A807-FCFD92445B85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-05-15T18:25:19.7401801Z",
+    "label": "Checked out",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cash Flow",
+    "itemPath": "/sitecore/content/FMBCom/Home/Calc/Cash Flow",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
