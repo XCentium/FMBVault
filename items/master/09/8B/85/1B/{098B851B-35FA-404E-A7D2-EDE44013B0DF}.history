@@ -317,9 +317,28 @@
     "itemName": "TestNotification",
     "itemPath": "/sitecore/content/FMBCom/Global/Notifications/TestNotification",
     "template": "Notification",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "03590aada24310e00c59582b113474cef20cffca",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{098B851B-35FA-404E-A7D2-EDE44013B0DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-05-16T17:25:17.8785680Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\mliwanag",
+    "itemName": "TestNotification",
+    "itemPath": "/sitecore/content/FMBCom/Global/Notifications/TestNotification",
+    "template": "Notification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
