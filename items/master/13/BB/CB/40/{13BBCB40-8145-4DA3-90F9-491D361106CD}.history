@@ -146,9 +146,28 @@
     "itemName": "Health Savings Accounts",
     "itemPath": "/sitecore/content/FMBCom/Home/Personal/Health Savings Accounts",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c8e77d74cd46f87aad32406152ba7db9e8b96f12",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{13BBCB40-8145-4DA3-90F9-491D361106CD}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-05-18T21:55:15.7212346Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "fmb\\qa_author",
+    "itemName": "Health Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Home/Personal/Health Savings Accounts",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
