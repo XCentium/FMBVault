@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AE59F55E-C3E2-49EB-97A2-4A8B9CA4F74E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-02T21:29:49.8087961Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Settings",
+    "itemPath": "/sitecore/content/Allergan/Site Settings",
+    "template": "Site Settings Root",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
