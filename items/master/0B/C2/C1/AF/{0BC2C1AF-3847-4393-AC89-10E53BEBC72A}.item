@@ -2,9 +2,9 @@
 version: 1
 id: {0BC2C1AF-3847-4393-AC89-10E53BEBC72A}
 database: master
-path: /sitecore/content/Copy of Global
+path: /sitecore/content/Global
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: Copy of Global
+name: Global
 master: {00000000-0000-0000-0000-000000000000}
 template: {FD075CBC-572E-4D27-A09F-B780E8FF4741}
 templatekey: Global Folder
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 2
-revision: 860c13f0-f792-4102-b92d-6e70af226193
+revision: 85e4a78b-d934-4ad5-977d-86b66ee30db0
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-860c13f0-f792-4102-b92d-6e70af226193
+85e4a78b-d934-4ad5-977d-86b66ee30db0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170603T003904Z
+20170603T003911Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
