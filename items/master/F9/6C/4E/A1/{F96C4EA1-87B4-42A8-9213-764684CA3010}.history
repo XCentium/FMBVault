@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F96C4EA1-87B4-42A8-9213-764684CA3010}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-02T22:04:31.1244117Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register",
+    "itemPath": "/sitecore/templates/Branches/User Defined/Site Root/$name/Home/Register",
+    "template": "Register Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
