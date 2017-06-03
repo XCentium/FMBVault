@@ -10,10 +10,24 @@ template: {B5967A68-7F70-42D3-9874-0E4D001DBC20}
 templatekey: Redirect Url
 created: 20170603T003758:636320470787530000
 
+----field----
+field: {5CF9CCB5-5F2E-4F06-946D-3A952B089A68}
+name: Requested Url
+key: requested url
+content-length: 22
+
+/fmbcom/copy-of-global
+----field----
+field: {544E5C57-1626-4972-8535-196F000E4B1F}
+name: Redirect To Item
+key: redirect to item
+content-length: 38
+
+{0BC2C1AF-3847-4393-AC89-10E53BEBC72A}
 ----version----
 language: en
 version: 1
-revision: 620fdb60-ff8a-419f-9583-123eb68bf402
+revision: db6bfee6-709c-4252-92e5-5f18655dad5d
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,7 +42,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-620fdb60-ff8a-419f-9583-123eb68bf402
+db6bfee6-709c-4252-92e5-5f18655dad5d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

@@ -2,8 +2,8 @@
 version: 1
 id: {0BC2C1AF-3847-4393-AC89-10E53BEBC72A}
 database: master
-path: /sitecore/content/FMBCom/Copy of Global
-parent: {725A45E3-E307-4B95-B363-2782B059DF06}
+path: /sitecore/content/Copy of Global
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
 name: Copy of Global
 master: {00000000-0000-0000-0000-000000000000}
 template: {FD075CBC-572E-4D27-A09F-B780E8FF4741}
