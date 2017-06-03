@@ -146,9 +146,28 @@
     "itemName": "Global",
     "itemPath": "/sitecore/content/FMBCom/Global",
     "template": "Global Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "24c06ea61041e94b4ec7b07be1f829fe2c8ae1cb",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4B67A7F9-7246-4A59-A051-961095C2DC70}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-02T21:44:00.8231353Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global",
+    "itemPath": "/sitecore/content/FMBCom/Global",
+    "template": "Global Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
