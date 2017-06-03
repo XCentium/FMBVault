@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6533F745-038A-44C7-91F5-74A25CA1CE79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:51.0699529Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "login",
+    "itemPath": "/sitecore/system/Sites/login",
+    "template": "Site link template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

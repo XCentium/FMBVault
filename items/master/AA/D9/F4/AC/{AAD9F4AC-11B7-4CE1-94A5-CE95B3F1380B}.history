@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AAD9F4AC-11B7-4CE1-94A5-CE95B3F1380B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:51.3829521Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "testing",
+    "itemPath": "/sitecore/system/Sites/testing",
+    "template": "Site link template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{34F8F749-65E5-4DA4-BFDD-7FE1485CC91B}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2017-06-03T01:10:48.9529516Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flush sites",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/MultiSites Manager/Flush sites",
+    "template": "Large Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

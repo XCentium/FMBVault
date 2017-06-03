@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{45A45502-91E9-4836-81F8-0AA054847832}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:49.1519527Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site branches",
+    "itemPath": "/sitecore/templates/Branches/System/Site branches",
+    "template": "Branch Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

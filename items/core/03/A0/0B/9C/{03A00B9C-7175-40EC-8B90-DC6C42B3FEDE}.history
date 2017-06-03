@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{03A00B9C-7175-40EC-8B90-DC6C42B3FEDE}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2017-06-03T01:10:49.0779520Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MultiSitesManager",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Strips/Configure/MultiSitesManager",
+    "template": "Reference",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

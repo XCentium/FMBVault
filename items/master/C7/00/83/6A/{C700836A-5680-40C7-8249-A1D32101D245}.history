@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C700836A-5680-40C7-8249-A1D32101D245}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:51.2299529Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "scheduler",
+    "itemPath": "/sitecore/system/Sites/scheduler",
+    "template": "Site link template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

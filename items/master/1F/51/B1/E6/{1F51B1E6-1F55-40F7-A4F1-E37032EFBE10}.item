@@ -1,34 +1,41 @@
 ----item----
 version: 1
-id: {5A37B603-13F9-43A3-BD48-AF299553CF32}
+id: {1F51B1E6-1F55-40F7-A4F1-E37032EFBE10}
 database: master
-path: /sitecore/templates/Branches/User Defined/Site Root/$name/Modules
-parent: {F9251FBD-E151-4764-9B13-A7C385B07D0A}
-name: Modules
+path: /sitecore/templates/Branches/System/Site branches/Site attribute
+parent: {45A45502-91E9-4836-81F8-0AA054847832}
+name: Site attribute
 master: {00000000-0000-0000-0000-000000000000}
-template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
-templatekey: Folder
-created: 20170603T004210:636320473300130000
+template: {35E75C72-4985-4E09-88C3-0EAC6CD1E64F}
+templatekey: Branch
+created: 20170603T011049:636320490492030000
 
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
 key: __icon
-content-length: 35
+content-length: 27
 
-applications/32x32/folder_green.png
+network/16x16/earth_add.png
 ----version----
 language: en
 version: 1
-revision: bda2decc-621f-4128-b543-d3d89ca4088c
+revision: 5644a2de-bc79-4bac-9bc4-7250f36f3005
 
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20170603T004210Z
+20150528T003438Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bda2decc-621f-4128-b543-d3d89ca4088c
+5644a2de-bc79-4bac-9bc4-7250f36f3005
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 16
+content-length: 35
 
-20170603T004233Z
+20150528T003647:635683702077950231Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

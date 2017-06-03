@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{66DB1D34-5305-49B4-A8B2-A5ED33641265}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:51.1549518Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "modules_website",
+    "itemPath": "/sitecore/system/Sites/modules_website",
+    "template": "Site link template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

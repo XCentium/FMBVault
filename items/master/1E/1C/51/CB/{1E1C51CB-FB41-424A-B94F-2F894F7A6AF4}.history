@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1E1C51CB-FB41-424A-B94F-2F894F7A6AF4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:51.3129524Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "shell",
+    "itemPath": "/sitecore/system/Sites/shell",
+    "template": "Site link template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
