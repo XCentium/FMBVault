@@ -450,9 +450,28 @@
     "itemName": "Home",
     "itemPath": "/sitecore/content/FMBCom/Home",
     "template": "Home",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "aee1f48aa018fc1ac0d1c4f72b09f0ee633b2329",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "83997d78-58f9-4978-8578-a0ee664e3ee7"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{FF63C25D-1059-4B0D-A0FB-563516E771A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:17:39.5449032Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/FMBCom/Home",
+    "template": "Home",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
