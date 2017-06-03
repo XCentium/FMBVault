@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C98CB3F7-E8C1-4E60-BC99-287774722DF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-02T21:19:15.9333741Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "500",
+    "itemPath": "/sitecore/templates/Branches/User Defined/Site Root/$name/Home/500",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
