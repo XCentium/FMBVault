@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{65482108-AE79-4356-BF56-259BB02EBC99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-02T21:08:49.8536548Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasource Settings Folder",
+    "itemPath": "/sitecore/templates/Branches/User Defined/Site Root/$name/Site Settings/Datasource Settings Folder",
+    "template": "Datasource Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,7 +1,9 @@
 {
-  "itemName": "Site Settings Root",
+  "itemName": "Site Settings",
   "templateId": "{4C82B6DD-FE7C-4144-BCB3-F21B4080568F}",
   "branchId": "{00000000-0000-0000-0000-000000000000}",
   "parentId": "{F9251FBD-E151-4764-9B13-A7C385B07D0A}",
-  "childIds": []
+  "childIds": [
+    "{65482108-AE79-4356-BF56-259BB02EBC99}"
+  ]
 }
