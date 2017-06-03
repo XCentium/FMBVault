@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {1F7F400F-3C18-4165-974B-AD2ED825C29B}
+database: master
+path: /sitecore/content/Allergan/Site Settings/Datasource Settings
+parent: {158FBE7F-A511-4D1F-A354-74910D15115A}
+name: Datasource Settings
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {7A98BE60-9F59-4064-82C2-58DA63562FA5}
+templatekey: Datasource Settings Folder
+created: 20170602T210923:636320345639430000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{65482108-AE79-4356-BF56-259BB02EBC99}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1F7F400F-3C18-4165-974B-AD2ED825C29B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-02T21:09:23.9916967Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datasource Settings",
+    "itemPath": "/sitecore/content/Allergan/Site Settings/Datasource Settings",
+    "template": "Datasource Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
