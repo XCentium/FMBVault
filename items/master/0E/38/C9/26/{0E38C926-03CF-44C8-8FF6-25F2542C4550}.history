@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0E38C926-03CF-44C8-8FF6-25F2542C4550}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:41:23.4968164Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "404",
+    "itemPath": "/sitecore/content/Allergan/Home/404",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
