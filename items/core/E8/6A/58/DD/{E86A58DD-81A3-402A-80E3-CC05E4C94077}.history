@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{E86A58DD-81A3-402A-80E3-CC05E4C94077}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3980366Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MultipleSitesManager40",
+    "itemPath": "/sitecore/system/Packages/Installation history/MultipleSitesManager40",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
