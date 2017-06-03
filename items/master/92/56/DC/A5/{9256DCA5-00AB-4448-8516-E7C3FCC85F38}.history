@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9256DCA5-00AB-4448-8516-E7C3FCC85F38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-02T21:07:24.5334438Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Root",
+    "itemPath": "/sitecore/templates/Branches/User Defined/Site Root",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
