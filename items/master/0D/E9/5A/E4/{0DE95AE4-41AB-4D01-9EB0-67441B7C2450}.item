@@ -28,9 +28,9 @@ People/16x16/cubes_blue.png
 field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
 name: __Read Only
 key: __read only
-content-length: 0
+content-length: 1
 
-
+1
 ----field----
 field: {21F74F6E-42D4-42A2-A4B4-4CEFBCFBD2BB}
 name: __Facets
@@ -62,7 +62,7 @@ au|sitecore\ServicesAPI|p*|+item:read|^*|
 ----version----
 language: en
 version: 1
-revision: ad2682d4-d317-419e-9652-b00d8e88c7d0
+revision: 369ee052-8360-4a91-8c27-dcc5eb2106b3
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -105,14 +105,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ad2682d4-d317-419e-9652-b00d8e88c7d0
+369ee052-8360-4a91-8c27-dcc5eb2106b3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170603T004054Z
+20170603T004056Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
