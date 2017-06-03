@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {BCA226D2-FA22-4BF5-8105-2D5282E3AD42}
+database: master
+path: /sitecore/content/Allergan/Home/Register
+parent: {19EAFF41-FE17-4750-926E-C7607E4F1D2E}
+name: Register
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {6EF8F8A0-C567-495B-9E00-8775A268A486}
+templatekey: Register Page
+created: 20170603T004123:636320472838000000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{F96C4EA1-87B4-42A8-9213-764684CA3010}
