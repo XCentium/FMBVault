@@ -10,10 +10,47 @@ template: {22A11D20-5F1D-4216-BF3F-18C016F1F98E}
 templatekey: Package registration
 created: 20170603T011052:636320490524170000
 
+----field----
+field: {D79648F3-1351-4A3C-822E-86809DB16479}
+name: Package name
+key: package name
+content-length: 24
+
+MultipleSitesManager-4.0
+----field----
+field: {5322A457-A605-4A38-A0D1-F944B7F781D9}
+name: Package version
+key: package version
+content-length: 3
+
+4.0
+----field----
+field: {5E6442EC-78CE-4D20-8673-3670222E404D}
+name: Package author
+key: package author
+content-length: 12
+
+Niket Ashesh
+----field----
+field: {8403A346-67C5-4616-B239-18BF4675852D}
+name: Package publisher
+key: package publisher
+content-length: 15
+
+Alpha Solutions
+----field----
+field: {4C116EA6-9312-4930-8C0F-6663554D8CEA}
+name: Package readme
+key: package readme
+content-length: 207
+
+If you are upgrading from an existing version Please follow the upgrade instructions on GitHub.
+
+This version removes the publish end pipeline processor and adds a custom event that triggers server restart. 
 ----version----
 language: en
 version: 1
-revision: 8a8d64e9-50ea-4b4a-8049-803e4c4380ca
+revision: 9ef7ce76-741a-4177-8eb5-93a91b57d0b6
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +79,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8a8d64e9-50ea-4b4a-8049-803e4c4380ca
+9ef7ce76-741a-4177-8eb5-93a91b57d0b6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

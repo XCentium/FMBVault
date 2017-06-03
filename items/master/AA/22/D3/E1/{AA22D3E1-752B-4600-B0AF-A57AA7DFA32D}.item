@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {AA22D3E1-752B-4600-B0AF-A57AA7DFA32D}
+database: master
+path: /sitecore/system/Sites/Allergan
+parent: {67E6AF74-8A3F-4E69-B325-32887B63A25F}
+name: Allergan
+master: {307C70D4-43AA-4D03-8C23-86572D958DEF}
+template: {E37DA970-1EE9-495B-8B34-911773ADEA82}
+templatekey: Site template
+created: 20170603T011502:636320493027430000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{5DFBE726-9996-4E47-9E65-4157727B5B0D}
