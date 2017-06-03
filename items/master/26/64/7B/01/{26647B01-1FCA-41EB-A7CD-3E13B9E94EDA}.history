@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{26647B01-1FCA-41EB-A7CD-3E13B9E94EDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:42:24.5732061Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculator",
+    "itemPath": "/sitecore/templates/Branches/User Defined/Site Root/$name/Modules/Calculator",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
