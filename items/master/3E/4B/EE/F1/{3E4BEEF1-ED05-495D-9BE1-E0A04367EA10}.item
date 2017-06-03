@@ -2,8 +2,8 @@
 version: 1
 id: {3E4BEEF1-ED05-495D-9BE1-E0A04367EA10}
 database: master
-path: /sitecore/content/Allergan/Site Settings
-parent: {F39E623A-803A-4CEB-886D-1094933F48B1}
+path: /Site Settings
+parent: {00000000-0000-0000-0000-000000000000}
 name: Site Settings
 master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
 template: {4C82B6DD-FE7C-4144-BCB3-F21B4080568F}
@@ -17,43 +17,3 @@ key: __originator
 content-length: 0
 
 
-----version----
-language: en
-version: 1
-revision: 819a48e0-fb10-45b0-a8fa-310dbb5c91da
-
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
-
-sitecore\admin
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20170602T214636Z
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-819a48e0-fb10-45b0-a8fa-310dbb5c91da
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20170602T214721Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 14
-
-sitecore\admin

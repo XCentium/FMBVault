@@ -2,8 +2,8 @@
 version: 1
 id: {7C314835-B2D5-45E9-931A-08D3A0CC0FE1}
 database: master
-path: /sitecore/content/Allergan/Home/404
-parent: {81B27606-2876-480A-A023-63B5BFDB43B0}
+path: /404
+parent: {00000000-0000-0000-0000-000000000000}
 name: 404
 master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
 template: {832D5183-326A-4373-AD35-3334994FC3CA}
@@ -24,71 +24,3 @@ key: __workflow
 content-length: 38
 
 {AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
-----version----
-language: en
-version: 1
-revision: eeb33714-066f-4d71-8b99-cfdb1c9a2d17
-
-----field----
-field: {C30A013F-3CC8-4961-9837-1C483277084A}
-name: Title
-key: title
-content-length: 3
-
-404
-----field----
-field: {1B483E91-D8C4-4D19-BA03-462074B55936}
-name: NavigationTitle
-key: navigationtitle
-content-length: 3
-
-404
-----field----
-field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
-name: BrowserTitle
-key: browsertitle
-content-length: 3
-
-404
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
-
-sitecore\admin
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20170602T214636Z
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-eeb33714-066f-4d71-8b99-cfdb1c9a2d17
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20170602T214636Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 14
-
-sitecore\admin
-----field----
-field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
-name: __Workflow state
-key: __workflow state
-content-length: 38
-
-{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}

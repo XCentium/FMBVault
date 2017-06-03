@@ -2,8 +2,8 @@
 version: 1
 id: {3ED29C31-E7E1-405A-B35C-DC13E9FBA644}
 database: master
-path: /sitecore/content/Allergan/Site Settings/Datasource Settings
-parent: {3E4BEEF1-ED05-495D-9BE1-E0A04367EA10}
+path: /Datasource Settings
+parent: {00000000-0000-0000-0000-000000000000}
 name: Datasource Settings
 master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
 template: {7A98BE60-9F59-4064-82C2-58DA63562FA5}
@@ -17,43 +17,3 @@ key: __originator
 content-length: 0
 
 
-----version----
-language: en
-version: 1
-revision: 794f5b0f-0b0f-43b7-81b7-b2c9c92e123f
-
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
-
-sitecore\admin
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20170602T214637Z
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-794f5b0f-0b0f-43b7-81b7-b2c9c92e123f
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20170602T214721Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 14
-
-sitecore\admin
