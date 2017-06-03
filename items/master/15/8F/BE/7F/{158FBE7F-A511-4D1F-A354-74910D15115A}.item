@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {158FBE7F-A511-4D1F-A354-74910D15115A}
+database: master
+path: /sitecore/content/Allergan/Site Settings
+parent: {75E65B77-8192-4188-AB1B-C7D58EC011EA}
+name: Site Settings
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {4C82B6DD-FE7C-4144-BCB3-F21B4080568F}
+templatekey: Site Settings Root
+created: 20170602T210923:636320345638300000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{CE8FEAC2-3AD7-4FE3-B716-D54575B94EB6}
