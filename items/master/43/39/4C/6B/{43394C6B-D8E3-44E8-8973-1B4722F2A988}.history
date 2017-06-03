@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{43394C6B-D8E3-44E8-8973-1B4722F2A988}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4511819Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Are you still going to call me to verify my outgoing Wire Transfers",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/One-Time Pin - Wires/Are you still going to call me to verify my outgoing Wire Transfers",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

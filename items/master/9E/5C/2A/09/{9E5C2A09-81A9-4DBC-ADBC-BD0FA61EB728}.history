@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9E5C2A09-81A9-4DBC-ADBC-BD0FA61EB728}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5161809Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/FM Card Alerts",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

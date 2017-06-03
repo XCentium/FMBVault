@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7E777198-D2DE-429C-BCC4-D195B575BDFF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7381790Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GitHub",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/GitHub",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

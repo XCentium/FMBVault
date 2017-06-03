@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{315ACD97-64DB-4F06-B6B0-95610E904EC9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8731848Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Demo",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

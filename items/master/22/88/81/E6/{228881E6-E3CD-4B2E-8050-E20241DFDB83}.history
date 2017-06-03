@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{228881E6-E3CD-4B2E-8050-E20241DFDB83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7941852Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "signoff",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/signoff",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

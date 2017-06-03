@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8713FD8C-583B-463E-B8FE-690C63E929EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0691820Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking-Some-Account-Features",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Checking-Some-Account-Features",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

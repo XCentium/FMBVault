@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{11AD6F09-5207-48EC-AEA7-3D0C37136D49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5971803Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Visa Card",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BankingServices/FM Visa Card",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

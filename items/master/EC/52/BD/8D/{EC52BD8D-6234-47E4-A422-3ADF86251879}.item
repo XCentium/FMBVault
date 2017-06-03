@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {EC52BD8D-6234-47E4-A422-3ADF86251879}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Founding-Values/Part IV Humility
+parent: {0A22FB56-677C-4F4F-82EF-AA3E7A8750B8}
+name: Part IV Humility
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170603T003736:636320470565330000
+
+----version----
+language: en
+version: 1
+revision: 1dd188e5-eb93-4efc-bd5a-c95a0b379eb3
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 18
+
+Part IV: Humility.
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 2349
+
+<p>Friends,
+</p>
+<p>
+<img height="279" alt="Ken Walker" width="200" src="-/media/BE1BBBBDDBE24617BEEDE45A215982A4.ashx" style="float: right;">In my years as President of F&amp;M Bank, including today, you can usually find me at my roll-top desk on the first floor of our Main Office, accessible to everyone. From that desk I have immediate access to every client, every employee, and every friend who wishes to say hello. This desk has special meaning to me. This was my father&rsquo;s desk, and my grandfather's desk -- the founder of Farmers &amp; Merchants Bank, CJ Walker; I wouldn't want to have my office anywhere else.
+</p>
+<p>My mission during my tenure as President of the Bank is to keep clients' money safe and sound, and to create lasting relationships. Each of my clients deserves my attention, whether they entrust $5 or $5 million with F&amp;M Bank. Having a sincere, caring relationship with our clients, borrowers, staff and shareholders has led F&amp;M to grow consistently, steadfastly, and kept us strong for the last 107 years, and will do so for the next 107 years and beyond, I am sure.
+</p>
+<p>My grandmother, Carrie D. Walker, wife of my grandfather CJ, influenced me greatly to be a humble person. She was an intelligent, wise and beautiful woman, with a huge heart. Simply put, she was superb. In 1902, after Carrie received news of a young woman found on the steps of the city's auditorium crying and homeless, she made it her mission to help, and started the city's first YWCA. Carrie taught me the importance of giving back to those who are less fortunate, and the community, always leading by example.
+</p>
+<p>At the end of the day, you, our client and our friend, are the most important person to F&amp;M Bank. As my father Gus Walker would say, "A client is never an interruption of our work, they are the purpose of it." So, to those of you whom have given me a smile, a handshake and to those I have yet to meet, I want to say thank you. Thank you for your business, your trust, your friendship, and for giving us the opportunity to service you. You are the purpose for this Bank that my grandfather created, and we value your loyalty.</p>
+<p>
+Sincerely,</p>
+<p><img height="97" alt="Ken Walker Signature" width="300" src="-/media/9C0E24B4E78640B7A9C658C7745B244E.ashx"></p>
+Ken Walker<br>
+President of Main Office
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T011552Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1dd188e5-eb93-4efc-bd5a-c95a0b379eb3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T011717Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

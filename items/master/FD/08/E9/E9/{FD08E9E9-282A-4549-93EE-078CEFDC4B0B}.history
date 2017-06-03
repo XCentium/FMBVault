@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FD08E9E9-282A-4549-93EE-078CEFDC4B0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1231932Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kim Searles",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Bixby Knolls/Kim Searles",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

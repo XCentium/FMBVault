@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6572502B-2AD4-4B5A-AC66-9023622CADC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8081855Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gold Checking Right Header",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/Online Account/Gold Checking Right Header",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

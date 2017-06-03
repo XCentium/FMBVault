@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3EA2B4D4-FAB8-411E-9E8C-D008189589A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4351812Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How will my One-Time PIN be sent to me",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/One-Time PIN - OLB/How will my One-Time PIN be sent to me",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

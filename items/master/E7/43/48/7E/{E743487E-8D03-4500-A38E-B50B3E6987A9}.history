@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E743487E-8D03-4500-A38E-B50B3E6987A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1741749Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Awards and Recognition",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/News and Community/Awards and Recognition",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

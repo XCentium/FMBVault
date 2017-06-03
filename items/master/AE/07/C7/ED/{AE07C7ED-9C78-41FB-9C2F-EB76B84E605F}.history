@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{AE07C7ED-9C78-41FB-9C2F-EB76B84E605F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7371800Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer Menus",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Footer Menus",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

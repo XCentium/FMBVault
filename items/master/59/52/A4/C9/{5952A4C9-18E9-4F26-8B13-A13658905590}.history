@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5952A4C9-18E9-4F26-8B13-A13658905590}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0001791Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Checking Account",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousel Slides/Scrolling/FM Checking Account",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

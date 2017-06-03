@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E234B2D8-EF7A-4EEE-9C6F-37AAB3EDEB0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7591851Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Map",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Footer Menus/Legal Menu/Site Map",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5878BE17-7CFB-4E8F-86E6-A23B63456CAE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8891847Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forgot Password",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Forgot Password",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

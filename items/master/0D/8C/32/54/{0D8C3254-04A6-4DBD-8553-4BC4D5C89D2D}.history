@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0D8C3254-04A6-4DBD-8553-4BC4D5C89D2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1331838Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Helen Eligio",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Fullerton/Helen Eligio",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

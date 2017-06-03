@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7713D455-221C-404E-83D5-E7838CD5B104}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9692342Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chip",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Chip",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

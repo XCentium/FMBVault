@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C6915E89-0D8C-42A2-894F-0DDE7FC85540}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6121794Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Positive Pay",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BusinessBankingProducts/Positive Pay",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

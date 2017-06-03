@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B2443E59-17DB-465D-A553-031794269CCF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8312311Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Picture This Text",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/Mobile Banking/Picture This Text",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

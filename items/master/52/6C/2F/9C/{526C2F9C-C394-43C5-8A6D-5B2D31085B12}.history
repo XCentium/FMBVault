@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{526C2F9C-C394-43C5-8A6D-5B2D31085B12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7131850Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ - Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/CTA Buttons/FAQ - Card Alerts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

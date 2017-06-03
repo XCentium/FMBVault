@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0148E2ED-0A11-40E6-9A96-385F286EF84D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8271842Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Check Deposit",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/Mobile Banking/Mobile Check Deposit",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,78 @@
+----item----
+version: 1
+id: {8E5C064F-2596-486E-B1CC-4866F7DDA8E6}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Media/Banners/Wooden Boat Festival
+parent: {B2609E69-9B93-4754-BAF8-E1461E8B10B6}
+name: Wooden Boat Festival
+master: {00000000-0000-0000-0000-000000000000}
+template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
+templatekey: Image
+created: 20170603T003739:636320470592300000
+
+----version----
+language: en
+version: 1
+revision: 07cec771-5ecf-4169-8cd2-385c8ccb5846
+
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 245
+
+<h3>4th Annual</h3>
+<h1>Newport Beach<br>
+Wooden Boat Festival</h1>
+<h2>June 10, 8:00 pm &nbsp;| &nbsp;Balboa Yacht Club</h2>
+<a href="http://newportbeachwoodenboatfestival.com/" class="btn btn-primary">Click here to learn more</a>
+<p>&nbsp;</p>
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 58
+
+<image mediaid="{A916C55D-1592-4542-8259-C86298504292}" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170404T004211Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+07cec771-5ecf-4169-8cd2-385c8ccb5846
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170404T004855Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

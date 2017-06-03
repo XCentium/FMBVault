@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9ADBBA4A-35BB-4957-AE64-1632D51C8312}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8971850Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Accounts Menu/Email",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

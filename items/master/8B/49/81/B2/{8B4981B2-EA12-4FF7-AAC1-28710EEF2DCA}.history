@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8B4981B2-EA12-4FF7-AAC1-28710EEF2DCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6321800Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Loans",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/PersonalBankingProducts/Home Loans",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

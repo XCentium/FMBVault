@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F70C89DC-2035-4319-BD23-0A5DBE307D89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0841828Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subject to Credit Approval",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Subject to Credit Approval",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

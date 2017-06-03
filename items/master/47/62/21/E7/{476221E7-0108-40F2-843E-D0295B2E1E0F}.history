@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{476221E7-0108-40F2-843E-D0295B2E1E0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2121772Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Orange",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

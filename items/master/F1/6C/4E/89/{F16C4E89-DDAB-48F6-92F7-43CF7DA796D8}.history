@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F16C4E89-DDAB-48F6-92F7-43CF7DA796D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7601800Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App Store",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Footer Menus/Mobile App Menu/App Store",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

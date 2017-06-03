@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{48EA47AC-9A1C-47F8-A4D8-3A5AE2F46926}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8951843Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Details",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Accounts Menu/Edit Details",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{08CB1C53-D0BA-45EB-BEB3-F218BF0B84C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4681816Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What happens if I enter the One Time PIN incorrectly",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/One-Time Pin - Wires/What happens if I enter the One Time PIN incorrectly",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

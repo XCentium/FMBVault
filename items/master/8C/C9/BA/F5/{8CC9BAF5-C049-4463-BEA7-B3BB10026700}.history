@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8CC9BAF5-C049-4463-BEA7-B3BB10026700}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9811825Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Referral/Campaigns",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

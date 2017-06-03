@@ -1,0 +1,143 @@
+----item----
+version: 1
+id: {C692CBC8-D56E-4500-AEC3-B1D3A975F951}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Testimonials/Discovery Cube Orange County
+parent: {21A9311E-2684-4A50-9EEB-0CCD7F66410F}
+name: Discovery Cube Orange County
+master: {00000000-0000-0000-0000-000000000000}
+template: {43C3FF93-3124-47AF-8574-4D2289837BD5}
+templatekey: Testimonial
+created: 20170603T003740:636320470602330000
+
+----version----
+language: en
+version: 1
+revision: e5a28dc3-aa03-497b-aa5f-34a2d25d65e3
+
+----field----
+field: {0658E55D-0E17-418A-A9D2-0ED0D2A16B24}
+name: Client Name
+key: client name
+content-length: 28
+
+Discovery Cube Orange County
+----field----
+field: {E4D64661-6588-4246-8D79-FA315BB58671}
+name: Location
+key: location
+content-length: 13
+
+Santa Ana, CA
+----field----
+field: {6E328113-044E-457B-A44D-BC9729B36F54}
+name: Client Since
+key: client since
+content-length: 4
+
+2009
+----field----
+field: {05F09E34-083E-43D8-B73D-4A5B88E3A7CA}
+name: PageUrl
+key: pageurl
+content-length: 123
+
+<link text="" linktype="internal" class="" title="" target="" querystring="" id="{42668083-8373-45D4-951A-1486FB6F3134}" />
+----field----
+field: {972E097D-D060-4BDA-B2A3-4D4C685E14D3}
+name: Preview Image
+key: preview image
+content-length: 65
+
+<image mediaid="{51CAE5D6-E9DF-4107-A99A-6058DE3258DC}" ></image>
+----field----
+field: {9A55DADE-C279-4F46-B401-C78705088C52}
+name: Title
+key: title
+content-length: 22
+
+Client Success Stories
+----field----
+field: {E456124C-04E3-4D0D-AEFB-5314E679E026}
+name: Teaser Quote
+key: teaser quote
+content-length: 54
+
+Farmers & Merchants Bank is a great community partner.
+----field----
+field: {D526316A-200F-42DC-BAD1-EE326DAB7327}
+name: Summary
+key: summary
+content-length: 208
+
+<p>When the Discovery Cube OC was in need of funding to double its size and increase the number of educational programs offered to local students and teachers, F&amp;M was eager to partake in the project.</p>
+----field----
+field: {F76BE998-40B6-4F25-8761-7FEDB300359A}
+name: Body
+key: body
+content-length: 1156
+
+<p>When the Discovery Cube OC was in need of funding to double its size and increase the number of educational programs offered to local students and teachers, F&amp;M was eager to partake in the project.
+</p>
+<p>&ldquo;F&amp;M has always been involved with philanthropic projects in the Southern California community, so it was encouraging for us to work with them on this transaction,&rdquo; said Joe Adams, President of the Discovery Cube, a leading family destination in Santa Ana known for hands-on science exhibits and its iconic solar cube.
+</p>
+<p>
+As part of the Center&rsquo;s $22-million expansion, a new healthy living pavilion and test kitchen provides live demonstrations teaching families the importance of nutrition, a new environmental education wing teaches guests about California&rsquo;s natural resources and how to be good environmental stewards, and a new showcase theater houses national blockbuster and world premier traveling exhibits.
+</p>
+<p>&ldquo;The Walker Family cares about the community we serve, and that is an important value we have in common,&rdquo; said Mike McGee, Discovery Science Foundation Finance Committee.</p>
+----field----
+field: {07E3D093-2225-4628-91B8-BBC7FB827365}
+name: Body Image
+key: body image
+content-length: 64
+
+<image mediaid="{2702B402-969F-4C0F-8FD4-82862AD9986D}"></image>
+----field----
+field: {E354CCFD-EC76-4815-913B-CD9D08CCDD83}
+name: Body Image Caption
+key: body image caption
+content-length: 99
+
+Joe Adams, President (left), and Mike McGee, Discovery Science Foundation Finance Committee (right)
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170301T214447Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e5a28dc3-aa03-497b-aa5f-34a2d25d65e3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170307T231417Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

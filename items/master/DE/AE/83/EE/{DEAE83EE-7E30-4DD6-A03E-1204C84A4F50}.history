@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DEAE83EE-7E30-4DD6-A03E-1204C84A4F50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4611804Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is One Time PIN",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/One-Time Pin - Wires/What is One Time PIN",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

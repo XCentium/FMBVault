@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B45EFA6C-E6B9-483F-B763-B24D97844DFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1411785Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/Business Banking Services/Online Banking",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

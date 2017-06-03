@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{968E8EAC-8EC1-4B9A-8F5A-CC93C571646E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8101789Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Header Menus/Header Menu/Contact",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DE3B1331-B124-4C30-B502-23EAEC564109}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2031769Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Laguna Hills",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Laguna Hills",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

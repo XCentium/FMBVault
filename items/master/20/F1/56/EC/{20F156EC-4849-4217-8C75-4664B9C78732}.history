@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{20F156EC-4849-4217-8C75-4664B9C78732}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2301833Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "13 Are text commands casesensitive",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Alerts/13 Are text commands casesensitive",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

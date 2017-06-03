@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BC8A0D9A-CF83-4C72-AAA0-2EC9CCB13B09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1991772Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fullerton",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Fullerton",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

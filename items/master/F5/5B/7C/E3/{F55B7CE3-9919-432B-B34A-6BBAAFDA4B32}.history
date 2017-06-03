@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F55B7CE3-9919-432B-B34A-6BBAAFDA4B32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8051797Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Log-in",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Header Menus/CD Rates Header Menu/Log-in",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

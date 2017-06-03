@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B285F5A0-77B4-44C4-9D1E-408719CB29A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5111823Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CD Rates Landing Page FAQ",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/CD Rates Landing Page FAQ",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

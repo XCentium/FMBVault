@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6B58A750-70C7-45A0-850B-9809DE712D5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9191781Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Juan Capistrano",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Orange County/San Juan Capistrano",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

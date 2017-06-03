@@ -1,0 +1,141 @@
+----item----
+version: 1
+id: {12CE50CF-5F30-462D-BC54-26E733CD832A}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Media/Simplicity
+parent: {F2BEE008-0CD8-4C58-9CFF-740CF56A668D}
+name: Simplicity
+master: {00000000-0000-0000-0000-000000000000}
+template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
+templatekey: Image
+created: 20170603T003739:636320470594500000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1300
+----version----
+language: en
+version: 1
+revision: 5f63d7ff-4a61-476e-a26d-098e560f2c0e
+
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 10
+
+Simplicity
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 42
+
+A consistent and discoverable architecture
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 166
+
+<image mediapath="" src="" height="" mediaid="{09EC48F0-CFEC-4E83-AB7B-E5D974F535F7}" hspace="" usethumbnail="" showineditor="" width="" alt="Simplicity" vspace="" />
+----field----
+field: {4FF62B0A-D73B-4436-BEA2-023154F2FFC4}
+name: MediaThumbnail
+key: mediathumbnail
+content-length: 179
+
+<image mediapath="" src="" height="" mediaid="{09EC48F0-CFEC-4E83-AB7B-E5D974F535F7}" hspace="" usethumbnail="" showineditor="" width="" alt="Man using Laptop" vspace="" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150901T054400Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5f63d7ff-4a61-476e-a26d-098e560f2c0e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172949Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 49851f25-a9ee-41e5-b2e2-96c403165c96
+
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 10
+
+Simplicity
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 42
+
+A consistent and discoverable architecture
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 166
+
+<image mediapath="" src="" height="" mediaid="{09EC48F0-CFEC-4E83-AB7B-E5D974F535F7}" hspace="" usethumbnail="" showineditor="" width="" alt="Simplicity" vspace="" />
+----field----
+field: {4FF62B0A-D73B-4436-BEA2-023154F2FFC4}
+name: MediaThumbnail
+key: mediathumbnail
+content-length: 179
+
+<image mediapath="" src="" height="" mediaid="{09EC48F0-CFEC-4E83-AB7B-E5D974F535F7}" hspace="" usethumbnail="" showineditor="" width="" alt="Man using Laptop" vspace="" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150901T054400Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+49851f25-a9ee-41e5-b2e2-96c403165c96
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170223T223246Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

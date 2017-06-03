@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{54CD2E78-7188-487B-9542-9C4DA78D82AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1291854Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "John F Casillas",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Downey/John F Casillas",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

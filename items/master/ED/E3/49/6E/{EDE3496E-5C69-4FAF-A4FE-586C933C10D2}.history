@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{EDE3496E-5C69-4FAF-A4FE-586C933C10D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7871785Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Los Altos",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Header Menus/Branches Menu/Los Altos",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

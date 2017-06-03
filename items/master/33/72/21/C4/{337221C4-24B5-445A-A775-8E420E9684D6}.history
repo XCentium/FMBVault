@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{337221C4-24B5-445A-A775-8E420E9684D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5761810Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BankingServices/Savings Accounts",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

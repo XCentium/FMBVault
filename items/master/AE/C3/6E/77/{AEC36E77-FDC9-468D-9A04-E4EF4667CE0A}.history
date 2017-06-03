@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{AEC36E77-FDC9-468D-9A04-E4EF4667CE0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2941822Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Does FM offer cashiers checks",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/General Questions/Does FM offer cashiers checks",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

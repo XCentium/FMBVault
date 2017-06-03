@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A3914074-D88C-4737-B858-4D143E1A2509}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9981845Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Number Of Visits",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Visits/Number Of Visits",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6978FBEF-3C19-4A98-BA14-D58ACB5C1678}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9621786Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Videos",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Videos",
+    "template": "Media Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

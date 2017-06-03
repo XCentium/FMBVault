@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{464508A2-1264-447E-8CFA-CA2E3F00B986}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9491787Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mobile-banking-main-banner",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/mobile-banking-main-banner",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

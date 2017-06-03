@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8CB3140A-A9F2-4936-A80C-6D57421C7229}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2731766Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "The Common Reuse Principle",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Content/The Common Reuse Principle",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

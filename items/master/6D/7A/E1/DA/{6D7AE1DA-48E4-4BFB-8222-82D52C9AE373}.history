@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6D7AE1DA-48E4-4BFB-8222-82D52C9AE373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7511796Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile App Menu",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Footer Menus/Mobile App Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {5281B342-619C-4172-AB98-2CC915560D80}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/Business Credits and Loans
+parent: {5B8641B8-B043-424D-AC0C-5490B513A2A8}
+name: Business Credits and Loans
+master: {00000000-0000-0000-0000-000000000000}
+template: {603A5A97-19EE-40C8-BF4C-0A163B40D841}
+templatekey: Navigation Group
+created: 20170603T003739:636320470597830000
+
+----version----
+language: en
+version: 1
+revision: 98217385-a56b-4600-9918-cce35c671a7a
+
+----field----
+field: {45FE9D83-F46A-4FEA-916B-4BCC872C156B}
+name: GroupTitle
+key: grouptitle
+content-length: 14
+
+Credit & Loans
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 23
+
+Business Credit & Loans
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161221T205959Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+98217385-a56b-4600-9918-cce35c671a7a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170210T224758Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

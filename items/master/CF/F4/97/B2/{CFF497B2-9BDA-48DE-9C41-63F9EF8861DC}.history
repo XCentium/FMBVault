@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CFF497B2-9BDA-48DE-9C41-63F9EF8861DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9841780Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CaliforniaClosets",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Images/CaliforniaClosets",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

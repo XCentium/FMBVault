@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{4647B370-5201-4E34-8D6E-7AA9EBD874DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8581844Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Classic Checking Debit Card",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Products/Classic Checking Debit Card",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D259F47D-FBA6-490F-A878-E26C49AA7775}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6571854Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interests",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Interests",
+    "template": "Interests Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

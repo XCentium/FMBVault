@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3860B534-237D-4DAE-A84A-03086ADB6579}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0371846Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Contact Teaser",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Person/Employee Contact Teaser",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

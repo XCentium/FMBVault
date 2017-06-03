@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{09782DB5-9837-4647-8D55-0F5EFA76511C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1271834Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jesse Vargas",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Downey/Jesse Vargas",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

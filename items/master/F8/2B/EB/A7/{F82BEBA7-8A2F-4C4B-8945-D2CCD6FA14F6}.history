@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F82BEBA7-8A2F-4C4B-8945-D2CCD6FA14F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7571999Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Footer Menus/Legal Menu/Security",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

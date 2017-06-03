@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{41941588-19CE-4C31-9022-860E06A3C4AF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7481805Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Topbar Menu",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Topbar Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

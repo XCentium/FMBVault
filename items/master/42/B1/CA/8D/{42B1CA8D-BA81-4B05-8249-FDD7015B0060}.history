@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{42B1CA8D-BA81-4B05-8249-FDD7015B0060}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6141790Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Payroll Services",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BusinessBankingProducts/Payroll Services",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

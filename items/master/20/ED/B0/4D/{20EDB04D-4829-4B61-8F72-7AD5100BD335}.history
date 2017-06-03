@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{20EDB04D-4829-4B61-8F72-7AD5100BD335}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5851811Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Escrow Services",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BankingServices/Escrow Services",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

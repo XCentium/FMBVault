@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{293E00FA-3BE7-4461-8162-96E66A3E284F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8121853Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE Phone Number",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/Landing Page Phone Numbers/CRE Phone Number",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

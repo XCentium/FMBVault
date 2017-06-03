@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{22D5C457-2E42-41C3-93A3-C65B3AC29106}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9151826Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login E-mail Placeholder",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Login/Login E-mail Placeholder",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

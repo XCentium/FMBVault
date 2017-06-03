@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BAA2FE06-F520-470D-BF7B-FF9012B34876}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2951810Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Does FM offer money orders",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/General Questions/Does FM offer money orders",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

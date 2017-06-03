@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0C364DB2-CE17-47F4-8763-84C7E2327906}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8931780Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Social Menu/Twitter",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

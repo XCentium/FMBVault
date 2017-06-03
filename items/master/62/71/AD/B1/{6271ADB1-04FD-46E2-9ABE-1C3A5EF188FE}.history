@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6271ADB1-04FD-46E2-9ABE-1C3A5EF188FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8761795Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "College Checking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Checking Options - Teen College Senior/College Checking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

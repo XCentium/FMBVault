@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{21A9311E-2684-4A50-9EEB-0CCD7F66410F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6791856Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testimonials",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Testimonials",
+    "template": "Testimonial Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

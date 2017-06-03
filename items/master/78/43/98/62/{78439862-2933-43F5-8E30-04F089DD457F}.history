@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{78439862-2933-43F5-8E30-04F089DD457F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2181846Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "One-Time Pin - Wires",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/One-Time Pin - Wires",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

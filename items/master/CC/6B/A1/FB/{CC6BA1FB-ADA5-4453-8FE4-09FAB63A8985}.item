@@ -1,0 +1,98 @@
+----item----
+version: 1
+id: {CC6BA1FB-ADA5-4453-8FE4-09FAB63A8985}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Calculators/Certificate of Deposit
+parent: {C50091A4-529E-4C7F-97EF-E46A136146A4}
+name: Certificate of Deposit
+master: {00000000-0000-0000-0000-000000000000}
+template: {A74F49C2-5F0C-4752-A4FC-5E0FACE02F8B}
+templatekey: Calculator
+created: 20170603T003734:636320470543900000
+
+----field----
+field: {E514A1EB-DDBA-44F7-8528-82CA2280F778}
+name: JavaScript assets
+key: javascript assets
+content-length: 148
+
+/scripts/calculators/KJE.js
+/scripts/calculators/KJESiteSpecific.js
+/scripts/calculators/CertDeposit.js
+/scripts/calculators/CertDepositParams.js
+----field----
+field: {11421560-0BCB-403A-B099-8595C34341FD}
+name: JavaScript inline
+key: javascript inline
+content-length: 0
+
+
+----field----
+field: {4867D192-326A-4AA4-81EF-EA430E224AFF}
+name: Css assets
+key: css assets
+content-length: 68
+
+/styles/calculators/KJE.css
+/styles/calculators/KJESiteSpecific.css
+----version----
+language: en
+version: 1
+revision: 308dd7da-e7da-41c7-bceb-dbd710a08af3
+
+----field----
+field: {774115EA-0D55-4C89-807E-E9C2FCD8A898}
+name: CalculatorTitle
+key: calculatortitle
+content-length: 33
+
+Certificate of Deposit Calculator
+----field----
+field: {C2D290A9-7C5C-44DF-9045-B491B3D43CB2}
+name: CalculatorBody
+key: calculatorbody
+content-length: 14266
+
+<noscript>
+&lt;div align="center"&gt;
+&lt;div align="center" id="KJENoJavaScript" class="KJENoJavaScript"&gt;Javascript is required for this calculator.  If you are using Internet Explorer, you may need to select to 'Allow Blocked Content' to view this calculator.
+&lt;p&gt;&lt;strong&gt;For more information about these these financial calculators please visit: &lt;a href="http://www.dinkytown.net"&gt;Financial Calculators&lt;/a&gt; from KJE Computer Solutions, LLC&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</noscript>
+<div id="KJEAllContent"><!--KJEMAIN--><div id="KJEGuiDataPoint" style="top: 0px; left: 0px; max-width: 221px; display: none;"></div><div id="KJECalculatorScreenSize" align="center" style="position:relative; width:100%"><div id="KJEWait" class="KJEWait" style="top: 23px; right: 12px; display: none;"></div><div id="KJEMenu" class="KJEMenu"></div><div id="KJEMenuWindow"></div><div id="KJECalculatorTable" class="KJECalculatorTable" style="width: 258px;"><div id="KJECalculatorTableCell" class="KJECalculator KJEEase" align="center" style="width: 100%; height: 548px;"><span id="KJESplash" class="KJEBold" style="color: rgb(51, 51, 51); opacity: 0; display: none;"><br><br><br>Financial Calculators from<br>Dinkytown.net<p class="KJEFooter">Financial Calculators ©1998-2016 KJE Computer Solutions, LLC</p><br><br><br><br><br><br><br><br></span><div id="KJEMain" class="KJEMain" style="opacity: 1; display: block;"><div id="KJETitle" aria-live="polite" class="KJETitle KJEError" style="padding: 20px;">KJE Calculator License Not Found for: local.fmb.com</div><div id="KJEInputs" class="KJEInputs" style="display: block;"> <div id="KJE-D-INPUTS" class="KJEInputDiv" style="background-color: rgb(238, 238, 238);"> <div id="KJE-C-STARTING_AMOUNT" class="KJEInputContainer"><div class="KJEHelp " style="position: absolute; width: 190px; left: 0px; top: 7.5px;"><button id="KJE-PO-STARTING_AMOUNT" aria-label="Define: Initial deposit" class="KJEDefinitionIcon" tabindex="0">?</button><label class="KJEHelp" for="KJE-STARTING_AMOUNT">Initial deposit:</label></div><input id="KJE-STARTING_AMOUNT" name="STARTING_AMOUNT" class="KJEInput KJEInputModern" aria-required="true" style="height: 20px; top: 2px; position: absolute; width: 80px; left: 263px;"><div class="KJEGuiDefnPopup" id="KJE-PODEFN-STARTING_AMOUNT" aria-hidden="true" role="dialog" aria-label="Define: Initial deposit"><button id="KJE-POCLOSE-STARTING_AMOUNT" class="KJECloseButton" type="button" aria-aria-label="Close definition Initial deposit" tabindex="0">X</button><dl class="KJEDefinitionPopup"><dt>Initial deposit</dt><dd>The starting balance for your CD.</dd></dl></div><div class="KJEScale" aria-hidden="true" style="position: absolute; height: 28px; cursor: pointer; top: 2.8px; left: 354px; display: none;"><div class="KJEScale" style="position: absolute; height: 28px; text-align: left; cursor: pointer; top: 0px; width: 66.66%; left: 0px;">$0</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: center; cursor: pointer; top: 0px; width: 66.66%; left: 0px;">$10k</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: center; cursor: pointer; top: 0px; width: 66.66%; right: 0px;">$100k</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: right; cursor: pointer; top: 0px; width: 66.66%; right: 0px;">$1m</div></div><div aria-hidden="true" class="KJESlider" style="position: absolute; left: 348px; height: 28px; display: none;"><div class="KJELine" style="height: 17px; position: relative; cursor: pointer; left: 7.92px;"></div><div class="KJEArrow" style="position: absolute; cursor: pointer; top: 13px;"></div></div></div> <div id="KJE-C-MONTHS" class="KJEInputContainer"><div class="KJEHelp " style="position: absolute; width: 190px; left: 0px; top: 7.5px;"><button id="KJE-PO-MONTHS" aria-label="Define: Months" class="KJEDefinitionIcon" tabindex="0">?</button><label class="KJEHelp" for="KJE-MONTHS">Months:</label></div><input id="KJE-MONTHS" name="MONTHS" class="KJEInput KJEInputModern" aria-required="true" style="height: 20px; top: 2px; position: absolute; width: 80px; left: 263px;"><div class="KJEGuiDefnPopup" id="KJE-PODEFN-MONTHS" aria-hidden="true" role="dialog" aria-label="Define: Months"><button id="KJE-POCLOSE-MONTHS" class="KJECloseButton" type="button" aria-aria-label="Close definition Months" tabindex="0">X</button><dl class="KJEDefinitionPopup"><dt>Months</dt><dd>The total number of months for this CD to mature.</dd></dl></div><div class="KJEScale" aria-hidden="true" style="position: absolute; height: 28px; cursor: pointer; top: 2.8px; left: 354px; display: none;"><div class="KJEScale" style="position: absolute; height: 28px; text-align: left; cursor: pointer; top: 0px; width: 66.66%; left: 0px;">1</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: center; cursor: pointer; top: 0px; width: 66.66%; left: 0px;">40</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: center; cursor: pointer; top: 0px; width: 66.66%; right: 0px;">80</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: right; cursor: pointer; top: 0px; width: 66.66%; right: 0px;">120</div></div><div aria-hidden="true" class="KJESlider" style="position: absolute; left: 348px; height: 28px; display: none;"><div class="KJELine" style="height: 17px; position: relative; cursor: pointer; left: 7.92px;"></div><div class="KJEArrow" style="position: absolute; cursor: pointer; top: 13px;"></div></div></div> <div id="KJE-C-RATE_OF_RETURN" class="KJEInputContainer"><div class="KJEHelp " style="position: absolute; width: 190px; left: 0px; top: 7.5px;"><button id="KJE-PO-RATE_OF_RETURN" aria-label="Define: Interest rate" class="KJEDefinitionIcon" tabindex="0">?</button><label class="KJEHelp" for="KJE-RATE_OF_RETURN">Interest rate:</label></div><input id="KJE-RATE_OF_RETURN" name="RATE_OF_RETURN" class="KJEInput KJEInputModern" aria-required="true" style="height: 20px; top: 2px; position: absolute; width: 80px; left: 263px;"><div class="KJEGuiDefnPopup" id="KJE-PODEFN-RATE_OF_RETURN" aria-hidden="true" role="dialog" aria-label="Define: Interest rate"><button id="KJE-POCLOSE-RATE_OF_RETURN" class="KJECloseButton" type="button" aria-aria-label="Close definition Interest rate" tabindex="0">X</button><dl class="KJEDefinitionPopup"><dt>Interest rate</dt><dd>The published interest rate for this CD. Make sure to enter the actual interest rate, not the annual percentage yield (APY).</dd></dl></div><div class="KJEScale" aria-hidden="true" style="position: absolute; height: 28px; cursor: pointer; top: 2.8px; left: 354px; display: none;"><div class="KJEScale" style="position: absolute; height: 28px; text-align: left; cursor: pointer; top: 0px; width: 66.66%; left: 0px;">0%</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: center; cursor: pointer; top: 0px; width: 66.66%; left: 0px;">4%</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: center; cursor: pointer; top: 0px; width: 66.66%; right: 0px;">8%</div><div class="KJEScale" style="position: absolute; height: 28px; text-align: right; cursor: pointer; top: 0px; width: 66.66%; right: 0px;">12%</div></div><div aria-hidden="true" class="KJESlider" style="position: absolute; left: 348px; height: 28px; display: none;"><div class="KJELine" style="height: 17px; position: relative; cursor: pointer; left: 7.92px;"></div><div class="KJEArrow" style="position: absolute; cursor: pointer; top: 13px;"></div></div></div> <div id="KJE-C-COMPOUND_INTEREST" class="KJEInputContainer"><div class="KJEHelp " style="position: absolute; width: 190px; left: 0px; top: 7.5px;"><button id="KJE-PO-COMPOUND_INTEREST" aria-label="Define: Interest" class="KJEDefinitionIcon" tabindex="0">?</button><label class="KJEHelp" for="KJE-COMPOUND_INTEREST">Interest:</label></div><div id="KJE-COMPOUND_INTERESTDiv" class="KJEDropBoxDivModern" style="height: 26px; top: 1px; position: absolute; left: 263px; width: 0px;"><select name="COMPOUND_INTEREST" id="KJE-COMPOUND_INTEREST" class="KJEDropBox KJEDropBoxModern" aria-required="true" style="height: 26px; top: 2px; position: absolute; left: 4px; width: 20px;"><option value="0">compound daily<option value="1">compound monthly<option value="2">compound quarterly<option value="3">compound semi-annually<option value="4" selected="selected">compound annually</select></div><div class="KJEGuiDefnPopup" id="KJE-PODEFN-COMPOUND_INTEREST" aria-hidden="true" role="dialog" aria-label="Define: Interest"><button id="KJE-POCLOSE-COMPOUND_INTEREST" class="KJECloseButton" type="button" aria-aria-label="Close definition Interest" tabindex="0">X</button><dl class="KJEDefinitionPopup"><dt>Compounding</dt><dd>Interest earned on your CD's accumulated interest. This calculator allows you to choose the frequency that your CD's interest income is added to your account. The more frequently this occurs, the sooner your accumulated interest income will generate additional interest. You may wish to check with your financial institution to find out how often interest is being compounded on your particular CD.</dd></dl></div></div> <div id="KJE-C-APY" class="KJEInputContainer"><div class="KJEHelp " style="position: absolute; width: 190px; left: 0px; top: 7.5px;"><button id="KJE-PO-APY" aria-label="Define: Annual percentage yield (APY)" class="KJEDefinitionIcon" tabindex="0">?</button><label class="KJEHelp" for="KJE-APY">Annual percentage yield (APY):</label></div><div id="KJE-APY" class="KJEOutputLabel " aria-required="true" style="height: 26px; top: 7.5px; position: absolute; left: 263px; width: 0px;">0.25%</div><div class="KJEGuiDefnPopup" id="KJE-PODEFN-APY" aria-hidden="true" role="dialog" aria-label="Define: Annual percentage yield (APY)"><button id="KJE-POCLOSE-APY" class="KJECloseButton" type="button" aria-aria-label="Close definition Annual percentage yield (APY)" tabindex="0">X</button><dl class="KJEDefinitionPopup"><dt>Annual percentage yield (APY)</dt><dd>This is the effective annual interest rate earned for this CD. A CD's APY depends on the frequency of compounding and the interest rate. Since APY measures your actual interest earned per year, you can use it to compare CD's of different interest rates and compounding frequencies.</dd></dl></div></div> <div id="KJE-C-TOTAL_YIELD" class="KJEInputContainer" style="display: none;"><div class="KJELabel " style="position: absolute; width: 190px; left: 0px; top: 7.5px;"><label class="KJELabel" for="KJE-TOTAL_YIELD">Total annual yield:</label></div><div id="KJE-TOTAL_YIELD" class="KJEOutputLabel " aria-required="true" style="height: 26px; top: 7.5px; position: absolute; left: 195px; width: 43px;">0.251%</div></div> <div id="KJE-C-TOTAL_YIELD2" class="KJEInputContainer" style="display: none;"><div class="KJELabel " style="position: absolute; width: 190px; left: 0px; top: 7.5px;"><label class="KJELabel" for="KJE-TOTAL_YIELD2">Total yield:</label></div><div id="KJE-TOTAL_YIELD2" class="KJEOutputLabel " aria-required="true" style="height: 26px; top: 7.5px; position: absolute; left: 195px; width: 43px;">1.256%</div></div> <div style="height:10px"></div> </div> <figure zindex="1" style="margin:0; padding:0;"><figcaption class="KJEAccessible">Please view the report to see detailed results in tabular form.</figcaption><div id="KJE-C-GRAPH1" style="width: 258px; background-color: rgb(237, 237, 237); height: 277px;" class="KJEGraphContainer"><div class="KJEGraphDropper" role="button" tabindex="0" aria-expanded="true"><table class="KJEToggleTable" role="presentation"><tbody><tr><td width="99%" class="KJEGraphTitle" valign="top">Your total is $1,012.56 after 5 years<span class="KJEAccessibleInLine" aria-live="true"><br>press spacebar to hide graph</span></td><td class="KJEToggleIcon KJEGraphIcon" aria-hidden="true">[-]</td></tr></tbody></table></div><canvas id="KJE-G-GRAPH1" class="KJEGraph" width="516" height="500" style="width: 258px; height: 250px;"></canvas></div></figure> </div></div></div></div><div id="KJECommandButtons" style="opacity: 1; position: absolute; top: -15px;"><input type="button" class="KJECommandButton" name="KJECalculate" id="KJECalculate" value="Calculate" style="display: inline-block;"><input type="button" class="KJECommandButton" id="KJEViewReport" name="KJEViewReport" value="View Report"></div></div><!--KJEMAINEND--><div id="KJEReport" class="KJEReport" width="100%" style="display: none;"><div id="KJEReportTop"></div><div align="center"><div id="KJE-C-REPORTGRAPH0" style="page-break-inside: avoid; margin-top:15px; height:250px;"><!--GRAPH0--><canvas id="KJE-G-REPORTGRAPH0"></canvas><!--GRAPHEND--></div></div><div id="KJEReportMiddle0"></div></div><!--KJEDEFINITIONS--><div width="100%" align="center"><div id="KJEDefinitions" class="KJEDefinitions" width="100%" style="display: block;"><h2 class="KJEDefinitionsHeader KJEFontHeading">Definitions</h2><dl> <div id="KJE-D-STARTING_AMOUNT"><dt>Initial deposit</dt><dd>The starting balance for your CD.</dd></div> <div id="KJE-D-MONTHS"><dt>Months</dt><dd>The total number of months for this CD to mature.</dd></div> <div id="KJE-D-RATE_OF_RETURN"><dt>Interest rate</dt><dd>The published interest rate for this CD. Make sure to enter the actual interest rate, not the annual percentage yield (APY).</dd></div> <div id="KJE-D-COMPOUND_INTEREST"><dt>Compounding</dt><dd>Interest earned on your CD's accumulated interest. This calculator allows you to choose the frequency that your CD's interest income is added to your account. The more frequently this occurs, the sooner your accumulated interest income will generate additional interest. You may wish to check with your financial institution to find out how often interest is being compounded on your particular CD.</dd></div> <div id="KJE-D-APY"><dt>Annual percentage yield (APY)</dt><dd>This is the effective annual interest rate earned for this CD. A CD's APY depends on the frequency of compounding and the interest rate. Since APY measures your actual interest earned per year, you can use it to compare CD's of different interest rates and compounding frequencies.</dd></div> </dl></div></div><!--KJEDEFINITIONSEND--></div>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170126T194253Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+308dd7da-e7da-41c7-bceb-dbd710a08af3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170313T214033Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

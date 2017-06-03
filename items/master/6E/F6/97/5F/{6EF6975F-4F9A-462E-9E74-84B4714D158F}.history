@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6EF6975F-4F9A-462E-9E74-84B4714D158F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1901822Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dee White",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/San Juan Capistrano/Dee White",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

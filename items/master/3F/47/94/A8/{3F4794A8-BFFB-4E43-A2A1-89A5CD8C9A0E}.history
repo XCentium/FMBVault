@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3F4794A8-BFFB-4E43-A2A1-89A5CD8C9A0E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0711836Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Apple-Pay",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Credit-Cards-Apple-Pay",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

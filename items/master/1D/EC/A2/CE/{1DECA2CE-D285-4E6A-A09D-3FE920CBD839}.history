@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{1DECA2CE-D285-4E6A-A09D-3FE920CBD839}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8091785Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Header Menus/Header Menu/About Us",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

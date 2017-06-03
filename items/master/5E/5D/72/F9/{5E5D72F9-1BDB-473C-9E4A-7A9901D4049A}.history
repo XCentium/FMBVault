@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5E5D72F9-1BDB-473C-9E4A-7A9901D4049A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2171772Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Clemente",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/San Clemente",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

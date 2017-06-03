@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B83BD89D-B248-44D6-97B7-951D84C99652}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.3912041Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the FM short code number",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Mobile Banking/Text Banking/What is the FM short code number",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

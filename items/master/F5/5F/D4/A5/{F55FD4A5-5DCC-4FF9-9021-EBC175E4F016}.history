@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F55FD4A5-5DCC-4FF9-9021-EBC175E4F016}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0821814Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Accounts Limited",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Savings Accounts Limited",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2059C7D7-B9D8-4510-83DC-D52D88402E77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6872018Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Minnesota",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/Minnesota",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

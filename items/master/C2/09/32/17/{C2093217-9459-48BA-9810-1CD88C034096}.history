@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C2093217-9459-48BA-9810-1CD88C034096}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5931786Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Education Banking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BankingServices/Education Banking",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9AB4D784-9285-46BC-9DAB-44CBFA491B48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8021780Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Torrance",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Header Menus/Branches Menu/Torrance",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

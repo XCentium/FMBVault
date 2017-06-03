@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7CC5E752-388D-4BCF-937B-E8FC3B847E63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5991812Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BusinessBankingProducts/Checking",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

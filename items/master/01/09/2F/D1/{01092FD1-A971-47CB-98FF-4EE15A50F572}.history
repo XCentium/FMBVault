@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{01092FD1-A971-47CB-98FF-4EE15A50F572}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9661785Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Card Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Card Alerts",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{EC824ACB-6EDB-4102-AE9E-F8652A5AF552}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7791804Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "East Long Beach",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Header Menus/Branches Menu/East Long Beach",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

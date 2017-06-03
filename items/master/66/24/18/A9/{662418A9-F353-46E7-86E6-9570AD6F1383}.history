@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{662418A9-F353-46E7-86E6-9570AD6F1383}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.3271755Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winspire",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Testimonials/Winspire",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

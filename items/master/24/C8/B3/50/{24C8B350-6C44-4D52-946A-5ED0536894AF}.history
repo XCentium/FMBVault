@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{24C8B350-6C44-4D52-946A-5ED0536894AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0691778Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Modal Content/Login/FM Credit Card",
+    "template": "Modal Content",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0B8F529D-0FEC-452B-8BB2-29B38FD9E7DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1511755Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Services",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/Business Banking Services/Other Services",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{76DB4F20-EA85-480B-B2EE-7D8DB5F8922D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7481854Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Disclaimers/Credit-Cards-Alerts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

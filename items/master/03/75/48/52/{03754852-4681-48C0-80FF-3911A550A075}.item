@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {03754852-4681-48C0-80FF-3911A550A075}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/Contact
+parent: {135DC92C-C5EA-4C2A-A058-5BF68967E2B6}
+name: Contact
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+templatekey: FAQ Group
+created: 20170603T003737:636320470578130000
+
+----version----
+language: en
+version: 1
+revision: a1a4bd52-16ea-4642-a20b-c7512de76797
+
+----field----
+field: {3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}
+name: Show Expanded
+key: show expanded
+content-length: 1
+
+1
+----field----
+field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
+name: Group Member
+key: group member
+content-length: 350
+
+{3A7CA1DB-E186-49AF-ABCD-922FD24E0EB4}|{BA55B9B4-6053-4638-B2D1-0368A6411110}|{54A3BC7A-9206-44CB-B1AE-019AEE029583}|{723E1AB6-D753-426F-B72D-2425DFEF3BA6}|{A5F7F5D8-91B4-482A-8E82-5227948C4CAD}|{B602B481-B4E0-448B-8A20-446A248793BC}|{37373A3C-41D7-49EF-AFA2-B5B12A392F85}|{FF54EA18-5417-4F61-96CB-0630CB886EAE}|{67A4FE39-F4E4-4443-86CF-F73DF0F1680A}
+----field----
+field: {4A3D8DB5-4782-4EC0-8061-C0B08531EB1F}
+name: Expand Label
+key: expand label
+content-length: 16
+
+Get Contact Info
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170222T021520Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a1a4bd52-16ea-4642-a20b-c7512de76797
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T205027Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

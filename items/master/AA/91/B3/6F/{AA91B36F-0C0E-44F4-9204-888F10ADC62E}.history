@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{AA91B36F-0C0E-44F4-9204-888F10ADC62E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1471915Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jason Bennett",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Lakewood/Jason Bennett",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

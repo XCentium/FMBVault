@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B0EF9A00-0D75-4746-904D-0B4829395631}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2961756Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Tabs",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Teaser Page/Headline Tabs",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

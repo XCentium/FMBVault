@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{176C9BC2-5D9C-4577-BD1C-248427B49A57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5921814Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nonprofit Banking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BankingServices/Nonprofit Banking",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

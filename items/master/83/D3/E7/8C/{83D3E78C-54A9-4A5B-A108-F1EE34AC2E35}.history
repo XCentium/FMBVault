@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{83D3E78C-54A9-4A5B-A108-F1EE34AC2E35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6261801Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/PersonalBankingProducts/Savings",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

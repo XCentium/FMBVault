@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{08FDC37B-E2BD-44D7-8495-40B038F97C35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9921773Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "hero-Welcome",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousel Slides/Hero Banner/hero-Welcome",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

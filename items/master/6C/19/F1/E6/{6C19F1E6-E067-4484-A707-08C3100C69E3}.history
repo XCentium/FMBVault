@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6C19F1E6-E067-4484-A707-08C3100C69E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2221755Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Torrance",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Torrance",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

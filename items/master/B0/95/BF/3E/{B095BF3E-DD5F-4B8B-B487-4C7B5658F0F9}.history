@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B095BF3E-DD5F-4B8B-B487-4C7B5658F0F9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9541843Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referral",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Referral",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

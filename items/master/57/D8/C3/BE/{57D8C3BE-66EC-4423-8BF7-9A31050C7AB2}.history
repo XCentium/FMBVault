@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{57D8C3BE-66EC-4423-8BF7-9A31050C7AB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0091764Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "home-hero-login-header",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousels/home-hero-login-header",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

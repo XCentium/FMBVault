@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{483F46C9-5162-4562-BDA4-25C0AEB9D7AF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2471760Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Download",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

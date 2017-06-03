@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5E446EDA-FCE5-4713-822D-A4A204AA3230}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7011860Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headers",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Headers",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

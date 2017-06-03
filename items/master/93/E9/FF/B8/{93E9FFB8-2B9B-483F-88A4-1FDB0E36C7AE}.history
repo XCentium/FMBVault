@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{93E9FFB8-2B9B-483F-88A4-1FDB0E36C7AE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9661842Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Outcomes",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Onsite Behavior/Outcomes",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

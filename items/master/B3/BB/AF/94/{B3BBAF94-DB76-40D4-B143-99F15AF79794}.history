@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B3BBAF94-DB76-40D4-B143-99F15AF79794}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2551824Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How long should it take to receive a Card Alert by text message SMS",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Alerts/How long should it take to receive a Card Alert by text message SMS",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

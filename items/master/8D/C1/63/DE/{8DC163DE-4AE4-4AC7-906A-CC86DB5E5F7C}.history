@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8DC163DE-4AE4-4AC7-906A-CC86DB5E5F7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5281787Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking - General",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/Online Banking - General",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

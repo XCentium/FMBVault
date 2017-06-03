@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{948EB108-690B-4C9A-994A-B726962AFEE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5721809Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/AccountType/Business",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

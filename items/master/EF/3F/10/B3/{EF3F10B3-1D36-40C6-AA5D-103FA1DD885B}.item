@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {EF3F10B3-1D36-40C6-AA5D-103FA1DD885B}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Forms/Form Configurations/CRE Form
+parent: {C6ECDE5A-3A71-482B-A170-66C81B040DA9}
+name: CRE Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {6C2B616E-EC60-4FC6-856C-24A54D9B4F8C}
+templatekey: Form Configuration
+created: 20170603T003737:636320470578930000
+
+----version----
+language: en
+version: 1
+revision: 05fcd2dd-8acf-4868-a52c-0c13545f928e
+
+----field----
+field: {BC20CAA7-150F-4B76-8C79-6E1A11C9C159}
+name: EmailRecipients
+key: emailrecipients
+content-length: 68
+
+/sitecore/content/FMBCom/Global/Forms/Form Recipients/RLD Recipients
+----field----
+field: {7F3E0A45-EBC2-47BF-9C04-0359798DB2CE}
+name: FieldOptionGroups
+key: fieldoptiongroups
+content-length: 38
+
+{3DAF4D7B-1F26-4A1F-AAAF-228A0FCDD296}
+----field----
+field: {D71E6464-9F06-4532-8C08-6840E225E885}
+name: FormID
+key: formid
+content-length: 7
+
+CREForm
+----field----
+field: {2C22F643-D4E0-481D-B35D-F1C7276E936C}
+name: SuccessPage
+key: successpage
+content-length: 123
+
+<link text="" linktype="internal" class="" title="" target="" querystring="" id="{5854FAC8-7AC3-4B20-8277-377EBC9EC039}" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 13
+
+fmb\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170210T205405Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 13
+
+fmb\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+05fcd2dd-8acf-4868-a52c-0c13545f928e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T160826Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

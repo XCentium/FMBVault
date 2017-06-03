@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{15E2E3F1-6CB3-440C-8F72-626B7AB705EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8801774Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Banking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Locations Brochures/Personal Banking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

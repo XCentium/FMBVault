@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CAA994A5-B935-41F1-B7F6-894C48D80E09}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9521780Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dependencies",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Dependencies",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

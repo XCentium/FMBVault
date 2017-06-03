@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7C9E1817-67BD-40A4-9709-B5D545D667E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6721802Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hawaii",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/Hawaii",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

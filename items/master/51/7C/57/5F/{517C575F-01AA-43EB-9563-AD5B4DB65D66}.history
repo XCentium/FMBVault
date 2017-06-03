@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{517C575F-01AA-43EB-9563-AD5B4DB65D66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1531760Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Credit Card",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/Business Credits and Loans/Business Credit Card",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

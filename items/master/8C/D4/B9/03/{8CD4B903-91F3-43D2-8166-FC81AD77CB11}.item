@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {8CD4B903-91F3-43D2-8166-FC81AD77CB11}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Media/Carousel Slides/Thin Banner
+parent: {CB10E8F0-B9F3-44EE-B537-855EA00BD433}
+name: Thin Banner
+master: {00000000-0000-0000-0000-000000000000}
+template: {920A1781-559F-4E1C-BB2E-6B9A2113FE6B}
+templatekey: Media Folder
+created: 20170603T003739:636320470593330000
+
+----version----
+language: en
+version: 1
+revision: 2e6724a7-99e9-4d26-adbe-426de03b09a9
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161228T212611Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2e6724a7-99e9-4d26-adbe-426de03b09a9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172953Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

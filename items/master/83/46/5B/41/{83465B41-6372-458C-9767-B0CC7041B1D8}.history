@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{83465B41-6372-458C-9767-B0CC7041B1D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8731777Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Checking - Premium",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Checking Options/Personal Checking - Premium",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

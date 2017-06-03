@@ -1,0 +1,152 @@
+----item----
+version: 1
+id: {1A42330D-9440-441B-8485-BFD925991529}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Testimonials/Auction
+parent: {21A9311E-2684-4A50-9EEB-0CCD7F66410F}
+name: Auction
+master: {00000000-0000-0000-0000-000000000000}
+template: {43C3FF93-3124-47AF-8574-4D2289837BD5}
+templatekey: Testimonial
+created: 20170603T003740:636320470602200000
+
+----version----
+language: en
+version: 1
+revision: 681aa6a4-f1e4-4888-a4aa-f9ee6dcd6857
+
+----field----
+field: {0658E55D-0E17-418A-A9D2-0ED0D2A16B24}
+name: Client Name
+key: client name
+content-length: 11
+
+Auction.com
+----field----
+field: {E4D64661-6588-4246-8D79-FA315BB58671}
+name: Location
+key: location
+content-length: 17
+
+Orange County, CA
+----field----
+field: {6E328113-044E-457B-A44D-BC9729B36F54}
+name: Client Since
+key: client since
+content-length: 0
+
+
+----field----
+field: {05F09E34-083E-43D8-B73D-4A5B88E3A7CA}
+name: PageUrl
+key: pageurl
+content-length: 134
+
+<link text="" linktype="internal" class="" title="Auction.com" target="" querystring="" id="{72DD720C-4B57-43D6-8FA7-1A059DADDD7F}" />
+----field----
+field: {972E097D-D060-4BDA-B2A3-4D4C685E14D3}
+name: Preview Image
+key: preview image
+content-length: 64
+
+<image mediaid="{A8164470-FD6A-4A77-BBE0-1FFBBC033443}"></image>
+----field----
+field: {9A55DADE-C279-4F46-B401-C78705088C52}
+name: Title
+key: title
+content-length: 22
+
+Client Success Stories
+----field----
+field: {E456124C-04E3-4D0D-AEFB-5314E679E026}
+name: Teaser Quote
+key: teaser quote
+content-length: 45
+
+We have a good, honest relationship with F&M.
+----field----
+field: {D526316A-200F-42DC-BAD1-EE326DAB7327}
+name: Summary
+key: summary
+content-length: 273
+
+<p>Jeff Frieden will never forget the day when Ken Walker, then F&amp;m President, gave him his first line of credit for $1 million in 1990. Robert Friedman recalls when he and his business partner, Jeff Frieden, were young entrepreneurs in search of a banking partner.</p>
+----field----
+field: {F76BE998-40B6-4F25-8761-7FEDB300359A}
+name: Body
+key: body
+content-length: 2852
+
+<div class="row">
+<div class="col-md-6">
+<p class="subtitle">Jeff Frieden, F&amp;M Bank client since 1990</p>
+<p>Jeff Frieden will never forget the day when Ken Walker, then F&amp;M President, gave him his first line of credit for $1 million in 1990.</p>
+<p>&ldquo;I had explored working with other banks, and I remember meeting with Ken who understood my business within 15 minutes,&rdquo; said Frieden, whose business at the time, landauction.com, served as a precursor to Auction.com, now the nation&rsquo;s leading online real estate marketplace, where Jeff is currently CEO. &ldquo;Even when market conditions were tough, F&amp;M continued to work with us.&rdquo;</p>
+<p>Like business partner Robert Friedman, Frieden&rsquo;s relationship with F&amp;M now extends far beyond his initial line of credit. His father was an F&amp;M customer in the 1960s, and his 93-year-old mother is still a customer to this day. &ldquo;Everyone knows my mom when she walks into the bank, and that means a lot to me, and to her,&rdquo; he said.</p>
+<p>Frieden also values F&amp;M&rsquo;s conservative approach to banking, which resonates with him as a shareholder of F&amp;M and father of 7- and 8-year-old children whom have opened up Youth Savings accounts at the Bank.</p>
+<p>&ldquo;The personalized service, transparency and overall philosophy make F&amp;M an ideal fit for me, and it feels good to pass along the tradition of banking with F&amp;M to my children,&rdquo; Frieden said.</p>
+</div>
+<div class="col-md-6">
+<p class="subtitle">Robert Friedman, F&amp;M Bank client since 2001</p>
+<p>Robert Friedman recalls when he and his business partner, Jeff Frieden, were young entrepreneurs in search of a banking partner.</p>
+<p>&ldquo;We were 25 years old, and F&amp;M was there for us as a foundational partner for all of our businesses,&rdquo; said Friedman, who today is chairman and co-founder of Auction. com, which has sold more than $30 billion in residential and commercial assets since 2007. &ldquo;We have a good, honest relationship with F&amp;M, and those are the types of relationships that make it easier to scale a business.&rdquo;</p>
+<p>The relationship between F&amp;M and Friedman extends beyond just business. Friedman, a longtime board member of Big Brothers Big Sisters of Orange County, encouraged F&amp;M President Henry Walker to get involved with the organization more than a decade ago.</p>
+<p>&ldquo;Henry has been a significant contributor to the organization ever since, which is a testament to how our core values truly align with each other,&rdquo; said Friedman, noting that Walker received the organization&rsquo;s &ldquo;Man of the Year&rdquo; award in 2009. &ldquo;There is a lot of mutual respect between us, and that stems from the desire to help members of our community to become good citizens.&rdquo;</p>
+</div>
+</div>
+----field----
+field: {07E3D093-2225-4628-91B8-BBC7FB827365}
+name: Body Image
+key: body image
+content-length: 0
+
+
+----field----
+field: {E354CCFD-EC76-4815-913B-CD9D08CCDD83}
+name: Body Image Caption
+key: body image caption
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170301T214447Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+681aa6a4-f1e4-4888-a4aa-f9ee6dcd6857
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170310T005935Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

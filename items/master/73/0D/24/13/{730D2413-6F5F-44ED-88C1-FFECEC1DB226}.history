@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{730D2413-6F5F-44ED-88C1-FFECEC1DB226}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5251826Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "One-Time Pin - OLB",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/One-Time Pin - OLB",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

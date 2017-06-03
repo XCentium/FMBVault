@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{4E42F5CB-BE85-4518-AA59-B772A0A10688}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7361848Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business-Checking-Non-Analyzed",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Disclaimers/Business-Checking-Non-Analyzed",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BF2678BC-44DE-4C43-A199-F20A14B17599}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6861862Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commercial Loan",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Calculators/Commercial Loan",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

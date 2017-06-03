@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{74CF8149-3581-41C1-837C-42AAAF434D10}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9551784Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extensibility",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Extensibility",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

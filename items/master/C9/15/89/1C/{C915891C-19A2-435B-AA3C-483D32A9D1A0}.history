@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C915891C-19A2-435B-AA3C-483D32A9D1A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2811989Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CORPORATE OFFICES",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Contact/CORPORATE OFFICES",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{159459AC-482F-4378-BEF0-F03508CB95DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8651862Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ratings",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Ratings/Ratings",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

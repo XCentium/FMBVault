@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3351C9B1-945D-435E-837F-84B7D21B3A03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6161808Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other - Not Sure",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BusinessBankingProducts/Other - Not Sure",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

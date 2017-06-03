@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B0E5FB3F-2CAD-4773-AAFB-0EA097746C5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1041835Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Newport Beach",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Newport Beach",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

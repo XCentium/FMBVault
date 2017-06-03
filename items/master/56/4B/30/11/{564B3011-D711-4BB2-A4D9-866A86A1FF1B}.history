@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{564B3011-D711-4BB2-A4D9-866A86A1FF1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6811782Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Louisiana",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/Louisiana",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

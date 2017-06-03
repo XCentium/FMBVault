@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2C863120-4276-4BBF-9D97-F1EC82063D1A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2611748Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simplicity",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Simplicity",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

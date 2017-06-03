@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E1CA685B-0FFF-465E-ADBD-1C1FEEB21E19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4731819Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How do I change my password",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Online Banking - General/How do I change my password",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

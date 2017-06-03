@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E5C201D6-4884-4F48-B978-54892D03737C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6821784Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Maine",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/Maine",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

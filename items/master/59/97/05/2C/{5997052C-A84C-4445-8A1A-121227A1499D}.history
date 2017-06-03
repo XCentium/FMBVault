@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5997052C-A84C-4445-8A1A-121227A1499D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2761830Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HOME LOANS",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Contact/HOME LOANS",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

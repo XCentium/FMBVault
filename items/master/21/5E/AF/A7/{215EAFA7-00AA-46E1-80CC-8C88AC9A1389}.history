@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{215EAFA7-00AA-46E1-80CC-8C88AC9A1389}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4801821Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the cut-off time to submit a bill payment",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Online Banking - General/What is the cut-off time to submit a bill payment",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

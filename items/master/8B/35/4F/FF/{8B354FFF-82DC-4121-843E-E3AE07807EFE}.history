@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8B354FFF-82DC-4121-843E-E3AE07807EFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2701828Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ATM DEBIT CARDS",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Contact/ATM DEBIT CARDS",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

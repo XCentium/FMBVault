@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{ACC959FA-E9C6-40E8-9C56-0E52714763E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6971809Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Jersey",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/New Jersey",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

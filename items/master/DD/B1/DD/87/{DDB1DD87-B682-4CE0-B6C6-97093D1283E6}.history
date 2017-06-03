@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DDB1DD87-B682-4CE0-B6C6-97093D1283E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0361761Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM 100 Anniversary",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Videos/About/FM 100 Anniversary",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{68C621CA-67E9-46B9-864C-5FF9F4A1E897}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9011858Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logout",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Accounts Menu/Logout",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

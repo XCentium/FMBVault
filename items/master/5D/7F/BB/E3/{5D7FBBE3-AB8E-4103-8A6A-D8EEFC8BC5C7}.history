@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5D7FBBE3-AB8E-4103-8A6A-D8EEFC8BC5C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0772116Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Loans-Approval",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Loans-Approval",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

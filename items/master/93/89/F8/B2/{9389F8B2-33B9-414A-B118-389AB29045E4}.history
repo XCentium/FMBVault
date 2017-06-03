@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9389F8B2-33B9-414A-B118-389AB29045E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1671831Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jeff Spinelli",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Regional Managers/Jeff Spinelli",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

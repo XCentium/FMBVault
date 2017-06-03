@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0FD01E3F-F8E4-4987-8EB9-EAF1ECDBAFB4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5531804Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RealEstateSeminarsRecipients",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Recipients/RealEstateSeminarsRecipients",
+    "template": "Form Recipients",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

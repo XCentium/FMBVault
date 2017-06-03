@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{04D60F93-62D8-4476-B817-5246A804577A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.3371822Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is Mobile Banking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Mobile Banking/General FAQs/What is Mobile Banking",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0B9B1F93-F6AE-461F-BC28-E574A167B066}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2051826Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Alerts",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

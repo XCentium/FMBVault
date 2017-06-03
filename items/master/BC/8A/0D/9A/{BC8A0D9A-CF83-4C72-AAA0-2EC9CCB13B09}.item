@@ -1,0 +1,143 @@
+----item----
+version: 1
+id: {BC8A0D9A-CF83-4C72-AAA0-2EC9CCB13B09}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Offices/Fullerton
+parent: {1946CA3A-E98D-4FD4-81F0-1D2464E5F647}
+name: Fullerton
+master: {00000000-0000-0000-0000-000000000000}
+template: {CA4ACFB4-A94D-4C5A-9134-3DC472B93EF8}
+templatekey: Office Branch
+created: 20170603T003739:636320470599200000
+
+----version----
+language: en
+version: 1
+revision: 30d75989-5117-46e4-9060-e5e2fbb65f8b
+
+----field----
+field: {ADD78CEB-46A1-48DB-9ED2-8E2F89F293CC}
+name: Branch Name
+key: branch name
+content-length: 9
+
+Fullerton
+----field----
+field: {EB7A144A-4422-46C9-8254-0BF076919C20}
+name: Street Address
+key: street address
+content-length: 19
+
+315 N. Harbor Blvd.
+----field----
+field: {2218D0C9-218B-491A-8B1D-5DC4E0A8ED8F}
+name: City
+key: city
+content-length: 9
+
+Fullerton
+----field----
+field: {021237BE-376B-43AB-8F65-D998CBC7BF31}
+name: State
+key: state
+content-length: 2
+
+CA
+----field----
+field: {5F605D52-44EF-4D1A-9497-F4D81C5975E7}
+name: Zip
+key: zip
+content-length: 5
+
+92832
+----field----
+field: {DDAECDBE-4ECB-4141-BE14-D33E5315B6A9}
+name: County
+key: county
+content-length: 6
+
+Orange
+----field----
+field: {D3EC2229-CB60-47C9-88DE-F72C0638A9A2}
+name: Phone
+key: phone
+content-length: 15
+
+(714) 578-1945 
+----field----
+field: {2FBC10EB-62E7-4136-BB00-63B0A4B87153}
+name: Fax
+key: fax
+content-length: 14
+
+(714) 680-0120
+----field----
+field: {102C356C-F278-4988-9B7C-EFEEB9CC5D97}
+name: OfficeHours
+key: officehours
+content-length: 35
+
+Mon-Thurs: 9-5, Fri: 9-6, Sat: 9-12
+----field----
+field: {53624450-3709-4CDF-BE6F-8F10AE6EC6F8}
+name: Employees
+key: employees
+content-length: 51
+
+/sitecore/content/FMBCom/Global/Employees/Fullerton
+----field----
+field: {866A05AF-05A0-4541-A424-BF8CF5B733AD}
+name: MapPoint
+key: mappoint
+content-length: 79
+
+/sitecore/content/FMBCom/Global/Map Points/FM Locations/Orange County/Fullerton
+----field----
+field: {3E674392-27AF-45BD-AC94-8798D33A9AEB}
+name: Url
+key: url
+content-length: 132
+
+<link text="" linktype="internal" class="" title="Fullerton" target="" querystring="" id="{D60CA6E6-4085-4C2E-9D98-C65B32BC07CF}" />
+----field----
+field: {99BACFFF-6499-4DA7-B603-4479966EACD4}
+name: VCard
+key: vcard
+content-length: 53
+
+/sitecore/media library/FMBCom/Files/VCards/Fullerton
+----field----
+field: {CB204B99-3738-475E-951A-0DD2DA04CABF}
+name: Branch Manager
+key: branch manager
+content-length: 64
+
+/sitecore/content/FMBCom/Global/Employees/Fullerton/Helen Eligio
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170221T004028Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+30d75989-5117-46e4-9060-e5e2fbb65f8b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170301T234249Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

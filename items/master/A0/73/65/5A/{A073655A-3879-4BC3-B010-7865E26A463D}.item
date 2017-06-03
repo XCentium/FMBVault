@@ -1,0 +1,85 @@
+----item----
+version: 1
+id: {A073655A-3879-4BC3-B010-7865E26A463D}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Teasers/Teaser Page/Headline Employee Carousel
+parent: {8B39780F-48B7-443F-BC8C-9A08C96ABDBD}
+name: Headline Employee Carousel
+master: {00000000-0000-0000-0000-000000000000}
+template: {061574E1-59DD-4B62-9680-1C84EFBE6773}
+templatekey: Headline
+created: 20170603T003740:636320470601930000
+
+----version----
+language: en
+version: 1
+revision: 78a47acd-4666-428e-9342-0a2563e013a9
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 17
+
+Employee Carousel
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160324T040150Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+78a47acd-4666-428e-9342-0a2563e013a9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172954Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 92582040-208a-4c8e-a2c9-e71eb9a123b6
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 17
+
+Employee Carousel
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160324T040150Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+92582040-208a-4c8e-a2c9-e71eb9a123b6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172954Z

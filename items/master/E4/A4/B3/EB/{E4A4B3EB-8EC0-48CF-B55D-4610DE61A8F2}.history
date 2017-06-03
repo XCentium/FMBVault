@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E4A4B3EB-8EC0-48CF-B55D-4610DE61A8F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7811854Z",
+    "label": "Copied",
+    "workflowState": "{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ThinkingAboutBecomingClient-Home",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Headers/ThinkingAboutBecomingClient-Home",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

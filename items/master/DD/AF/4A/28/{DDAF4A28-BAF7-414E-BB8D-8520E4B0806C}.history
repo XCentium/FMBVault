@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DDAF4A28-BAF7-414E-BB8D-8520E4B0806C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6931830Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nebraska",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/Nebraska",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B340F33E-7FA8-422B-B564-D89CDACE8EF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0921778Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Deposits",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page/Mobile Deposits",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

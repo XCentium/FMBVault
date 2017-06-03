@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E2298B67-7508-4BDD-BBEA-9EB2E07CCD5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1782160Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phil Sblendorio",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Regional Managers/Phil Sblendorio",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

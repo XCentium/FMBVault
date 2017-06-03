@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {D407271F-AF84-4F41-94D4-7ED5B521F45A}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Employees/Regional Managers/Scott Dowds
+parent: {16998622-C000-4C91-840E-095CBFB7AA13}
+name: Scott Dowds
+master: {00000000-0000-0000-0000-000000000000}
+template: {9671E92A-4AD3-46DF-AFF1-1542FD3D5BD9}
+templatekey: Employee
+created: 20170603T003736:636320470560700000
+
+----version----
+language: en
+version: 1
+revision: 6e2060d5-f338-4980-9491-a6cddd551b8e
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 11
+
+Scott Dowds
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 16
+
+Regional Manager
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{FB41CCB0-A742-4F62-957A-C863F230DA46}" ></image>
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 14
+
+(714) 578-1945
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 19
+
+scott.dowds@fmb.com
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170224T005659Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6e2060d5-f338-4980-9491-a6cddd551b8e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T172914Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

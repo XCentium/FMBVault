@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{71645EE4-D121-43FA-B3C7-DE9A481FC481}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6821848Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Debt Consolidation",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Calculators/Business Debt Consolidation",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

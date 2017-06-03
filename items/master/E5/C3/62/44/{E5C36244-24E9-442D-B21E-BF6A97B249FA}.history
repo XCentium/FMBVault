@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E5C36244-24E9-442D-B21E-BF6A97B249FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6311817Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IRAs",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/PersonalBankingProducts/IRAs",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

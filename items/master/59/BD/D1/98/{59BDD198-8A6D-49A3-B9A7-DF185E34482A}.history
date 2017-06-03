@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{59BDD198-8A6D-49A3-B9A7-DF185E34482A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7151861Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Get Started with Account",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/CTA Buttons/Get Started with Account",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

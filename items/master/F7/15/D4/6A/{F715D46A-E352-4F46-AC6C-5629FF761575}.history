@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F715D46A-E352-4F46-AC6C-5629FF761575}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2351759Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Groundbreaking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Quotes/Groundbreaking",
+    "template": "Quote",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

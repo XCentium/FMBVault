@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C2BB5CE6-F9B5-4778-9FCF-E01C71D3875A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.3151822Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the FDIC",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/General Questions/What is the FDIC",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

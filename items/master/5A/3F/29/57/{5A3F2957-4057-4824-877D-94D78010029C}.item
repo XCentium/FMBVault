@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {5A3F2957-4057-4824-877D-94D78010029C}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/Mobile Banking Features/Text Banking
+parent: {63666474-4A6A-4B75-86D2-AADB3E3ED819}
+name: Text Banking
+master: {00000000-0000-0000-0000-000000000000}
+template: {E6794246-1889-473B-AA89-899EC2604D7F}
+templatekey: Navigation Menu Item
+created: 20170603T003739:636320470598300000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+150
+----version----
+language: en
+version: 1
+revision: 57ec004a-4dd1-4d78-b776-0a1e34911cb4
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 102
+
+<link text="TextBanking" linktype="anchor" url="TextBanking" anchor="TextBanking" title="" class="" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170223T205805Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+57ec004a-4dd1-4d78-b776-0a1e34911cb4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170307T180803Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

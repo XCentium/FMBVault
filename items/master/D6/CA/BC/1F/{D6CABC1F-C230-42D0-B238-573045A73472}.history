@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D6CABC1F-C230-42D0-B238-573045A73472}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4221797Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Who can I contact if I have questions",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Mobile Banking/Text Banking/Who can I contact if I have questions",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

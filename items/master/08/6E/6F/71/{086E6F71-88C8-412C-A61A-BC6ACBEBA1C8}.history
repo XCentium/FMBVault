@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{086E6F71-88C8-412C-A61A-BC6ACBEBA1C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8431794Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Services and Fees",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Brochures/Services and Fees",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

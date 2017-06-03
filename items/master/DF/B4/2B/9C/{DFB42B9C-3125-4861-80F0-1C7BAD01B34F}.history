@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DFB42B9C-3125-4861-80F0-1C7BAD01B34F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1141765Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deposit Rates",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/About FM/Deposit Rates",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

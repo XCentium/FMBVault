@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{11D5D19E-3704-4886-8AD6-70DA5E19242B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8701772Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Classic Checking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Checking Options/Classic Checking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

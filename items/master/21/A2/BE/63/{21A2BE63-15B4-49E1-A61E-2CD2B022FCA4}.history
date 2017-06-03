@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{21A2BE63-15B4-49E1-A61E-2CD2B022FCA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1911826Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marcos Reyes",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/San Juan Capistrano/Marcos Reyes",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

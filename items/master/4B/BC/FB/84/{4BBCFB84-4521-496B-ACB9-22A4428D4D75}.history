@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{4BBCFB84-4521-496B-ACB9-22A4428D4D75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7961798Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rolling Hills Estates",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Header Menus/Branches Menu/Rolling Hills Estates",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

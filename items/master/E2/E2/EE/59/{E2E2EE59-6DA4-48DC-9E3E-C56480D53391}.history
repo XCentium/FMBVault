@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E2E2EE59-6DA4-48DC-9E3E-C56480D53391}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2981845Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How can I move my accounts to FM",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/General Questions/How can I move my accounts to FM",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

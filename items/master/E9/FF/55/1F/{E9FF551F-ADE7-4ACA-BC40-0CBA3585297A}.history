@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E9FF551F-ADE7-4ACA-BC40-0CBA3585297A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5191813Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General FAQs - Mobile",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/General FAQs - Mobile",
+    "template": "FAQ Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CEBED93B-9D06-4A7E-8BB0-2FEA88946278}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5521806Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Account Funnel Recipients",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Recipients/Online Account Funnel Recipients",
+    "template": "Form Recipients",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

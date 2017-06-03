@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D53BF6BA-FA0C-4562-8DF1-776B101D4402}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2111836Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Contact",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

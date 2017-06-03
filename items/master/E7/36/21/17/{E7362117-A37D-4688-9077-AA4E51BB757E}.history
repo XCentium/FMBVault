@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E7362117-A37D-4688-9077-AA4E51BB757E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0611841Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Refresh Visit Details Panel",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Website/Sidebar/Refresh Visit Details Panel",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

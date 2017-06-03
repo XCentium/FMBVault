@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7EE60CAB-F8A2-4069-9848-0191A705B950}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9711841Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Page View/Home",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

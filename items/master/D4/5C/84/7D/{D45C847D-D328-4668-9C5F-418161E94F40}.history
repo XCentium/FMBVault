@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D45C847D-D328-4668-9C5F-418161E94F40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6401799Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "eStatements and eNotices",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/PersonalBankingProducts/eStatements and eNotices",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

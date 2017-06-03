@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{1CB933A4-F9BF-4E93-A86E-DDEADE1ACE74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0571762Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aquarium of the Pacific",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Videos/Testimonials/Aquarium of the Pacific",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

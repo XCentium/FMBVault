@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DE9F654C-56AD-4770-8DC0-6811FACF242F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.3611816Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How much does Mobile Check Deposit cost",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Mobile Banking/Mobile Check Deposit/How much does Mobile Check Deposit cost",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

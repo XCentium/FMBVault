@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{466C0678-71C8-4AE3-A2AC-0C0CFEBA252A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9331775Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Redondo Beach",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Los Angeles County/Redondo Beach",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

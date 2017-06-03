@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8F2EA482-ED87-4FFC-85E3-1125D1DA5803}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6151812Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Courier Services",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/BusinessBankingProducts/Courier Services",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{321EB980-D132-473C-A42A-C19DE792B6EA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9091846Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Login/Email",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

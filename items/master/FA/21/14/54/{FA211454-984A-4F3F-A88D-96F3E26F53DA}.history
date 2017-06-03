@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FA211454-984A-4F3F-A88D-96F3E26F53DA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7351791Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Swiming",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Interests/Swiming",
+    "template": "Interest",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

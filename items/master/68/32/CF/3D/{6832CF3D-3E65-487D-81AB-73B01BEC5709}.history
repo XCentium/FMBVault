@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6832CF3D-3E65-487D-81AB-73B01BEC5709}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4851811Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Which of my FM accounts can I transfer money between",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Online Banking - Transfers/Which of my FM accounts can I transfer money between",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

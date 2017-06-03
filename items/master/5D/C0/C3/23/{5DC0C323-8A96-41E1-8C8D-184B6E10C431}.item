@@ -1,0 +1,85 @@
+----item----
+version: 1
+id: {5DC0C323-8A96-41E1-8C8D-184B6E10C431}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Media/DependenciesFolder
+parent: {F2BEE008-0CD8-4C58-9CFF-740CF56A668D}
+name: DependenciesFolder
+master: {00000000-0000-0000-0000-000000000000}
+template: {920A1781-559F-4E1C-BB2E-6B9A2113FE6B}
+templatekey: Media Folder
+created: 20170603T003739:636320470594030000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+700
+----version----
+language: en
+version: 1
+revision: 87019473-43d8-48ae-a48e-49c0cd1893a6
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151209T045114Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+87019473-43d8-48ae-a48e-49c0cd1893a6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172949Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: cab0012e-c9fa-4a6f-bba2-669d83b2966d
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151209T045114Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cab0012e-c9fa-4a6f-bba2-669d83b2966d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170223T223246Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

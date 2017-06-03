@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C102AF98-109F-4373-8D3C-59C533AE74FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.3601818Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is Mobile Check Deposit",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Mobile Banking/Mobile Check Deposit/What is Mobile Check Deposit",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F763815F-036C-44C5-B276-9FAD13A9BA0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0621757Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "External Links Modal",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Modal Content/External Links Modal",
+    "template": "External Links Modal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

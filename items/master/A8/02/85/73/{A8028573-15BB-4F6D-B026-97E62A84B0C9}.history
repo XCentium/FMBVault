@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A8028573-15BB-4F6D-B026-97E62A84B0C9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8911792Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Social Menu/Facebook",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

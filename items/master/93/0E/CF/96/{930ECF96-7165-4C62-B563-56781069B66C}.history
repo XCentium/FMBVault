@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{930ECF96-7165-4C62-B563-56781069B66C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0831845Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Some Exclusions May Apply",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Some Exclusions May Apply",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

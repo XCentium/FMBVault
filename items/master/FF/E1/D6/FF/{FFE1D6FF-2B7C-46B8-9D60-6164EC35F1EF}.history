@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FFE1D6FF-2B7C-46B8-9D60-6164EC35F1EF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0391787Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Videos/Habitat/Experience",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

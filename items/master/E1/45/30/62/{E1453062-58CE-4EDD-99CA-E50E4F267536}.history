@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E1453062-58CE-4EDD-99CA-E50E4F267536}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6741847Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Registration",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Registration",
+    "template": "Registration Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

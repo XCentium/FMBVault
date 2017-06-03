@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{46495020-6F24-494C-B170-E4BADD8DBE0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6871848Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compound Savings",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Calculators/Compound Savings",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

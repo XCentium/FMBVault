@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{AADCF50F-0C63-4A91-96DD-F9DC7EA338B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2061850Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banking Service Questions",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Banking Service Questions",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

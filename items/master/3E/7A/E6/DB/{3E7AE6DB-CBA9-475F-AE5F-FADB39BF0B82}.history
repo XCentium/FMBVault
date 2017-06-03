@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3E7AE6DB-CBA9-475F-AE5F-FADB39BF0B82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7311791Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "One-Time PIN Recognize Computer",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/How-Tos/One-Time PIN Recognize Computer",
+    "template": "How-To",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

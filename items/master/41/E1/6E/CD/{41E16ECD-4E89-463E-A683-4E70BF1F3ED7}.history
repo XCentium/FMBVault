@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{41E16ECD-4E89-463E-A683-4E70BF1F3ED7}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8221794Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Telepayroll",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Login Menus/Login Box Menu/Telepayroll",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

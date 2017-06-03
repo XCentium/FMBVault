@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{52D59436-D512-4C3E-9784-3DBB1C57AC24}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7121802Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "South Dakota",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/South Dakota",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

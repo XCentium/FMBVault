@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {CF82B8D8-06A4-4A2F-A471-4D7E93AE8AF3}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Employees/Lake Forest/Blaine J Nelson
+parent: {3F90DA02-E2C9-4FAC-A451-95C28B6380D6}
+name: Blaine J Nelson
+master: {00000000-0000-0000-0000-000000000000}
+template: {9671E92A-4AD3-46DF-AFF1-1542FD3D5BD9}
+templatekey: Employee
+created: 20170603T003735:636320470559500000
+
+----version----
+language: en
+version: 1
+revision: 6acf5486-e7de-4bbc-b968-ee8871391133
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 16
+
+Blaine J. Nelson
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 14
+
+Branch Manager
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{9695668D-99E1-4D70-95C1-3F7510F4C2EE}" ></image>
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 15
+
+(949) 460-7900 
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 21
+
+Blaine.Nelson@fmb.com
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170224T015332Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6acf5486-e7de-4bbc-b968-ee8871391133
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T015649Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9398F625-CAFF-495B-B43F-96BFE7BF1568}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7751797Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bixby Knolls",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Header Menus/Branches Menu/Bixby Knolls",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

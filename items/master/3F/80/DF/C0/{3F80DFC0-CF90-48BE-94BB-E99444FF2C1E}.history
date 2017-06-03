@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3F80DFC0-CF90-48BE-94BB-E99444FF2C1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1871852Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kevin Middleton",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/San Clemente/Kevin Middleton",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

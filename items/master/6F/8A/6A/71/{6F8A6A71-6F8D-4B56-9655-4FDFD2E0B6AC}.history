@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6F8A6A71-6F8D-4B56-9655-4FDFD2E0B6AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9101785Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Huntington Beach",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Orange County/Huntington Beach",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

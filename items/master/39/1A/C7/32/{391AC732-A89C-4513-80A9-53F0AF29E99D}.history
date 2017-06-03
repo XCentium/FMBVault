@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{391AC732-A89C-4513-80A9-53F0AF29E99D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2491762Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Examples",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Examples",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

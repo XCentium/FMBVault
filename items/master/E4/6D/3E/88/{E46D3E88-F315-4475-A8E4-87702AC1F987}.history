@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E46D3E88-F315-4475-A8E4-87702AC1F987}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1941765Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Corona del Mar",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Corona del Mar",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

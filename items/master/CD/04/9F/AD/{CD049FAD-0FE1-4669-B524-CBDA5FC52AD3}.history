@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CD049FAD-0FE1-4669-B524-CBDA5FC52AD3}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2861765Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dynamic Teaser Content",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Teaser Page/Dynamic Teaser Content",
+    "template": "Dynamic Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

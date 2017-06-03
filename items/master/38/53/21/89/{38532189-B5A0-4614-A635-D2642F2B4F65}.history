@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{38532189-B5A0-4614-A635-D2642F2B4F65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6981849Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disclaimers",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Disclaimers",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

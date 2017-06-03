@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{4F165F1D-6949-4893-A251-1ED89E369D9C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2411770Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sitecorehabitat",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Social/sitecorehabitat",
+    "template": "Twitter Feed",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

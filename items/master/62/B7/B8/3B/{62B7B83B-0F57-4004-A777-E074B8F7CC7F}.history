@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{62B7B83B-0F57-4004-A777-E074B8F7CC7F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8711977Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alerts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Alerts",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

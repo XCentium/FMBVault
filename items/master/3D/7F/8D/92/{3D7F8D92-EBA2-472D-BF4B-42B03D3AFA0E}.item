@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {3D7F8D92-EBA2-472D-BF4B-42B03D3AFA0E}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Products/Comparisons
+parent: {63438151-E7DF-4061-A03D-6B6C49F0FE8D}
+name: Comparisons
+master: {00000000-0000-0000-0000-000000000000}
+template: {E4269812-C9BD-4D13-86BD-DAFD360C0155}
+templatekey: Comparison Folder
+created: 20170603T003740:636320470600100000
+
+----version----
+language: en
+version: 1
+revision: a125ac84-adcc-4733-b80f-a56c7189da21
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170120T211315Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a125ac84-adcc-4733-b80f-a56c7189da21
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170125T211316Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

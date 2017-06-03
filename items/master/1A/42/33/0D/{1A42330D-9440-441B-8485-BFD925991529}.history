@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{1A42330D-9440-441B-8485-BFD925991529}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.3201756Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auction",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Testimonials/Auction",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

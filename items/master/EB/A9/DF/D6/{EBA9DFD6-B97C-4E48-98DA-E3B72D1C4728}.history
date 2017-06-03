@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{EBA9DFD6-B97C-4E48-98DA-E3B72D1C4728}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2681888Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Example Divider",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Content/Example Divider",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

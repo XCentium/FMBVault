@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CB706666-5EBC-4162-B4FD-3B5DC9F23106}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0711771Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SpecificArticle",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Modal Content/Press/SpecificArticle",
+    "template": "Modal Content",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

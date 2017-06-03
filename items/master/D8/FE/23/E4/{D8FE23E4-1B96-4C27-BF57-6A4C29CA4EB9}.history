@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D8FE23E4-1B96-4C27-BF57-6A4C29CA4EB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0891816Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Downey",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Downey",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

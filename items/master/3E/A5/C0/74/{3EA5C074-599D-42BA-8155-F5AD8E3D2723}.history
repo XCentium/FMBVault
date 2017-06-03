@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3EA5C074-599D-42BA-8155-F5AD8E3D2723}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8591843Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Explore Checking Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Products/Explore Checking Accounts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

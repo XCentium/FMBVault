@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8C9A97D4-60DF-4E51-9727-8ABB129BED13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8891779Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Youth Savings",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Savings/Youth Savings",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

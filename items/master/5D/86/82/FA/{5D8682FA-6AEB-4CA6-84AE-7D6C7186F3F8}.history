@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5D8682FA-6AEB-4CA6-84AE-7D6C7186F3F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1832017Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Roy Almeida",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Rolling Hills Estates/Roy Almeida",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

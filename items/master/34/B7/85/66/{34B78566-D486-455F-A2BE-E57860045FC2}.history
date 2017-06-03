@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{34B78566-D486-455F-A2BE-E57860045FC2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0451774Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Habitat Modules Video",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Videos/Habitat/Habitat Modules Video",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

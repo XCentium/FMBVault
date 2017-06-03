@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2023A468-E4EF-476F-8FDF-F7942F950259}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8261779Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Investment Services",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Login Menus/Login Box Menu/Investment Services",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

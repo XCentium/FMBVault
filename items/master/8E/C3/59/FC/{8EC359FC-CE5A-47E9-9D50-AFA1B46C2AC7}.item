@@ -1,0 +1,92 @@
+----item----
+version: 1
+id: {8EC359FC-CE5A-47E9-9D50-AFA1B46C2AC7}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Teasers/Teaser Page/Dynamic Teaser Content/Flexibility
+parent: {CD049FAD-0FE1-4669-B524-CBDA5FC52AD3}
+name: Flexibility
+master: {00000000-0000-0000-0000-000000000000}
+template: {061574E1-59DD-4B62-9680-1C84EFBE6773}
+templatekey: Headline
+created: 20170603T003740:636320470601730000
+
+----field----
+field: {3AF50903-63A9-464B-A375-B94983624E7D}
+name: Teaser Icon
+key: teaser icon
+content-length: 38
+
+{744A8D1F-EE4D-41ED-ABED-08DBF34E755F}
+----version----
+language: en
+version: 1
+revision: 5b8f28d6-ce92-4646-996c-117fa92340b6
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 11
+
+Flexibility
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160322T033410Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5b8f28d6-ce92-4646-996c-117fa92340b6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172959Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 6f09e93b-1fa6-48c6-883e-63eb2e233b8a
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 11
+
+Flexibility
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160322T033410Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f09e93b-1fa6-48c6-883e-63eb2e233b8a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172959Z

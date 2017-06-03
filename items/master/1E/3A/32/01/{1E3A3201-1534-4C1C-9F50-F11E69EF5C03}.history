@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{1E3A3201-1534-4C1C-9F50-F11E69EF5C03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0081770Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "home-hero-default",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousels/home-hero-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

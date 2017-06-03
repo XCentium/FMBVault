@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6BD6652F-E993-4C34-BF7E-7AFFC71FEF23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1371830Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sandy Thomas",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Garden Grove/Sandy Thomas",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

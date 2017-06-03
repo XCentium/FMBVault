@@ -1,0 +1,74 @@
+----item----
+version: 1
+id: {46B9768F-3AEC-4359-9AA5-E4CABB0D603A}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Orange County/Santa Ana
+parent: {BA18E1B4-801A-46D1-BFEA-260974D55935}
+name: Santa Ana
+master: {00000000-0000-0000-0000-000000000000}
+template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
+templatekey: Map Point
+created: 20170603T003738:636320470589470000
+
+----version----
+language: en
+version: 1
+revision: 33aea928-9dae-4b7a-abac-a1749e70325a
+
+----field----
+field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
+name: MapPointName
+key: mappointname
+content-length: 9
+
+Santa Ana
+----field----
+field: {0295C01D-214C-4C23-AFC2-3F0B4E88B643}
+name: MapPointAddress
+key: mappointaddress
+content-length: 37
+
+1750 E. 17th St.
+Santa Ana, CA 92705
+----field----
+field: {F686AC8E-1D33-45DB-8E1A-1B40CD491E7A}
+name: MapPointLocation
+key: mappointlocation
+content-length: 24
+
+33.7596255, -117.8422644
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170218T010934Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+33aea928-9dae-4b7a-abac-a1749e70325a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170218T011025Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F5656D0E-184F-42E0-96B1-CD0774DC6CCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5511816Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Non-CA Online Account Funnel",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Recipients/Non-CA Online Account Funnel",
+    "template": "Form Recipients",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

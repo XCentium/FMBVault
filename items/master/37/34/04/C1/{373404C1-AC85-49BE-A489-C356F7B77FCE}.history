@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{373404C1-AC85-49BE-A489-C356F7B77FCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8291796Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB Facebook",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Modal Whitelist/FMB Facebook",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

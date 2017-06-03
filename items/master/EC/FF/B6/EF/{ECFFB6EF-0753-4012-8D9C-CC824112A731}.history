@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{ECFFB6EF-0753-4012-8D9C-CC824112A731}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2001765Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Garden Grove",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Garden Grove",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E08B0F3A-5FAD-4400-915C-14BB0347575C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9181845Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Password",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Login/Password",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

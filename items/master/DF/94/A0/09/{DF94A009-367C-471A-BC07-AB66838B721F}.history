@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DF94A009-367C-471A-BC07-AB66838B721F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1931764Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bixby Knolls",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Bixby Knolls",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

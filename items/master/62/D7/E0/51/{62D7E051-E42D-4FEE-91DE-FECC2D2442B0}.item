@@ -1,0 +1,75 @@
+----item----
+version: 1
+id: {62D7E051-E42D-4FEE-91DE-FECC2D2442B0}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/CD Rates/What is the penalty for early withdrawal
+parent: {01CFD7C6-C049-449D-8A28-1FB201D39EF3}
+name: What is the penalty for early withdrawal
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170603T003736:636320470564170000
+
+----version----
+language: en
+version: 1
+revision: f3c998a7-e135-4cdb-b632-92eee67de771
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 41
+
+What is the penalty for early withdrawal?
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 885
+
+<span style="background-color: #ffffff; color: #333333;">A penalty will be imposed if any of the other principal is withdrawn before the maturity date. A penalty will be imposed for withdrawals before maturity. For a 7-31 Day Market Rate certificate of deposit the penalty amount will be equal to all interest earned but not less than 7 days interest, and therefore, may be deducted from the principal.&nbsp;</span><br style="color: #333333; background-color: #ffffff;">
+<br style="color: #333333; background-color: #ffffff;">
+<span style="background-color: #ffffff; color: #333333;">For 91 and 182 Day; 12-23; 24-35; 36-47; 48; and 60 month market rate certificate of deposit the penalty amount will be equal to 180 days if maturity is 18 months or more, 90 days interest if CD matures in more than 12 months but less than 18 months or 30 days if maturity is 12 months or less.</span>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170224T201923Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f3c998a7-e135-4cdb-b632-92eee67de771
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T201935Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

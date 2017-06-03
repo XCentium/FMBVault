@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6F0B1ED0-F5F4-4D4E-AA13-C46230CF08D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5061850Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What counts as a debit transaction for waiving the Maintenance Fee",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Personal Checking Accounts/What counts as a debit transaction for waiving the Maintenance Fee",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

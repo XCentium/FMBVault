@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9A93C6D3-B939-4D7C-8081-A0F516F71789}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5691807Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "States",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

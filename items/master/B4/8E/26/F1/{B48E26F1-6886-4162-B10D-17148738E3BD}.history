@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B48E26F1-6886-4162-B10D-17148738E3BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1861767Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Columbus Day",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Notifications/Columbus Day",
+    "template": "Notification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

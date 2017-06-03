@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{31F51361-BEE1-4780-983D-AB6CDB65D024}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2541753Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headline Employee Teasers",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Headline Employee Teasers",
+    "template": "Headline",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

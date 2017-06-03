@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{640C9500-7FE0-437F-83B8-8D7079728BDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6501847Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employees",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0BA2B29E-1ED8-41AF-916A-E8FC1D0129F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.3171809Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is the standard insurance amount",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/General Questions/What is the standard insurance amount",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

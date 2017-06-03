@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D8DFB321-678D-4849-B2FD-68580C93CA75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8581780Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Loans",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Brochures/Home Loans",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

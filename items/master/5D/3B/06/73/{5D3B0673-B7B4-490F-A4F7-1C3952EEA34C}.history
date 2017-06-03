@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5D3B0673-B7B4-490F-A4F7-1C3952EEA34C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8301794Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FMB Home Loans",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Modal Whitelist/FMB Home Loans",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{927BA928-E785-4BEE-A9E9-F0E021BB2F8B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0951831Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Huntington Beach",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Huntington Beach",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

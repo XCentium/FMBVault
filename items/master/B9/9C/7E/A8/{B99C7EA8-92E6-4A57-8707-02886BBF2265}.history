@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B99C7EA8-92E6-4A57-8707-02886BBF2265}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5701782Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/AccountType/Personal",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

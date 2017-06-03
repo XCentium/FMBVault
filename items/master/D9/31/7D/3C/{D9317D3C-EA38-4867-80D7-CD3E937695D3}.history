@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D9317D3C-EA38-4867-80D7-CD3E937695D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2091754Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Memorial Hospital",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Memorial Hospital",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

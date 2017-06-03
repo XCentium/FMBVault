@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2E72E95A-C96B-49D0-82CE-3EEACE498171}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0081838Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Identity/Contact Information/Title",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

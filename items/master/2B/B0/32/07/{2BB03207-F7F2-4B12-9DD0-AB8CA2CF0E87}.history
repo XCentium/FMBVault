@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2BB03207-F7F2-4B12-9DD0-AB8CA2CF0E87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9361783Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Torrance",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Los Angeles County/Torrance",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

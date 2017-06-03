@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{923A8439-70EE-449E-A6C1-830601C59677}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2071757Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Los Altos",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Los Altos",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

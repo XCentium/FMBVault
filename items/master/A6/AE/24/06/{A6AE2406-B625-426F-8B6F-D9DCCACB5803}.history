@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A6AE2406-B625-426F-8B6F-D9DCCACB5803}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8791962Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/News",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

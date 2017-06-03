@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{47C2BED6-BEE5-468C-9E0A-7EDC28BD0B16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1651836Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jason Bennett",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Regional Managers/Jason Bennett",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

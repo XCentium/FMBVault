@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{09A933FA-CDC3-4FCE-8880-F588A4ACE2E3}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8121771Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Box Menu",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Login Menus/Login Box Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

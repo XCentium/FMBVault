@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2B00D5DB-DD75-4641-B4C1-E5259A85DF87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6181807Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phone",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/ContactMethod/Phone",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

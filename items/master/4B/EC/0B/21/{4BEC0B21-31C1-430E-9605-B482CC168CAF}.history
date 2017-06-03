@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{4BEC0B21-31C1-430E-9605-B482CC168CAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2261922Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Checking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Products/Comparisons/Business Checking",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

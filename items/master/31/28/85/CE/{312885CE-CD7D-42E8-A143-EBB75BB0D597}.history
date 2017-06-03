@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{312885CE-CD7D-42E8-A143-EBB75BB0D597}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2631760Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Experience Platform",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Sitecore Experience Platform",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

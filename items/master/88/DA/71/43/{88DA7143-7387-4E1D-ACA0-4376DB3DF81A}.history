@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{88DA7143-7387-4E1D-ACA0-4376DB3DF81A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9133727Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Login/Login",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {2BF6D3B4-A429-43A8-87C5-0F56BCB39DBB}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/Bill Pay for Mobile
+parent: {135DC92C-C5EA-4C2A-A058-5BF68967E2B6}
+name: Bill Pay for Mobile
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+templatekey: FAQ Group
+created: 20170603T003737:636320470578000000
+
+----version----
+language: en
+version: 1
+revision: 73086e0c-d4d5-426d-a2ca-afe579402b09
+
+----field----
+field: {3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}
+name: Show Expanded
+key: show expanded
+content-length: 1
+
+1
+----field----
+field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
+name: Group Member
+key: group member
+content-length: 272
+
+{C04D8FB1-AD83-4D6A-B2FE-F43AB2F9B17D}|{95D9647F-F59D-4A81-8F92-640F52B4A0CC}|{FD6D886D-F95B-4607-BFA6-E7AE9E39E186}|{59AEDFD7-5DCD-4417-A46F-80F08A1E5C72}|{6F2A505D-3AC3-4590-A93C-1E711AD32464}|{FF44D063-2526-4692-8A90-25BDACBC1BC5}|{BC548418-58EE-40AA-AEEE-2C6424533876}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T200502Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+73086e0c-d4d5-426d-a2ca-afe579402b09
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T231121Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

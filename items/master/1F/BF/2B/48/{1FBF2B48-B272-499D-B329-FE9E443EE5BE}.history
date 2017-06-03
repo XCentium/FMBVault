@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{1FBF2B48-B272-499D-B329-FE9E443EE5BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1511834Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anand Chokshi",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Main Office/Anand Chokshi",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

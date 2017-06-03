@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BD2C60AD-DBB9-437B-B8E4-2F1BDE313CA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2301757Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Products/Comparisons/Savings Accounts",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

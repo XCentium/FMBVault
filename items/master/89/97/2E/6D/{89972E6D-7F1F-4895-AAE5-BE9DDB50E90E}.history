@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{89972E6D-7F1F-4895-AAE5-BE9DDB50E90E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6761842Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Social",
+    "template": "Social Feeds Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

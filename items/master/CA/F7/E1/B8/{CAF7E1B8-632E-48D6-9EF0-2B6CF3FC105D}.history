@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CAF7E1B8-632E-48D6-9EF0-2B6CF3FC105D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6541812Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Purchase",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/RLD Loan Purpose List/Purchase",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

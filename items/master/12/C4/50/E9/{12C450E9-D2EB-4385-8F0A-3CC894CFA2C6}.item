@@ -1,0 +1,71 @@
+----item----
+version: 1
+id: {12C450E9-D2EB-4385-8F0A-3CC894CFA2C6}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Map Points
+parent: {0BC2C1AF-3847-4393-AC89-10E53BEBC72A}
+name: Map Points
+master: {00000000-0000-0000-0000-000000000000}
+template: {067EC866-B3FB-485B-BB49-6151FB086E78}
+templatekey: Map Points Folder
+created: 20170603T003738:636320470589030000
+
+----version----
+language: en
+version: 1
+revision: 779c4669-9f92-4357-b27e-b4f923f412c7
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160129T052348Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+779c4669-9f92-4357-b27e-b4f923f412c7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170125T024910Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 54bb6d67-3174-498e-91d3-ff3ac8c7bc39
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160129T052348Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+54bb6d67-3174-498e-91d3-ff3ac8c7bc39
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170125T024910Z

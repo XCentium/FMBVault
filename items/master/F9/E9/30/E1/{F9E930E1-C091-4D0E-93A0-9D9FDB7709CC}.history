@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F9E930E1-C091-4D0E-93A0-9D9FDB7709CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6541850Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How-Tos",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/How-Tos",
+    "template": "How-To Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

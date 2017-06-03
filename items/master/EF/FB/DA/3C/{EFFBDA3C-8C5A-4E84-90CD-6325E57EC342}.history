@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{EFFBDA3C-8C5A-4E84-90CD-6325E57EC342}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8371795Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking Options",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Checking Options",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

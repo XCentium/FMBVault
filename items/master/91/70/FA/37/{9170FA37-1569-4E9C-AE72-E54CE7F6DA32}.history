@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9170FA37-1569-4E9C-AE72-E54CE7F6DA32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9171782Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Clemente",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Orange County/San Clemente",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

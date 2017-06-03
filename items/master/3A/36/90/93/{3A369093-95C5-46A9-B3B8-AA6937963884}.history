@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3A369093-95C5-46A9-B3B8-AA6937963884}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6681805Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "District of Columbia",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/District of Columbia",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

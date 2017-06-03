@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CDE52448-6380-496F-B71B-608D977EBBB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1881771Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TestNotification",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Notifications/TestNotification",
+    "template": "Notification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,85 @@
+----item----
+version: 1
+id: {FA211454-984A-4F3F-A88D-96F3E26F53DA}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Interests/Swiming
+parent: {D259F47D-FBA6-490F-A878-E26C49AA7775}
+name: Swiming
+master: {00000000-0000-0000-0000-000000000000}
+template: {4176BFC2-7814-4FA5-ABCF-7FA0714BF05F}
+templatekey: Interest
+created: 20170603T003738:636320470584970000
+
+----version----
+language: en
+version: 1
+revision: 437945c8-537e-4b3b-a8ec-145486b83e1f
+
+----field----
+field: {1FBE5200-2C62-4A32-BA84-CFFE3CF665D3}
+name: Title
+key: title
+content-length: 7
+
+Swiming
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151112T140149Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+437945c8-537e-4b3b-a8ec-145486b83e1f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172948Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: ac61baee-674c-4ca9-9c79-596f0b573761
+
+----field----
+field: {1FBE5200-2C62-4A32-BA84-CFFE3CF665D3}
+name: Title
+key: title
+content-length: 7
+
+Swiming
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151112T140149Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ac61baee-674c-4ca9-9c79-596f0b573761
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172948Z

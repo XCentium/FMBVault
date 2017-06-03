@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{49762411-E302-401E-972A-410902F330E0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9371841Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Invalid data source template",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Alerts/Friendly/Invalid data source template",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

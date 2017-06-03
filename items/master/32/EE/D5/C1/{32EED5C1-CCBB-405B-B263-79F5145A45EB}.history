@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{32EED5C1-CCBB-405B-B263-79F5145A45EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9701778Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Congressional Cup",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Congressional Cup",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

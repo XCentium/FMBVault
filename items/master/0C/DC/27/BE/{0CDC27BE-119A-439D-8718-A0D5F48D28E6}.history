@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0CDC27BE-119A-439D-8718-A0D5F48D28E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9761780Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Symphony",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Symphony",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CF41796A-AC5C-47C5-A72C-2D5B4A1B50ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6571785Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "California",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/California",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

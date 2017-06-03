@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2D985288-684B-491B-B6D1-E0DA4E067E2D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0451826Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Type",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Person/Search/Content Type",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

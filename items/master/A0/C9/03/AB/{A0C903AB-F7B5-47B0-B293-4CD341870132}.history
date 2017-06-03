@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A0C903AB-F7B5-47B0-B293-4CD341870132}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0131837Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Media/Carousel",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

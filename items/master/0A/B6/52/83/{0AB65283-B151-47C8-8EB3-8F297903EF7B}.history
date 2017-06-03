@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0AB65283-B151-47C8-8EB3-8F297903EF7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8881782Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Health Savings",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Savings/Health Savings",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

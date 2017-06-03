@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{937219FD-0DDF-4FA3-9E17-A9CA19F438D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6951857Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CTA",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/CTA",
+    "template": "Content Module Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

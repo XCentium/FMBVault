@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{EF3F10B3-1D36-40C6-AA5D-103FA1DD885B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5431790Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CRE Form",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Configurations/CRE Form",
+    "template": "Form Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

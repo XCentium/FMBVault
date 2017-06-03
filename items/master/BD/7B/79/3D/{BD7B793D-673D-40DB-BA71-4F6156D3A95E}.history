@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BD7B793D-673D-40DB-BA71-4F6156D3A95E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0501842Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title No Search",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Search/Header/Title No Search",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

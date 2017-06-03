@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{42F24260-0DCB-410F-A8B9-A415A4EA1918}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.6201794Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Purchase",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/CRE Loan Purpose List/Purchase",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

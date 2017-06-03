@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8C9895CB-459E-4D13-9B2D-1DCBDB57229B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1191832Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dave Sakamoto",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Belmont Shore/Dave Sakamoto",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

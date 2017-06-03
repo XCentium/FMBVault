@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{27FEEC5F-2E14-42F5-812B-D3645F8A8C1B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0191848Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News Teaser",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/News/News Teaser",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

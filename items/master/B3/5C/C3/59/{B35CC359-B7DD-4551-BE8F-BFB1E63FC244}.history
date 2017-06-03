@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B35CC359-B7DD-4551-BE8F-BFB1E63FC244}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4281814Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Do I have to enter a One-Time PIN every time I log in or conduct an online transaction",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/One-Time PIN - OLB/Do I have to enter a One-Time PIN every time I log in or conduct an online transaction",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

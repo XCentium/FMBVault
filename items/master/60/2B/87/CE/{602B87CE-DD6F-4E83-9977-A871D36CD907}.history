@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{602B87CE-DD6F-4E83-9977-A871D36CD907}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1921841Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shannon Murphy",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Santa Ana/Shannon Murphy",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

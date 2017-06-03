@@ -1,0 +1,90 @@
+----item----
+version: 1
+id: {9828A840-3DA7-48DA-BA2C-069D7AC536F9}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Founding-Values/Part VI Compassion
+parent: {0A22FB56-677C-4F4F-82EF-AA3E7A8750B8}
+name: Part VI Compassion
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170603T003736:636320470565400000
+
+----version----
+language: en
+version: 1
+revision: 1c4678bd-e982-4452-9366-6b4ed85774aa
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 20
+
+Part VI: Compassion.
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 2189
+
+<p>Friends,
+</p>
+<p><img height="320" alt="Christine Walker" width="220" src="-/media/802CE83ED03A42ACB894BB63E9A71A98.ashx" style="float: right;">Christine Walker-Bowman
+Simply put, compassion means wanting
+to help someone and taking action to do so. Compassion is the bedrock of F&amp;M&rsquo;s foundation that my great-great-grandfather C.J. Walker created in 1907.
+C.J. saw that the community needed a financial institution that would act with integrity, that believed, as C.J. used to say, that "safeguarding clients&rsquo; money was a sacred trust" -- who saw the opportunity for growth within what was then just a sleepy beach town called Long Beach.
+</p>
+<p>
+Compassion was passed on through the generations to my great-grandfather, Gus Walker, then to my grandfather, Ken Walker and today lives on through the fourth and fifth generation of Walker family members. As a child I was told countless stories of how my forefathers would lend to clients based on genuine trust through the simplest of gestures, a handshake. Trust and faith in the form of a handshake that helped many community members build their dreams.
+</p>
+<p>
+Of course, today there are many regulations on how banks can lend, but compassion for community and our clients still runs deep within the every day practices of our business. It is still of the utmost importance for F&amp;M to support local organizations and businesses, including local non-profits, schools, houses of worship, hospitals, the arts, our police and fire departments and many more. We truly believe that when these organizations thrive, our communities thrive.
+</p>
+<p>My career and time at F&amp;M will continue to focus on investing and supporting these local organizations&rsquo; goals and dreams, because they are the past, present and future of our communities. My mission at Farmers &amp; Merchants is &ndash; and will continue to be &ndash; to preserve the legacy of compassion in the company and our communities that my great-great-grandfather, C.J. Walker instilled in us over a century ago.
+</p>
+<p>
+Sincerely,</p>
+<p><img height="97" alt="Ken Walker Signature" width="300" src="-/media/9C0E24B4E78640B7A9C658C7745B244E.ashx"></p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T011927Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1c4678bd-e982-4452-9366-6b4ed85774aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T012030Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

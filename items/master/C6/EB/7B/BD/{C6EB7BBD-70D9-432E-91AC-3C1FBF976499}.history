@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C6EB7BBD-70D9-432E-91AC-3C1FBF976499}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1052285Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Orange",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

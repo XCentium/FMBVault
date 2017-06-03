@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5B24C553-0039-44A3-A0BC-20CE6ED66DC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5481813Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD Form",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Configurations/RLD Form",
+    "template": "Form Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

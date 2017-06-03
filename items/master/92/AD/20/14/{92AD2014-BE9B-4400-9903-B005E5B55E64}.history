@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{92AD2014-BE9B-4400-9903-B005E5B55E64}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7181845Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Account - Personal",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/CTA Buttons/Online Account - Personal",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

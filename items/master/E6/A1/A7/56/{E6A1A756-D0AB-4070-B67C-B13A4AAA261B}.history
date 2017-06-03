@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E6A1A756-D0AB-4070-B67C-B13A4AAA261B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0663069Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking-Classic-Personal",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Checking-Classic-Personal",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

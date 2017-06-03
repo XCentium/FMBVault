@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0FC185C0-353F-4101-92C8-F8DA6DDE4809}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0291829Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Type",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/News/Search/Content Type",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{95405644-6FA5-480E-8F22-DEE937241D5C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0011840Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages Viewed",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Visits/Pages Viewed",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5B8641B8-B043-424D-AC0C-5490B513A2A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0761779Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sub Navigation",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

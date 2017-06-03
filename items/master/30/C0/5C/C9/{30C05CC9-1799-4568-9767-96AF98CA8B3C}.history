@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{30C05CC9-1799-4568-9767-96AF98CA8B3C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6721859Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quotes",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Quotes",
+    "template": "Quote Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

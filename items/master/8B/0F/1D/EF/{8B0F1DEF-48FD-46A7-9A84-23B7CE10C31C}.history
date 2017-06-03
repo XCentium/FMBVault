@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8B0F1DEF-48FD-46A7-9A84-23B7CE10C31C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1581834Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ankit Shah",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Orange/Ankit Shah",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

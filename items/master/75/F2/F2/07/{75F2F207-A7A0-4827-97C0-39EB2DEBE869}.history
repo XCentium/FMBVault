@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{75F2F207-A7A0-4827-97C0-39EB2DEBE869}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9681786Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carnival of the Animals",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Carnival of the Animals",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

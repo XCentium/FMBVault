@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {DF65AA57-B8C9-4E97-B60B-5C4A67445618}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/Mobile Banking/Be in control text
+parent: {28CB5334-8651-49D7-B0E9-32237DBCCE76}
+name: Be in control text
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170603T003735:636320470550770000
+
+----version----
+language: en
+version: 1
+revision: 7fe0ce3e-6b89-4c5b-a8cf-8d01771f7bd4
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 1714
+
+<a name="TextBanking"></a>
+<h2 class="section-heading" style="font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 500; color: #333333; margin-bottom: 30px; font-size: 30px; text-transform: none; background-color: #f8f8f8;">Be in control of your money with Text Banking.</h2>
+<p style="color: #333333; font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; background-color: #f8f8f8;">Enroll in Text Banking and it's easy as texting a command to F&amp;M's short code number 469228. &nbsp;For example, simply send the text "Bal" to 469228 and your available balance(s) will be texted back to you.</p>
+<p style="color: #333333; font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; background-color: #f8f8f8;">How to enroll in Text Banking:</p>
+<p style="margin-left: 10px; color: #333333; font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; background-color: #f8f8f8;">1. Log in to Online Banking at fmb.com and register for Mobile Banking (see&nbsp;<a href="https://www.fmb.com/mobile/#GettingStarted" class="smoothScroll" style="color: #337ab7;">Getting Started</a>).</p>
+<p style="margin-left: 10px; color: #333333; font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; background-color: #f8f8f8;">2. After you enter your mobile phone number, you will receive a text message to the phone you have enrolled in Mobile Banking.</p>
+<p style="margin-left: 10px; color: #333333; font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; background-color: #f8f8f8;">3. Reply "Yes" to the text message to complete enrollment in Text Banking.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170224T171912Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7fe0ce3e-6b89-4c5b-a8cf-8d01771f7bd4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T205833Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F1FFDE90-6F1F-452E-AFAC-B92A4592B0F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0291773Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Banners",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Videos/Banners",
+    "template": "Media Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

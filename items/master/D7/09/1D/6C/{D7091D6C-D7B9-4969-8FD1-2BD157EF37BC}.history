@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D7091D6C-D7B9-4969-8FD1-2BD157EF37BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2141761Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rolling Hills Estates",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Rolling Hills Estates",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

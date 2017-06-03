@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C97C02D2-C911-4D9D-B446-081D354465B5}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8201794Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Electronic Lockbox",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Login Menus/Login Box Menu/Electronic Lockbox",
+    "template": "Modal Link Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

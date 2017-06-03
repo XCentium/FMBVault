@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BD99B8FE-2E20-4EDC-9CBE-F50B10637F55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5661797Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD Loan Purpose List",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/RLD Loan Purpose List",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

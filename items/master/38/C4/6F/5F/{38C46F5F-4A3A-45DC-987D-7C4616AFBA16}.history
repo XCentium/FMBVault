@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{38C46F5F-4A3A-45DC-987D-7C4616AFBA16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9301781Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Los Altos",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Los Angeles County/Los Altos",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

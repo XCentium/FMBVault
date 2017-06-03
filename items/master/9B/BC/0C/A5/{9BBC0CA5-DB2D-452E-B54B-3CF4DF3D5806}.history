@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9BBC0CA5-DB2D-452E-B54B-3CF4DF3D5806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0641835Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business-iPhone-iPad-Trademarks",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Business-iPhone-iPad-Trademarks",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

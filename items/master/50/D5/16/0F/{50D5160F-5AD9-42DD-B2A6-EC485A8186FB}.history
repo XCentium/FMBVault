@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{50D5160F-5AD9-42DD-B2A6-EC485A8186FB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0521839Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title With Results",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Search/Header/Title With Results",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

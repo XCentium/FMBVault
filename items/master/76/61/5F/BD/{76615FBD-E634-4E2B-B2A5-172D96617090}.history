@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{76615FBD-E634-4E2B-B2A5-172D96617090}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7021800Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "North Dakota",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/North Dakota",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

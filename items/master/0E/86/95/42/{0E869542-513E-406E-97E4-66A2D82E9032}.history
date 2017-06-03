@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0E869542-513E-406E-97E4-66A2D82E9032}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9202139Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Login/Register",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

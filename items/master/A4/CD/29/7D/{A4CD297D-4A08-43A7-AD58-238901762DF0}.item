@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {A4CD297D-4A08-43A7-AD58-238901762DF0}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/Mobile Banking/Secure Access text
+parent: {28CB5334-8651-49D7-B0E9-32237DBCCE76}
+name: Secure Access text
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170603T003735:636320470551070000
+
+----version----
+language: en
+version: 1
+revision: 60d17a59-2927-47ae-9518-902122dc4ff7
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 2298
+
+<h2 class="section-heading" style="font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-weight: 500; color: rgb(51, 51, 51); margin-bottom: 30px; font-size: 30px; text-transform: none; background-color: rgb(248, 248, 248);">Secure access to your business and personal accounts with a touch of your finger.</h2><p class="lead" style="font-size: 18px; line-height: 1.4; color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; background-color: rgb(248, 248, 248);">All from your smartphone or mobile device.</p><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(248, 248, 248);"><span style="color: rgb(3, 106, 65);">✓</span>&nbsp;Pay bills</p><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(248, 248, 248);"><span style="color: rgb(3, 106, 65);">✓</span>&nbsp;View balances</p><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(248, 248, 248);"><span style="color: rgb(3, 106, 65);">✓</span>&nbsp;Transfer funds</p><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(248, 248, 248);"><span style="color: rgb(3, 106, 65);">✓</span>&nbsp;Deposit checks</p><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(248, 248, 248);"><span style="color: rgb(3, 106, 65);">✓</span>&nbsp;Search recent history</p><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(248, 248, 248);"><span style="color: rgb(3, 106, 65);">✓</span>&nbsp;Approve wires in dual control - business only</p><p style="color: rgb(51, 51, 51); font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(248, 248, 248);"><span style="color: rgb(3, 106, 65);">✓</span>&nbsp;Find the nearest F&amp;M office or ATM</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170223T225519Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+60d17a59-2927-47ae-9518-902122dc4ff7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170223T225631Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

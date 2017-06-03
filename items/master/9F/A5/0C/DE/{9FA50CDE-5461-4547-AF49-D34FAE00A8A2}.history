@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9FA50CDE-5461-4547-AF49-D34FAE00A8A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9831779Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auction",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Images/Auction",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

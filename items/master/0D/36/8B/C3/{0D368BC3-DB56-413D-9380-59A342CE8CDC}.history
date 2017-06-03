@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0D368BC3-DB56-413D-9380-59A342CE8CDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6531861Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Forms",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

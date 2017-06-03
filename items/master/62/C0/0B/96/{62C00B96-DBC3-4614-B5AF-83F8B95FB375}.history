@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{62C00B96-DBC3-4614-B5AF-83F8B95FB375}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9861786Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HomefrontAmerica",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Images/HomefrontAmerica",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

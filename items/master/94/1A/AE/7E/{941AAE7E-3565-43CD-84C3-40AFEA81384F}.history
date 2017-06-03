@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{941AAE7E-3565-43CD-84C3-40AFEA81384F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5401815Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Option Fields",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields",
+    "template": "Field Options Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

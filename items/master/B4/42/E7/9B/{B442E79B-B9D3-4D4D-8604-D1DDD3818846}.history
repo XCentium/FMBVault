@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B442E79B-B9D3-4D4D-8604-D1DDD3818846}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.3251760Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "USS Iowa",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Testimonials/USS Iowa",
+    "template": "Testimonial",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

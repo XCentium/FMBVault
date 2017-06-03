@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0A22FB56-677C-4F4F-82EF-AA3E7A8750B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2121818Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Founding-Values",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Founding-Values",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

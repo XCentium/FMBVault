@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {34F4767A-0804-4177-92C8-4E47B87031BF}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Disclaimers/Credit-Cards-Applicants
+parent: {5A3CFB2F-C7BE-4D83-A137-D60816E8163D}
+name: Credit-Cards-Applicants
+master: {00000000-0000-0000-0000-000000000000}
+template: {39F86F7B-647E-4194-9F12-43705C0EDB45}
+templatekey: Disclaimer
+created: 20170603T003735:636320470557770000
+
+----version----
+language: en
+version: 1
+revision: de772e41-0061-4192-8d7b-92748257b8f4
+
+----field----
+field: {2E99B07E-ADF7-48B9-A10A-FD6C68AE414B}
+name: Body
+key: body
+content-length: 330
+
+<sup>1</sup>Applications limited to California residents only. Credit card applicant(s) require a personal deposit account relationship with F&amp;M. All credit card programs require credit approval. Full details about these programs are provided when you apply and additional information is provided when you become a cardholder.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170211T020638Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+de772e41-0061-4192-8d7b-92748257b8f4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170316T061121Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 13
+
+fmb\Anonymous

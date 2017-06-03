@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{16998622-C000-4C91-840E-095CBFB7AA13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1081849Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Regional Managers",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Regional Managers",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

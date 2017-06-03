@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B2318AA3-7D92-4FEC-847D-B3CC7DA4E643}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1571832Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Charles Garcia",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Newport Beach/Charles Garcia",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

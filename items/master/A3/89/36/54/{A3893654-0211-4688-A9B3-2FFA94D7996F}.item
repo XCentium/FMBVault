@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {A3893654-0211-4688-A9B3-2FFA94D7996F}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/CRE/CRE Above Form
+parent: {8F56168A-1378-461E-88E8-2B68DFE0F583}
+name: CRE Above Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170603T003734:636320470548730000
+
+----version----
+language: en
+version: 1
+revision: 4badbd5f-7fcf-4719-b2e0-24af107cfb20
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 392
+
+<img alt="" src="-/media/054E465764F14DB3BB38B62492F8CE44.ashx" style="width: 100%;" class="img-responsive">
+<div class="rightFormBox rightFormHeader">
+<h2>
+Get Started Today
+</h2>
+<p>Let us customize a rate quote for you.</p>
+<img alt="" src="-/media/3D5983F4674A4702A96BF5D0F2222D7E.ashx?w=40%&amp;hash=A7B09B3A7668DD073B40368A43D1ED162FD5EDF1" style="width: 40%; padding-top: 5px;">
+</div>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170306T190933Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 11
+
+fmb\hahmady
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4badbd5f-7fcf-4719-b2e0-24af107cfb20
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170308T235952Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

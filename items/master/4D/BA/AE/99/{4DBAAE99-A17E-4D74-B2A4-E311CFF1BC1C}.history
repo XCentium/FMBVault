@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{4DBAAE99-A17E-4D74-B2A4-E311CFF1BC1C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0541837Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sidebar",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Website/Sidebar",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

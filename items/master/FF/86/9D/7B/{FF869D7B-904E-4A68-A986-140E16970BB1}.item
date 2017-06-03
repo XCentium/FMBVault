@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {FF869D7B-904E-4A68-A986-140E16970BB1}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/Chip Card Technology
+parent: {135DC92C-C5EA-4C2A-A058-5BF68967E2B6}
+name: Chip Card Technology
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+templatekey: FAQ Group
+created: 20170603T003737:636320470578100000
+
+----version----
+language: en
+version: 1
+revision: 2a6548a7-b848-4716-b2ba-c502c3f257dc
+
+----field----
+field: {E1DBF744-4154-481F-9865-6386D623562C}
+name: Hide Group Name
+key: hide group name
+content-length: 1
+
+1
+----field----
+field: {3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}
+name: Show Expanded
+key: show expanded
+content-length: 1
+
+1
+----field----
+field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
+name: Group Member
+key: group member
+content-length: 272
+
+{7C574565-314C-4EA1-939D-7351F2946A67}|{3CA9D326-14A9-4B01-BD40-41D62C559B51}|{6A0D822B-4C1D-4387-BFA0-893F62A927FB}|{B26D39B1-ADEA-4B3C-949F-BA441CB4ED3A}|{656B60A8-61F5-4494-959C-AE1481F82964}|{B80C0C5F-D0BB-410F-8A71-50D82708E919}|{066DE2C6-08F0-42FB-8088-4CD7BEC57AC2}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170227T182710Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2a6548a7-b848-4716-b2ba-c502c3f257dc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170331T232312Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

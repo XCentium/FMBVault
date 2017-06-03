@@ -1,0 +1,106 @@
+----item----
+version: 1
+id: {59D004CC-8525-4CFA-A8B2-365C12B36A90}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Referral/Device
+parent: {B095BF3E-DD5F-4B8B-B487-4C7B5658F0F9}
+name: Device
+master: {00000000-0000-0000-0000-000000000000}
+template: {EC4DD3F2-590D-404B-9189-2A12679749CC}
+templatekey: DictionaryEntry
+created: 20170603T003735:636320470555130000
+
+----version----
+language: en
+version: 1
+revision: d4e80cfe-abcd-4bfa-bd88-1b5cff80c9c4
+
+----field----
+field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
+name: Phrase
+key: phrase
+content-length: 6
+
+Device
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160406T232706Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d4e80cfe-abcd-4bfa-bd88-1b5cff80c9c4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172956Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 2
+revision: cc48d912-1463-4b0f-95f9-d6e6c51c707b
+
+----field----
+field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
+name: Phrase
+key: phrase
+content-length: 6
+
+Device
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160406T232706Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cc48d912-1463-4b0f-95f9-d6e6c51c707b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172956Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

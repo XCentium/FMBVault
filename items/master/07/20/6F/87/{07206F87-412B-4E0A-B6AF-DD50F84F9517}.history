@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{07206F87-412B-4E0A-B6AF-DD50F84F9517}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0051863Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "business-banner-default",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousels/business-banner-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F8DEF6DF-9815-4706-BC43-E96C8DF4AE12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9641794Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ATM",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/ATM",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

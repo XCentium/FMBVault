@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C6ECDE5A-3A71-482B-A170-66C81B040DA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5363742Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Configurations",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Configurations",
+    "template": "Form Configuration Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

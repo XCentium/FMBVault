@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{06F70B87-0B81-4CC9-934C-A7D617C25F8A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8871790Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Christmas Club",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Savings/Christmas Club",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

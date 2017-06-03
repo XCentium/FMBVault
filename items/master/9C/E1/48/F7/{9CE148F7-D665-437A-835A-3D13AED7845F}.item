@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {9CE148F7-D665-437A-835A-3D13AED7845F}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Alerts/23 How do I unsubscribe from Text Alerts on my FM Debit Card
+parent: {0B9B1F93-F6AE-461F-BC28-E574A167B066}
+name: 23 How do I unsubscribe from Text Alerts on my FM Debit Card
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170603T003736:636320470562930000
+
+----version----
+language: en
+version: 1
+revision: 8d11fb69-a8b4-4a8b-9ef1-9bdfa6ada708
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 64
+
+23. How do I unsubscribe from Text Alerts on my F&M Debit Card? 
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 965
+
+<p>You can stop receiving Text Alerts by following any of the 3 methods below:
+</p>
+<ol>
+    <li>    Text the word <strong>STOP </strong>to <strong>42831</strong>. You will receive an opt-out confirmation, or</li>
+    <li>Update your destination information. Go to <a href="~/link.aspx?_id=2B8F1915C49F4B45B70FAE8D2943376E&amp;_z=z">fmb.com/alerts</a>, select the card and then <strong>Change Preferences</strong> to remove your phone or add a new mobile number, or</li>
+    <li>Unsubscribe to this service by calling us at (866) 437-0011 Monday-Friday 7 am-9 pm, Saturday 8 am-9 pm, and Sunday 8 am-5 pm PT.</li>
+</ol>
+<p>Note: Debit Card Alerts sent to your primary email address will be unaffected by this action. The action above will only affect Text Alerts. After you unsubscribe from Text Alerts, you can restore them to your mobile phone at any time by visiting fmb.com/alerts and enrolling your mobile number for the alerts you'd like to receive.&nbsp;</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 64
+
+23. How do I unsubscribe from Text Alerts on my F&M Debit Card? 
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170227T202555Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8d11fb69-a8b4-4a8b-9ef1-9bdfa6ada708
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170227T203245Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

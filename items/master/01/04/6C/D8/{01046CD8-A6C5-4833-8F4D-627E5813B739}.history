@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{01046CD8-A6C5-4833-8F4D-627E5813B739}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0661764Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Press",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Modal Content/Press",
+    "template": "Modal Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

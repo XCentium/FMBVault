@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0B840C5E-7300-4AD2-BA65-4028BB2CBFEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0771896Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Footer Navigation/Default",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

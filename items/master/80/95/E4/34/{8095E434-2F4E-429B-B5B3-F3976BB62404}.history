@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8095E434-2F4E-429B-B5B3-F3976BB62404}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8271794Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Electronic Lockbox",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Modal Whitelist/Electronic Lockbox",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

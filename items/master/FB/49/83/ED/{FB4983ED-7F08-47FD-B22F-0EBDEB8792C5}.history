@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FB4983ED-7F08-47FD-B22F-0EBDEB8792C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8621769Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Banking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Brochures/Business Banking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

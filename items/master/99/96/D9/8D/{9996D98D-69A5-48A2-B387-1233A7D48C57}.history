@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9996D98D-69A5-48A2-B387-1233A7D48C57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0131784Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mobile-banking-download-banner",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousels/mobile-banking-download-banner",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

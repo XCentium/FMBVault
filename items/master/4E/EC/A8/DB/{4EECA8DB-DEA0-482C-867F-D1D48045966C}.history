@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{4EECA8DB-DEA0-482C-867F-D1D48045966C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1551820Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bob Martinez",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Newport Beach/Bob Martinez",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

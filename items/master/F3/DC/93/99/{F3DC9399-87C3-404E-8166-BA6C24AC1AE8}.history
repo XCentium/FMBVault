@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F3DC9399-87C3-404E-8166-BA6C24AC1AE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1811833Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jason Anderson",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Rolling Hills Estates/Jason Anderson",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E84DE854-4B12-44CB-B7E1-A0D317933786}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7211802Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "West Virginia",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/West Virginia",
+    "template": "FieldOption",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

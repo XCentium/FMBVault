@@ -1,0 +1,68 @@
+----item----
+version: 1
+id: {3593C115-239B-4261-A79D-19E13D7FC2D5}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Content Modules/Landing Pages/CD Rates/Subscript Text
+parent: {8CC724D2-608D-4DB4-9D10-511A7FEC8D60}
+name: Subscript Text
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170603T003734:636320470548670000
+
+----version----
+language: en
+version: 1
+revision: 03c50a7b-0561-4221-924d-0189aea80d05
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 675
+
+<div class="row" style="padding: 20px 10px; border-top: 3px solid #155835;">
+<p style="font-size: 10px; font-weight: bold;">1. Farmers &amp; Merchants Bank annual percentage yield (APY) is accurate as of 7/13/2016. Terms and the APY may change at any time without prior notice. Fees could reduce earnings on the account. The APY assumes that interest remains on deposit until maturity. A withdrawal of interest will reduce earnings. An Early Withdrawal Penalty will be imposed for withdrawals before maturity. Please contact your local F&amp;M office for more details and review your Truth-in-Savings disclosure for additional terms and conditions that may apply. </p>
+</div>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170224T205406Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mliwanag
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+03c50a7b-0561-4221-924d-0189aea80d05
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170224T205732Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mliwanag

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{AB860E44-A6A7-4B76-AFDC-92C31FD6133F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7791849Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Landing Page Contact Info",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Headers/Landing Page Contact Info",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

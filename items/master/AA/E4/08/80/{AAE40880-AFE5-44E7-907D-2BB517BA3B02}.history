@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{AAE40880-AFE5-44E7-907D-2BB517BA3B02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.3951815Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Will I receive unsolicited text messaging from FM Bank",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Mobile Banking/Text Banking/Will I receive unsolicited text messaging from FM Bank",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

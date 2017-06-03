@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FDD08743-2489-4FFD-A2FF-B95DCBC7F452}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8411788Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Savings",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Savings",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

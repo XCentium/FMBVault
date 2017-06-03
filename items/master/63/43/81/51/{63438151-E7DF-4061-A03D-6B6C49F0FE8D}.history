@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{63438151-E7DF-4061-A03D-6B6C49F0FE8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6701852Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Products",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Products",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

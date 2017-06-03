@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{048FAEA4-5C6C-43C5-8F65-312BE7C85659}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0781825Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Money Market Disclosure",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Money Market Disclosure",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

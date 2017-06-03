@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{01CA8CB0-98B1-47E1-83D2-CAE4CB0D0826}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9011793Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FM Locations",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations",
+    "template": "Map Points Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

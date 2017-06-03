@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{525E1297-8A42-4963-A9AC-894B78CC64FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7731862Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccountFunnel_EndNotes",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Forms/AccountFunnel_EndNotes",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

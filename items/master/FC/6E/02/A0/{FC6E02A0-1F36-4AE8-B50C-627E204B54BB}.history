@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FC6E02A0-1F36-4AE8-B50C-627E204B54BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1141837Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Santa Ana",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Santa Ana",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

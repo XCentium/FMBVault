@@ -1,0 +1,90 @@
+----item----
+version: 1
+id: {69D126CB-39E1-45D9-90ED-48B34975A137}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Founding-Values/Part I Honesty
+parent: {0A22FB56-677C-4F4F-82EF-AA3E7A8750B8}
+name: Part I Honesty
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170603T003736:636320470565200000
+
+----version----
+language: en
+version: 1
+revision: 5898e7b1-111c-4d18-bbf1-353e32307775
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 16
+
+Part I: Honesty.
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 1801
+
+<p>Friends,
+</p>
+<p>
+<img alt="Dan Walker" src="-/media/5012ECB2B0224C56B178E08197FA6D41.ashx?h=330&amp;w=240" style="height: 330px; width: 240px; float: right;">We all know people who sometimes make promises, but don't keep them. People who say one thing, but mean another. People who forget that keeping their word is the most important thing of all.
+</p>
+<p>Keeping our word is one of F&amp;M Bank&rsquo;s guiding values. I remember my grandfather Gus Walker, second president of Farmers &amp; Merchants Bank and one of my most cherished mentors, telling me as a young man,  &ldquo;Dan, I can forgive almost anything you do, but I can&rsquo;t forgive a lie.&rdquo; From then on, I made my personal choice to always keep my word and tell the truth. And I try every day to instill that belief into our culture here at F&amp;M Bank.
+</p>
+<p>Any business can tell a client what they want to hear, whether or not the answer is true or right for them. I&rsquo;m proud to say that our culture at F&amp;M Bank is one that goes back to our founding in 1907 when my great-grandfather C.J. Walker built the bank on the core beliefs of honesty, integrity, the home, the church and service-above-self.  C.J. also taught us that keeping our clients&rsquo; money safe was indeed a sacred trust.
+</p>
+<p>So, at the end of the day, we will always give you, our client, the truth. You expect it, and you deserve it. Always. After all, you&rsquo;ve given us your business and trust and we deeply thank you for that.
+We look forward to continuing this conversation with you in the coming months.
+</p>
+<p>
+Sincerely,</p>
+<p>&nbsp;</p>
+<p><img height="50" alt="Daniel Walker Signature" width="244" src="-/media/F4960B06CDE54786866657AE508881F1.ashx">&nbsp;</p>
+<p>Daniel K. Walker<br>
+Chairman of the Board &amp; CEO</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T005739Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5898e7b1-111c-4d18-bbf1-353e32307775
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170309T170542Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

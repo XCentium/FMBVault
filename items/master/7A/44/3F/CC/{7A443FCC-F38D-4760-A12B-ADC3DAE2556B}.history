@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7A443FCC-F38D-4760-A12B-ADC3DAE2556B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8761849Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Maps",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Maps",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

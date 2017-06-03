@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C3AD44C2-EC4E-40CD-85EC-CF9AAD01B911}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0191783Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dependencies 2",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/DependenciesFolder/Dependencies 2",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

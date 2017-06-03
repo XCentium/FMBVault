@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7F105999-395E-4F51-A34A-FA0013266CF8}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9061850Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reset Password",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Forgot Password/Reset Password",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

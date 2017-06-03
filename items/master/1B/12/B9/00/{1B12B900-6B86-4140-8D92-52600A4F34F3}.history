@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{1B12B900-6B86-4140-8D92-52600A4F34F3}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9871827Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Title",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Referral/Device Title",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{004524FF-5353-4EB9-89E9-D62E50816D21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8491846Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OfficeDetails",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Office/OfficeDetails",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

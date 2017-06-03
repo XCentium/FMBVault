@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7D5BC383-ACE5-4718-8D2F-8E0A148D94A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1121860Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Clemente",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/San Clemente",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

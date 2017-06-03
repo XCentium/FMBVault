@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D85C75F0-41A1-4B2A-9CBD-B9A098B3D2AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0651849Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CD Disclosure",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/CD Disclosure",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

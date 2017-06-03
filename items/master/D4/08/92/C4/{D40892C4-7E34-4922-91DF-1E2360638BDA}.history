@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D40892C4-7E34-4922-91DF-1E2360638BDA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0111829Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Edit",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Maps/Map/Page Edit",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

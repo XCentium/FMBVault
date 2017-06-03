@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5A828C25-D91B-4FAC-92BE-25F216A9940B}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9001789Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Topbar Menu/Sitecore",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

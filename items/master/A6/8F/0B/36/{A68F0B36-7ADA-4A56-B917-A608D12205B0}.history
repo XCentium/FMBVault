@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A68F0B36-7ADA-4A56-B917-A608D12205B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0911833Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "East Long Beach",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/East Long Beach",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,95 @@
+----item----
+version: 1
+id: {8C320B00-5F42-477F-BDB3-999D8AA126F0}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Media/Carousel Slides/Scrolling/Thinking of Buying a Home
+parent: {BA3DEE97-2FF2-4846-9882-1F81F2E687F0}
+name: Thinking of Buying a Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
+templatekey: Image
+created: 20170603T003739:636320470593300000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+400
+----version----
+language: en
+version: 1
+revision: 126b175f-b94f-4404-8f06-2bfadac726f0
+
+----field----
+field: {C67F6C4D-1E70-4558-A49E-7436AB4AB10C}
+name: Font Foreground
+key: font foreground
+content-length: 38
+
+{5939B9BB-9CFE-4354-9A36-A3C9B2817522}
+----field----
+field: {F7FC505E-3CE5-4810-A88E-75B700FC1452}
+name: Description Layout
+key: description layout
+content-length: 38
+
+{E0EDE036-2B6A-4869-80D5-90F355AA819E}
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 14
+
+Buying a Home?
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 126
+
+<h3>We can help.</h3>
+<a href="~/link.aspx?_id=44470574AC7B482D9552CA22DCF089FC&amp;_z=z" class="btn btn-gold">Apply Today</a>
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 58
+
+<image mediaid="{3AE6FB6D-BDC2-450B-9FB4-8880EA41F143}" />
+----field----
+field: {4FF62B0A-D73B-4436-BEA2-023154F2FFC4}
+name: MediaThumbnail
+key: mediathumbnail
+content-length: 58
+
+<image mediaid="{3AE6FB6D-BDC2-450B-9FB4-8880EA41F143}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170103T211218Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+126b175f-b94f-4404-8f06-2bfadac726f0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170311T012426Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

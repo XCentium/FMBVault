@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F10D1292-0695-43DC-9FD1-C451A2641806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1991830Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sonia Yenche",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Tustin/Sonia Yenche",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

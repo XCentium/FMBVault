@@ -1,0 +1,115 @@
+----item----
+version: 1
+id: {336F0226-EB64-4DF1-8AC5-58EB51B2F979}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/How-Tos/How-To Register for One-Time PIN
+parent: {F9E930E1-C091-4D0E-93A0-9D9FDB7709CC}
+name: How-To Register for One-Time PIN
+master: {00000000-0000-0000-0000-000000000000}
+template: {D6E1632E-3DD3-4A4B-A06F-2537E238DDD3}
+templatekey: How-To
+created: 20170603T003738:636320470584770000
+
+----version----
+language: en
+version: 1
+revision: 952d1125-a666-41d9-a7d2-e55f2b8cecfa
+
+----field----
+field: {81B5E1C5-046B-40B6-A583-B225453BE503}
+name: PageUrl
+key: pageurl
+content-length: 155
+
+<link text="" linktype="internal" class="" title="How-To Register for One-Time PIN" target="" querystring="" id="{62918275-5920-4968-A057-DAB3DBE34955}" />
+----field----
+field: {7CE3FC1E-8AC7-4A00-A0F2-4F04B2D19857}
+name: Preview Image
+key: preview image
+content-length: 58
+
+<image mediaid="{E9858AB1-B44B-42E5-B0E8-AA30686B5CF8}" />
+----field----
+field: {4BFC3CB8-9C35-4F9C-9680-3E094796B9A3}
+name: Title
+key: title
+content-length: 32
+
+How-To Register for One-Time PIN
+----field----
+field: {57C02E77-3EFF-4268-B409-364061F7D5F3}
+name: Teaser Quote
+key: teaser quote
+content-length: 0
+
+
+----field----
+field: {FFDACACB-E54E-45FC-933E-4BBEB41676C1}
+name: Summary
+key: summary
+content-length: 163
+
+<p>One-Time PIN provides another level of authentication and protection in addition to your Login ID and password. Register today for stronger online security.</p>
+----field----
+field: {BBE5BA97-C2FC-4897-A6EB-000912A9FD52}
+name: Body
+key: body
+content-length: 163
+
+<p>One-Time PIN provides another level of authentication and protection in addition to your Login ID and password. Register today for stronger online security.</p>
+----field----
+field: {0E942691-B1C8-489A-BE94-E96363111BC2}
+name: Body Image
+key: body image
+content-length: 0
+
+
+----field----
+field: {E042F1BB-89BA-4137-90A4-827EC9E706EF}
+name: Body Image Caption
+key: body image caption
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170301T214447Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+952d1125-a666-41d9-a7d2-e55f2b8cecfa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170310T233828Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

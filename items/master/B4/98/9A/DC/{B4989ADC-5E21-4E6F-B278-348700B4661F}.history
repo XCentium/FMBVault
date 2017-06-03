@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B4989ADC-5E21-4E6F-B278-348700B4661F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0671841Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checking-Platinum-Gold",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Checking-Platinum-Gold",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

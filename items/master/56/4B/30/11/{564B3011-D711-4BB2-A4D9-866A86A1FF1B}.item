@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {564B3011-D711-4BB2-A4D9-866A86A1FF1B}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/States/Louisiana
+parent: {9A93C6D3-B939-4D7C-8081-A0F516F71789}
+name: Louisiana
+master: {00000000-0000-0000-0000-000000000000}
+template: {D8928115-8CA7-4C8F-B708-25C5379B2FE3}
+templatekey: FieldOption
+created: 20170603T003738:636320470583000000
+
+----version----
+language: en
+version: 1
+revision: 71aa7525-2de1-43aa-a845-daa99a732ad4
+
+----field----
+field: {BFD15730-92E7-4CDD-AE49-41BC9BC28D1E}
+name: Name
+key: name
+content-length: 9
+
+Louisiana
+----field----
+field: {21BABBE2-74F6-40CF-A279-77AC21867968}
+name: Value
+key: value
+content-length: 2
+
+LA
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170210T204702Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+71aa7525-2de1-43aa-a845-daa99a732ad4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170214T040902Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

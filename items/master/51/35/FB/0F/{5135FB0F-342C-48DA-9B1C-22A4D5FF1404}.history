@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5135FB0F-342C-48DA-9B1C-22A4D5FF1404}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5571811Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccountType",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/AccountType",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

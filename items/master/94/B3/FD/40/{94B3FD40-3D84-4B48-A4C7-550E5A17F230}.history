@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{94B3FD40-3D84-4B48-A4C7-550E5A17F230}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1771818Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kathy Reed",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Regional Managers/Kathy Reed",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

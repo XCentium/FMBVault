@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B3FA7891-D05D-47C9-9BD6-ACFD14B981B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0871769Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Our Clients",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Main Navigation/Default/Our Clients",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

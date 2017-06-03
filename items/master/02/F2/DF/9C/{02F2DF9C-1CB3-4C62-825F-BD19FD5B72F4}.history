@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{02F2DF9C-1CB3-4C62-825F-BD19FD5B72F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8551851Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Questions-Office Contact",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Office Info/Questions-Office Contact",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

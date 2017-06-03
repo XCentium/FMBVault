@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{68E7FD81-760F-4A0C-AADB-19176292A780}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1901764Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Office",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Main Office",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

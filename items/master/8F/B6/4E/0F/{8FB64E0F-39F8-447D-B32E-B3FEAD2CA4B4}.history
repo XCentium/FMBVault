@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8FB64E0F-39F8-447D-B32E-B3FEAD2CA4B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0121759Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "home-scrolling-default",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousels/home-scrolling-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

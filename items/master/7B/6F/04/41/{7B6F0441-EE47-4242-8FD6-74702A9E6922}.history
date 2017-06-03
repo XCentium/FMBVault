@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7B6F0441-EE47-4242-8FD6-74702A9E6922}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9291782Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lakewood",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Los Angeles County/Lakewood",
+    "template": "Map Point",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

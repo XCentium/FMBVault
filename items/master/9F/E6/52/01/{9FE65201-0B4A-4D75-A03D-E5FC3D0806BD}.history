@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9FE65201-0B4A-4D75-A03D-E5FC3D0806BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9751772Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/RLD",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,98 @@
+----item----
+version: 1
+id: {004524FF-5353-4EB9-89E9-D62E50816D21}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Content Modules/Office/OfficeDetails
+parent: {EBE6894C-A935-4FBF-867E-F0E5DBAA8492}
+name: OfficeDetails
+master: {00000000-0000-0000-0000-000000000000}
+template: {0C8DD4A4-0185-4E2F-86A6-F87BBB3E0D70}
+templatekey: Content Module
+created: 20170603T003735:636320470551800000
+
+----version----
+language: en
+version: 1
+revision: 85fb563f-2deb-44b5-9915-d1826ea6ecfa
+
+----field----
+field: {6901A878-EB76-4977-ABAA-2B2B7A0DB431}
+name: Body
+key: body
+content-length: 1385
+
+<div class="row location-detials">
+<div class="col-sm-6">
+<h3>Personal and Business Banking</h3>
+<ul class="checkmark">
+    <li>Checking and Savings Accounts</li>
+    <li>Money Markets, CDs, and IRAs</li>
+    <li>Youth Accounts</li>
+    <li><a href="~/link.aspx?_id=A80A04B88D454C29B3F9149AD7DA717F&amp;_z=z">F&amp;M Credit Cards</a></li>
+    <li><a href="https://www.fmb.com/homeloans" title="Home Loans &amp; Refinance">Home Loans &amp; Refinance</a></li>
+    <li><a href="~/link.aspx?_id=89F1F3C8EFB44AA69BC60262848D6550&amp;_z=z">Online Banking, Mobile Banking &amp; Cash Manager<br>
+    Bill Pay, ACH, wires and more</a></li>
+    <li><a href="~/link.aspx?_id=5E1AB0262490415EB97861144D9B0AE8&amp;_z=z">Merchant Services</a></li>
+    <li>Business Deposit Solutions</li>
+</ul>
+</div>
+<div class="col-sm-6">
+<h3>Commercial Lending</h3>
+<ul class="checkmark">
+    <li>Commercial Real Estate</li>
+    <li>Commercial Property Purchase and Refinance</li>
+    <li>Construction Loans</li>
+    <li>Commercial Line of Credit</li>
+    <li>Small Business Loans</li>
+    <li>Owner-occupied and Investment</li>
+    <li>Retail, Industrial, and Mixed-use</li>
+    <li>Non-profit and Houses of Worship</li>
+    <li>No prepayment penalties</li>
+    <li>No-point options available</li>
+    <li>Competitive Rates and Terms</li>
+    <li>On-site decision making for fast answers</li>
+</ul>
+</div>
+</div>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170222T001736Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+85fb563f-2deb-44b5-9915-d1826ea6ecfa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T183318Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

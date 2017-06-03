@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8D98B260-AD31-4D11-AC66-06F411B554DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1161820Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Torrance",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Torrance",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

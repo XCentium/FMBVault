@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7AFE1655-4492-47FF-A008-50EE64FF8499}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1851829Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lynette Dyer",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Rossmoor/Lynette Dyer",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

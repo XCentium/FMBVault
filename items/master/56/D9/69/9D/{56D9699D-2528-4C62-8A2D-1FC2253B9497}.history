@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{56D9699D-2528-4C62-8A2D-1FC2253B9497}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0831779Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Main Navigation/Default/Business",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C8FFF567-C41D-452C-AF9D-7D0B1B69E897}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8781851Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Media",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

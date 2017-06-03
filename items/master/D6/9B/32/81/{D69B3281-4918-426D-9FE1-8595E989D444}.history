@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D69B3281-4918-426D-9FE1-8595E989D444}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8592005Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Youth Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Brochures/Youth Accounts",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

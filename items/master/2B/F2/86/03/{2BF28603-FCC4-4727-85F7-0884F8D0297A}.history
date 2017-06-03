@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{2BF28603-FCC4-4727-85F7-0884F8D0297A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1961750Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Downey",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Downey",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

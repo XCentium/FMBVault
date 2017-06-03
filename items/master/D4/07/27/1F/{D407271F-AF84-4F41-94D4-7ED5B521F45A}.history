@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D407271F-AF84-4F41-94D4-7ED5B521F45A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1802038Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scott Dowds",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Regional Managers/Scott Dowds",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

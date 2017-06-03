@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{04A408B3-683F-46B6-9B07-E2AEC259548E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5551812Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RLD Recipients",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Recipients/RLD Recipients",
+    "template": "Form Recipients",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

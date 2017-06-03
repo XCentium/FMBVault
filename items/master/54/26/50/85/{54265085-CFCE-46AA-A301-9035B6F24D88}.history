@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{54265085-CFCE-46AA-A301-9035B6F24D88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9811951Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nat King Cole - Q1",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Nat King Cole - Q1",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

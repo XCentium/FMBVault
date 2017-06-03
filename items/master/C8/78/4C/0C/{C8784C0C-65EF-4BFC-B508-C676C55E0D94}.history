@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C8784C0C-65EF-4BFC-B508-C676C55E0D94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7431996Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modal Whitelist",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Modal Whitelist",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

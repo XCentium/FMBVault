@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{12C450E9-D2EB-4385-8F0A-3CC894CFA2C6}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6601863Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Points",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Map Points",
+    "template": "Map Points Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

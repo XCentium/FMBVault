@@ -1,0 +1,106 @@
+----item----
+version: 1
+id: {483F46C9-5162-4562-BDA4-25C0AEB9D7AF}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Teasers/Download
+parent: {B8308B46-8A36-419B-9733-AD547F86A70E}
+name: Download
+master: {00000000-0000-0000-0000-000000000000}
+template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
+templatekey: Teaser
+created: 20170603T003740:636320470601170000
+
+----field----
+field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
+name: TeaserLink
+key: teaserlink
+content-length: 130
+
+<link linktype="external" text="Visit Habitat on Github" url="http://www.github.com/sitecore/habitat" anchor="" target="_blank" />
+----version----
+language: en
+version: 1
+revision: 11378656-ff09-440b-83b3-75f911dc9523
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 21
+
+Download Habitat Now!
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 85
+
+Habitat is available as a Sitecore Package and the sourcecode is available on Github.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160216T051414Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+11378656-ff09-440b-83b3-75f911dc9523
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172949Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 8e5a12ca-b288-42e3-aa15-5b6295c2319e
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 21
+
+Download Habitat Now!
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 85
+
+Habitat is available as a Sitecore Package and the sourcecode is available on Github.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160216T051414Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8e5a12ca-b288-42e3-aa15-5b6295c2319e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172949Z

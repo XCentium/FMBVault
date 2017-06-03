@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FAAAAC33-229C-436B-A323-CC87F8C3E82B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7111857Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Enroll in Online Banking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/CTA Buttons/Enroll in Online Banking",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

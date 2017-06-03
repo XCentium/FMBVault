@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{71F0CA5A-48CA-487E-BA9E-93D7F1F7EBE7}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9521829Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal Info",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Personal Info",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

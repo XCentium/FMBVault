@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0DD3B564-C5C9-4003-B68B-41ADA1E4298D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0641768Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Modal Content/General",
+    "template": "Modal Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

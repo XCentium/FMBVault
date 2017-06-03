@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{506D689A-952B-4625-91FC-48776CD39F9E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1131916Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Juan Capistrano",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/San Juan Capistrano",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

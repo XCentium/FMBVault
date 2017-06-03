@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F7524CEE-3B59-4ADD-A404-8628AE59897A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1541834Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Larry Kirk",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Memorial Hospital/Larry Kirk",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

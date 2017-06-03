@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {9683BF8A-AC8B-4683-8D51-7F06B6E28337}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups/One-Time PIN - Wires
+parent: {135DC92C-C5EA-4C2A-A058-5BF68967E2B6}
+name: One-Time PIN - Wires
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+templatekey: FAQ Group
+created: 20170603T003737:636320470578570000
+
+----version----
+language: en
+version: 1
+revision: 57e00aa4-ff2e-43ed-b77c-0792aef7e600
+
+----field----
+field: {E1DBF744-4154-481F-9865-6386D623562C}
+name: Hide Group Name
+key: hide group name
+content-length: 1
+
+1
+----field----
+field: {3AD5FDF4-5B83-42AB-8CCA-EF8918316B6C}
+name: Show Expanded
+key: show expanded
+content-length: 1
+
+1
+----field----
+field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
+name: Group Member
+key: group member
+content-length: 701
+
+{D7A5BA18-6AE3-482C-833C-94B7A29B9D27}|{F98E10BE-9093-4677-9471-A2AD3E3726F6}|{2D5B2638-6807-4F44-A921-E4CD0304271F}|{40A6D883-609E-40F1-8FF6-CA398370CD21}|{5EB9368F-BACA-4127-BBC3-CB0E3A21CF79}|{1E349DFA-1674-40F1-A69D-5DDD96C87E0F}|{E7F72844-6A7F-4F32-9E17-BBC753B74DE9}|{B314C21E-FC21-42B0-8352-FDC374E53682}|{B5FF497C-2580-4A60-8E6B-FEE481A8A133}|{1C11A5D0-BCEE-4098-BEB4-3CBC522DF78E}|{FBA81FA9-894E-414D-A226-E2C8091E22D7}|{1FC2066C-EA45-458C-A1F9-ED97B2ABDCF6}|{ADAF79CF-9E52-49C7-901B-9ED127357DA8}|{C196D703-FB44-4E31-A110-CA09C4F13CE6}|{1A0805AD-6142-4F95-9856-0EBFE572EFF2}|{B0DD162B-0837-4575-8AD9-67A76F8E4337}|{21795AA7-6755-4DF9-B90E-56A11EB6EA83}|{C5BB4A7D-83B4-4995-889E-A3A1FF2ADC3F}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170309T223958Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+57e00aa4-ff2e-43ed-b77c-0792aef7e600
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170331T232654Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

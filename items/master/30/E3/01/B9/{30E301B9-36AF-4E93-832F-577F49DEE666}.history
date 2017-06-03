@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{30E301B9-36AF-4E93-832F-577F49DEE666}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5021808Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "How is the combined average daily balance calculated",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Personal Checking Accounts/How is the combined average daily balance calculated",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

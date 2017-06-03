@@ -1,0 +1,113 @@
+----item----
+version: 1
+id: {CAA994A5-B935-41F1-B7F6-894C48D80E09}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Media/Dependencies
+parent: {F2BEE008-0CD8-4C58-9CFF-740CF56A668D}
+name: Dependencies
+master: {00000000-0000-0000-0000-000000000000}
+template: {C18D3794-D126-4548-BFC8-89358DE6E9C1}
+templatekey: Carousel
+created: 20170603T003739:636320470593970000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+600
+----version----
+language: en
+version: 1
+revision: c9d24cda-cdca-4a1b-b4f9-1d7f005a616c
+
+----field----
+field: {72EA8682-24D2-4BEB-951C-3E2164974105}
+name: MediaSelector
+key: mediaselector
+content-length: 233
+
+{38682229-4386-40F3-A1AE-A824F705F5B2}|{04B0E023-7E12-466D-B7CC-2C4D514D872B}|{080AE969-5337-41F4-8CFF-CA81F7710FB0}|{16241F49-B3AE-4178-9F94-019551A34A5D}|{9BE736E5-4A1F-4EF1-8449-A7B62F09C9EE}|{7E5BDD04-6032-42FB-A0B7-B1A3C83EAF70}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151209T051145Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c9d24cda-cdca-4a1b-b4f9-1d7f005a616c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172949Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 1606e068-811c-46b1-83ca-3bfb50594050
+
+----field----
+field: {72EA8682-24D2-4BEB-951C-3E2164974105}
+name: MediaSelector
+key: mediaselector
+content-length: 233
+
+{38682229-4386-40F3-A1AE-A824F705F5B2}|{04B0E023-7E12-466D-B7CC-2C4D514D872B}|{080AE969-5337-41F4-8CFF-CA81F7710FB0}|{16241F49-B3AE-4178-9F94-019551A34A5D}|{9BE736E5-4A1F-4EF1-8449-A7B62F09C9EE}|{7E5BDD04-6032-42FB-A0B7-B1A3C83EAF70}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151209T051145Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1606e068-811c-46b1-83ca-3bfb50594050
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170223T223246Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 11
+
+fmb\hahmady

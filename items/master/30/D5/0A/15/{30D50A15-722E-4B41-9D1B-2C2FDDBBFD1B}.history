@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{30D50A15-722E-4B41-9D1B-2C2FDDBBFD1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9801784Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commercial Real Estate - Q1",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Commercial Real Estate - Q1",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

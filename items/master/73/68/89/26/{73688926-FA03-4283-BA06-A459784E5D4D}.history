@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{73688926-FA03-4283-BA06-A459784E5D4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1411840Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marc Eguchi",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Laguna Hills/Marc Eguchi",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

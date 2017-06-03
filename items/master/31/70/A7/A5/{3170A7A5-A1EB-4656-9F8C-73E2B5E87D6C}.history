@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3170A7A5-A1EB-4656-9F8C-73E2B5E87D6C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.3001763Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teaser Carousel",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Teaser Page/Teaser Carousel",
+    "template": "Dynamic Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

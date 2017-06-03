@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D346BDD8-B949-4B97-B5CE-C75929654221}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1981829Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marcia Evans",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Tustin/Marcia Evans",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

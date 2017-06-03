@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{5AAB8748-0320-40CB-8E59-7F7816D35B28}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0591880Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Open Visit Details Panel",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Website/Sidebar/Open Visit Details Panel",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

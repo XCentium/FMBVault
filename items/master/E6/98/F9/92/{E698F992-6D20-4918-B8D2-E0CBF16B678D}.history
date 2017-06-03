@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E698F992-6D20-4918-B8D2-E0CBF16B678D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.7191859Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "See all Press Releases",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/CTA Buttons/See all Press Releases",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

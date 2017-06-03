@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{FC9F665E-4D6F-4C3D-A825-C70AEFE2B6DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0161764Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "personal-banner-default",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousels/personal-banner-default",
+    "template": "Carousel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

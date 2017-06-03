@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BADA05B2-3185-4D7E-BE10-BCA88BCDE7A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5411805Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Account Funnel Form",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Configurations/Account Funnel Form",
+    "template": "Form Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

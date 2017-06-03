@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {F10D1292-0695-43DC-9FD1-C451A2641806}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Employees/Tustin/Sonia Yenche
+parent: {CC5048EE-0375-4441-9E94-9A6B25F74600}
+name: Sonia Yenche
+master: {00000000-0000-0000-0000-000000000000}
+template: {9671E92A-4AD3-46DF-AFF1-1542FD3D5BD9}
+templatekey: Employee
+created: 20170603T003736:636320470561430000
+
+----version----
+language: en
+version: 1
+revision: 8d9c41f1-b9a0-48ea-aabf-f79f0f2d0025
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 12
+
+Sonia Yenche
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 20
+
+Relationship Manager
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{C0E1F306-A34B-480B-990A-ADF856C5CB5B}" ></image>
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 14
+
+(714) 824-3083
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 20
+
+sonia.yenche@fmb.com
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170227T163719Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\mlangdon
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8d9c41f1-b9a0-48ea-aabf-f79f0f2d0025
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170227T164228Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

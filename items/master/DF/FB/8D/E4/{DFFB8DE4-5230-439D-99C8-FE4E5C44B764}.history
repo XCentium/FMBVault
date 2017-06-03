@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DFFB8DE4-5230-439D-99C8-FE4E5C44B764}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2821749Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call to Action Content",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Teaser Page/Call to Action Content",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{135DC92C-C5EA-4C2A-A058-5BF68967E2B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2041827Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FAQ Groups",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ Groups",
+    "template": "FAQ Group Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

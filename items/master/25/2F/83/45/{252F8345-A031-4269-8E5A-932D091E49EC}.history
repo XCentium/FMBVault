@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{252F8345-A031-4269-8E5A-932D091E49EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1641895Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bret Holloway",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Regional Managers/Bret Holloway",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

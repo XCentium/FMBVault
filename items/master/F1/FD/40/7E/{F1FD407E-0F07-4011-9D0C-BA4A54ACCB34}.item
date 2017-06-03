@@ -1,0 +1,120 @@
+----item----
+version: 1
+id: {F1FD407E-0F07-4011-9D0C-BA4A54ACCB34}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Teasers/Extensibility
+parent: {B8308B46-8A36-419B-9733-AD547F86A70E}
+name: Extensibility
+master: {00000000-0000-0000-0000-000000000000}
+template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
+templatekey: Teaser
+created: 20170603T003740:636320470601230000
+
+----field----
+field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
+name: TeaserLink
+key: teaserlink
+content-length: 129
+
+<link text="" linktype="internal" class="" title="" target='Custom' querystring="" id="{340146A4-809E-4BC1-BCF2-9B0EBD23F271}" />
+----version----
+language: en
+version: 1
+revision: d09359f3-acc8-46ac-9cc7-23966765c518
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 13
+
+Extensibility
+----field----
+field: {0F6B5546-E0AB-4487-81DE-640C1AA1B65B}
+name: TeaserImage
+key: teaserimage
+content-length: 166
+
+<image mediapath="" src="" height="" mediaid="{08E01453-5709-43F0-9F2F-9B7A65BA5666}" hspace="" usethumbnail="" showineditor="" width="" alt="074" vspace="" ></image>
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 79
+
+By controlling dependencies and technical design extensibility will be assured.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150921T054328Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d09359f3-acc8-46ac-9cc7-23966765c518
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172949Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 7963300e-2a45-4536-8def-369ace3c9a28
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 13
+
+Extensibility
+----field----
+field: {0F6B5546-E0AB-4487-81DE-640C1AA1B65B}
+name: TeaserImage
+key: teaserimage
+content-length: 166
+
+<image mediapath="" src="" height="" mediaid="{08E01453-5709-43F0-9F2F-9B7A65BA5666}" hspace="" usethumbnail="" showineditor="" width="" alt="074" vspace="" ></image>
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 79
+
+By controlling dependencies and technical design extensibility will be assured.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150921T054328Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7963300e-2a45-4536-8def-369ace3c9a28
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172949Z

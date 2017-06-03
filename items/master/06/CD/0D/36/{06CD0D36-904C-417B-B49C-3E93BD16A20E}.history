@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{06CD0D36-904C-417B-B49C-3E93BD16A20E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1941819Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sonya Garay",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Santa Ana/Sonya Garay",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

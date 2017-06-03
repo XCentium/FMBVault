@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CC6BA1FB-ADA5-4453-8FE4-09FAB63A8985}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6851855Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Certificate of Deposit",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Calculators/Certificate of Deposit",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{34E6B804-7BBE-4E27-A46B-C2C68EBE3D06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0951766Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text Banking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page/Text Banking",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

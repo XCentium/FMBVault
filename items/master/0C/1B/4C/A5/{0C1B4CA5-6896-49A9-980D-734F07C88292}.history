@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{0C1B4CA5-6896-49A9-980D-734F07C88292}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1341823Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kenny Lim",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Fullerton/Kenny Lim",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

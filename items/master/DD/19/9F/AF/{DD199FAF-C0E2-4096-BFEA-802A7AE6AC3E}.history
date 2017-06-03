@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{DD199FAF-C0E2-4096-BFEA-802A7AE6AC3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1221844Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Don Williams",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Bixby Knolls/Don Williams",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

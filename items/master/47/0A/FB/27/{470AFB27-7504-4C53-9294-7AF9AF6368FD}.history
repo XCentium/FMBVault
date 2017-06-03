@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{470AFB27-7504-4C53-9294-7AF9AF6368FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2311760Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Products/Comparisons/Test",
+    "template": "Comparison Matrix",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

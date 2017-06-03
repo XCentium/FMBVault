@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6C73875B-3A71-4586-9902-2E560A5A0433}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2701758Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recommended Reading",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Content/Recommended Reading",
+    "template": "Teaser",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

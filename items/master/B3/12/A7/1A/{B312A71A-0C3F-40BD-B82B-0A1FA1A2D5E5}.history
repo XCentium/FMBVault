@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B312A71A-0C3F-40BD-B82B-0A1FA1A2D5E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8721781Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gold Checking",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Products/Checking Options/Gold Checking",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

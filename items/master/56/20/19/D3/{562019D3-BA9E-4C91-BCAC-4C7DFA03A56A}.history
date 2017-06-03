@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{562019D3-BA9E-4C91-BCAC-4C7DFA03A56A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1531833Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thomas Gonzalez",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Main Office/Thomas Gonzalez",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

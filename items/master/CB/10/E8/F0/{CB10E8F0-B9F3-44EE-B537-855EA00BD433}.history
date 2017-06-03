@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CB10E8F0-B9F3-44EE-B537-855EA00BD433}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9441785Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel Slides",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousel Slides",
+    "template": "Media Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

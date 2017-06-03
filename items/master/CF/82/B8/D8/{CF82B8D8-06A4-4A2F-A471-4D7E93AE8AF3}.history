@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{CF82B8D8-06A4-4A2F-A471-4D7E93AE8AF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1441831Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blaine J Nelson",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Lake Forest/Blaine J Nelson",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

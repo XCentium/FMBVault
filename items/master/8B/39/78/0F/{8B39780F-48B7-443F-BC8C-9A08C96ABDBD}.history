@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{8B39780F-48B7-443F-BC8C-9A08C96ABDBD}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2641761Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Teaser Page",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Teasers/Teaser Page",
+    "template": "Teaser Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

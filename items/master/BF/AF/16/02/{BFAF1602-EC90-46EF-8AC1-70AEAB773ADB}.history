@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BFAF1602-EC90-46EF-8AC1-70AEAB773ADB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7411803Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Menus",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Login Menus",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

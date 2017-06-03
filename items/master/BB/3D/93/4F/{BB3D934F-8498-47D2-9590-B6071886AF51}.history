@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BB3D934F-8498-47D2-9590-B6071886AF51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1921751Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belmont Shore",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Belmont Shore",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

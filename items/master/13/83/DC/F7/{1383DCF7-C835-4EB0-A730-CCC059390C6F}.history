@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{1383DCF7-C835-4EB0-A730-CCC059390C6F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0161839Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Previous",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Media/Carousel/Previous",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

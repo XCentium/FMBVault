@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{466C51AC-20D3-43C9-9BFC-58985588AFA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6911863Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Retirement Planner",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Calculators/Retirement Planner",
+    "template": "Calculator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

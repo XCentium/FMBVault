@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7B8E1B5D-3B3D-4CF9-ABC1-8ED4174DFEC1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0391836Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Employee Teaser",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Person/Employee Teaser",
+    "template": "DictionaryFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

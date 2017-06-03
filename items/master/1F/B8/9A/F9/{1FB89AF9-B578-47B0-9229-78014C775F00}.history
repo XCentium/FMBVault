@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{1FB89AF9-B578-47B0-9229-78014C775F00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9501830Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commercial Real Estate - Q1",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Commercial Real Estate - Q1",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

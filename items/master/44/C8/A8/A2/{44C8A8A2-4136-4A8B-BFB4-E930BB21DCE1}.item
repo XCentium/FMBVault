@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {44C8A8A2-4136-4A8B-BFB4-E930BB21DCE1}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/Tools and Support/FAQs
+parent: {6D209D29-82B1-4D05-97F9-6A8E18213C74}
+name: FAQs
+master: {00000000-0000-0000-0000-000000000000}
+template: {E6794246-1889-473B-AA89-899EC2604D7F}
+templatekey: Navigation Menu Item
+created: 20170603T003739:636320470598730000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----version----
+language: en
+version: 1
+revision: bcedd632-9e05-4db5-b1e9-d32c48a6e769
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 159
+
+<link id="{F349213F-5583-4578-BB65-5C6DF63C7136}" querystring="" text="" title="" class="" linktype="internal" url="/FMBCom/Home/Customer Service" target="" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161223T194637Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bcedd632-9e05-4db5-b1e9-d32c48a6e769
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170217T223619Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

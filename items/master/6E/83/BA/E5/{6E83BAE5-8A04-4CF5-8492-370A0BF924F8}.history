@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6E83BAE5-8A04-4CF5-8492-370A0BF924F8}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9611838Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Goals",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Onsite Behavior/No Goals",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

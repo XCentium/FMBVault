@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{01CFD7C6-C049-449D-8A28-1FB201D39EF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.2081831Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CD Rates",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/CD Rates",
+    "template": "FAQ Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

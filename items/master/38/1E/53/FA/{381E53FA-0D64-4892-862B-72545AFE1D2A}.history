@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{381E53FA-0D64-4892-862B-72545AFE1D2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.8331774Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Login",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Modal Whitelist/Mobile Login",
+    "template": "Link Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,75 @@
+----item----
+version: 1
+id: {682796CC-1C7A-4F05-9520-F7D965E8441A}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Map Points/FM Locations/Orange County/Newport Beach
+parent: {BA18E1B4-801A-46D1-BFEA-260974D55935}
+name: Newport Beach
+master: {00000000-0000-0000-0000-000000000000}
+template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
+templatekey: Map Point
+created: 20170603T003738:636320470589330000
+
+----version----
+language: en
+version: 1
+revision: 9ca7966f-13c9-4038-b964-2b8c5332ff27
+
+----field----
+field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
+name: MapPointName
+key: mappointname
+content-length: 13
+
+Newport Beach
+----field----
+field: {0295C01D-214C-4C23-AFC2-3F0B4E88B643}
+name: MapPointAddress
+key: mappointaddress
+content-length: 53
+
+4695 MacArthur Ct.
+Ste. 130
+Newport Beach, CA 92660
+----field----
+field: {F686AC8E-1D33-45DB-8E1A-1B40CD491E7A}
+name: MapPointLocation
+key: mappointlocation
+content-length: 24
+
+33.6697966, -117.8617521
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170218T010806Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9ca7966f-13c9-4038-b964-2b8c5332ff27
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170218T011226Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

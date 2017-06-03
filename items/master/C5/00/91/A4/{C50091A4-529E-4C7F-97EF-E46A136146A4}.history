@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C50091A4-529E-4C7F-97EF-E46A136146A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6431858Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculators",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Calculators",
+    "template": "Calculator Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

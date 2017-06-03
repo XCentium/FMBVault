@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{477B631B-5465-465B-9D45-8B7E7F78D0BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0801770Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Main Navigation/Default",
+    "template": "Navigation Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

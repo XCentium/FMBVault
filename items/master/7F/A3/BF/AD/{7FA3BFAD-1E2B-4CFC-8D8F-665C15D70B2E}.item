@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {7FA3BFAD-1E2B-4CFC-8D8F-665C15D70B2E}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Navigation/Sub Navigation/Business Banking Services/Merchant Services
+parent: {96872AA8-471F-4E87-906D-3F9220819516}
+name: Merchant Services
+master: {00000000-0000-0000-0000-000000000000}
+template: {E6794246-1889-473B-AA89-899EC2604D7F}
+templatekey: Navigation Menu Item
+created: 20170603T003739:636320470597530000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+600
+----version----
+language: en
+version: 1
+revision: 098f2c26-8909-4373-b622-dc63fe7caed4
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 140
+
+<link text="" linktype="internal" class="" title="Merchant Services" target="" querystring="" id="{5E1AB026-2490-415E-B978-61144D9B0AE8}" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170210T211252Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+fmb\jbridges
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+098f2c26-8909-4373-b622-dc63fe7caed4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170213T195459Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\jbridges

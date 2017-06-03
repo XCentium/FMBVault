@@ -1,0 +1,95 @@
+----item----
+version: 1
+id: {470AFB27-7504-4C53-9294-7AF9AF6368FD}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Products/Comparisons/Test
+parent: {3D7F8D92-EBA2-472D-BF4B-42B03D3AFA0E}
+name: Test
+master: {00000000-0000-0000-0000-000000000000}
+template: {DE51EDED-71E2-4AFA-8771-4CD6759A6FCE}
+templatekey: Comparison Matrix
+created: 20170603T003740:636320470600300000
+
+----version----
+language: en
+version: 1
+revision: 95123325-f827-43f2-a862-8b55a22f9e37
+
+----field----
+field: {184FA31C-0276-4B0B-9BAF-A4C3FEF4025A}
+name: Title
+key: title
+content-length: 4
+
+Test
+----field----
+field: {BFC71AFE-049A-40FC-B22C-B1A385645613}
+name: Body
+key: body
+content-length: 903
+
+<table id="comparison-table" class="tablesaw" data-tablesaw-mode="swipe">
+    <thead>
+        <tr>
+            <th data-tablesaw-priority="persist">&nbsp;</th>
+            <th>sdafadsfads&nbsp;</th>
+            <th>adsfasdfasdasdf&nbsp;</th>
+            <th>asdfadsf asdfadfasfsadfadsfad</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>adfadfasdfasdfasd</td>
+            <td>&nbsp;asdfads</td>
+            <td>&nbsp;asdfads</td>
+            <td>&nbsp;asdfadsf</td>
+        </tr>
+        <tr>
+            <td>&nbsp;adfasdf</td>
+            <td>&nbsp;asdfadsf</td>
+            <td>&nbsp;asdfasdf</td>
+            <td>&nbsp;asdfadsf</td>
+        </tr>
+        <tr>
+            <td>&nbsp;adsfadsfdsfa</td>
+            <td>&nbsp;asdfadsf</td>
+            <td>&nbsp;asdfasdfadsf</td>
+            <td>&nbsp;adfssadf</td>
+        </tr>
+    </tbody>
+</table>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170131T013408Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+95123325-f827-43f2-a862-8b55a22f9e37
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170201T024246Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

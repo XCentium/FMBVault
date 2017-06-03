@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{535564CD-CFE6-42C1-B69C-F6020ECF5306}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9301849Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register Email Placeholder",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Accounts/Register/Register Email Placeholder",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

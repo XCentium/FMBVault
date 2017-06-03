@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C2A20437-6D4F-4FA3-A9BA-0DFF9F9CBDC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5651810Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RealEstateSeminars",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Option Fields/RealEstateSeminars",
+    "template": "FieldOptionGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

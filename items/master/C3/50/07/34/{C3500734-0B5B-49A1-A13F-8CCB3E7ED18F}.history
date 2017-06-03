@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C3500734-0B5B-49A1-A13F-8CCB3E7ED18F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8612107Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Explore Savings Accounts",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Products/Explore Savings Accounts",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

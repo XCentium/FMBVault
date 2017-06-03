@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B3C6DB2F-B853-48B4-B0A5-A8D5556D0298}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0991852Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lakewood",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Lakewood",
+    "template": "Employee Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

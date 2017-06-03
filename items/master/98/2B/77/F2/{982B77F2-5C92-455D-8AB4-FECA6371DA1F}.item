@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {982B77F2-5C92-455D-8AB4-FECA6371DA1F}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/General Questions/What is FM routing number
+parent: {F3A3C758-4A70-4E85-842B-6E67DE9113CD}
+name: What is FM routing number
+master: {00000000-0000-0000-0000-000000000000}
+template: {BFDC1F27-3D2D-495F-89A3-0951F882420B}
+templatekey: FAQ
+created: 20170603T003736:636320470566300000
+
+----version----
+language: en
+version: 1
+revision: 5869e4e8-7058-4e6d-a765-ae89cbbf3085
+
+----field----
+field: {9588B6D5-3E6A-4C16-BD37-98DA6F1DDE52}
+name: Question
+key: question
+content-length: 76
+
+What is F&M's routing number? (Your check will also show the routing number)
+----field----
+field: {57F39C75-51F0-4888-903E-724DFDCC8A38}
+name: Answer
+key: answer
+content-length: 119
+
+<span style="color: #4f4f4f;">F&amp;M's routing number is 122201198 and is located on the bottom of your checks.</span>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 76
+
+What is F&M's routing number? (Your check will also show the routing number)
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170217T003608Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5869e4e8-7058-4e6d-a765-ae89cbbf3085
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170222T172558Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+fmb\mlangdon

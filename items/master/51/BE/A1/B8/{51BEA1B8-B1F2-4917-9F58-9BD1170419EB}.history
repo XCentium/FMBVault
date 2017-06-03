@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{51BEA1B8-B1F2-4917-9F58-9BD1170419EB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9651844Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Profiling",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Onsite Behavior/No Profiling",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

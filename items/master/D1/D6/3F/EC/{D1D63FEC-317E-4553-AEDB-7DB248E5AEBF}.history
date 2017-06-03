@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D1D63FEC-317E-4553-AEDB-7DB248E5AEBF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0411780Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Habitat Getting Started Video",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Videos/Habitat/Habitat Getting Started Video",
+    "template": "Video",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

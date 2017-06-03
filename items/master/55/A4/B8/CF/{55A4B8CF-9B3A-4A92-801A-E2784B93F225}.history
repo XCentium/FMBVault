@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{55A4B8CF-9B3A-4A92-801A-E2784B93F225}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.7501798Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Legal Menu",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Links/Footer Menus/Legal Menu",
+    "template": "Link Menu",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

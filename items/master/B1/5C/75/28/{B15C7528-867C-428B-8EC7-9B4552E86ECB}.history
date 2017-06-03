@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B15C7528-867C-428B-8EC7-9B4552E86ECB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.8561850Z",
+    "label": "Copied",
+    "workflowState": "{63304E12-1D78-4148-813E-BE163866B27C}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Most Recent Press Releases",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Content Modules/Press Releases/Most Recent Press Releases",
+    "template": "Content Module",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

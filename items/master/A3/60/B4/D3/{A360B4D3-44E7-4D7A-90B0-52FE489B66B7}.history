@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A360B4D3-44E7-4D7A-90B0-52FE489B66B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9911778Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "hero-Login",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Carousel Slides/Hero Banner/hero-Login",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

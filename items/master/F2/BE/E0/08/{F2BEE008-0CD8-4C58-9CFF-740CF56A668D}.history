@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F2BEE008-0CD8-4C58-9CFF-740CF56A668D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.6621848Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media",
+    "template": "Media Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

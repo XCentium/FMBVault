@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {C14ADC1C-908E-4E2B-A924-1CE9710B95A6}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Media/Videos/About
+parent: {6978FBEF-3C19-4A98-BA14-D58ACB5C1678}
+name: About
+master: {00000000-0000-0000-0000-000000000000}
+template: {920A1781-559F-4E1C-BB2E-6B9A2113FE6B}
+templatekey: Media Folder
+created: 20170603T003739:636320470594530000
+
+----version----
+language: en
+version: 1
+revision: b0c4579d-1fac-43c5-9313-26a002feed53
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170110T190610Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b0c4579d-1fac-43c5-9313-26a002feed53
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172953Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

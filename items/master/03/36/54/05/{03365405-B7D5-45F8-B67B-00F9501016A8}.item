@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {03365405-B7D5-45F8-B67B-00F9501016A8}
+database: master
+path: /sitecore/content/FMBCom/Copy of Global/Teasers/Content/The Common Closure Principle
+parent: {7D46DE10-8344-4DF2-A9E2-2970C78CDB55}
+name: The Common Closure Principle
+master: {00000000-0000-0000-0000-000000000000}
+template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
+templatekey: Teaser
+created: 20170603T003740:636320470600900000
+
+----field----
+field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
+name: TeaserLink
+key: teaserlink
+content-length: 142
+
+<link linktype="external" text="THE COMMON CLOSURE PRINCIPLE" url="http://c2.com/cgi/wiki?CommonClosurePrinciple" anchor="" target="_blank" />
+----version----
+language: en
+version: 1
+revision: 52c2b29d-aa4b-44b5-a062-731cc0b2c45e
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 28
+
+THE COMMON CLOSURE PRINCIPLE
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 84
+
+Classes that change together are packaged together. What affects one, affects all.
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151210T003448Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+52c2b29d-aa4b-44b5-a062-731cc0b2c45e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172954Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: d6b18733-5107-4d65-bad4-4303d6578ef8
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 28
+
+THE COMMON CLOSURE PRINCIPLE
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 84
+
+Classes that change together are packaged together. What affects one, affects all.
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151210T003448Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d6b18733-5107-4d65-bad4-4303d6578ef8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170120T172954Z

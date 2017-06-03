@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{7FD5679F-1CA9-43F3-AC1B-BA8084BB44B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0991778Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Us",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Mobile Banking Navigation/Mobile Banking Landing Page/Contact Us",
+    "template": "Navigation Menu Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{69105D25-49F5-4796-851A-0ACB0492AE17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1841829Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Al Stone",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Rossmoor/Al Stone",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

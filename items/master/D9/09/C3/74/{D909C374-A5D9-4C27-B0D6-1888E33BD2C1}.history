@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D909C374-A5D9-4C27-B0D6-1888E33BD2C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1611843Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Faisal Hashmi",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Redondo Beach/Faisal Hashmi",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

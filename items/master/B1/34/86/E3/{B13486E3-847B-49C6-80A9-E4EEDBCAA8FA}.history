@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B13486E3-847B-49C6-80A9-E4EEDBCAA8FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5071826Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Which of the Personal Checking accounts are subject to the Paper Statement Fee",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Personal Checking Accounts/Which of the Personal Checking accounts are subject to the Paper Statement Fee",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

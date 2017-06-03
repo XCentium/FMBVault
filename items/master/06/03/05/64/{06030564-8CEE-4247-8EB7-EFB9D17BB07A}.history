@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{06030564-8CEE-4247-8EB7-EFB9D17BB07A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9591778Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lightbox Image Documentation",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Lightbox Image Documentation",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

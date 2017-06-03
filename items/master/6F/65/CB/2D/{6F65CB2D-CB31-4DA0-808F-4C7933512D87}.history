@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{6F65CB2D-CB31-4DA0-808F-4C7933512D87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9731781Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personal MMA",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Personal MMA",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

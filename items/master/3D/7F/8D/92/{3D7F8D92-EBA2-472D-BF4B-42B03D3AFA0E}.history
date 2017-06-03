@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3D7F8D92-EBA2-472D-BF4B-42B03D3AFA0E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2251765Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comparisons",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Products/Comparisons",
+    "template": "Comparison Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

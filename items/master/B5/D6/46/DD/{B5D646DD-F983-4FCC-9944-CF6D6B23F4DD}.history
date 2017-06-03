@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B5D646DD-F983-4FCC-9944-CF6D6B23F4DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.1871764Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Patricks Day",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Notifications/Saint Patricks Day",
+    "template": "Notification",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

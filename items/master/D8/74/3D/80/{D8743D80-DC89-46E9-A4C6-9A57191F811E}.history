@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D8743D80-DC89-46E9-A4C6-9A57191F811E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.9771761Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Up All Night",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Media/Banners/Up All Night",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

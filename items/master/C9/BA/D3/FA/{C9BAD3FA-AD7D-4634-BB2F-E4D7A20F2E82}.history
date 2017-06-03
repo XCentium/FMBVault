@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{C9BAD3FA-AD7D-4634-BB2F-E4D7A20F2E82}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0421835Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Read more",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Person/Employee Contact Teaser/Read more",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

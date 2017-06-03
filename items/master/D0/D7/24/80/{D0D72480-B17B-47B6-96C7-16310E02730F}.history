@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D0D72480-B17B-47B6-96C7-16310E02730F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0801838Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Online Banking Requirements",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Online Banking Requirements",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

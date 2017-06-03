@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A216E854-595C-46CC-81F6-B1BD30B0157D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5381828Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Recipients",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Recipients",
+    "template": "Form Recipients Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

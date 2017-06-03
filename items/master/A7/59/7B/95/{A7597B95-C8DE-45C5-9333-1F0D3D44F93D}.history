@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A7597B95-C8DE-45C5-9333-1F0D3D44F93D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0491836Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Again",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Search/Header/Search Again",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D21073C4-144A-438C-842C-CF607F2325E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.1601831Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Matt Greville",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Employees/Orange/Matt Greville",
+    "template": "Employee",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

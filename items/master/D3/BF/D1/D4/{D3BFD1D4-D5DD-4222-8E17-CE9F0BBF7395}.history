@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D3BFD1D4-D5DD-4222-8E17-CE9F0BBF7395}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0752115Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Credit-Cards-Zero-Liability",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Credit-Cards-Zero-Liability",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{E3BD94C9-19C8-4210-8B80-7CA2CC1C10BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.5441817Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mailing List Form",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Forms/Form Configurations/Mailing List Form",
+    "template": "Form Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

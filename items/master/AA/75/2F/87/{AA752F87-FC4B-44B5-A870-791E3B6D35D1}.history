@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{AA752F87-FC4B-44B5-A870-791E3B6D35D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.0761827Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email Security",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Disclaimers/Email Security",
+    "template": "Disclaimer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

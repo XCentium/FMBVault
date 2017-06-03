@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{B33D3C86-379F-4BBD-9E4E-C8FDBB87378E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.0742117Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mobile Banking Navigation",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Navigation/Mobile Banking Navigation",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F0A3CFB4-6EBD-42EC-A72D-A010797B4EF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:46.2041771Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lake Forest",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Offices/Lake Forest",
+    "template": "Office Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

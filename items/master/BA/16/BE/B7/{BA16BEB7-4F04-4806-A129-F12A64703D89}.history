@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{BA16BEB7-4F04-4806-A129-F12A64703D89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:45.4971890Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Can balances from a business account count for the combined balance requirement",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/FAQ/FAQ/Personal Checking Accounts/Can balances from a business account count for the combined balance requirement",
+    "template": "FAQ",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

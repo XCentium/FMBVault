@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{D2DF90A3-520D-4EDF-B20C-2276823E0ABF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:44.9941840Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement",
+    "itemPath": "/sitecore/content/FMBCom/Copy of Global/Dictionary/Demo/Visits/Engagement",
+    "template": "DictionaryEntry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
