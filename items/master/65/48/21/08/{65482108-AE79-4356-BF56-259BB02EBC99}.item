@@ -2,9 +2,9 @@
 version: 1
 id: {65482108-AE79-4356-BF56-259BB02EBC99}
 database: master
-path: /sitecore/templates/Branches/User Defined/Site Root/$name/Site Settings/Datasource Settings Folder
+path: /sitecore/templates/Branches/User Defined/Site Root/$name/Site Settings/Datasource Settings
 parent: {CE8FEAC2-3AD7-4FE3-B716-D54575B94EB6}
-name: Datasource Settings Folder
+name: Datasource Settings
 master: {00000000-0000-0000-0000-000000000000}
 template: {7A98BE60-9F59-4064-82C2-58DA63562FA5}
 templatekey: Datasource Settings Folder
@@ -13,7 +13,7 @@ created: 20170602T210849:636320345297800000
 ----version----
 language: en
 version: 1
-revision: 43229b73-e814-4453-bf80-93f2babf9217
+revision: 14cf6ec2-98ff-4346-bd76-a9de4563d2b3
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -35,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-43229b73-e814-4453-bf80-93f2babf9217
+14cf6ec2-98ff-4346-bd76-a9de4563d2b3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170602T210849Z
+20170602T210905Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
