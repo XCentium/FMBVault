@@ -48,15 +48,15 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 6f858766-86e2-4fb3-9520-9353ffcd6ded
+revision: 13960593-7414-41e0-b893-6f9313e887cb
 
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
 key: navigationtitle
-content-length: 5
+content-length: 4
 
-Home.
+Home
 ----field----
 field: {0EE2F208-1FEE-42FC-8051-6696D49A92BF}
 name: OpenGraphTitle
@@ -133,14 +133,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6f858766-86e2-4fb3-9520-9353ffcd6ded
+13960593-7414-41e0-b893-6f9313e887cb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170603T011738Z
+20170603T011908Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
