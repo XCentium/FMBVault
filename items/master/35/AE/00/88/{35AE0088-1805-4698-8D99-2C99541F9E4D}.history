@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{35AE0088-1805-4698-8D99-2C99541F9E4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3049535Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "enableWebEdit",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/enableWebEdit",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{5E945400-DD4B-4C6D-882C-36B73F6CA725}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3039535Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "enableAnalytics",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/enableAnalytics",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

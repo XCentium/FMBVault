@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{00118FFF-E6C6-48C1-9C46-A1EE550A6D54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3019531Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Options",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

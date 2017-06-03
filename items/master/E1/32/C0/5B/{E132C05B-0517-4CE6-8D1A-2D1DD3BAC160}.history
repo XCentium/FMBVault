@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E132C05B-0517-4CE6-8D1A-2D1DD3BAC160}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3069529Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "mediaCachePath",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/mediaCachePath",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

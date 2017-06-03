@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{618C6092-1FBF-480B-89E8-8B90AF370FED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3059522Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "filterItems",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/filterItems",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

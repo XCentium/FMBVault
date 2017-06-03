@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E517D3A9-3696-40A1-8A2C-40F83BB14311}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3079528Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "requireLogin",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/requireLogin",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{801A7C39-CEE4-4BC6-9C60-EEB91CAB0E46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2999528Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "rootPath",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Data/rootPath",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

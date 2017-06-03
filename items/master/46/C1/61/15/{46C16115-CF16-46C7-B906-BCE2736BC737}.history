@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{46C16115-CF16-46C7-B906-BCE2736BC737}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3069529Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "loginPage",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/loginPage",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

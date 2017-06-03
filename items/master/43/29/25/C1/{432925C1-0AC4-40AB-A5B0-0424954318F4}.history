@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{432925C1-0AC4-40AB-A5B0-0424954318F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2899541Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Additional",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Additional",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

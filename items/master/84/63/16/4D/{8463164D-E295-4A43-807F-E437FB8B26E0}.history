@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8463164D-E295-4A43-807F-E437FB8B26E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2899541Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "contentLanguage",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Additional/contentLanguage",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

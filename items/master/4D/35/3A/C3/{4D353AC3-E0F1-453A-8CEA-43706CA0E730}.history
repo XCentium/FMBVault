@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4D353AC3-E0F1-453A-8CEA-43706CA0E730}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2929523Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cacheHtml",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Caching/cacheHtml",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

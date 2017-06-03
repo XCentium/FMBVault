@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D7C619B3-88AA-43C0-A42E-58059F66CDBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2999528Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "physicalFolder",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Data/physicalFolder",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

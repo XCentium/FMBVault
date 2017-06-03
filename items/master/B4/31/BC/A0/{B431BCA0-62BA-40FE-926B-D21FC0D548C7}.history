@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B431BCA0-62BA-40FE-926B-D21FC0D548C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2859538Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site link template",
+    "itemPath": "/sitecore/templates/System/Site templates/Site link template",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

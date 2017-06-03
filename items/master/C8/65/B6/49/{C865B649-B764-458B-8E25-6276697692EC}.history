@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C865B649-B764-458B-8E25-6276697692EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2919531Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Caching",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Caching",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

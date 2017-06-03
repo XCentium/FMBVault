@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{56559C81-F7BE-4C9B-A001-55431E59AC04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3039535Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "enableDebugger",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/enableDebugger",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

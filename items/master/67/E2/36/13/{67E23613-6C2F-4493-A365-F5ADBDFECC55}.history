@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{67E23613-6C2F-4493-A365-F5ADBDFECC55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3039535Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "enableLinkedItems",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/enableLinkedItems",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

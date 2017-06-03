@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E1AED834-2E97-4A5F-AB11-0D75ABDA3B2B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2929523Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cacheMedia",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Caching/cacheMedia",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

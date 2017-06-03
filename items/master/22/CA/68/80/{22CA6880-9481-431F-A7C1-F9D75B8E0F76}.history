@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{22CA6880-9481-431F-A7C1-F9D75B8E0F76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2859538Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Value",
+    "itemPath": "/sitecore/templates/System/Site templates/Site attribute template/Data/Value",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

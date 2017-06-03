@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{0E6D9E71-D222-4DD5-9CBF-0B78A30C1AE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2909511Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "defaultDevice",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Additional/defaultDevice",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

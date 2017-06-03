@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B864D75B-DF71-4C84-AABB-53AA2F915633}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2939536Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "registryCacheSize",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Caching/registryCacheSize",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

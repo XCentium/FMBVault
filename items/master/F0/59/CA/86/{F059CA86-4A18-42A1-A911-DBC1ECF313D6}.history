@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F059CA86-4A18-42A1-A911-DBC1ECF313D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3049535Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "enablePreview",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/enablePreview",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

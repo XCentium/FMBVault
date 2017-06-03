@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{37E99FC5-4D1C-469D-A4F3-020812F95421}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2929523Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "filteredItemsCacheSize",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Caching/filteredItemsCacheSize",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

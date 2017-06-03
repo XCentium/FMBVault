@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A5EFA3CE-8D52-4A51-A633-97B3690B8828}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3069529Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "masterDatabase",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/masterDatabase",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

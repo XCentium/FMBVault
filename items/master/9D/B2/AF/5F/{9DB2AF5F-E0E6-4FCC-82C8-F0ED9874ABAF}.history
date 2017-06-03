@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9DB2AF5F-E0E6-4FCC-82C8-F0ED9874ABAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3009528Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "virtualFolder",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Data/virtualFolder",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

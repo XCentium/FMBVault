@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{824ECDD3-3D74-4E43-9FC2-6472DC4A9810}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.2939536Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "htmlCacheClearLatency",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Caching/htmlCacheClearLatency",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

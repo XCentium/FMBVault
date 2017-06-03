@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{5CF28478-B354-485E-8FE6-2404125F84B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T01:10:52.3089531Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "xmlControlPage",
+    "itemPath": "/sitecore/templates/System/Site templates/Site template/Options/xmlControlPage",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
