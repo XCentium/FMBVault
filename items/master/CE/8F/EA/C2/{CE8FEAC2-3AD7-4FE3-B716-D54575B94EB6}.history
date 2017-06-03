@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CE8FEAC2-3AD7-4FE3-B716-D54575B94EB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-02T21:08:07.1818900Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Settings Root",
+    "itemPath": "/sitecore/templates/Branches/User Defined/Site Root/$name/Site Settings Root",
+    "template": "Site Settings Root",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
