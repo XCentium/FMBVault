@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{67E372E2-0659-47FE-8909-4CB406BD0F7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-03T00:37:58.7778219Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fmbcom copy-of-global",
+    "itemPath": "/sitecore/system/Modules/Redirect Module/Redirects/Generated/2017/06/fmbcom copy-of-global",
+    "template": "Redirect Url",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
