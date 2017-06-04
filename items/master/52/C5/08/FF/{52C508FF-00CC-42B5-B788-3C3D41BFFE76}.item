@@ -16,7 +16,7 @@ name: __Sortorder
 key: __sortorder
 content-length: 5
 
-99000
+99400
 ----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
@@ -27,7 +27,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: 35ae1b5d-5b03-4e8f-81e3-cdb4e3f624ca
+revision: bc66566d-f9f5-4164-b15b-6987d836f488
 
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
@@ -56,21 +56,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-35ae1b5d-5b03-4e8f-81e3-cdb4e3f624ca
+bc66566d-f9f5-4164-b15b-6987d836f488
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170603T011627Z
+20170604T062334Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 17
 
-sitecore\admin
+default\Anonymous
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
