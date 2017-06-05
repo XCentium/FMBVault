@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0FB30D58-D090-42DE-8BD4-5379C905C938}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T04:18:50.1581741Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register",
+    "itemPath": "/sitecore/content/Copy of Allergan/Home/Register",
+    "template": "Register Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
