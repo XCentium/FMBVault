@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0E73F572-8BB1-4854-80E0-FBE85A3BD0A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:36:27.7401754Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Allergan",
+    "itemPath": "/sitecore/templates/Project/Allergan",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
