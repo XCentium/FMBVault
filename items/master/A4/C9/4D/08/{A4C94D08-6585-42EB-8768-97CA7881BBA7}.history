@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{A4C94D08-6585-42EB-8768-97CA7881BBA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:39:16.3514721Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Allergan",
+    "itemPath": "/sitecore/layout/Layouts/Project/Allergan",
+    "template": "Layout Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
