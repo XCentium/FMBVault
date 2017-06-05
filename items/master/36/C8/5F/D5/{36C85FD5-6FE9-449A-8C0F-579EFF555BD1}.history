@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{36C85FD5-6FE9-449A-8C0F-579EFF555BD1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:20:56.5716075Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "500",
+    "itemPath": "/sitecore/content/Brilliant Distinction/Home/500",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

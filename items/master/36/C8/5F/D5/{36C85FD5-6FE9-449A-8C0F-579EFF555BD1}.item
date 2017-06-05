@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {36C85FD5-6FE9-449A-8C0F-579EFF555BD1}
+database: master
+path: /sitecore/content/Brilliant Distinction/Home/500
+parent: {1674CE6E-A7E2-458C-800E-DAB14D4BB590}
+name: 500
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170605T172056:636322800565130000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{C98CB3F7-E8C1-4E60-BC99-287774722DF2}
