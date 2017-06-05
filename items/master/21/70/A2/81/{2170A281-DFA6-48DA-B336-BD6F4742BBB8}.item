@@ -14,13 +14,13 @@ created: 20170605T173657:636322810178200000
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
 name: __Base template
 key: __base template
-content-length: 38
+content-length: 233
 
-{1930BBEB-7805-471A-A3BE-4858AC7CF696}
+{1930BBEB-7805-471A-A3BE-4858AC7CF696}|{D88CCD80-D851-470D-AF11-701FF23504E7}|{CF38E914-9298-47CC-9205-210553E79F97}|{409F883A-0DC8-431A-9508-7316B59B92BE}|{A1CBA309-D22B-46D5-80F8-2972C185363F}|{F30644A8-409B-4475-BA25-EDD4663907FA}
 ----version----
 language: en
 version: 1
-revision: 08cb3bba-e1f0-4476-8302-f5dda4c5389f
+revision: cd70b532-e6d5-46b9-94a1-a990dea4ac12
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-08cb3bba-e1f0-4476-8302-f5dda4c5389f
+cd70b532-e6d5-46b9-94a1-a990dea4ac12
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170605T173657Z
+20170605T173749Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
