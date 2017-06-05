@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1674CE6E-A7E2-458C-800E-DAB14D4BB590}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:20:56.2126073Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Brilliant Distinction/Home",
+    "template": "Home",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

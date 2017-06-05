@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {1674CE6E-A7E2-458C-800E-DAB14D4BB590}
+database: master
+path: /sitecore/content/Brilliant Distinction/Home
+parent: {2786A0F9-0036-4572-BFE4-C1CBE83F9CFD}
+name: Home
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {4A8822CC-B418-4452-AB0F-8BB6DF2F2114}
+templatekey: Home
+created: 20170605T172056:636322800561630000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{F55DE497-5BFB-4DCF-A82B-779D0F310D95}
