@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {75F2D7CA-D31A-4823-BB1A-8B214F69D980}
+database: master
+path: /sitecore/content/Brilliant Distinction/Home/404
+parent: {1674CE6E-A7E2-458C-800E-DAB14D4BB590}
+name: 404
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170605T172056:636322800563330000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{46307868-BF03-4AC1-8B31-49A0053F1A9B}
