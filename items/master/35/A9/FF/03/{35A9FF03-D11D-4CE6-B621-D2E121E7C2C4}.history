@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{35A9FF03-D11D-4CE6-B621-D2E121E7C2C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:20:56.7456073Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Us",
+    "itemPath": "/sitecore/content/Brilliant Distinction/Home/Contact Us",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

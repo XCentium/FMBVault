@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {35A9FF03-D11D-4CE6-B621-D2E121E7C2C4}
+database: master
+path: /sitecore/content/Brilliant Distinction/Home/Contact Us
+parent: {1674CE6E-A7E2-458C-800E-DAB14D4BB590}
+name: Contact Us
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170605T172056:636322800566900000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{2542548F-A67B-4781-A1C4-BC133658105D}
