@@ -11,6 +11,13 @@ templatekey: Article
 created: 20170605T041849:636322331296270000
 
 ----field----
+field: {19B597D3-2EDD-4AE2-AEFE-4A94C7F10E31}
+name: __Source Item
+key: __source item
+content-length: 56
+
+sitecore://master/{0E38C926-03CF-44C8-8FF6-25F2542C4550}
+----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
 key: __workflow
@@ -20,36 +27,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: d74c522e-1b73-45da-b906-990dff818701
+revision: a54b20bb-1d3d-4adc-9fd3-db4931964155
 
 ----field----
-field: {C30A013F-3CC8-4961-9837-1C483277084A}
-name: Title
-key: title
-content-length: 3
+field: {1B86697D-60CA-4D80-83FB-7555A2E6CE1C}
+name: __Source
+key: __source
+content-length: 70
 
-404
-----field----
-field: {1B483E91-D8C4-4D19-BA03-462074B55936}
-name: NavigationTitle
-key: navigationtitle
-content-length: 3
-
-404
-----field----
-field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
-name: BrowserTitle
-key: browsertitle
-content-length: 3
-
-404
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
-
-sitecore\admin
+sitecore://master/{0E38C926-03CF-44C8-8FF6-25F2542C4550}?lang=en&ver=1
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -63,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d74c522e-1b73-45da-b906-990dff818701
+a54b20bb-1d3d-4adc-9fd3-db4931964155
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -85,3 +71,10 @@ key: __workflow state
 content-length: 38
 
 {9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 0
+
+
