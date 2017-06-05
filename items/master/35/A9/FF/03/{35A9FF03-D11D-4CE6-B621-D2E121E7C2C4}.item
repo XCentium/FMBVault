@@ -17,10 +17,17 @@ key: __originator
 content-length: 38
 
 {2542548F-A67B-4781-A1C4-BC133658105D}
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
 ----version----
 language: en
 version: 1
-revision: 543fd169-3971-4b73-b054-907c2db42f6a
+revision: 3ecbee6a-07b0-47a6-8873-75b944fce7ee
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -63,7 +70,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-543fd169-3971-4b73-b054-907c2db42f6a
+3ecbee6a-07b0-47a6-8873-75b944fce7ee
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -78,3 +85,10 @@ key: __updated by
 content-length: 14
 
 sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}
