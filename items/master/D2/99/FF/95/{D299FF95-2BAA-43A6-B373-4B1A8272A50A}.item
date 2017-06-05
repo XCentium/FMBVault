@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {D299FF95-2BAA-43A6-B373-4B1A8272A50A}
+database: master
+path: /sitecore/content/Brilliant Distinction/Home/Register
+parent: {1674CE6E-A7E2-458C-800E-DAB14D4BB590}
+name: Register
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {6EF8F8A0-C567-495B-9E00-8775A268A486}
+templatekey: Register Page
+created: 20170605T172056:636322800568770000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{F96C4EA1-87B4-42A8-9213-764684CA3010}

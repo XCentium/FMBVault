@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D299FF95-2BAA-43A6-B373-4B1A8272A50A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:20:56.9476079Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register",
+    "itemPath": "/sitecore/content/Brilliant Distinction/Home/Register",
+    "template": "Register Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
