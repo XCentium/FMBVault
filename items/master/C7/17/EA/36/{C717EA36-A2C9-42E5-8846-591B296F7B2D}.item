@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {C717EA36-A2C9-42E5-8846-591B296F7B2D}
+database: master
+path: /sitecore/content/Brilliant Distinction/Modules
+parent: {2786A0F9-0036-4572-BFE4-C1CBE83F9CFD}
+name: Modules
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+created: 20170605T172057:636322800570300000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{5A37B603-13F9-43A3-BD48-AF299553CF32}
