@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C661309A-4CB3-4EA1-90EB-A518B98C6EC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:36:37.1215499Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Types",
+    "itemPath": "/sitecore/templates/Project/Allergan/Page Types",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
