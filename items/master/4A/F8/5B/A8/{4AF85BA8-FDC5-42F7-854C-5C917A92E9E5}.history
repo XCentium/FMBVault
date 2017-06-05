@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4AF85BA8-FDC5-42F7-854C-5C917A92E9E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:20:57.4446080Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculator",
+    "itemPath": "/sitecore/content/Brilliant Distinction/Modules/Calculator",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

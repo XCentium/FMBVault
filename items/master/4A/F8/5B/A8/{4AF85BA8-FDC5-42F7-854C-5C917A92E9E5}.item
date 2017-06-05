@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {4AF85BA8-FDC5-42F7-854C-5C917A92E9E5}
+database: master
+path: /sitecore/content/Brilliant Distinction/Modules/Calculator
+parent: {C717EA36-A2C9-42E5-8846-591B296F7B2D}
+name: Calculator
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+created: 20170605T172057:636322800573800000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{26647B01-1FCA-41EB-A7CD-3E13B9E94EDA}
