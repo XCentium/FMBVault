@@ -10,46 +10,32 @@ template: {6EF8F8A0-C567-495B-9E00-8775A268A486}
 templatekey: Register Page
 created: 20170605T041850:636322331301170000
 
+----field----
+field: {19B597D3-2EDD-4AE2-AEFE-4A94C7F10E31}
+name: __Source Item
+key: __source item
+content-length: 56
+
+sitecore://master/{BCA226D2-FA22-4BF5-8105-2D5282E3AD42}
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: 7d2ebfe1-a601-44d9-a7b4-6a2470f1aea7
+revision: 37936f07-38af-4e7b-83df-64fd212829ca
 
 ----field----
-field: {C30A013F-3CC8-4961-9837-1C483277084A}
-name: Title
-key: title
-content-length: 8
+field: {1B86697D-60CA-4D80-83FB-7555A2E6CE1C}
+name: __Source
+key: __source
+content-length: 70
 
-Register
-----field----
-field: {1B483E91-D8C4-4D19-BA03-462074B55936}
-name: NavigationTitle
-key: navigationtitle
-content-length: 8
-
-Register
-----field----
-field: {0EE2F208-1FEE-42FC-8051-6696D49A92BF}
-name: OpenGraphTitle
-key: opengraphtitle
-content-length: 8
-
-Register
-----field----
-field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
-name: BrowserTitle
-key: browsertitle
-content-length: 8
-
-Register
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
-
-sitecore\admin
+sitecore://master/{BCA226D2-FA22-4BF5-8105-2D5282E3AD42}?lang=en&ver=1
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -63,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7d2ebfe1-a601-44d9-a7b4-6a2470f1aea7
+37936f07-38af-4e7b-83df-64fd212829ca
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -78,3 +64,17 @@ key: __updated by
 content-length: 14
 
 sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 0
+
+
