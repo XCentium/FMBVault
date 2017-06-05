@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{355C4D44-89D0-423F-A966-FF6D7BB2F31F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:41:50.6227071Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News List",
+    "itemPath": "/sitecore/content/Allergan/Home/News List",
+    "template": "News List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

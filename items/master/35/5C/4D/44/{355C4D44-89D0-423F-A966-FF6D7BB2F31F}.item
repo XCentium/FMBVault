@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {355C4D44-89D0-423F-A966-FF6D7BB2F31F}
+database: master
+path: /sitecore/content/Allergan/Home/News List
+parent: {3BDBF866-043A-49B6-9181-787BD0590266}
+name: News List
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {A99866E5-08E7-44D8-8A52-F8E26BCD3714}
+templatekey: News List
+created: 20170605T174150:636322813105930000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{9FBA5F94-760D-413F-B283-1E0B254327C1}
