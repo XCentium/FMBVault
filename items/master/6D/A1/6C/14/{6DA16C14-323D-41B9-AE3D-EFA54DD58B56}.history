@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6DA16C14-323D-41B9-AE3D-EFA54DD58B56}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T04:18:49.5061762Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Copy of Allergan/Home",
+    "template": "Home",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
