@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{67C68E45-79E3-4BE2-A123-778B9C7DBB8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:25:56.2720084Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculator",
+    "itemPath": "/sitecore/content/Copy of Brilliant Distinction/Modules/Calculator",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

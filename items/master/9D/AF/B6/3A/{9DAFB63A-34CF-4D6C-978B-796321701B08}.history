@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{9DAFB63A-34CF-4D6C-978B-796321701B08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:25:56.2640087Z",
+    "label": "Copied",
+    "workflowState": "{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Copy of Brilliant Distinction/Home",
+    "template": "Home",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{3B393DFC-DA0C-490F-8348-827A6FE27F13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:25:56.2710077Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register",
+    "itemPath": "/sitecore/content/Copy of Brilliant Distinction/Home/Register",
+    "template": "Register Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

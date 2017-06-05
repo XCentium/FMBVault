@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{F40E6EE7-0863-4D51-9C5A-10C34578C106}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:25:56.2690085Z",
+    "label": "Copied",
+    "workflowState": "{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Us",
+    "itemPath": "/sitecore/content/Copy of Brilliant Distinction/Home/Contact Us",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,14 +1,14 @@
 ----item----
 version: 1
-id: {19EAFF41-FE17-4750-926E-C7607E4F1D2E}
+id: {9DAFB63A-34CF-4D6C-978B-796321701B08}
 database: master
-path: /sitecore/content/FMB/Home
-parent: {13A3CCB7-FC6C-469C-8C7B-274FAD931CDD}
+path: /sitecore/content/Copy of Brilliant Distinction/Home
+parent: {80631026-9592-4B27-8894-70B6D3FC093F}
 name: Home
 master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
 template: {4A8822CC-B418-4452-AB0F-8BB6DF2F2114}
 templatekey: Home
-created: 20170603T004123:636320472833630000
+created: 20170605T172556:636322803561670000
 
 ----field----
 field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
@@ -27,15 +27,8 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 1ef934e5-ccd2-4f4a-89b4-9a46ffcc4d3d
+revision: 9fb8d293-6689-4d1d-bff1-f30705e3a26e
 
-----field----
-field: {1B483E91-D8C4-4D19-BA03-462074B55936}
-name: NavigationTitle
-key: navigationtitle
-content-length: 11
-
-Allergan!!!
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,7 +42,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170603T004123Z
+20170605T172056Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -63,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1ef934e5-ccd2-4f4a-89b4-9a46ffcc4d3d
+9fb8d293-6689-4d1d-bff1-f30705e3a26e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170605T172625Z
+20170605T172056Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

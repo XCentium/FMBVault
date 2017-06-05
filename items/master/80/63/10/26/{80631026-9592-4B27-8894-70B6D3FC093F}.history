@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Copied",
+    "database": "master",
+    "itemId": "{80631026-9592-4B27-8894-70B6D3FC093F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:25:56.2630074Z",
+    "label": "Copied",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copy of Brilliant Distinction",
+    "itemPath": "/sitecore/content/Copy of Brilliant Distinction",
+    "template": "Site Root",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
