@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2170A281-DFA6-48DA-B336-BD6F4742BBB8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:36:57.8640607Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Page",
+    "itemPath": "/sitecore/templates/Project/Allergan/Page Types/Home Page",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
