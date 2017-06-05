@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {234B3008-22B4-4A40-AA8B-BD80C7F8FC19}
+database: master
+path: /sitecore/content/Allergan/Home/Contact Us
+parent: {3BDBF866-043A-49B6-9181-787BD0590266}
+name: Contact Us
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {832D5183-326A-4373-AD35-3334994FC3CA}
+templatekey: Article
+created: 20170605T174150:636322813104900000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{2542548F-A67B-4781-A1C4-BC133658105D}

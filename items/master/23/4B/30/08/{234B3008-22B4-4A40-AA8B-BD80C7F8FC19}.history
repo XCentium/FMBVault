@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{234B3008-22B4-4A40-AA8B-BD80C7F8FC19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:41:50.5287078Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Us",
+    "itemPath": "/sitecore/content/Allergan/Home/Contact Us",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
