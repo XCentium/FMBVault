@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {D24D1BDF-E833-4D6E-BE30-58A4E02A4975}
+database: master
+path: /sitecore/content/Allergan/Modules
+parent: {920EA14E-21E1-4441-A8CD-7EF0B0ECB5B3}
+name: Modules
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+created: 20170605T174150:636322813107770000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{5A37B603-13F9-43A3-BD48-AF299553CF32}
