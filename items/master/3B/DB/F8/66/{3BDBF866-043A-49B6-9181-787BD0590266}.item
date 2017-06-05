@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {3BDBF866-043A-49B6-9181-787BD0590266}
+database: master
+path: /sitecore/content/Allergan/Home
+parent: {920EA14E-21E1-4441-A8CD-7EF0B0ECB5B3}
+name: Home
+master: {9256DCA5-00AB-4448-8516-E7C3FCC85F38}
+template: {4A8822CC-B418-4452-AB0F-8BB6DF2F2114}
+templatekey: Home
+created: 20170605T174150:636322813100230000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{F55DE497-5BFB-4DCF-A82B-779D0F310D95}
