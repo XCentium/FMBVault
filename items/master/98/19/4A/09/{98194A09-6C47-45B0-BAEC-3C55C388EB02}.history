@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{98194A09-6C47-45B0-BAEC-3C55C388EB02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:38:16.1725594Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Project/Allergan/Page Types/Home Page/__Standard Values",
+    "template": "Home Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
