@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9FBA5F94-760D-413F-B283-1E0B254327C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-05T17:21:37.0245312Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "News List",
+    "itemPath": "/sitecore/templates/Branches/User Defined/Site Root/$name/Home/News List",
+    "template": "News List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
