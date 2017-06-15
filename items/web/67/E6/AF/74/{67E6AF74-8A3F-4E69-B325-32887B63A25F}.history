@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{67E6AF74-8A3F-4E69-B325-32887B63A25F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-15T20:27:48.7256439Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sites",
+    "itemPath": "/sitecore/system/Sites",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
