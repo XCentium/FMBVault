@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{288FD8A3-F445-47E2-97B7-C95423C615FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-06-15T20:27:50.0613671Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site link",
+    "itemPath": "/sitecore/templates/Branches/System/Site branches/Site link",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
