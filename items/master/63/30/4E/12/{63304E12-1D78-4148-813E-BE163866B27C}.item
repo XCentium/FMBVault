@@ -2,9 +2,9 @@
 version: 1
 id: {63304E12-1D78-4148-813E-BE163866B27C}
 database: master
-path: /sitecore/system/Workflows/FMB Standard Workflow/Approved
+path: /sitecore/system/Workflows/FMB Standard Workflow/Published
 parent: {AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
-name: Approved
+name: Published
 master: {00000000-0000-0000-0000-000000000000}
 template: {4B7E2DA9-DE43-4C83-88C3-02F042031D04}
 templatekey: State
@@ -41,7 +41,7 @@ ar|fmb\FMB Compliance|pe|-workflowCommand:execute|pd|-workflowCommand:execute|ar
 ----version----
 language: en
 version: 1
-revision: 6fd5db4c-a39d-4f91-be8f-0d2715172815
+revision: e53151dd-fa82-4a66-9bf1-bf0e8e74a4bc
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -70,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6fd5db4c-a39d-4f91-be8f-0d2715172815
+e53151dd-fa82-4a66-9bf1-bf0e8e74a4bc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170313T223727Z
+20170721T193247Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

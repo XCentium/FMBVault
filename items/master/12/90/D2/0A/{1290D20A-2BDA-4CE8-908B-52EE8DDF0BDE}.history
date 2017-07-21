@@ -146,9 +146,28 @@
     "itemName": "Awaiting Publish",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Publish",
     "template": "State",
-    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sourceControlRevisionId": "9ba6c201c67e3fbf6db864ab2b26edf71648500d",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{1290D20A-2BDA-4CE8-908B-52EE8DDF0BDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-21T19:32:28.6277779Z",
+    "label": "Renamed Awaiting Publish to Approved - Awaiting Publish",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approved - Awaiting Publish",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Approved - Awaiting Publish",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
