@@ -31,6 +31,13 @@ key: seofollowlinks
 content-length: 0
 
 
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{AB1E76B9-6CD2-481A-8D75-33D6743CDA94}
 ----version----
 language: en
 version: 1
@@ -109,7 +116,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: 260e3400-7355-4fba-ac38-af6588922559
+revision: 0f119cd7-12f0-438a-b8d9-28fe2ace7db5
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -180,14 +187,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-260e3400-7355-4fba-ac38-af6588922559
+0f119cd7-12f0-438a-b8d9-28fe2ace7db5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170721T193337Z
+20170721T193338Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -195,6 +202,13 @@ key: __updated by
 content-length: 13
 
 fmb\qa_author
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{9E4D9A3F-CBB0-4D3C-A082-179DCE55020D}
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
