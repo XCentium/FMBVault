@@ -146,9 +146,28 @@
     "itemName": "Awaiting Compliance Approval",
     "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Awaiting Compliance Approval",
     "template": "State",
-    "sourceControlRevisionId": "c94a4048a356c673ec74fe64de78794a7dc62dc9",
+    "sourceControlRevisionId": "c609d5419cda9088406f0f18b1a47d1b6dd8d08a",
     "sitecoreVersion": "8.2.160729",
     "vaultVersion": "1.2.1",
     "deploymentId": "9a1eb802-148d-4d2a-a417-9f53fc54410d"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{91263EC3-7020-4573-AAF5-6C953F0D651F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-21T19:32:15.4961288Z",
+    "label": "Renamed Awaiting Compliance Approval to Approved - Awaiting Compliance Approval",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approved - Awaiting Compliance Approval",
+    "itemPath": "/sitecore/system/Workflows/FMB Standard Workflow/Approved - Awaiting Compliance Approval",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
