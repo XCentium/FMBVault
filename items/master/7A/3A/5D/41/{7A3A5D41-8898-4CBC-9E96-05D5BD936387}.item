@@ -624,7 +624,7 @@ content-length: 5
 ----version----
 language: en
 version: 7
-revision: d924349d-4744-46a8-8ab4-8df0dd4ef4a9
+revision: 59845f19-9e79-49f1-a91a-bcd2134dc5d6
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -702,28 +702,28 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d924349d-4744-46a8-8ab4-8df0dd4ef4a9
+59845f19-9e79-49f1-a91a-bcd2134dc5d6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170721T192223Z
+20170721T192325Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 16
 
-fmb\qa_author
+fmb\qa_moderator
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
 key: __workflow state
 content-length: 38
 
-{6B411869-BA39-4497-9A7F-CB25E13BEBF0}
+{91263EC3-7020-4573-AAF5-6C953F0D651F}
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
